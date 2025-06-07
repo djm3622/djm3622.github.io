@@ -19,7 +19,6 @@ permalink: /about/
   margin: 28px 0 0 0;
   max-width: 900px;
   padding-bottom: 20px;
-  border-bottom: 1.5px solid #23272f22;
 }
 
 .about-photo {
@@ -62,7 +61,6 @@ permalink: /about/
 }
 </style>
 
----
 <div class="about-container">
 
   <img class="about-photo"

@@ -13,14 +13,23 @@ permalink: /publications/
     margin-bottom: 36px;
   }
   .pub-image {
-    flex: 0 0 120px;
-    max-width: 120px;
-    object-fit: cover;
-  }
+  flex: 0 0 auto;
+  width: 100%;
+  max-width: 120px;
+  height: auto;
+  object-fit: cover;
+  border: 1px solid #2a2a2a;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
   .pub-details {
-    flex: 1 1 300px;
+    flex: 1 1 400px;
     min-width: 0;
   }
+  .pub-details strong {
+  color: #337ecc;
+  font-weight: 600;
+}
   .pub-title {
     font-weight: bold;
     margin: 0 0 0.2em 0;
@@ -43,15 +52,23 @@ permalink: /publications/
     text-decoration: underline;
   }
   @media (max-width: 600px) {
-    .pub-entry-flex { flex-direction: column; gap: 12px;}
-    .pub-image { max-width: 100%; }
+  .pub-entry-flex {
+    flex-direction: row;
+    gap: 16px;
+    align-items: flex-start;
   }
+
+  .pub-image {
+    max-width: 200px;
+  }
+
+  .pub-details {
+    flex: 1 1 auto;
+  }
+}
 </style>
 
----
-<br>
-
-## Publications & Proceedings
+<h2 style="margin: 48px 0 24px;">Publications & Proceedings</h2>
 
 <div class="pub-entry-flex">
   <img class="pub-image" src="{{ '/assets/images/ams2025.png' | relative_url }}" alt="Deep Ritz" />
@@ -60,7 +77,7 @@ permalink: /publications/
       Anton Selitskiy, <strong>David Millard</strong>
     </div>
     <div class="pub-meta">
-      <em>Deep Ritz Method for Elliptic Differential-Difference Equations.</em><br>
+      <em>Deep Ritz Method for Elliptic Differential-Difference Equations</em><br>
       Proceedings of the AMS Spring Eastern Sectional Meeting, 2025.
     </div>
     <div class="pub-links">
@@ -78,7 +95,7 @@ permalink: /publications/
       <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault
     </div>
     <div class="pub-meta">
-      <em>Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics.</em><br>
+      <em>Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics</em><br>
       Proceedings of the 2024 IEEE International Conference on Big Data.
     </div>
     <div class="pub-links">
@@ -95,7 +112,7 @@ permalink: /publications/
       <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault
     </div>
     <div class="pub-meta">
-      <em>Data-Driven Initial Guess Selection for Numerical Weather Prediction Solvers.</em><br>
+      <em>Data-Driven Initial Guess Selection for Numerical Weather Prediction Solvers</em><br>
       Proceedings of the 2024 IEEE International Conference on Big Data.
     </div>
     <div class="pub-links">
@@ -106,11 +123,7 @@ permalink: /publications/
 </div>
 
 
----
-
-<br>
-
-## Preprints
+<h2 style="margin: 48px 0 24px;">Preprints</h2>
 
 <div class="pub-entry-flex">
   <img class="pub-image" src="{{ '/assets/images/pearl2025.png' | relative_url }}" alt="PEARL: Preconditioner Enhancement" />
@@ -119,7 +132,7 @@ permalink: /publications/
       <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
     </div>
     <div class="pub-meta">
-      <em>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning.</em><br>
+      <em>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</em><br>
       Preprint.
     </div>
     <div class="pub-links">
@@ -127,4 +140,3 @@ permalink: /publications/
     </div>
   </div>
 </div>
----
