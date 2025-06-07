@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   portfolio site for not-davidmill
 domain: djm3622.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://djm3622.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /djm3622.github.io/      # place folder name if the site is served in a subfolder
 github_username:  djm3622
 
 # Build settings
