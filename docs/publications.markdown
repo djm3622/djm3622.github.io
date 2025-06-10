@@ -82,7 +82,6 @@ permalink: /publications/
     </div>
     <div class="pub-links">
       <!-- Add actual links as needed -->
-      <a href="#" target="_blank">[arXiv]</a>
       <a href="https://meetings.ams.org/math/spring2025e/meetingapp.cgi/Paper/47716" target="_blank">[Conference]</a>
     </div>
   </div>
@@ -116,7 +115,6 @@ permalink: /publications/
       Proceedings of the 2024 IEEE International Conference on Big Data.
     </div>
     <div class="pub-links">
-      <a href="#" target="_blank">[arXiv]</a>
       <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825862/23yl9opa000" target="_blank">[IEEE Xplore]</a>
     </div>
   </div>
@@ -137,6 +135,22 @@ permalink: /publications/
     </div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2501.10750" target="_blank">[arXiv]</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="{{ '/assets/images/pearl2025.png' | relative_url }}" alt="DEF: Diffusion-augmented" />
+  <div class="pub-details">
+    <div class="pub-title">
+      <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
+    </div>
+    <div class="pub-meta">
+      <em>DEF: Diffusion-augmented Ensemble Forecasting</em><br>
+      Preprint.
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2506.07324" target="_blank">[arXiv]</a>
     </div>
   </div>
 </div>
