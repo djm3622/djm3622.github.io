@@ -69,10 +69,10 @@ permalink: /about/
 
   <div class="about-content">
     <p>
-      Hello! I'm <strong>David Millard</strong>, a Ph.D. student in Mechanical and Industrial Engineering at the Rochester Institute of Technology (<strong>RIT</strong>), working in probabilistic machine learning, reinforcement learning, and physics-informed neural networks. I am currently a member of the <strong>Safe AI Lab (SAIL)</strong>, advised by Ali Baheri.
+      Hello! I'm <strong>David Millard</strong>, a Ph.D. student in Mechanical and Industrial Engineering at the Rochester Institute of Technology (<strong>RIT</strong>), working in probabilistic machine learning, reinforcement learning, and physics-informed neural networks. I am currently a member of the <strong>Safe AI Lab (SAIL)</strong>, advised by <a href="https://alibaheri.github.io/">Dr. Ali Baheri</a>.
     </p>
     <p>
-      I also attended <strong>RIT</strong> for my undergraduate, where I earned a BS <strong>Computer Science</strong> and <strong>Statistics</strong>. During my time in undergraduate I collaborated with various labs: Dr. Arielle Carr at Lehigh University, Stéphane Gaudreault at Environment and Climate Change Canada, and SAIL with Ali Baheri.
+      I also attended <strong>RIT</strong> for my undergraduate, where I earned a BS <strong>Computer Science</strong> and <strong>Statistics</strong>. During my time in undergraduate I collaborated with various labs: Dr. Arielle Carr at Lehigh University, Stéphane Gaudreault at Environment and Climate Change Canada, and SAIL with Dr. Ali Baheri.
     </p>
     <p>
       Outside of academic work, I enjoy spending time with my animals, Didly and Buck, and staying active. For collaborations or inquiries, contact me @ <a href="mailto:djm3622@rit.edu">djm3622@rit.edu</a>.

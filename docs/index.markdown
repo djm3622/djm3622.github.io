@@ -10,7 +10,7 @@ title: "Home"
 <br><br>
 
 My interests are probabilistic ML, reinforcement learning, physics-informed neural networks, and neural operators. 
-Browse my <a href="/publications/">publications</a> and get to know my <a href="/about/">background</a>.  
+Browse my <a href="/publications/">work</a> and get to know my <a href="/about/">background</a>.  
 
 <br>
 

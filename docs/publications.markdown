@@ -140,7 +140,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/pearl2025.png' | relative_url }}" alt="DEF: Diffusion-augmented" />
+  <img class="pub-image" src="{{ '/assets/images/Specific Humidity H600_Ensemble_Spread.gif' | relative_url }}" alt="DEF: Diffusion-augmented" />
   <div class="pub-details">
     <div class="pub-title">
       <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
