@@ -154,3 +154,19 @@ permalink: /publications/
     </div>
   </div>
 </div>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="{{ '/assets/images/trajectory_instance_0.gif' | relative_url }}" alt="Split Conformal Prediction in the Function Space with Neural Operators" />
+  <div class="pub-details">
+    <div class="pub-title">
+      <strong>David Millard</strong>, Lars Lindemann, Ali Baheri
+    </div>
+    <div class="pub-meta">
+      <em>Split Conformal Prediction in the Function Space with Neural Operators</em><br>
+      Preprint.
+    </div>
+    <div class="pub-links">
+      <a href="https://www.arxiv.org/abs/2509.04623" target="_blank">[arXiv]</a>
+    </div>
+  </div>
+</div>
