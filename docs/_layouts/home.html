@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <section class="home-updates" aria-labelledby="updates-heading">
+      <div class="modern-section-heading">
+        <h2 id="updates-heading">Latest updates</h2>
+        <span>Research, talks, and collaborations</span>
+      </div>
+
+      <ul class="modern-post-list">
+        {%- for post in site.posts -%}
+          <li>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </section>
+  {%- endif -%}
+</div>

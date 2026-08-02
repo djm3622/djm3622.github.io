@@ -18,13 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: notdavidmill
-email: djm3622@rit.edu
+title: David Millard
+email: david.millard@rochester.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  portfolio site for not-davidmill
+  Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.
 domain: djm3622.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://djm3622.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 github_username:  djm3622
+
+header_pages:
+  - index.markdown
+  - about.markdown
+  - publications.markdown
+  - presentations.markdown
 
 # Build settings
 theme: minima

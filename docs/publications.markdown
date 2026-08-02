@@ -5,70 +5,195 @@ permalink: /publications/
 ---
 
 <style>
+  .research-section-title {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 34px 0 18px;
+    color: var(--site-heading);
+    font-size: 1.3rem;
+    letter-spacing: -0.01em;
+  }
+
+  .research-section-title::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--site-border);
+  }
+
   .pub-entry-flex {
     display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    gap: 24px;
-    margin-bottom: 36px;
+    align-items: center;
+    gap: 22px;
+    margin-bottom: 14px;
+    padding: 18px;
+    background: var(--site-surface);
+    border: 1px solid var(--site-border);
+    border-radius: 14px;
+    box-shadow: 0 3px 14px var(--site-shadow);
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
   }
+
+  .pub-entry-flex:hover {
+    border-color: var(--site-border-strong);
+    box-shadow: 0 8px 22px var(--site-shadow);
+    transform: translateY(-2px);
+  }
+
   .pub-image {
-  flex: 0 0 auto;
-  width: 100%;
-  max-width: 120px;
-  height: auto;
-  object-fit: cover;
-  border: 1px solid #2a2a2a;
-  border-radius: 4px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-}
+    display: block;
+    flex: 0 0 152px;
+    width: 152px;
+    height: 118px;
+    box-sizing: border-box;
+    image-rendering: auto;
+    object-fit: contain;
+    object-position: center;
+    padding: 8px;
+    background: var(--site-surface-soft);
+    border: 1px solid var(--site-border);
+    border-radius: 12px;
+    box-shadow: 0 3px 12px var(--site-shadow);
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 200ms ease;
+  }
+
+  .pub-entry-flex:hover .pub-image {
+    border-color: var(--site-border-strong);
+    box-shadow: 0 5px 16px var(--site-shadow);
+    transform: scale(1.015);
+  }
+
   .pub-details {
-    flex: 1 1 400px;
+    flex: 1;
     min-width: 0;
   }
+
   .pub-details strong {
-  color: #337ecc;
-  font-weight: 600;
-}
+    color: var(--site-accent);
+    font-weight: 650;
+  }
+
   .pub-title {
-    font-weight: bold;
-    margin: 0 0 0.2em 0;
+    margin: 0 0 7px;
+    color: var(--site-muted);
+    font-size: 0.9rem;
   }
+
   .pub-meta {
-    font-size: 0.98em;
-    color: #aaa;
-    margin-bottom: 0.25em;
+    margin-bottom: 0;
+    color: var(--site-muted);
+    font-size: 0.92rem;
+    line-height: 1.55;
   }
+
+  .pub-meta em {
+    display: block;
+    margin-bottom: 2px;
+    color: var(--site-heading);
+    font-size: 1.05rem;
+    font-style: normal;
+    font-weight: 650;
+    line-height: 1.4;
+  }
+
   .pub-links {
-    margin-top: 0.15em;
-    font-size: 0.98em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
   }
+
   .pub-links a {
-    margin-right: 12px;
-    color: #4080ff;
+    padding: 5px 10px;
+    background: var(--site-surface-soft);
+    border: 1px solid var(--site-border-strong);
+    border-radius: 999px;
+    color: var(--site-accent-strong);
+    font-size: 0.82rem;
+    font-weight: 600;
     text-decoration: none;
   }
+
   .pub-links a:hover {
-    text-decoration: underline;
-  }
-  @media (max-width: 600px) {
-  .pub-entry-flex {
-    flex-direction: row;
-    gap: 16px;
-    align-items: flex-start;
+    background: var(--site-accent-soft);
+    border-color: var(--site-accent);
   }
 
-  .pub-image {
-    max-width: 200px;
-  }
+  @media (max-width: 650px) {
+    .research-section-title {
+      margin-top: 26px;
+    }
 
-  .pub-details {
-    flex: 1 1 auto;
+    .pub-entry-flex {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 16px;
+      padding: 15px;
+    }
+
+    .pub-image {
+      flex-basis: auto;
+      width: 100%;
+      height: clamp(170px, 46vw, 220px);
+      max-height: none;
+      padding: 10px;
+    }
   }
-}
 </style>
 
-<h2 style="margin: 48px 0 24px;">Publications & Proceedings</h2>
+<h2 class="research-section-title">Publications &amp; Proceedings</h2>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="{{ '/assets/images/policy_3_flat.png' | relative_url }}" alt="Local, mean, and barycenter policies" />
+  <div class="pub-details">
+    <div class="pub-title">
+      <strong>David Millard</strong>, Ali Baheri
+    </div>
+    <div class="pub-meta">
+      <em>Can Optimal Transport Improve Federated Inverse Reinforcement Learning?</em><br>
+      Proceedings of the 8th Annual Learning for Dynamics and Control Conference, PMLR 331:1939&ndash;1953, 2026.
+    </div>
+    <div class="pub-links">
+      <a href="https://proceedings.mlr.press/v331/millard26a.html" target="_blank">Proceedings</a>
+      <a href="https://arxiv.org/abs/2601.00309" target="_blank">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="{{ '/assets/images/trajectory_instance_0.gif' | relative_url }}" alt="Split conformal prediction in function space" />
+  <div class="pub-details">
+    <div class="pub-title">
+      <strong>David Millard</strong>, Lars Lindemann, Ali Baheri
+    </div>
+    <div class="pub-meta">
+      <em>Split Conformal Prediction in the Function Space via Neural Operator Learning</em><br>
+      ICLR 2026 Workshop on AI and Partial Differential Equations.
+    </div>
+    <div class="pub-links">
+      <a href="https://openreview.net/forum?id=0twOHJg60V" target="_blank">OpenReview</a>
+      <a href="https://arxiv.org/abs/2509.04623" target="_blank">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="{{ '/assets/images/pearl2025.png' | relative_url }}" alt="PEARL: Preconditioner Enhancement" />
+  <div class="pub-details">
+    <div class="pub-title">
+      <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
+    </div>
+    <div class="pub-meta">
+      <em>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</em><br>
+      2026 Joint Mathematics Meetings, SIAM Minisymposium on Recent Advances in Numerical Linear Algebra.
+    </div>
+    <div class="pub-links">
+      <a href="https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/57268" target="_blank">Conference</a>
+      <a href="https://arxiv.org/abs/2501.10750" target="_blank">arXiv</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-entry-flex">
   <img class="pub-image" src="{{ '/assets/images/ams2025.png' | relative_url }}" alt="Deep Ritz" />
@@ -81,8 +206,7 @@ permalink: /publications/
       Proceedings of the AMS Spring Eastern Sectional Meeting, 2025.
     </div>
     <div class="pub-links">
-      <!-- Add actual links as needed -->
-      <a href="https://meetings.ams.org/math/spring2025e/meetingapp.cgi/Paper/47716" target="_blank">[Conference]</a>
+      <a href="https://meetings.ams.org/math/spring2025e/meetingapp.cgi/Paper/47716" target="_blank">Conference</a>
     </div>
   </div>
 </div>
@@ -98,8 +222,8 @@ permalink: /publications/
       Proceedings of the 2024 IEEE International Conference on Big Data.
     </div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2409.06522" target="_blank">[arXiv]</a>
-      <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825166/23ykzuKFTaw" target="_blank">[IEEE Xplore]</a>
+      <a href="https://arxiv.org/abs/2409.06522" target="_blank">arXiv</a>
+      <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825166/23ykzuKFTaw" target="_blank">IEEE Xplore</a>
     </div>
   </div>
 </div>
@@ -115,26 +239,26 @@ permalink: /publications/
       Proceedings of the 2024 IEEE International Conference on Big Data.
     </div>
     <div class="pub-links">
-      <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825862/23yl9opa000" target="_blank">[IEEE Xplore]</a>
+      <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825862/23yl9opa000" target="_blank">IEEE Xplore</a>
     </div>
   </div>
 </div>
 
 
-<h2 style="margin: 48px 0 24px;">Preprints</h2>
+<h2 class="research-section-title">Articles</h2>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/pearl2025.png' | relative_url }}" alt="PEARL: Preconditioner Enhancement" />
+  <img class="pub-image" src="{{ '/assets/images/panel3_risk_barycenter.png' | relative_url }}" alt="FedAvg and risk-weighted barycenter distributions" />
   <div class="pub-details">
     <div class="pub-title">
-      <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
+      <strong>David Millard</strong>, Cecilia Alm, Rashid Ali, Pengcheng Shi, Ali Baheri
     </div>
     <div class="pub-meta">
-      <em>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</em><br>
+      <em>Federated Distributional Reinforcement Learning with Distributional Critic Regularization</em><br>
       Preprint.
     </div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2501.10750" target="_blank">[arXiv]</a>
+      <a href="https://arxiv.org/abs/2603.17820" target="_blank">arXiv</a>
     </div>
   </div>
 </div>
@@ -150,23 +274,7 @@ permalink: /publications/
       Preprint.
     </div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2506.07324" target="_blank">[arXiv]</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/trajectory_instance_0.gif' | relative_url }}" alt="Split Conformal Prediction in the Function Space with Neural Operators" />
-  <div class="pub-details">
-    <div class="pub-title">
-      <strong>David Millard</strong>, Lars Lindemann, Ali Baheri
-    </div>
-    <div class="pub-meta">
-      <em>Split Conformal Prediction in the Function Space with Neural Operators</em><br>
-      Preprint.
-    </div>
-    <div class="pub-links">
-      <a href="https://www.arxiv.org/abs/2509.04623" target="_blank">[arXiv]</a>
+      <a href="https://arxiv.org/abs/2506.07324" target="_blank">arXiv</a>
     </div>
   </div>
 </div>

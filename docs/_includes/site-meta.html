@@ -1,0 +1,29 @@
+{%- assign metadata_page_title = page.title | default: "Home" -%}
+{%- assign metadata_title = site.title | append: " - " | append: metadata_page_title -%}
+{%- assign metadata_description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 -%}
+{%- assign metadata_url = page.url | absolute_url -%}
+<title>{{ metadata_title | escape }}</title>
+<meta name="description" content="{{ metadata_description | escape }}">
+<link rel="canonical" href="{{ metadata_url }}">
+<meta property="og:title" content="{{ metadata_title | escape }}">
+<meta property="og:description" content="{{ metadata_description | escape }}">
+<meta property="og:url" content="{{ metadata_url }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+{%- if page.layout == 'post' %}
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+{%- endif %}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ metadata_title | escape }}">
+<meta name="twitter:description" content="{{ metadata_description | escape }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if page.layout == 'post' %}BlogPosting{% else %}WebPage{% endif %}",
+  "name": {{ metadata_title | jsonify }},
+  "headline": {{ metadata_page_title | jsonify }},
+  "description": {{ metadata_description | jsonify }},
+  "url": {{ metadata_url | jsonify }}
+}
+</script>

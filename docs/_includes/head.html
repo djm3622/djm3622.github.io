@@ -1,32 +1,11 @@
-<!DOCTYPE html>
-<html lang="en"><head>
+<head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><title>David Millard - Page Not Found</title>
-<meta name="description" content="Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.">
-<link rel="canonical" href="https://djm3622.github.io/404.html">
-<meta property="og:title" content="David Millard - Page Not Found">
-<meta property="og:description" content="Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.">
-<meta property="og:url" content="https://djm3622.github.io/404.html">
-<meta property="og:site_name" content="David Millard">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="David Millard - Page Not Found">
-<meta name="twitter:description" content="Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "David Millard - Page Not Found",
-  "headline": "Page Not Found",
-  "description": "Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.",
-  "url": "https://djm3622.github.io/404.html"
-}
-</script>
-<link rel="stylesheet" href="/assets/main.css">
-  <link rel="icon" href="/assets/images/favicon-waveform.png" type="image/png" sizes="64x64">
-  <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png" sizes="180x180">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- include site-meta.html -%}
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/images/favicon-waveform.png' | relative_url }}" type="image/png" sizes="64x64">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}" sizes="180x180">
   <script>
     (function () {
       try {
@@ -377,143 +356,9 @@
         transition-duration: 0.01ms !important;
       }
     }
-  </style><link type="application/atom+xml" rel="alternate" href="https://djm3622.github.io/feed.xml" title="David Millard" /></head>
-<body><header class="site-header" role="banner">
-  <div class="wrapper"><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484S0.665,0,1.484,0h15.032C17.335,0,18,0.665,18,1.484zM18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516s0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516zM18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516s0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger"><a class="page-link"
-                 href="/"
-                 >Home</a><a class="page-link"
-                 href="/about/"
-                 >About</a><a class="page-link"
-                 href="/publications/"
-                 >Research</a><a class="page-link"
-                 href="/presentations/"
-                 >Presentations</a></div>
-      </nav><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Change color theme" title="Change color theme">◐</button>
-  </div>
-  <script>
-    (function () {
-      var toggle = document.getElementById('theme-toggle');
-      var root = document.documentElement;
-      var systemTheme = window.matchMedia('(prefers-color-scheme: dark)');
-
-      function isDark() {
-        if (root.getAttribute('data-theme')) {
-          return root.getAttribute('data-theme') === 'dark';
-        }
-        return systemTheme.matches;
-      }
-
-      function updateToggle() {
-        var dark = isDark();
-        var action = dark ? 'Switch to light mode' : 'Switch to dark mode';
-        toggle.textContent = dark ? '☀' : '☾';
-        toggle.setAttribute('aria-label', action);
-        toggle.setAttribute('title', action);
-        toggle.setAttribute('aria-pressed', String(dark));
-      }
-
-      toggle.addEventListener('click', function () {
-        var nextTheme = isDark() ? 'light' : 'dark';
-        root.setAttribute('data-theme', nextTheme);
-        try {
-          localStorage.setItem('david-millard-theme', nextTheme);
-        } catch (error) {
-          // The selected theme still applies for the current page.
-        }
-        updateToggle();
-      });
-
-      if (typeof systemTheme.addEventListener === 'function') {
-        systemTheme.addEventListener('change', function () {
-          if (!root.getAttribute('data-theme')) updateToggle();
-        });
-      }
-
-      updateToggle();
-    }());
-  </script>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="page-shell">
-  <div class="post-content">
-    <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    padding: 42px 24px;
-    background: linear-gradient(145deg, var(--site-surface-soft) 0%, var(--site-surface) 62%);
-    border: 1px solid var(--site-border);
-    border-radius: 16px;
-    box-shadow: 0 8px 26px var(--site-shadow);
-    text-align: center;
-  }
-
-  .error-code {
-    margin: 0 0 12px;
-    color: var(--site-accent);
-    font-size: clamp(2.5rem, 12vw, 4rem);
-    font-weight: 700;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-
-  .error-title {
-    margin-bottom: 8px;
-    color: var(--site-heading);
-    font-size: 1.25rem;
-  }
-
-  .error-copy {
-    margin-bottom: 20px;
-    color: var(--site-muted);
-  }
-
-  .error-link {
-    display: inline-block;
-    padding: 7px 13px;
-    background: var(--site-accent);
-    border: 1px solid var(--site-accent);
-    border-radius: 999px;
-    color: var(--site-button-text) !important;
-    font-weight: 600;
-  }
-</style>
-
-<div class="container">
-  <p class="error-code">404</p>
-  <p class="error-title"><strong>Page not found</strong></p>
-  <p class="error-copy">The requested page could not be found.</p>
-  <a class="error-link" href="/">Return home</a>
-</div>
-
-  </div>
-</article>
-
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-    <nav class="compact-footer-links" aria-label="Footer links">
-      <a href="https://github.com/djm3622" rel="me noopener" target="_blank">GitHub</a>
-      <a href="https://scholar.google.com/citations?user=LEs7ELgAAAAJ&amp;hl=en" rel="me noopener" target="_blank">Google Scholar</a>
-      <a href="https://www.linkedin.com/in/david-millard-77b214243/" rel="me noopener" target="_blank">LinkedIn</a>
-      <a class="u-email" href="mailto:david.millard@rochester.edu">david.millard@rochester.edu</a>
-      <a href="/assets/davidmillard_resume.pdf" target="_blank">Resume</a>
-    </nav>
-  </div>
-</footer>
-</body>
-
-</html>
+  </style>
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+</head>

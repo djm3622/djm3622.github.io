@@ -2,112 +2,641 @@
 <html lang="en"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Research | notdavidmill</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="Research" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="portfolio site for not-davidmill" />
-<meta property="og:description" content="portfolio site for not-davidmill" />
-<link rel="canonical" href="http://localhost:4000/publications/" />
-<meta property="og:url" content="http://localhost:4000/publications/" />
-<meta property="og:site_name" content="notdavidmill" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Research" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"><title>David Millard - Research</title>
+<meta name="description" content="Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.">
+<link rel="canonical" href="https://djm3622.github.io/publications/">
+<meta property="og:title" content="David Millard - Research">
+<meta property="og:description" content="Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.">
+<meta property="og:url" content="https://djm3622.github.io/publications/">
+<meta property="og:site_name" content="David Millard">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="David Millard - Research">
+<meta name="twitter:description" content="Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"portfolio site for not-davidmill","headline":"Research","url":"http://localhost:4000/publications/"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="notdavidmill" /></head>
-<body><header class="site-header" role="banner">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "David Millard - Research",
+  "headline": "Research",
+  "description": "Research portfolio of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester.",
+  "url": "https://djm3622.github.io/publications/"
+}
+</script>
+<link rel="stylesheet" href="/assets/main.css">
+  <link rel="icon" href="/assets/images/favicon-waveform.png" type="image/png" sizes="64x64">
+  <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png" sizes="180x180">
+  <script>
+    (function () {
+      try {
+        var savedTheme = localStorage.getItem('david-millard-theme');
+        if (savedTheme === 'light' || savedTheme === 'dark') {
+          document.documentElement.setAttribute('data-theme', savedTheme);
+        }
+      } catch (error) {
+        // The system preference remains the fallback when storage is unavailable.
+      }
+    }());
+  </script>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --site-bg: #fdfdfd;
+      --site-surface: #ffffff;
+      --site-surface-soft: #f8fbfa;
+      --site-surface-muted: #eef2f4;
+      --site-hero-start: #f6faf9;
+      --site-hero-end: #ffffff;
+      --site-text: #22272e;
+      --site-heading: #1f2937;
+      --site-muted: #607083;
+      --site-muted-soft: #718096;
+      --site-border: #dce4ec;
+      --site-border-strong: #9bc9c7;
+      --site-accent: #178d8f;
+      --site-accent-strong: #0f7075;
+      --site-accent-soft: #e4f5f3;
+      --site-button-text: #ffffff;
+      --site-shadow: rgba(22, 105, 103, 0.09);
+    }
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/">notdavidmill</a><nav class="site-nav">
+    html,
+    body {
+      margin: 0;
+      background-color: var(--site-bg);
+      color: var(--site-text);
+    }
+
+    .wrapper {
+      max-width: 840px;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--site-heading);
+    }
+
+    a, a:visited {
+      color: var(--site-accent-strong);
+    }
+
+    a:hover {
+      color: var(--site-accent);
+    }
+
+    .site-header,
+    .site-footer {
+      background: var(--site-bg);
+      border-color: var(--site-border);
+    }
+
+    .site-header {
+      min-height: 61px;
+      border-top: 0;
+      border-bottom: 1px solid var(--site-border);
+      box-shadow: none;
+    }
+
+    .site-header .wrapper {
+      position: relative;
+    }
+
+    .site-nav .page-link,
+    .site-nav .page-link:visited {
+      color: var(--site-muted);
+    }
+
+    .site-nav {
+      line-height: 60px;
+    }
+
+    .site-footer {
+      padding: 12px 0;
+    }
+
+    .compact-footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 4px 16px;
+      font-size: 0.82rem;
+      line-height: 1.4;
+    }
+
+    .compact-footer-links a {
+      color: var(--site-muted);
+      white-space: nowrap;
+    }
+
+    .compact-footer-links a:hover {
+      color: var(--site-accent);
+      text-decoration: none;
+    }
+
+    .site-nav .page-link.active {
+      color: var(--site-accent);
+      font-weight: 650;
+    }
+
+    .theme-toggle {
+      display: inline-grid;
+      float: right;
+      width: 32px;
+      height: 32px;
+      margin: 14px 0 0;
+      padding: 0;
+      place-items: center;
+      appearance: none;
+      background: transparent;
+      border: 0;
+      border-radius: 50%;
+      color: var(--site-muted);
+      cursor: pointer;
+      font: inherit;
+      font-size: 1.15rem;
+      line-height: 1;
+      vertical-align: middle;
+      transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
+    }
+
+    .theme-toggle:hover {
+      background: var(--site-surface-soft);
+      color: var(--site-accent);
+      transform: rotate(6deg);
+    }
+
+    @media screen and (min-width: 601px) {
+      .site-nav {
+        float: left;
+      }
+
+      .site-nav .page-link {
+        box-sizing: border-box;
+        display: inline-block;
+        padding: 19px 3px 16px;
+        border-bottom: 3px solid transparent;
+        color: var(--site-muted);
+        font-weight: 500;
+        line-height: 1.4;
+        transition: border-color 160ms ease, color 160ms ease;
+      }
+
+      .site-nav .page-link:hover {
+        color: var(--site-accent);
+        text-decoration: none;
+      }
+
+      .site-nav .page-link.active {
+        border-bottom-color: var(--site-accent);
+        color: var(--site-accent);
+        font-weight: 650;
+      }
+    }
+
+    .page-shell {
+      padding-top: 18px;
+    }
+
+    .post-content p,
+    .post-content li {
+      line-height: 1.7;
+    }
+
+    blockquote {
+      color: var(--site-muted);
+      border-left-color: var(--site-border);
+    }
+
+    .post-meta,
+    figcaption {
+      color: var(--site-muted-soft);
+    }
+
+    table {
+      color: var(--site-text);
+      border-color: var(--site-border);
+    }
+
+    table tr:nth-child(even),
+    table th {
+      background-color: var(--site-surface-soft);
+    }
+
+    table th,
+    table td {
+      border-color: var(--site-border);
+    }
+
+    pre, code, .highlighter-rouge .highlight {
+      background: var(--site-surface-muted);
+      border-color: var(--site-border);
+    }
+
+    :focus-visible {
+      outline: 3px solid var(--site-accent);
+      outline-offset: 3px;
+    }
+
+    :root[data-theme="dark"] {
+      color-scheme: dark;
+      --site-bg: #101418;
+      --site-surface: #171d23;
+      --site-surface-soft: #181f22;
+      --site-surface-muted: #20282d;
+      --site-hero-start: #161f21;
+      --site-hero-end: #141a20;
+      --site-text: #d8e1ea;
+      --site-heading: #f1f5f9;
+      --site-muted: #a8b5c3;
+      --site-muted-soft: #93a4b5;
+      --site-border: #303b47;
+      --site-border-strong: #477976;
+      --site-accent: #58c9bd;
+      --site-accent-strong: #83ddd4;
+      --site-accent-soft: #183c39;
+      --site-button-text: #0d1822;
+      --site-shadow: rgba(0, 0, 0, 0.3);
+    }
+
+    :root[data-theme="light"] {
+      color-scheme: light;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme]) {
+        --site-bg: #101418;
+        --site-surface: #171d23;
+        --site-surface-soft: #181f22;
+        --site-surface-muted: #20282d;
+        --site-hero-start: #161f21;
+        --site-hero-end: #141a20;
+        --site-text: #d8e1ea;
+        --site-heading: #f1f5f9;
+        --site-muted: #a8b5c3;
+        --site-muted-soft: #93a4b5;
+        --site-border: #303b47;
+        --site-border-strong: #477976;
+        --site-accent: #58c9bd;
+        --site-accent-strong: #83ddd4;
+        --site-accent-soft: #183c39;
+        --site-button-text: #0d1822;
+        --site-shadow: rgba(0, 0, 0, 0.3);
+      }
+    }
+
+    .site-nav .menu-icon > svg {
+      fill: var(--site-heading);
+    }
+
+    :root[data-theme="dark"] .highlight {
+      background: var(--site-surface);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme]) .highlight {
+        background: var(--site-surface);
+      }
+    }
+
+    @media screen and (max-width: 600px) {
+      .site-header {
+        min-height: 49px;
+      }
+
+      .wrapper {
+        box-sizing: border-box;
+        max-width: none;
+        padding-right: calc(18px + env(safe-area-inset-right));
+        padding-left: calc(18px + env(safe-area-inset-left));
+      }
+
+      .page-content {
+        padding: 18px 0 24px;
+      }
+
+      .page-shell {
+        padding-top: 4px;
+      }
+
+      .site-nav {
+        top: 6px;
+        right: calc(58px + env(safe-area-inset-right));
+        z-index: 10;
+        line-height: 1.4;
+        background: transparent;
+        border: 0;
+        box-shadow: none;
+      }
+
+      .site-nav .trigger {
+        position: absolute;
+        top: 41px;
+        right: 0;
+        min-width: 142px;
+        padding: 6px;
+        background: var(--site-surface);
+        border: 1px solid var(--site-border);
+        border-radius: 12px;
+        box-shadow: 0 10px 28px var(--site-shadow);
+        text-align: left;
+      }
+
+      .site-nav input:checked ~ .trigger {
+        padding: 6px;
+      }
+
+      .site-nav .page-link {
+        margin: 0;
+        padding: 7px 10px;
+        border-radius: 8px;
+        font-size: 0.92rem;
+        line-height: 1.35;
+      }
+
+      .site-nav .page-link:hover,
+      .site-nav .page-link.active {
+        background: var(--site-accent-soft);
+        color: var(--site-accent);
+        text-decoration: none;
+      }
+
+      .theme-toggle {
+        position: absolute;
+        top: 8px;
+        right: calc(18px + env(safe-area-inset-right));
+        float: none;
+        width: 32px;
+        height: 32px;
+        margin: 0;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        scroll-behavior: auto !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style><link type="application/atom+xml" rel="alternate" href="https://djm3622.github.io/feed.xml" title="David Millard" /></head>
+<body><header class="site-header" role="banner">
+  <div class="wrapper"><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484S0.665,0,1.484,0h15.032C17.335,0,18,0.665,18,1.484zM18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516s0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516zM18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516s0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516z"/>
             </svg>
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/">Home</a><a class="page-link" href="/publications/">Research</a></div>
-      </nav></div>
+        <div class="trigger"><a class="page-link"
+                 href="/"
+                 >Home</a><a class="page-link"
+                 href="/about/"
+                 >About</a><a class="page-link active"
+                 href="/publications/"
+                 aria-current="page">Research</a><a class="page-link"
+                 href="/presentations/"
+                 >Presentations</a></div>
+      </nav><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Change color theme" title="Change color theme">◐</button>
+  </div>
+  <script>
+    (function () {
+      var toggle = document.getElementById('theme-toggle');
+      var root = document.documentElement;
+      var systemTheme = window.matchMedia('(prefers-color-scheme: dark)');
+
+      function isDark() {
+        if (root.getAttribute('data-theme')) {
+          return root.getAttribute('data-theme') === 'dark';
+        }
+        return systemTheme.matches;
+      }
+
+      function updateToggle() {
+        var dark = isDark();
+        var action = dark ? 'Switch to light mode' : 'Switch to dark mode';
+        toggle.textContent = dark ? '☀' : '☾';
+        toggle.setAttribute('aria-label', action);
+        toggle.setAttribute('title', action);
+        toggle.setAttribute('aria-pressed', String(dark));
+      }
+
+      toggle.addEventListener('click', function () {
+        var nextTheme = isDark() ? 'light' : 'dark';
+        root.setAttribute('data-theme', nextTheme);
+        try {
+          localStorage.setItem('david-millard-theme', nextTheme);
+        } catch (error) {
+          // The selected theme still applies for the current page.
+        }
+        updateToggle();
+      });
+
+      if (typeof systemTheme.addEventListener === 'function') {
+        systemTheme.addEventListener('change', function () {
+          if (!root.getAttribute('data-theme')) updateToggle();
+        });
+      }
+
+      updateToggle();
+    }());
+  </script>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">Research</h1>
-  </header>
-
+        <article class="page-shell">
   <div class="post-content">
     <style>
+  .research-section-title {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 34px 0 18px;
+    color: var(--site-heading);
+    font-size: 1.3rem;
+    letter-spacing: -0.01em;
+  }
+
+  .research-section-title::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--site-border);
+  }
+
   .pub-entry-flex {
     display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    gap: 24px;
-    margin-bottom: 36px;
+    align-items: center;
+    gap: 22px;
+    margin-bottom: 14px;
+    padding: 18px;
+    background: var(--site-surface);
+    border: 1px solid var(--site-border);
+    border-radius: 14px;
+    box-shadow: 0 3px 14px var(--site-shadow);
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
   }
+
+  .pub-entry-flex:hover {
+    border-color: var(--site-border-strong);
+    box-shadow: 0 8px 22px var(--site-shadow);
+    transform: translateY(-2px);
+  }
+
   .pub-image {
-  flex: 0 0 auto;
-  width: 100%;
-  max-width: 120px;
-  height: auto;
-  object-fit: cover;
-  border: 1px solid #2a2a2a;
-  border-radius: 4px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-}
+    display: block;
+    flex: 0 0 152px;
+    width: 152px;
+    height: 118px;
+    box-sizing: border-box;
+    image-rendering: auto;
+    object-fit: contain;
+    object-position: center;
+    padding: 8px;
+    background: var(--site-surface-soft);
+    border: 1px solid var(--site-border);
+    border-radius: 12px;
+    box-shadow: 0 3px 12px var(--site-shadow);
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 200ms ease;
+  }
+
+  .pub-entry-flex:hover .pub-image {
+    border-color: var(--site-border-strong);
+    box-shadow: 0 5px 16px var(--site-shadow);
+    transform: scale(1.015);
+  }
+
   .pub-details {
-    flex: 1 1 400px;
+    flex: 1;
     min-width: 0;
   }
+
   .pub-details strong {
-  color: #337ecc;
-  font-weight: 600;
-}
+    color: var(--site-accent);
+    font-weight: 650;
+  }
+
   .pub-title {
-    font-weight: bold;
-    margin: 0 0 0.2em 0;
+    margin: 0 0 7px;
+    color: var(--site-muted);
+    font-size: 0.9rem;
   }
+
   .pub-meta {
-    font-size: 0.98em;
-    color: #aaa;
-    margin-bottom: 0.25em;
+    margin-bottom: 0;
+    color: var(--site-muted);
+    font-size: 0.92rem;
+    line-height: 1.55;
   }
+
+  .pub-meta em {
+    display: block;
+    margin-bottom: 2px;
+    color: var(--site-heading);
+    font-size: 1.05rem;
+    font-style: normal;
+    font-weight: 650;
+    line-height: 1.4;
+  }
+
   .pub-links {
-    margin-top: 0.15em;
-    font-size: 0.98em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
   }
+
   .pub-links a {
-    margin-right: 12px;
-    color: #4080ff;
+    padding: 5px 10px;
+    background: var(--site-surface-soft);
+    border: 1px solid var(--site-border-strong);
+    border-radius: 999px;
+    color: var(--site-accent-strong);
+    font-size: 0.82rem;
+    font-weight: 600;
     text-decoration: none;
   }
+
   .pub-links a:hover {
-    text-decoration: underline;
-  }
-  @media (max-width: 600px) {
-  .pub-entry-flex {
-    flex-direction: row;
-    gap: 16px;
-    align-items: flex-start;
+    background: var(--site-accent-soft);
+    border-color: var(--site-accent);
   }
 
-  .pub-image {
-    max-width: 200px;
-  }
+  @media (max-width: 650px) {
+    .research-section-title {
+      margin-top: 26px;
+    }
 
-  .pub-details {
-    flex: 1 1 auto;
+    .pub-entry-flex {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 16px;
+      padding: 15px;
+    }
+
+    .pub-image {
+      flex-basis: auto;
+      width: 100%;
+      height: clamp(170px, 46vw, 220px);
+      max-height: none;
+      padding: 10px;
+    }
   }
-}
 </style>
 
-<h2 style="margin: 48px 0 24px;">Publications &amp; Proceedings</h2>
+<h2 class="research-section-title">Publications &amp; Proceedings</h2>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="/assets/images/policy_3_flat.png" alt="Local, mean, and barycenter policies" />
+  <div class="pub-details">
+    <div class="pub-title">
+      <strong>David Millard</strong>, Ali Baheri
+    </div>
+    <div class="pub-meta">
+      <em>Can Optimal Transport Improve Federated Inverse Reinforcement Learning?</em><br />
+      Proceedings of the 8th Annual Learning for Dynamics and Control Conference, PMLR 331:1939&ndash;1953, 2026.
+    </div>
+    <div class="pub-links">
+      <a href="https://proceedings.mlr.press/v331/millard26a.html" target="_blank">Proceedings</a>
+      <a href="https://arxiv.org/abs/2601.00309" target="_blank">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="/assets/images/trajectory_instance_0.gif" alt="Split conformal prediction in function space" />
+  <div class="pub-details">
+    <div class="pub-title">
+      <strong>David Millard</strong>, Lars Lindemann, Ali Baheri
+    </div>
+    <div class="pub-meta">
+      <em>Split Conformal Prediction in the Function Space via Neural Operator Learning</em><br />
+      ICLR 2026 Workshop on AI and Partial Differential Equations.
+    </div>
+    <div class="pub-links">
+      <a href="https://openreview.net/forum?id=0twOHJg60V" target="_blank">OpenReview</a>
+      <a href="https://arxiv.org/abs/2509.04623" target="_blank">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="/assets/images/pearl2025.png" alt="PEARL: Preconditioner Enhancement" />
+  <div class="pub-details">
+    <div class="pub-title">
+      <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
+    </div>
+    <div class="pub-meta">
+      <em>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</em><br />
+      2026 Joint Mathematics Meetings, SIAM Minisymposium on Recent Advances in Numerical Linear Algebra.
+    </div>
+    <div class="pub-links">
+      <a href="https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/57268" target="_blank">Conference</a>
+      <a href="https://arxiv.org/abs/2501.10750" target="_blank">arXiv</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-entry-flex">
   <img class="pub-image" src="/assets/images/ams2025.png" alt="Deep Ritz" />
@@ -120,8 +649,7 @@
       Proceedings of the AMS Spring Eastern Sectional Meeting, 2025.
     </div>
     <div class="pub-links">
-      <!-- Add actual links as needed -->
-      <a href="https://meetings.ams.org/math/spring2025e/meetingapp.cgi/Paper/47716" target="_blank">[Conference]</a>
+      <a href="https://meetings.ams.org/math/spring2025e/meetingapp.cgi/Paper/47716" target="_blank">Conference</a>
     </div>
   </div>
 </div>
@@ -137,8 +665,8 @@
       Proceedings of the 2024 IEEE International Conference on Big Data.
     </div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2409.06522" target="_blank">[arXiv]</a>
-      <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825166/23ykzuKFTaw" target="_blank">[IEEE Xplore]</a>
+      <a href="https://arxiv.org/abs/2409.06522" target="_blank">arXiv</a>
+      <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825166/23ykzuKFTaw" target="_blank">IEEE Xplore</a>
     </div>
   </div>
 </div>
@@ -154,25 +682,25 @@
       Proceedings of the 2024 IEEE International Conference on Big Data.
     </div>
     <div class="pub-links">
-      <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825862/23yl9opa000" target="_blank">[IEEE Xplore]</a>
+      <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825862/23yl9opa000" target="_blank">IEEE Xplore</a>
     </div>
   </div>
 </div>
 
-<h2 style="margin: 48px 0 24px;">Preprints</h2>
+<h2 class="research-section-title">Articles</h2>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="/assets/images/pearl2025.png" alt="PEARL: Preconditioner Enhancement" />
+  <img class="pub-image" src="/assets/images/panel3_risk_barycenter.png" alt="FedAvg and risk-weighted barycenter distributions" />
   <div class="pub-details">
     <div class="pub-title">
-      <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
+      <strong>David Millard</strong>, Cecilia Alm, Rashid Ali, Pengcheng Shi, Ali Baheri
     </div>
     <div class="pub-meta">
-      <em>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</em><br />
+      <em>Federated Distributional Reinforcement Learning with Distributional Critic Regularization</em><br />
       Preprint.
     </div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2501.10750" target="_blank">[arXiv]</a>
+      <a href="https://arxiv.org/abs/2603.17820" target="_blank">arXiv</a>
     </div>
   </div>
 </div>
@@ -188,54 +716,27 @@
       Preprint.
     </div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2506.07324" target="_blank">[arXiv]</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-entry-flex">
-  <img class="pub-image" src="/assets/images/trajectory_instance_0.gif" alt="Split Conformal Prediction in the Function Space with Neural Operators" />
-  <div class="pub-details">
-    <div class="pub-title">
-      <strong>David Millard</strong>, Lars Lindemann, Ali Baheri
-    </div>
-    <div class="pub-meta">
-      <em>Split Conformal Prediction in the Function Space with Neural Operators</em><br />
-      Preprint.
-    </div>
-    <div class="pub-links">
-      <a href="https://www.arxiv.org/abs/2509.04623" target="_blank">[arXiv]</a>
+      <a href="https://arxiv.org/abs/2506.07324" target="_blank">arXiv</a>
     </div>
   </div>
 </div>
 
   </div>
-
 </article>
 
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
 
-    <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">David Millard</li><li><a class="u-email" href="mailto:djm3622@rit.edu">djm3622@rit.edu</a></li></ul>
-      </div>
-
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/djm3622"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">Github</span></a></li></ul>
-</div>
-
-      <div class="footer-col footer-col-3">
-  <a href="https://scholar.google.com/citations?user=LEs7ELgAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
-  <a href="/assets/david_millard_cv.pdf" target="_blank">CV</a>
-      </div>
-    </div>
-
+  <div class="wrapper">
+    <nav class="compact-footer-links" aria-label="Footer links">
+      <a href="https://github.com/djm3622" rel="me noopener" target="_blank">GitHub</a>
+      <a href="https://scholar.google.com/citations?user=LEs7ELgAAAAJ&amp;hl=en" rel="me noopener" target="_blank">Google Scholar</a>
+      <a href="https://www.linkedin.com/in/david-millard-77b214243/" rel="me noopener" target="_blank">LinkedIn</a>
+      <a class="u-email" href="mailto:david.millard@rochester.edu">david.millard@rochester.edu</a>
+      <a href="/assets/davidmillard_resume.pdf" target="_blank">Resume</a>
+    </nav>
   </div>
-
 </footer>
 </body>
 

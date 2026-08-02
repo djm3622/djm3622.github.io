@@ -1,25 +1,55 @@
 ---
 permalink: /404.html
 layout: page
+title: Page Not Found
 ---
 
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
     max-width: 600px;
+    padding: 42px 24px;
+    background: linear-gradient(145deg, var(--site-surface-soft) 0%, var(--site-surface) 62%);
+    border: 1px solid var(--site-border);
+    border-radius: 16px;
+    box-shadow: 0 8px 26px var(--site-shadow);
     text-align: center;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+
+  .error-code {
+    margin: 0 0 12px;
+    color: var(--site-accent);
+    font-size: clamp(2.5rem, 12vw, 4rem);
+    font-weight: 700;
     line-height: 1;
     letter-spacing: -1px;
+  }
+
+  .error-title {
+    margin-bottom: 8px;
+    color: var(--site-heading);
+    font-size: 1.25rem;
+  }
+
+  .error-copy {
+    margin-bottom: 20px;
+    color: var(--site-muted);
+  }
+
+  .error-link {
+    display: inline-block;
+    padding: 7px 13px;
+    background: var(--site-accent);
+    border: 1px solid var(--site-accent);
+    border-radius: 999px;
+    color: var(--site-button-text) !important;
+    font-weight: 600;
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p class="error-code">404</p>
+  <p class="error-title"><strong>Page not found</strong></p>
+  <p class="error-copy">The requested page could not be found.</p>
+  <a class="error-link" href="{{ '/' | relative_url }}">Return home</a>
 </div>
