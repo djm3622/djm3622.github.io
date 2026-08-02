@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: Background, education, research interests, and contact information for David Millard, a Ph.D. student at the University of Rochester.
 ---
 
 <style>

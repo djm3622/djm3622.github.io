@@ -2,6 +2,7 @@
 layout: page
 title: Presentations
 permalink: /presentations/
+description: Research presentations by David Millard, including work on self-supervised representation learning for audio information research.
 ---
 
 <style>

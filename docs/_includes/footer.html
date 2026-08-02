@@ -3,9 +3,9 @@
 
   <div class="wrapper">
     <nav class="compact-footer-links" aria-label="Footer links">
-      <a href="https://github.com/djm3622" rel="me noopener" target="_blank">GitHub</a>
-      <a href="https://scholar.google.com/citations?user=LEs7ELgAAAAJ&amp;hl=en" rel="me noopener" target="_blank">Google Scholar</a>
-      <a href="https://www.linkedin.com/in/david-millard-77b214243/" rel="me noopener" target="_blank">LinkedIn</a>
+      <a href="{{ site.author.github | escape }}" rel="me noopener" target="_blank">GitHub</a>
+      <a href="{{ site.author.google_scholar | escape }}" rel="me noopener" target="_blank">Google Scholar</a>
+      <a href="{{ site.author.linkedin | escape }}" rel="me noopener" target="_blank">LinkedIn</a>
       <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
       <a href="{{ '/assets/davidmillard_resume.pdf' | relative_url }}" target="_blank">Resume</a>
     </nav>

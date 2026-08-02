@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Research
+seo_title: Publications
 permalink: /publications/
+description: Research publications by David Millard in machine learning, scientific computing, control, reinforcement learning, and related areas.
 ---
 
 <style>

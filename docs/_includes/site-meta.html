@@ -1,7 +1,16 @@
-{%- assign metadata_page_title = page.title | default: "Home" -%}
-{%- assign metadata_title = site.title | append: " - " | append: metadata_page_title -%}
-{%- assign metadata_description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 -%}
+{%- assign is_homepage = false -%}
+{%- if page.url == "/" -%}
+  {%- assign is_homepage = true -%}
+{%- endif -%}
+{%- assign metadata_page_title = page.seo_title | default: page.title | default: site.title -%}
+{%- if is_homepage -%}
+  {%- assign metadata_title = site.title | append: " | Machine Learning Researcher" -%}
+{%- else -%}
+  {%- assign metadata_title = metadata_page_title | append: " | " | append: site.title -%}
+{%- endif -%}
+{%- assign metadata_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 -%}
 {%- assign metadata_url = page.url | absolute_url -%}
+{%- assign metadata_image = site.author.image | absolute_url -%}
 <title>{{ metadata_title | escape }}</title>
 <meta name="description" content="{{ metadata_description | escape }}">
 <link rel="canonical" href="{{ metadata_url }}">
@@ -11,19 +20,65 @@
 <meta property="og:site_name" content="{{ site.title | escape }}">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:image" content="{{ metadata_image }}">
 {%- if page.layout == 'post' %}
 <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 {%- endif %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ metadata_title | escape }}">
 <meta name="twitter:description" content="{{ metadata_description | escape }}">
+<meta name="twitter:image" content="{{ metadata_image }}">
 <script type="application/ld+json">
+{%- if is_homepage -%}
 {
   "@context": "https://schema.org",
-  "@type": "{% if page.layout == 'post' %}BlogPosting{% else %}WebPage{% endif %}",
+  "@type": "ProfilePage",
+  "name": {{ metadata_title | jsonify }},
+  "description": {{ metadata_description | jsonify }},
+  "url": {{ metadata_url | jsonify }},
+  "mainEntity": {
+    "@type": "Person",
+    "name": {{ site.author.name | jsonify }},
+    "url": {{ site.url | append: "/" | jsonify }},
+    "image": {{ metadata_image | jsonify }},
+    "jobTitle": {{ site.author.job_title | jsonify }},
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": {{ site.author.affiliation | jsonify }}
+    },
+    "sameAs": [
+      {{ site.author.github | jsonify }},
+      {{ site.author.google_scholar | jsonify }},
+      {{ site.author.linkedin | jsonify }}
+    ],
+    "knowsAbout": {{ site.author.knows_about | jsonify }}
+  }
+}
+{%- elsif page.layout == "post" -%}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
   "name": {{ metadata_title | jsonify }},
   "headline": {{ metadata_page_title | jsonify }},
   "description": {{ metadata_description | jsonify }},
-  "url": {{ metadata_url | jsonify }}
+  "url": {{ metadata_url | jsonify }},
+  "image": {{ metadata_image | jsonify }},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author.name | jsonify }},
+    "url": {{ site.url | append: "/" | jsonify }}
+  }
 }
+{%- else -%}
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ metadata_title | jsonify }},
+  "headline": {{ metadata_page_title | jsonify }},
+  "description": {{ metadata_description | jsonify }},
+  "url": {{ metadata_url | jsonify }},
+  "image": {{ metadata_image | jsonify }}
+}
+{%- endif -%}
 </script>

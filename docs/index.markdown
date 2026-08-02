@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Home"
+description: Research website of David Millard, a Ph.D. student at the University of Rochester working in machine learning, scientific computing, controls, and audio.
 ---
 
 <style>
@@ -14,22 +15,22 @@ title: "Home"
     box-shadow: 0 10px 30px var(--site-shadow);
   }
 
-  .home-kicker {
+  .home-name {
     margin: 0 0 10px;
-    color: var(--site-accent);
-    font-size: 0.78rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
+    color: var(--site-heading);
+    font-size: clamp(1.65rem, 4vw, 2.15rem);
+    font-weight: 650;
+    letter-spacing: -0.025em;
+    line-height: 1.2;
   }
 
   .home-lead {
     max-width: 660px;
     margin: 0;
-    color: var(--site-heading);
-    font-size: clamp(1.35rem, 3vw, 1.85rem);
-    font-weight: 560;
-    line-height: 1.35;
+    color: var(--site-muted);
+    font-size: 1.08rem;
+    font-weight: 500;
+    line-height: 1.55;
   }
 
   .home-summary {
@@ -146,8 +147,8 @@ title: "Home"
 </style>
 
 <section class="home-intro">
-  <p class="home-kicker">David Millard</p>
-  <p class="home-lead">Research at the intersection of machine learning, controls, scientific computing, and audio.</p>
+  <h1 class="home-name">David Millard</h1>
+  <p class="home-lead">Ph.D. researcher in machine learning, scientific computing, controls, and audio at the University of Rochester.</p>
   <p class="home-summary">My interests include probabilistic ML, physical modeling, automatic music transcription, digital watermarking, and text-to-speech systems.</p>
   <div class="home-actions">
     <a href="{{ '/publications/' | relative_url }}">Explore my research</a>
