@@ -1,6 +1,20 @@
 {
-  "enabled": false,
-  "date": null,
-  "playlist": null,
-  "track": null
+  "enabled": true,
+  "date": "2026-08-03",
+  "playlist": {
+    "id": "0FVgFsNwshvYn7w5TOnLM6",
+    "name": "LMDAS",
+    "url": "https://open.spotify.com/playlist/0FVgFsNwshvYn7w5TOnLM6"
+  },
+  "track": {
+    "id": "5RtsmtLsEnwa96TEf56tJQ",
+    "name": "GIRI GIRI",
+    "artists": [
+      "Masayuki Suzuki",
+      "\u3059\u3045"
+    ],
+    "artist_label": "Masayuki Suzuki, \u3059\u3045",
+    "url": "https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ",
+    "embed_url": "https://open.spotify.com/embed/track/5RtsmtLsEnwa96TEf56tJQ?utm_source=generator"
+  }
 }
