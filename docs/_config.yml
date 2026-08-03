@@ -63,6 +63,18 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Development and automation files are not public site content.
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - scripts
+  - tests
+  - vendor
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

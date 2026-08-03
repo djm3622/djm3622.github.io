@@ -1,0 +1,27 @@
+{%- assign spotify_pick = site.data.spotify_pick -%}
+{%- if spotify_pick.enabled and spotify_pick.track -%}
+  <aside
+    class="site-player"
+    id="site-player"
+    aria-labelledby="site-player-title"
+    data-embed-src="{{ spotify_pick.track.embed_url | escape }}"
+    hidden>
+    <div class="site-player-heading">
+      <div>
+        <p>Listening along</p>
+        <h2 id="site-player-title">{{ spotify_pick.track.name | escape }}</h2>
+      </div>
+      <button class="site-player-close" type="button" aria-label="Stop and close Spotify player" title="Stop and close">
+        &times;
+      </button>
+    </div>
+    <iframe
+      id="spotify-embed"
+      title="Spotify player for {{ spotify_pick.track.name | escape }}"
+      width="100%"
+      height="152"
+      frameborder="0"
+      allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy"></iframe>
+  </aside>
+{%- endif -%}

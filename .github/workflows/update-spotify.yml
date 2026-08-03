@@ -1,0 +1,41 @@
+name: Update daily Spotify pick
+
+on:
+  schedule:
+    - cron: "15 5 * * *"
+      timezone: "America/New_York"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-spotify-pick
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out the website
+        uses: actions/checkout@v4
+
+      - name: Select today's playlist and track
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python3 docs/scripts/update_spotify_pick.py --output docs/_data/spotify_pick.json
+
+      - name: Publish the selection
+        run: |
+          if git diff --quiet -- docs/_data/spotify_pick.json; then
+            echo "The daily selection is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/_data/spotify_pick.json
+          git commit -m "Update daily Spotify pick"
+          git push

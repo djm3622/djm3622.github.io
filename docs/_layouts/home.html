@@ -5,6 +5,32 @@ layout: default
 <div class="home">
   {{ content }}
 
+  {%- assign spotify_pick = site.data.spotify_pick -%}
+  {%- if spotify_pick.enabled and spotify_pick.playlist and spotify_pick.track -%}
+    <section class="daily-listening" aria-labelledby="daily-listening-heading">
+      <div class="daily-listening-copy">
+        <p class="daily-listening-kicker">Daily listening · {{ spotify_pick.date | date: "%B %-d" }}</p>
+        <h2 id="daily-listening-heading">{{ spotify_pick.track.name | escape }}</h2>
+        {%- if spotify_pick.track.artist_label and spotify_pick.track.artist_label != "" -%}
+          <p class="daily-listening-artist">{{ spotify_pick.track.artist_label | escape }}</p>
+        {%- endif -%}
+        <p class="daily-listening-source">
+          Randomly selected from
+          <a href="{{ spotify_pick.playlist.url | escape }}" target="_blank" rel="noopener">
+            {{ spotify_pick.playlist.name | escape }}
+          </a>.
+        </p>
+      </div>
+      <div class="daily-listening-actions">
+        <button class="listen-along-button" type="button" data-spotify-listen>
+          Listen along
+        </button>
+        <a href="{{ spotify_pick.track.url | escape }}" target="_blank" rel="noopener">Open in Spotify</a>
+      </div>
+      <p class="daily-listening-note">Nothing plays automatically. Press play in the Spotify player when you are ready.</p>
+    </section>
+  {%- endif -%}
+
   {%- if site.posts.size > 0 -%}
     <section class="home-updates" aria-labelledby="updates-heading">
       <div class="modern-section-heading">
