@@ -1,29 +1,29 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "enabled": true,
   "date": "2026-08-03",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d"
+    "id": "27edqSuOsVHom5TGPrtpy7",
+    "name": "flamed",
+    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
   },
   "track": {
-    "id": "6htWGNhskc5f0Xke88Vn5z",
-    "name": "Turn Your Phone Off",
+    "id": "6J1SjVyNDzkZ3sF85Ndd3B",
+    "name": "Faneto",
     "artists": [
-      "PinkPantheress",
-      "Destroy Lonely"
+      "Chief Keef"
     ],
-    "artist_label": "PinkPantheress, Destroy Lonely",
-    "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z",
-    "embed_url": "https://open.spotify.com/embed/track/6htWGNhskc5f0Xke88Vn5z?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273d62305068da18b0fdcc0d9d3",
+    "artist_label": "Chief Keef",
+    "url": "https://open.spotify.com/track/6J1SjVyNDzkZ3sF85Ndd3B",
+    "embed_url": "https://open.spotify.com/embed/track/6J1SjVyNDzkZ3sF85Ndd3B?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273655fcf5eceb744b624bfe795",
     "album": {
-      "id": "2vumYq4zWRAEYa3f0567CL",
-      "name": "Turn Your Phone Off",
-      "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
+      "id": "53eRw37Sne9d5kCGwu0Yk0",
+      "name": "Back From The Dead 2",
+      "url": "https://open.spotify.com/album/53eRw37Sne9d5kCGwu0Yk0"
     }
   }
 }
