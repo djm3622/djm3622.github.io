@@ -101,7 +101,30 @@
     window.requestAnimationFrame(function () { link.classList.add('listen-result-pop'); });
   }
 
+  function jumpToSection(link) {
+    var targetId = link.getAttribute('href').slice(1);
+    var target = document.getElementById(targetId);
+    if (!target) return;
+    window.history.pushState({}, '', '#' + targetId);
+    target.setAttribute('tabindex', '-1');
+    target.focus({ preventScroll: true });
+    target.scrollIntoView({
+      behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
+      block: 'start'
+    });
+    target.addEventListener('blur', function removeJumpFocus() {
+      target.removeAttribute('tabindex');
+    }, { once: true });
+  }
+
   document.addEventListener('click', function (event) {
+    var sectionLink = event.target.closest('[data-section-jump]');
+    if (sectionLink) {
+      event.preventDefault();
+      jumpToSection(sectionLink);
+      return;
+    }
+
     var metricButton = event.target.closest('[data-playlist-metric]');
     if (metricButton) {
       updatePlaylistMetric(metricButton);

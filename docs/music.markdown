@@ -20,8 +20,8 @@ description: An interactive look at David Millard's Spotify playlists, favorite 
         single-artist collections to tracks with surprisingly small audiences.
       </p>
       <div class="listen-hero-links">
-        <a class="listen-button" href="#playlist-explorer">Explore the playlists</a>
-        <a href="#hidden-gems">Find overlooked tracks</a>
+        <a class="listen-button" href="#playlist-explorer" data-section-jump>Explore the playlists</a>
+        <a href="#hidden-gems" data-section-jump>Find overlooked tracks</a>
       </div>
     </div>
     <div class="listen-signal" aria-label="Summary of the analyzed music library">
