@@ -15,6 +15,7 @@ import html
 import json
 import re
 import statistics
+import urllib.error
 import urllib.request
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -48,8 +49,11 @@ def _load_json_script(page: str, script_id: str, *, encoded: bool) -> Mapping[st
 
 def _fetch(url: str) -> str:
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return response.read().decode("utf-8")
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            return response.read().decode("utf-8")
+    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as error:
+        raise AnalyticsError(f"Spotify page was unavailable: {url}") from error
 
 
 def _read_page(cache_dir: Path | None, playlist_id: str, *, embed: bool) -> str:
@@ -190,6 +194,12 @@ def _track_card(track: Mapping[str, Any]) -> dict[str, Any]:
     }
 
 
+def _catalog_duration_label(duration_ms: int) -> str:
+    total_minutes = round(duration_ms / 60_000)
+    hours, minutes = divmod(total_minutes, 60)
+    return f"{hours}h {minutes:02d}m" if hours else f"{minutes}m"
+
+
 def _rounded_percentage(numerator: int, denominator: int) -> float:
     return round(100 * numerator / denominator, 1) if denominator else 0.0
 
@@ -304,6 +314,38 @@ def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mappi
     duration_sorted = sorted(unique_tracks, key=lambda track: track["duration_ms"])
     title_sorted = sorted(unique_tracks, key=lambda track: len(track["title"]), reverse=True)
 
+    discovery_tracks = []
+    for track in unique_tracks:
+        card = _track_card(track)
+        card.update(
+            {
+                "primary_artist": track["primary_artist"],
+                "playlist": playlist_names.get(track["playlist_id"], "Spotify playlist"),
+                "explicit": bool(track["explicit"]),
+                "playcount": playcounts.get(track["id"]),
+            }
+        )
+        discovery_tracks.append(card)
+    discovery_tracks.sort(key=lambda track: (track["title"].casefold(), track["artist"].casefold()))
+
+    artist_durations: Counter[str] = Counter()
+    artist_explicit: Counter[str] = Counter()
+    for track in slots:
+        artist_durations[track["primary_artist"]] += track["duration_ms"]
+        artist_explicit[track["primary_artist"]] += int(track["explicit"])
+    artists = []
+    for name, count in artist_counts.most_common():
+        duration_ms = artist_durations[name]
+        artists.append(
+            {
+                "name": name,
+                "tracks": count,
+                "duration_ms": duration_ms,
+                "duration_label": _catalog_duration_label(duration_ms),
+                "explicit_pct": _rounded_percentage(artist_explicit[name], count),
+            }
+        )
+
     total_catalog_slots = sum(playlist["total_tracks"] for playlist in playlists)
     return {
         "generated_on": dt.datetime.now(dt.timezone.utc).date().isoformat(),
@@ -347,6 +389,8 @@ def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mappi
             {"name": name, "tracks": count}
             for name, count in artist_counts.most_common(12)
         ],
+        "artists": artists,
+        "discovery_tracks": discovery_tracks,
         "underrated": underrated,
         "repeat_offenders": repeated_cards,
         "oddities": {

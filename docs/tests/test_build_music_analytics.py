@@ -27,6 +27,10 @@ class MusicAnalyticsHelpersTest(unittest.TestCase):
         self.assertEqual(analytics._rounded_percentage(3, 8), 37.5)
         self.assertEqual(analytics._rounded_percentage(0, 0), 0.0)
 
+    def test_catalog_duration_label_handles_minutes_and_hours(self) -> None:
+        self.assertEqual(analytics._catalog_duration_label(29 * 60_000), "29m")
+        self.assertEqual(analytics._catalog_duration_label(90 * 60_000), "1h 30m")
+
 
 if __name__ == "__main__":
     unittest.main()

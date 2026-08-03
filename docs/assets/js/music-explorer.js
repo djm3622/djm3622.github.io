@@ -89,16 +89,279 @@
   }
 
   function pickTrack() {
-    var options = document.querySelectorAll('.listen-page [data-track-option]');
+    var catalog = readMusicCatalog();
+    var options = catalog ? catalog.tracks : [];
     var link = document.querySelector('[data-oracle-link]');
     if (!options.length || !link) return;
     var option = options[Math.floor(Math.random() * options.length)];
-    link.href = option.dataset.trackUrl;
-    link.querySelector('[data-oracle-title]').textContent = option.dataset.trackTitle;
+    link.href = option.url;
+    link.querySelector('[data-oracle-title]').textContent = option.title;
     link.querySelector('[data-oracle-meta]').textContent =
-      option.dataset.trackArtist + ' · ' + option.dataset.trackNote;
+      option.artist + ' · ' + option.duration_label + ' · ' + option.playlist;
     link.classList.remove('listen-result-pop');
     window.requestAnimationFrame(function () { link.classList.add('listen-result-pop'); });
+  }
+
+  var musicCatalog = null;
+  var gravityState = null;
+  var gravityFrame = null;
+
+  var gravityMetricConfig = {
+    songs: {
+      primary: { button: 'Public plays', label: 'public Spotify plays', value: function (item) { return item.playcount || 0; }, format: formatCount },
+      time: { button: 'Duration', label: 'track duration', value: function (item) { return item.duration_ms; }, format: formatDuration },
+      odd: { button: 'Title length', label: 'title length', value: function (item) { return item.title.length; }, format: function (value) { return value + ' characters'; } }
+    },
+    artists: {
+      primary: { button: 'Track count', label: 'tracks in the catalog', value: function (item) { return item.tracks; }, format: function (value) { return value + (value === 1 ? ' track' : ' tracks'); } },
+      time: { button: 'Catalog time', label: 'catalog time', value: function (item) { return item.duration_ms; }, format: formatCatalogTime },
+      odd: { button: 'Explicit share', label: 'explicit-track share', value: function (item) { return item.explicit_pct; }, format: function (value) { return value + '% explicit'; } }
+    },
+    playlists: {
+      primary: { button: 'Library size', label: 'playlist size', value: function (item) { return item.total_tracks; }, format: function (value) { return value + ' tracks'; } },
+      time: { button: 'Sampled time', label: 'sampled catalog time', value: function (item) { return item.duration_hours; }, format: function (value) { return value + ' hours'; } },
+      odd: { button: 'Artist focus', label: 'top-artist concentration', value: function (item) { return item.top_artist_share_pct; }, format: function (value) { return value + '% one artist'; } }
+    }
+  };
+
+  function readMusicCatalog() {
+    var node = document.querySelector('[data-music-catalog]');
+    if (!node) return null;
+    if (musicCatalog && node === musicCatalog.node) return musicCatalog.data;
+    try {
+      musicCatalog = { node: node, data: JSON.parse(node.textContent) };
+      return musicCatalog.data;
+    } catch (error) {
+      return null;
+    }
+  }
+
+  function formatCount(value) {
+    if (!value) return 'public count unavailable';
+    if (value >= 1000000) return (value / 1000000).toFixed(1) + 'M plays';
+    if (value >= 1000) return (value / 1000).toFixed(1) + 'K plays';
+    return value + ' plays';
+  }
+
+  function formatDuration(value) {
+    var seconds = Math.round(value / 1000);
+    return Math.floor(seconds / 60) + ':' + String(seconds % 60).padStart(2, '0');
+  }
+
+  function formatCatalogTime(value) {
+    var minutes = Math.round(value / 60000);
+    var hours = Math.floor(minutes / 60);
+    return hours ? hours + 'h ' + String(minutes % 60).padStart(2, '0') + 'm' : minutes + 'm';
+  }
+
+  function shuffledSample(items, count) {
+    var pool = items.slice();
+    for (var index = pool.length - 1; index > 0; index -= 1) {
+      var swapIndex = Math.floor(Math.random() * (index + 1));
+      var value = pool[index];
+      pool[index] = pool[swapIndex];
+      pool[swapIndex] = value;
+    }
+    return pool.slice(0, count);
+  }
+
+  function gravityLabel(item, entity) {
+    if (entity === 'songs') return item.title;
+    return item.name;
+  }
+
+  function gravitySecondary(item, entity) {
+    if (entity === 'songs') return item.artist + ' · ' + item.playlist;
+    if (entity === 'artists') return item.tracks + ' tracks · ' + item.duration_label;
+    return item.distinct_primary_artists + ' artists · ' + item.top_artist + ' leads';
+  }
+
+  function gravityPool(catalog, entity) {
+    if (entity === 'songs') return catalog.tracks;
+    return entity === 'artists' ? catalog.artists : catalog.playlists;
+  }
+
+  function updateGravityMetricLabels(entity) {
+    document.querySelectorAll('[data-gravity-metric]').forEach(function (button) {
+      button.textContent = gravityMetricConfig[entity][button.dataset.gravityMetric].button;
+    });
+  }
+
+  function setGravityDetail(item, entity, metric) {
+    var detail = document.querySelector('[data-gravity-detail]');
+    if (!detail) return;
+    var config = gravityMetricConfig[entity][metric];
+    var label = gravityLabel(item, entity);
+    var metricValue = config.format(config.value(item));
+    var content = document.createElement(entity === 'songs' || entity === 'playlists' ? 'a' : 'div');
+    if (entity === 'songs' || entity === 'playlists') {
+      content.href = item.url;
+      content.target = '_blank';
+      content.rel = 'noopener';
+    }
+    var title = document.createElement('strong');
+    var meta = document.createElement('span');
+    title.textContent = label;
+    meta.textContent = gravitySecondary(item, entity) + ' · ' + metricValue;
+    content.appendChild(title);
+    content.appendChild(meta);
+    detail.textContent = '';
+    detail.appendChild(content);
+  }
+
+  function stopGravity() {
+    if (gravityFrame) window.cancelAnimationFrame(gravityFrame);
+    gravityFrame = null;
+  }
+
+  function drawGravityFrame(timestamp) {
+    if (!gravityState || !gravityState.stage.isConnected) {
+      stopGravity();
+      return;
+    }
+    if (!gravityState.visible) {
+      gravityFrame = null;
+      return;
+    }
+    var elapsed = gravityState.lastTime ? Math.min((timestamp - gravityState.lastTime) / 16.67, 2) : 1;
+    gravityState.lastTime = timestamp;
+    var width = gravityState.stage.clientWidth;
+    var height = gravityState.stage.clientHeight;
+    var balls = gravityState.balls;
+
+    balls.forEach(function (ball) {
+      ball.vy += 0.2 * elapsed;
+      ball.vx *= 0.995;
+      ball.vy *= 0.998;
+      ball.x += ball.vx * elapsed;
+      ball.y += ball.vy * elapsed;
+      if (ball.x < 0) { ball.x = 0; ball.vx = Math.abs(ball.vx) * 0.72; }
+      if (ball.x + ball.size > width) { ball.x = width - ball.size; ball.vx = -Math.abs(ball.vx) * 0.72; }
+      if (ball.y + ball.size > height) {
+        ball.y = height - ball.size;
+        ball.vy = Math.abs(ball.vy) < 0.8 ? 0 : -Math.abs(ball.vy) * 0.58;
+      }
+    });
+
+    for (var leftIndex = 0; leftIndex < balls.length; leftIndex += 1) {
+      for (var rightIndex = leftIndex + 1; rightIndex < balls.length; rightIndex += 1) {
+        var left = balls[leftIndex];
+        var right = balls[rightIndex];
+        var dx = right.x + right.radius - left.x - left.radius;
+        var dy = right.y + right.radius - left.y - left.radius;
+        var distance = Math.sqrt(dx * dx + dy * dy) || 0.01;
+        var minimum = left.radius + right.radius + 2;
+        if (distance >= minimum) continue;
+        var overlap = (minimum - distance) / 2;
+        var nx = dx / distance;
+        var ny = dy / distance;
+        left.x -= nx * overlap;
+        left.y -= ny * overlap;
+        right.x += nx * overlap;
+        right.y += ny * overlap;
+        var relativeVelocity = (right.vx - left.vx) * nx + (right.vy - left.vy) * ny;
+        if (relativeVelocity < 0) {
+          var impulse = relativeVelocity * 0.72;
+          left.vx += impulse * nx;
+          left.vy += impulse * ny;
+          right.vx -= impulse * nx;
+          right.vy -= impulse * ny;
+        }
+      }
+    }
+
+    balls.forEach(function (ball) {
+      ball.node.style.transform = 'translate3d(' + ball.x.toFixed(1) + 'px,' + ball.y.toFixed(1) + 'px,0)';
+    });
+    var motion = balls.reduce(function (total, ball) {
+      return total + Math.abs(ball.vx) + Math.abs(ball.vy);
+    }, 0);
+    gravityState.settledFrames = motion < balls.length * 0.12 ? gravityState.settledFrames + 1 : 0;
+    if (gravityState.settledFrames > 50) {
+      gravityFrame = null;
+      return;
+    }
+    gravityFrame = window.requestAnimationFrame(drawGravityFrame);
+  }
+
+  function renderGravity() {
+    var catalog = readMusicCatalog();
+    var stage = document.querySelector('[data-gravity-stage]');
+    if (!catalog || !stage) return;
+    stopGravity();
+    var entity = gravityState ? gravityState.entity : 'songs';
+    var metric = gravityState ? gravityState.metric : 'time';
+    var pool = gravityPool(catalog, entity);
+    var limit = entity === 'playlists' ? pool.length : Math.min(32, pool.length);
+    var records = entity === 'playlists' ? pool.slice() : shuffledSample(pool, limit);
+    var config = gravityMetricConfig[entity][metric];
+    var values = records.map(config.value);
+    var minimum = Math.min.apply(null, values);
+    var maximum = Math.max.apply(null, values);
+    var span = maximum - minimum || 1;
+    var width = stage.clientWidth || 760;
+
+    stage.textContent = '';
+    var balls = records.map(function (item, index) {
+      var ratio = Math.sqrt(Math.max(0, (config.value(item) - minimum) / span));
+      var size = Math.round(42 + ratio * 56);
+      var node = document.createElement('button');
+      node.type = 'button';
+      node.className = 'listen-gravity-ball';
+      node.dataset.gravityBall = String(index);
+      node.dataset.tone = String(index % 4);
+      node.style.width = size + 'px';
+      node.style.height = size + 'px';
+      node.textContent = gravityLabel(item, entity);
+      node.setAttribute('aria-label', gravityLabel(item, entity) + ', ' + config.format(config.value(item)));
+      stage.appendChild(node);
+      return {
+        item: item,
+        node: node,
+        size: size,
+        radius: size / 2,
+        x: Math.random() * Math.max(1, width - size),
+        y: -size - Math.random() * 240,
+        vx: (Math.random() - 0.5) * 2.8,
+        vy: Math.random() * 0.8
+      };
+    });
+
+    gravityState = { stage: stage, entity: entity, metric: metric, balls: balls, records: records, visible: true, lastTime: 0, settledFrames: 0 };
+    var summary = document.querySelector('[data-gravity-summary]');
+    if (summary) {
+      summary.textContent = (entity === 'playlists' ? 'All ' : limit + '-ball sample from ') + pool.length + ' ' + entity + ' · ball area represents ' + config.label + '.';
+    }
+    updateGravityMetricLabels(entity);
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      stage.classList.add('is-static');
+      balls.forEach(function (ball, index) {
+        ball.node.style.position = 'relative';
+        ball.node.style.transform = 'none';
+        ball.node.style.order = String(index);
+      });
+    } else {
+      stage.classList.remove('is-static');
+      gravityFrame = window.requestAnimationFrame(drawGravityFrame);
+    }
+  }
+
+  function initializeGravity() {
+    var stage = document.querySelector('[data-gravity-stage]');
+    if (!stage || (gravityState && gravityState.stage === stage)) return;
+    gravityState = { stage: stage, entity: 'songs', metric: 'time', balls: [], records: [], visible: true, lastTime: 0, settledFrames: 0 };
+    renderGravity();
+    if ('IntersectionObserver' in window) {
+      new IntersectionObserver(function (entries) {
+        if (!gravityState || gravityState.stage !== stage) return;
+        gravityState.visible = entries[0].isIntersecting;
+        if (gravityState.visible && !gravityFrame && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          gravityState.lastTime = 0;
+          gravityState.settledFrames = 0;
+          gravityFrame = window.requestAnimationFrame(drawGravityFrame);
+        }
+      }, { rootMargin: '120px' }).observe(stage);
+    }
   }
 
   function jumpToSection(link) {
@@ -143,6 +406,51 @@
       return;
     }
 
+    var gravityEntity = event.target.closest('[data-gravity-entity]');
+    if (gravityEntity) {
+      initializeGravity();
+      gravityState.entity = gravityEntity.dataset.gravityEntity;
+      gravityState.metric = 'time';
+      document.querySelectorAll('[data-gravity-entity]').forEach(function (button) {
+        button.setAttribute('aria-pressed', button === gravityEntity ? 'true' : 'false');
+      });
+      document.querySelectorAll('[data-gravity-metric]').forEach(function (button) {
+        button.setAttribute('aria-pressed', button.dataset.gravityMetric === 'time' ? 'true' : 'false');
+      });
+      renderGravity();
+      return;
+    }
+
+    var gravityMetric = event.target.closest('[data-gravity-metric]');
+    if (gravityMetric) {
+      initializeGravity();
+      gravityState.metric = gravityMetric.dataset.gravityMetric;
+      document.querySelectorAll('[data-gravity-metric]').forEach(function (button) {
+        button.setAttribute('aria-pressed', button === gravityMetric ? 'true' : 'false');
+      });
+      renderGravity();
+      return;
+    }
+
+    if (event.target.closest('[data-gravity-remix]')) {
+      initializeGravity();
+      renderGravity();
+      return;
+    }
+
+    var gravityBall = event.target.closest('[data-gravity-ball]');
+    if (gravityBall && gravityState) {
+      var ballIndex = Number(gravityBall.dataset.gravityBall);
+      document.querySelectorAll('[data-gravity-ball]').forEach(function (button) {
+        button.classList.toggle('is-selected', button === gravityBall);
+      });
+      setGravityDetail(gravityState.records[ballIndex], gravityState.entity, gravityState.metric);
+      return;
+    }
+
     if (event.target.closest('[data-music-shuffle]')) pickTrack();
   });
+
+  window.addEventListener('site:navigation-complete', initializeGravity);
+  initializeGravity();
 }());

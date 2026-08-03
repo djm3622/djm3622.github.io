@@ -147,12 +147,7 @@ description: An interactive look at David Millard's Spotify playlists, favorite 
         <article
           class="listen-gem-row"
           data-gem-item
-          data-track-option
           data-plays="{{ track.playcount }}"
-          data-track-title="{{ track.title | escape }}"
-          data-track-artist="{{ track.artist | escape }}"
-          data-track-url="{{ track.url }}"
-          data-track-note="{{ track.playcount_label }} Spotify plays"
           {% if track.playcount >= 100000 %}hidden{% endif %}
         >
           <span class="listen-gem-number">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
@@ -172,17 +167,54 @@ description: An interactive look at David Millard's Spotify playlists, favorite 
     <div class="listen-discovery-copy">
       <p class="listen-kicker">Discovery mix</p>
       <h2 id="discovery-heading">Pick something I might defend too enthusiastically.</h2>
-      <p>Drawn from the overlooked tracks above.</p>
+      <p>Every pick samples all {{ music.discovery_tracks.size }} unique tracks in the public snapshot—not only the obvious favorites.</p>
     </div>
     <div class="listen-picker" aria-live="polite">
       <div>
         <span>Suggested track</span>
-        <a href="{{ music.underrated[0].url }}" target="_blank" rel="noopener" data-oracle-link>
-          <strong data-oracle-title>{{ music.underrated[0].title | escape }}</strong>
-          <small data-oracle-meta>{{ music.underrated[0].artist | escape }} · {{ music.underrated[0].playcount_label }} Spotify plays</small>
+        <a href="{{ music.discovery_tracks[0].url }}" target="_blank" rel="noopener" data-oracle-link>
+          <strong data-oracle-title>{{ music.discovery_tracks[0].title | escape }}</strong>
+          <small data-oracle-meta>{{ music.discovery_tracks[0].artist | escape }} · {{ music.discovery_tracks[0].duration_label }} · {{ music.discovery_tracks[0].playlist | escape }}</small>
         </a>
       </div>
       <button type="button" data-music-shuffle>Pick another <span aria-hidden="true">↻</span></button>
+    </div>
+  </section>
+
+  <section class="listen-section listen-gravity" id="listening-gravity" aria-labelledby="gravity-heading">
+    <header class="listen-section-heading">
+      <div>
+        <p class="listen-kicker">Listening gravity</p>
+        <h2 id="gravity-heading">Let the catalog fall into place.</h2>
+      </div>
+      <p>Each ball is real catalog data. Change the subject or what controls its mass, then tap a ball to inspect it.</p>
+    </header>
+
+    <div class="listen-gravity-toolbar">
+      <div class="listen-gravity-control" aria-label="Gravity subjects">
+        <span>Explore</span>
+        <div>
+          <button type="button" data-gravity-entity="songs" aria-pressed="true">Songs</button>
+          <button type="button" data-gravity-entity="artists" aria-pressed="false">Artists</button>
+          <button type="button" data-gravity-entity="playlists" aria-pressed="false">Playlists</button>
+        </div>
+      </div>
+      <div class="listen-gravity-control" aria-label="Ball size metric">
+        <span>Size by</span>
+        <div>
+          <button type="button" data-gravity-metric="primary" aria-pressed="false">Public plays</button>
+          <button type="button" data-gravity-metric="time" aria-pressed="true">Duration</button>
+          <button type="button" data-gravity-metric="odd" aria-pressed="false">Title length</button>
+        </div>
+      </div>
+      <button class="listen-gravity-remix" type="button" data-gravity-remix>Remix field <span aria-hidden="true">↻</span></button>
+    </div>
+
+    <p class="listen-gravity-summary" data-gravity-summary aria-live="polite"></p>
+    <div class="listen-gravity-stage" data-gravity-stage aria-label="Interactive gravity simulation"></div>
+    <div class="listen-gravity-detail" data-gravity-detail aria-live="polite">
+      <span>Tap a ball</span>
+      <strong>Choose a song to see why it has that mass.</strong>
     </div>
   </section>
 
@@ -221,4 +253,8 @@ description: An interactive look at David Millard's Spotify playlists, favorite 
       </p>
     </div>
   </details>
+
+  <script type="application/json" data-music-catalog>
+    {"tracks":{{ music.discovery_tracks | jsonify }},"artists":{{ music.artists | jsonify }},"playlists":{{ music.playlists | jsonify }}}
+  </script>
 </div>

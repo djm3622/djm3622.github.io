@@ -141,6 +141,7 @@
         if (addHistory) window.history.pushState({}, '', url.href);
         window.scrollTo(0, 0);
         announceNavigation(currentMain, nextDocument.title);
+        window.dispatchEvent(new CustomEvent('site:navigation-complete'));
       })
       .catch(function () {
         window.location.assign(url.href);
