@@ -38,7 +38,8 @@
       "explicit_pct": 47.0,
       "distinct_primary_artists": 43,
       "top_artist": "Yameii Online",
-      "top_artist_tracks": 16
+      "top_artist_tracks": 16,
+      "top_artist_share_pct": 16.0
     },
     {
       "id": "1K3uznQ2lcsxnDk0MMQDZB",
@@ -55,7 +56,8 @@
       "explicit_pct": 10.0,
       "distinct_primary_artists": 46,
       "top_artist": "PinkPantheress",
-      "top_artist_tracks": 18
+      "top_artist_tracks": 18,
+      "top_artist_share_pct": 18.0
     },
     {
       "id": "4gzEOrF8mCDu96BCLdwDya",
@@ -72,7 +74,8 @@
       "explicit_pct": 24.0,
       "distinct_primary_artists": 50,
       "top_artist": "Rihanna",
-      "top_artist_tracks": 8
+      "top_artist_tracks": 8,
+      "top_artist_share_pct": 8.3
     },
     {
       "id": "38PmYBLrKbhBUlywggIVkP",
@@ -89,7 +92,8 @@
       "explicit_pct": 100.0,
       "distinct_primary_artists": 2,
       "top_artist": "Lil Tecca",
-      "top_artist_tracks": 27
+      "top_artist_tracks": 27,
+      "top_artist_share_pct": 96.4
     },
     {
       "id": "6NDe4f42HlR8RJVhXn1ZCH",
@@ -106,7 +110,8 @@
       "explicit_pct": 100.0,
       "distinct_primary_artists": 3,
       "top_artist": "Lil Uzi Vert",
-      "top_artist_tracks": 23
+      "top_artist_tracks": 23,
+      "top_artist_share_pct": 92.0
     },
     {
       "id": "1ulWy0m2PhTsQvCQi3o4Fu",
@@ -123,7 +128,8 @@
       "explicit_pct": 25.7,
       "distinct_primary_artists": 20,
       "top_artist": "Limp Bizkit",
-      "top_artist_tracks": 4
+      "top_artist_tracks": 4,
+      "top_artist_share_pct": 11.4
     },
     {
       "id": "1BXO1VOQIBiYkHtGtopfwS",
@@ -140,7 +146,8 @@
       "explicit_pct": 96.9,
       "distinct_primary_artists": 18,
       "top_artist": "Yeat",
-      "top_artist_tracks": 74
+      "top_artist_tracks": 74,
+      "top_artist_share_pct": 76.3
     },
     {
       "id": "7p4fxMRZCuY6ZtNeu99vbK",
@@ -157,7 +164,8 @@
       "explicit_pct": 97.2,
       "distinct_primary_artists": 6,
       "top_artist": "Ken Carson",
-      "top_artist_tracks": 22
+      "top_artist_tracks": 22,
+      "top_artist_share_pct": 61.1
     },
     {
       "id": "1LmRGDRZzF0xsVaRezQTBn",
@@ -174,7 +182,8 @@
       "explicit_pct": 100.0,
       "distinct_primary_artists": 12,
       "top_artist": "Playboi Carti",
-      "top_artist_tracks": 54
+      "top_artist_tracks": 54,
+      "top_artist_share_pct": 77.1
     },
     {
       "id": "0kVBGAMtUIeJQat1V7a861",
@@ -191,7 +200,8 @@
       "explicit_pct": 36.8,
       "distinct_primary_artists": 8,
       "top_artist": "Mac Miller",
-      "top_artist_tracks": 7
+      "top_artist_tracks": 7,
+      "top_artist_share_pct": 36.8
     },
     {
       "id": "27edqSuOsVHom5TGPrtpy7",
@@ -208,7 +218,8 @@
       "explicit_pct": 90.2,
       "distinct_primary_artists": 32,
       "top_artist": "Chief Keef",
-      "top_artist_tracks": 8
+      "top_artist_tracks": 8,
+      "top_artist_share_pct": 15.7
     }
   ],
   "unavailable_playlists": [

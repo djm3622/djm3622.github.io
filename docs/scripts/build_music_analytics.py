@@ -248,6 +248,10 @@ def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mappi
                 "distinct_primary_artists": len(artist_counts),
                 "top_artist": artist_counts.most_common(1)[0][0] if artist_counts else "—",
                 "top_artist_tracks": artist_counts.most_common(1)[0][1] if artist_counts else 0,
+                "top_artist_share_pct": _rounded_percentage(
+                    artist_counts.most_common(1)[0][1] if artist_counts else 0,
+                    len(tracks),
+                ),
             }
         )
 
