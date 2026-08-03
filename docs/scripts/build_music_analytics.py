@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import base64
+import concurrent.futures
 import datetime as dt
 import html
 import json
@@ -23,6 +24,8 @@ from typing import Any, Iterable, Mapping, Sequence
 
 PLAYLIST_URL = "https://open.spotify.com/playlist/{playlist_id}"
 EMBED_URL = "https://open.spotify.com/embed/playlist/{playlist_id}"
+TRACK_URL = "https://open.spotify.com/track/{track_id}"
+ARTIST_URL = "https://open.spotify.com/artist/{artist_id}"
 USER_AGENT = "Mozilla/5.0 (compatible; personal-site-music-analytics/1.0)"
 
 
@@ -62,13 +65,53 @@ def _read_page(cache_dir: Path | None, playlist_id: str, *, embed: bool) -> str:
     if cached is not None and cached.exists():
         return cached.read_text(encoding="utf-8")
     url = (EMBED_URL if embed else PLAYLIST_URL).format(playlist_id=playlist_id)
-    return _fetch(url)
+    page = _fetch(url)
+    if cached is not None:
+        cached.parent.mkdir(parents=True, exist_ok=True)
+        cached.write_text(page, encoding="utf-8")
+    return page
+
+
+def _read_entity_page(
+    cache_dir: Path | None, prefix: str, identifier: str, url: str
+) -> str:
+    cached = cache_dir / f"spotify_{prefix}_{identifier}.html" if cache_dir else None
+    if cached is not None and cached.exists():
+        return cached.read_text(encoding="utf-8")
+    page = _fetch(url)
+    if cached is not None:
+        cached.parent.mkdir(parents=True, exist_ok=True)
+        cached.write_text(page, encoding="utf-8")
+    return page
 
 
 def _track_id(uri: object) -> str | None:
     if not isinstance(uri, str) or not uri.startswith("spotify:track:"):
         return None
     return uri.rsplit(":", 1)[-1]
+
+
+def _entity_id(uri: object, entity_type: str) -> str | None:
+    prefix = f"spotify:{entity_type}:"
+    if not isinstance(uri, str) or not uri.startswith(prefix):
+        return None
+    return uri.rsplit(":", 1)[-1]
+
+
+def _best_image(sources: object, preferred_size: int = 300) -> str | None:
+    if not isinstance(sources, list):
+        return None
+    candidates = [
+        source
+        for source in sources
+        if isinstance(source, Mapping) and isinstance(source.get("url"), str)
+    ]
+    if not candidates:
+        return None
+    candidates.sort(
+        key=lambda source: abs(int(source.get("width") or preferred_size) - preferred_size)
+    )
+    return str(candidates[0]["url"])
 
 
 def _primary_artist(label: str) -> str:
@@ -108,12 +151,23 @@ def _public_playlist(page: str, playlist_id: str) -> Mapping[str, Any]:
             if isinstance(name, str) and name:
                 artists.append(name)
         playcount = track.get("playcount")
+        album = track.get("albumOfTrack", {})
+        cover_art = album.get("coverArt", {}) if isinstance(album, Mapping) else {}
+        primary_artist = (
+            artist_items[0]
+            if artist_items and isinstance(artist_items[0], Mapping)
+            else {}
+        )
         public_tracks.append(
             {
                 "id": identifier,
                 "title": track.get("name") or "Untitled",
                 "artists": artists,
                 "playcount": int(playcount) if str(playcount).isdigit() else None,
+                "image_url": _best_image(
+                    cover_art.get("sources", []) if isinstance(cover_art, Mapping) else []
+                ),
+                "primary_artist_id": _entity_id(primary_artist.get("uri"), "artist"),
             }
         )
 
@@ -165,6 +219,45 @@ def _embedded_tracks(page: str) -> list[dict[str, Any]]:
     return tracks
 
 
+def _public_track_details(page: str, track_id: str) -> Mapping[str, str | None]:
+    state = _load_json_script(page, "initialState", encoded=True)
+    entity = state.get("entities", {}).get("items", {}).get(f"spotify:track:{track_id}")
+    if not isinstance(entity, Mapping):
+        raise AnalyticsError(f"Public track data was unavailable for {track_id}")
+
+    album = entity.get("albumOfTrack", {})
+    cover_art = album.get("coverArt", {}) if isinstance(album, Mapping) else {}
+    first_artist = entity.get("firstArtist", {})
+    artist_items = first_artist.get("items", []) if isinstance(first_artist, Mapping) else []
+    artist = artist_items[0] if artist_items and isinstance(artist_items[0], Mapping) else {}
+    visuals = artist.get("visuals", {}) if isinstance(artist, Mapping) else {}
+    avatar = visuals.get("avatarImage", {}) if isinstance(visuals, Mapping) else {}
+    profile = artist.get("profile", {}) if isinstance(artist, Mapping) else {}
+    return {
+        "image_url": _best_image(
+            cover_art.get("sources", []) if isinstance(cover_art, Mapping) else []
+        ),
+        "artist_id": str(
+            artist.get("id") or _entity_id(artist.get("uri"), "artist") or ""
+        )
+        or None,
+        "artist_name": str(profile.get("name") or "") or None,
+        "artist_image_url": _best_image(
+            avatar.get("sources", []) if isinstance(avatar, Mapping) else []
+        ),
+    }
+
+
+def _public_artist_image(page: str, artist_id: str) -> str | None:
+    state = _load_json_script(page, "initialState", encoded=True)
+    entity = state.get("entities", {}).get("items", {}).get(f"spotify:artist:{artist_id}")
+    if not isinstance(entity, Mapping):
+        raise AnalyticsError(f"Public artist data was unavailable for {artist_id}")
+    visuals = entity.get("visuals", {})
+    avatar = visuals.get("avatarImage", {}) if isinstance(visuals, Mapping) else {}
+    return _best_image(avatar.get("sources", []) if isinstance(avatar, Mapping) else [])
+
+
 def _track_link(track_id: str) -> str:
     return f"https://open.spotify.com/track/{track_id}"
 
@@ -204,12 +297,21 @@ def _rounded_percentage(numerator: int, denominator: int) -> float:
     return round(100 * numerator / denominator, 1) if denominator else 0.0
 
 
-def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mapping[str, Any]:
+def build_snapshot(
+    playlist_ids: Iterable[str],
+    cache_dir: Path | None,
+    *,
+    enrich_images: bool = False,
+    workers: int = 12,
+) -> Mapping[str, Any]:
     playlists: list[dict[str, Any]] = []
     unavailable_playlists: list[dict[str, str]] = []
     slots: list[dict[str, Any]] = []
     playcounts: dict[str, int] = {}
     exact_artists: dict[str, list[str]] = {}
+    track_images: dict[str, str] = {}
+    artist_ids: dict[str, str] = {}
+    artist_images: dict[str, str] = {}
 
     for playlist_id in playlist_ids:
         try:
@@ -231,6 +333,10 @@ def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mappi
                 playcounts[track["id"]] = track["playcount"]
             if track["artists"]:
                 exact_artists[track["id"]] = track["artists"]
+                if track["primary_artist_id"]:
+                    artist_ids[track["artists"][0]] = track["primary_artist_id"]
+            if track["image_url"]:
+                track_images[track["id"]] = track["image_url"]
         for track in tracks:
             track["playlist_id"] = playlist_id
             slots.append(track)
@@ -274,6 +380,70 @@ def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mappi
     artist_counts = Counter(track["primary_artist"] for track in slots)
     durations = [track["duration_ms"] for track in slots if track["duration_ms"] > 0]
     unique_tracks = list(by_track.values())
+    playlists_by_id = {playlist["id"]: playlist for playlist in playlists}
+
+    if enrich_images:
+        missing_tracks = [
+            track
+            for track in unique_tracks
+            if track["id"] not in track_images
+            or track["primary_artist"] not in artist_ids
+        ]
+
+        def fetch_track_details(
+            track: Mapping[str, Any],
+        ) -> tuple[Mapping[str, Any], Mapping[str, str | None] | None]:
+            try:
+                page = _read_entity_page(
+                    cache_dir,
+                    "track",
+                    str(track["id"]),
+                    TRACK_URL.format(track_id=track["id"]),
+                )
+                return track, _public_track_details(page, str(track["id"]))
+            except AnalyticsError:
+                return track, None
+
+        with concurrent.futures.ThreadPoolExecutor(
+            max_workers=max(1, workers)
+        ) as executor:
+            for track, details in executor.map(fetch_track_details, missing_tracks):
+                if not details:
+                    continue
+                if details["image_url"]:
+                    track_images[str(track["id"])] = str(details["image_url"])
+                artist_name = str(track["primary_artist"])
+                if details["artist_id"]:
+                    artist_ids[artist_name] = str(details["artist_id"])
+                if details["artist_image_url"]:
+                    artist_images[artist_name] = str(details["artist_image_url"])
+
+        missing_artists = [
+            (name, artist_id)
+            for name, artist_id in artist_ids.items()
+            if name not in artist_images
+        ]
+
+        def fetch_artist_image(item: tuple[str, str]) -> tuple[str, str | None]:
+            name, artist_id = item
+            try:
+                page = _read_entity_page(
+                    cache_dir,
+                    "artist",
+                    artist_id,
+                    ARTIST_URL.format(artist_id=artist_id),
+                )
+                return name, _public_artist_image(page, artist_id)
+            except AnalyticsError:
+                return name, None
+
+        with concurrent.futures.ThreadPoolExecutor(
+            max_workers=max(1, workers)
+        ) as executor:
+            for name, image_url in executor.map(fetch_artist_image, missing_artists):
+                if image_url:
+                    artist_images[name] = image_url
+
     repeated = sorted(
         (track for track in unique_tracks if len(playlist_memberships[track["id"]]) > 1),
         key=lambda track: (-len(playlist_memberships[track["id"]]), track["title"].casefold()),
@@ -313,6 +483,15 @@ def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mappi
     ]
     duration_sorted = sorted(unique_tracks, key=lambda track: track["duration_ms"])
     title_sorted = sorted(unique_tracks, key=lambda track: len(track["title"]), reverse=True)
+    artist_fallback_images: dict[str, str] = {}
+    for track in unique_tracks:
+        fallback_image = track_images.get(
+            track["id"], playlists_by_id[track["playlist_id"]]["image_url"]
+        )
+        if fallback_image:
+            artist_fallback_images.setdefault(
+                track["primary_artist"], fallback_image
+            )
 
     discovery_tracks = []
     for track in unique_tracks:
@@ -323,6 +502,10 @@ def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mappi
                 "playlist": playlist_names.get(track["playlist_id"], "Spotify playlist"),
                 "explicit": bool(track["explicit"]),
                 "playcount": playcounts.get(track["id"]),
+                "image_url": track_images.get(
+                    track["id"],
+                    playlists_by_id[track["playlist_id"]]["image_url"],
+                ),
             }
         )
         discovery_tracks.append(card)
@@ -343,6 +526,13 @@ def build_snapshot(playlist_ids: Iterable[str], cache_dir: Path | None) -> Mappi
                 "duration_ms": duration_ms,
                 "duration_label": _catalog_duration_label(duration_ms),
                 "explicit_pct": _rounded_percentage(artist_explicit[name], count),
+                "url": (
+                    ARTIST_URL.format(artist_id=artist_ids[name])
+                    if name in artist_ids
+                    else None
+                ),
+                "image_url": artist_images.get(name, artist_fallback_images.get(name)),
+                "image_kind": "artist" if name in artist_images else "album",
             }
         )
 
@@ -423,6 +613,17 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
         type=Path,
         help="Optional directory containing spotify_<id>.html cache files",
     )
+    parser.add_argument(
+        "--enrich-images",
+        action="store_true",
+        help="Fetch missing album covers and artist portraits from public entity pages",
+    )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=12,
+        help="Concurrent public page requests used by --enrich-images",
+    )
     return parser.parse_args(argv)
 
 
@@ -432,7 +633,12 @@ def main(argv: Sequence[str] | None = None) -> int:
     playlist_ids = config.get("playlist_ids", [])
     if not playlist_ids or not all(isinstance(item, str) for item in playlist_ids):
         raise AnalyticsError("Playlist config must contain playlist_ids")
-    snapshot = build_snapshot(playlist_ids, args.cache_dir)
+    snapshot = build_snapshot(
+        playlist_ids,
+        args.cache_dir,
+        enrich_images=args.enrich_images,
+        workers=args.workers,
+    )
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(snapshot, indent=2) + "\n", encoding="utf-8")
     return 0

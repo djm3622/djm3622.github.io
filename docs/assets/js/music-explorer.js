@@ -178,7 +178,9 @@
 
   function gravityPool(catalog, entity) {
     if (entity === 'songs') return catalog.tracks;
-    return entity === 'artists' ? catalog.artists : catalog.playlists;
+    return entity === 'artists'
+      ? catalog.artists.filter(function (artist) { return artist.image_kind === 'artist'; })
+      : catalog.playlists;
   }
 
   function updateGravityMetricLabels(entity) {
@@ -193,8 +195,8 @@
     var config = gravityMetricConfig[entity][metric];
     var label = gravityLabel(item, entity);
     var metricValue = config.format(config.value(item));
-    var content = document.createElement(entity === 'songs' || entity === 'playlists' ? 'a' : 'div');
-    if (entity === 'songs' || entity === 'playlists') {
+    var content = document.createElement(item.url ? 'a' : 'div');
+    if (item.url) {
       content.href = item.url;
       content.target = '_blank';
       content.rel = 'noopener';
@@ -207,6 +209,18 @@
     content.appendChild(meta);
     detail.textContent = '';
     detail.appendChild(content);
+  }
+
+  function resetGravityDetail(entity) {
+    var detail = document.querySelector('[data-gravity-detail]');
+    if (!detail) return;
+    var label = document.createElement('span');
+    var prompt = document.createElement('strong');
+    label.textContent = 'Explore ' + entity;
+    prompt.textContent = 'Drag, flick, or tap artwork to reveal what is orbiting.';
+    detail.textContent = '';
+    detail.appendChild(label);
+    detail.appendChild(prompt);
   }
 
   function stopGravity() {
@@ -228,25 +242,31 @@
     var width = gravityState.stage.clientWidth;
     var height = gravityState.stage.clientHeight;
     var balls = gravityState.balls;
+    var centerX = width / 2;
+    var centerY = height / 2;
+    var attraction = 0.00016;
 
     balls.forEach(function (ball) {
-      ball.vy += 0.2 * elapsed;
-      ball.vx *= 0.995;
-      ball.vy *= 0.998;
+      if (ball.dragging) return;
+      var ballX = ball.x + ball.radius;
+      var ballY = ball.y + ball.radius;
+      ball.vx += (centerX - ballX) * attraction * elapsed;
+      ball.vy += (centerY - ballY) * attraction * elapsed;
+      ball.vx *= 0.9994;
+      ball.vy *= 0.9994;
       ball.x += ball.vx * elapsed;
       ball.y += ball.vy * elapsed;
       if (ball.x < 0) { ball.x = 0; ball.vx = Math.abs(ball.vx) * 0.72; }
       if (ball.x + ball.size > width) { ball.x = width - ball.size; ball.vx = -Math.abs(ball.vx) * 0.72; }
-      if (ball.y + ball.size > height) {
-        ball.y = height - ball.size;
-        ball.vy = Math.abs(ball.vy) < 0.8 ? 0 : -Math.abs(ball.vy) * 0.58;
-      }
+      if (ball.y < 0) { ball.y = 0; ball.vy = Math.abs(ball.vy) * 0.72; }
+      if (ball.y + ball.size > height) { ball.y = height - ball.size; ball.vy = -Math.abs(ball.vy) * 0.72; }
     });
 
     for (var leftIndex = 0; leftIndex < balls.length; leftIndex += 1) {
       for (var rightIndex = leftIndex + 1; rightIndex < balls.length; rightIndex += 1) {
         var left = balls[leftIndex];
         var right = balls[rightIndex];
+        if (left.dragging || right.dragging) continue;
         var dx = right.x + right.radius - left.x - left.radius;
         var dy = right.y + right.radius - left.y - left.radius;
         var distance = Math.sqrt(dx * dx + dy * dy) || 0.01;
@@ -273,18 +293,69 @@
     balls.forEach(function (ball) {
       ball.node.style.transform = 'translate3d(' + ball.x.toFixed(1) + 'px,' + ball.y.toFixed(1) + 'px,0)';
     });
-    var motion = balls.reduce(function (total, ball) {
-      return total + Math.abs(ball.vx) + Math.abs(ball.vy);
-    }, 0);
-    gravityState.settledFrames = motion < balls.length * 0.12 ? gravityState.settledFrames + 1 : 0;
-    if (gravityState.settledFrames > 50) {
-      gravityFrame = null;
-      return;
-    }
     gravityFrame = window.requestAnimationFrame(drawGravityFrame);
   }
 
-  function renderGravity() {
+  function selectGravityBall(ball) {
+    if (!gravityState) return;
+    gravityState.balls.forEach(function (candidate) {
+      candidate.node.classList.toggle('is-selected', candidate === ball);
+    });
+    setGravityDetail(ball.item, gravityState.entity, gravityState.metric);
+  }
+
+  function attachGravityInteraction(ball) {
+    ball.node.addEventListener('pointerdown', function (event) {
+      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        selectGravityBall(ball);
+        return;
+      }
+      var bounds = gravityState.stage.getBoundingClientRect();
+      ball.dragging = true;
+      ball.pointerId = event.pointerId;
+      ball.pointerOffsetX = event.clientX - bounds.left - ball.x;
+      ball.pointerOffsetY = event.clientY - bounds.top - ball.y;
+      ball.lastPointerX = event.clientX;
+      ball.lastPointerY = event.clientY;
+      ball.lastPointerTime = event.timeStamp;
+      ball.vx = 0;
+      ball.vy = 0;
+      ball.node.setPointerCapture(event.pointerId);
+      ball.node.classList.add('is-dragging');
+      selectGravityBall(ball);
+    });
+
+    ball.node.addEventListener('pointermove', function (event) {
+      if (!ball.dragging || event.pointerId !== ball.pointerId) return;
+      var bounds = gravityState.stage.getBoundingClientRect();
+      var nextX = event.clientX - bounds.left - ball.pointerOffsetX;
+      var nextY = event.clientY - bounds.top - ball.pointerOffsetY;
+      var elapsed = Math.max(8, event.timeStamp - ball.lastPointerTime) / 16.67;
+      ball.vx = Math.max(-9, Math.min(9, (event.clientX - ball.lastPointerX) / elapsed));
+      ball.vy = Math.max(-9, Math.min(9, (event.clientY - ball.lastPointerY) / elapsed));
+      ball.x = Math.max(0, Math.min(bounds.width - ball.size, nextX));
+      ball.y = Math.max(0, Math.min(bounds.height - ball.size, nextY));
+      ball.lastPointerX = event.clientX;
+      ball.lastPointerY = event.clientY;
+      ball.lastPointerTime = event.timeStamp;
+      ball.node.style.transform = 'translate3d(' + ball.x.toFixed(1) + 'px,' + ball.y.toFixed(1) + 'px,0)';
+    });
+
+    function releaseBall(event) {
+      if (!ball.dragging || event.pointerId !== ball.pointerId) return;
+      ball.dragging = false;
+      ball.node.classList.remove('is-dragging');
+      if (ball.node.hasPointerCapture(event.pointerId)) {
+        ball.node.releasePointerCapture(event.pointerId);
+      }
+    }
+
+    ball.node.addEventListener('pointerup', releaseBall);
+    ball.node.addEventListener('pointercancel', releaseBall);
+    ball.node.addEventListener('dragstart', function (event) { event.preventDefault(); });
+  }
+
+  function renderGravity(preserveRecords) {
     var catalog = readMusicCatalog();
     var stage = document.querySelector('[data-gravity-stage]');
     if (!catalog || !stage) return;
@@ -293,44 +364,65 @@
     var metric = gravityState ? gravityState.metric : 'time';
     var pool = gravityPool(catalog, entity);
     var limit = entity === 'playlists' ? pool.length : Math.min(32, pool.length);
-    var records = entity === 'playlists' ? pool.slice() : shuffledSample(pool, limit);
+    var records = preserveRecords && gravityState && gravityState.records.length
+      ? gravityState.records.slice()
+      : (entity === 'playlists' ? pool.slice() : shuffledSample(pool, limit));
     var config = gravityMetricConfig[entity][metric];
     var values = records.map(config.value);
     var minimum = Math.min.apply(null, values);
     var maximum = Math.max.apply(null, values);
     var span = maximum - minimum || 1;
     var width = stage.clientWidth || 760;
+    var height = stage.clientHeight || 420;
 
     stage.textContent = '';
+    var core = document.createElement('div');
+    core.className = 'listen-gravity-core';
+    core.setAttribute('aria-hidden', 'true');
+    stage.appendChild(core);
     var balls = records.map(function (item, index) {
       var ratio = Math.sqrt(Math.max(0, (config.value(item) - minimum) / span));
       var size = Math.round(42 + ratio * 56);
+      var angle = index / records.length * Math.PI * 2 + (Math.random() - 0.5) * 0.45;
+      var orbitRadius = Math.min(width, height) * (0.19 + Math.random() * 0.29);
+      var centerX = width / 2;
+      var centerY = height / 2;
+      var speed = Math.sqrt(0.00016) * orbitRadius * (0.78 + Math.random() * 0.34);
       var node = document.createElement('button');
       node.type = 'button';
       node.className = 'listen-gravity-ball';
       node.dataset.gravityBall = String(index);
-      node.dataset.tone = String(index % 4);
       node.style.width = size + 'px';
       node.style.height = size + 'px';
-      node.textContent = gravityLabel(item, entity);
       node.setAttribute('aria-label', gravityLabel(item, entity) + ', ' + config.format(config.value(item)));
+      var image = document.createElement('img');
+      image.src = item.image_url;
+      image.alt = '';
+      image.loading = 'lazy';
+      image.decoding = 'async';
+      image.draggable = false;
+      node.appendChild(image);
       stage.appendChild(node);
-      return {
+      var ball = {
         item: item,
         node: node,
         size: size,
         radius: size / 2,
-        x: Math.random() * Math.max(1, width - size),
-        y: -size - Math.random() * 240,
-        vx: (Math.random() - 0.5) * 2.8,
-        vy: Math.random() * 0.8
+        x: Math.max(0, Math.min(width - size, centerX + Math.cos(angle) * orbitRadius - size / 2)),
+        y: Math.max(0, Math.min(height - size, centerY + Math.sin(angle) * orbitRadius - size / 2)),
+        vx: -Math.sin(angle) * speed,
+        vy: Math.cos(angle) * speed,
+        dragging: false
       };
+      attachGravityInteraction(ball);
+      return ball;
     });
 
-    gravityState = { stage: stage, entity: entity, metric: metric, balls: balls, records: records, visible: true, lastTime: 0, settledFrames: 0 };
+    gravityState = { stage: stage, entity: entity, metric: metric, balls: balls, records: records, visible: true, lastTime: 0 };
+    resetGravityDetail(entity);
     var summary = document.querySelector('[data-gravity-summary]');
     if (summary) {
-      summary.textContent = (entity === 'playlists' ? 'All ' : limit + '-ball sample from ') + pool.length + ' ' + entity + ' · ball area represents ' + config.label + '.';
+      summary.textContent = (entity === 'playlists' ? 'All ' : limit + '-object orbit from ') + pool.length + ' ' + entity + ' · object size represents ' + config.label + '.';
     }
     updateGravityMetricLabels(entity);
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
@@ -349,7 +441,7 @@
   function initializeGravity() {
     var stage = document.querySelector('[data-gravity-stage]');
     if (!stage || (gravityState && gravityState.stage === stage)) return;
-    gravityState = { stage: stage, entity: 'songs', metric: 'time', balls: [], records: [], visible: true, lastTime: 0, settledFrames: 0 };
+    gravityState = { stage: stage, entity: 'songs', metric: 'time', balls: [], records: [], visible: true, lastTime: 0 };
     renderGravity();
     if ('IntersectionObserver' in window) {
       new IntersectionObserver(function (entries) {
@@ -357,7 +449,6 @@
         gravityState.visible = entries[0].isIntersecting;
         if (gravityState.visible && !gravityFrame && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
           gravityState.lastTime = 0;
-          gravityState.settledFrames = 0;
           gravityFrame = window.requestAnimationFrame(drawGravityFrame);
         }
       }, { rootMargin: '120px' }).observe(stage);
@@ -428,7 +519,7 @@
       document.querySelectorAll('[data-gravity-metric]').forEach(function (button) {
         button.setAttribute('aria-pressed', button === gravityMetric ? 'true' : 'false');
       });
-      renderGravity();
+      renderGravity(true);
       return;
     }
 

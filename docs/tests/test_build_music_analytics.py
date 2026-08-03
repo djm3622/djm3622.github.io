@@ -31,6 +31,21 @@ class MusicAnalyticsHelpersTest(unittest.TestCase):
         self.assertEqual(analytics._catalog_duration_label(29 * 60_000), "29m")
         self.assertEqual(analytics._catalog_duration_label(90 * 60_000), "1h 30m")
 
+    def test_best_image_prefers_nearest_requested_size(self) -> None:
+        sources = [
+            {"width": 64, "url": "small.jpg"},
+            {"width": 640, "url": "large.jpg"},
+            {"width": 300, "url": "medium.jpg"},
+        ]
+
+        self.assertEqual(analytics._best_image(sources), "medium.jpg")
+
+    def test_entity_id_rejects_the_wrong_spotify_type(self) -> None:
+        self.assertEqual(
+            analytics._entity_id("spotify:artist:artist-id", "artist"), "artist-id"
+        )
+        self.assertIsNone(analytics._entity_id("spotify:track:track-id", "artist"))
+
 
 if __name__ == "__main__":
     unittest.main()

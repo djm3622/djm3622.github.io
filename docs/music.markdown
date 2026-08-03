@@ -184,10 +184,10 @@ description: An interactive look at David Millard's Spotify playlists, favorite 
   <section class="listen-section listen-gravity" id="listening-gravity" aria-labelledby="gravity-heading">
     <header class="listen-section-heading">
       <div>
-        <p class="listen-kicker">Listening gravity</p>
-        <h2 id="gravity-heading">Let the catalog fall into place.</h2>
+        <p class="listen-kicker">Catalog orbit</p>
+        <h2 id="gravity-heading">Everything pulls toward the center.</h2>
       </div>
-      <p>Each ball is real catalog data. Change the subject or what controls its mass, then tap a ball to inspect it.</p>
+      <p>Artwork orbits a shared center. Change what each object represents, then drag, flick, or tap one to inspect it.</p>
     </header>
 
     <div class="listen-gravity-toolbar">
@@ -207,14 +207,14 @@ description: An interactive look at David Millard's Spotify playlists, favorite 
           <button type="button" data-gravity-metric="odd" aria-pressed="false">Title length</button>
         </div>
       </div>
-      <button class="listen-gravity-remix" type="button" data-gravity-remix>Remix field <span aria-hidden="true">↻</span></button>
+      <button class="listen-gravity-remix" type="button" data-gravity-remix>Remix orbit <span aria-hidden="true">↻</span></button>
     </div>
 
     <p class="listen-gravity-summary" data-gravity-summary aria-live="polite"></p>
-    <div class="listen-gravity-stage" data-gravity-stage aria-label="Interactive gravity simulation"></div>
+    <div class="listen-gravity-stage" data-gravity-stage aria-label="Interactive orbital catalog simulation"></div>
     <div class="listen-gravity-detail" data-gravity-detail aria-live="polite">
-      <span>Tap a ball</span>
-      <strong>Choose a song to see why it has that mass.</strong>
+      <span>Choose an object</span>
+      <strong>Drag, flick, or tap artwork to reveal what is orbiting.</strong>
     </div>
   </section>
 
