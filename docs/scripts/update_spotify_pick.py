@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import base64
+import collections
 import datetime as dt
 import hashlib
 import json
@@ -19,7 +20,7 @@ from typing import Any, Mapping, Sequence
 
 ACCOUNTS_URL = "https://accounts.spotify.com/api/token"
 API_ROOT = "https://api.spotify.com/v1"
-SELECTION_SCHEMA_VERSION = 2
+SELECTION_SCHEMA_VERSION = 3
 
 
 class SpotifyError(RuntimeError):
@@ -179,6 +180,40 @@ def _eligible_tracks(items: Sequence[Mapping[str, Any]]) -> list[Mapping[str, An
     return tracks
 
 
+def _join_names(names: Sequence[str]) -> str:
+    if len(names) == 1:
+        return names[0]
+    if len(names) == 2:
+        return f"{names[0]} and {names[1]}"
+    return ", ".join(names[:-1]) + f", and {names[-1]}"
+
+
+def _describe_playlist(tracks: Sequence[Mapping[str, Any]]) -> str:
+    artist_counts: collections.Counter[str] = collections.Counter()
+    for track in tracks:
+        artists = track.get("artists", [])
+        if not isinstance(artists, list):
+            continue
+        for artist in artists:
+            if isinstance(artist, Mapping) and isinstance(artist.get("name"), str):
+                artist_counts[artist["name"]] += 1
+
+    if not artist_counts:
+        return f"A {len(tracks)}-track mix from this playlist."
+
+    leading_artists = [name for name, _count in artist_counts.most_common(3)]
+    artist_label = "artist" if len(artist_counts) == 1 else "artists"
+    if len(artist_counts) == 1:
+        return (
+            f"A {len(tracks)}-track collection centered on "
+            f"{leading_artists[0]}."
+        )
+    return (
+        f"A {len(tracks)}-track mix spanning {len(artist_counts)} "
+        f"{artist_label}, led by {_join_names(leading_artists)}."
+    )
+
+
 def _daily_random(selection_date: dt.date) -> random.Random:
     digest = hashlib.sha256(selection_date.isoformat().encode("ascii")).digest()
     return random.Random(int.from_bytes(digest, byteorder="big"))
@@ -235,6 +270,7 @@ def choose_selection(
     if selected_playlist is None:
         raise SpotifyError("No playable Spotify tracks were found in eligible playlists")
 
+    playlist_description = _describe_playlist(tracks)
     rng.shuffle(tracks)
     previous_track = previous.get("track")
     previous_track_id = previous_track.get("id") if isinstance(previous_track, Mapping) else None
@@ -268,6 +304,7 @@ def choose_selection(
             "name": selected_playlist.get("name") or "Spotify playlist",
             "url": f"https://open.spotify.com/playlist/{playlist_id}",
             "image_url": _first_image_url(selected_playlist),
+            "description": playlist_description,
         },
         "track": {
             "id": track_id,

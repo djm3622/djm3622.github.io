@@ -74,6 +74,10 @@ class ChooseSelectionTests(unittest.TestCase):
         self.assertEqual(selection["track"]["id"], "track-1")
         self.assertEqual(selection["track"]["artist_label"], "Selected artist")
         self.assertEqual(selection["playlist"]["image_url"], "https://example.com/playlist.jpg")
+        self.assertEqual(
+            selection["playlist"]["description"],
+            "A 1-track collection centered on Selected artist.",
+        )
         self.assertEqual(selection["track"]["image_url"], "https://example.com/album.jpg")
         self.assertEqual(selection["track"]["album"]["name"], "Selected album")
 
@@ -88,6 +92,19 @@ class ChooseSelectionTests(unittest.TestCase):
         second = spotify._daily_random(dt.date(2026, 8, 2)).random()
 
         self.assertEqual(first, second)
+
+    def test_playlist_description_summarizes_content(self) -> None:
+        tracks = [
+            {"artists": [{"name": "Alpha"}, {"name": "Beta"}]},
+            {"artists": [{"name": "Alpha"}]},
+            {"artists": [{"name": "Gamma"}]},
+            {"artists": [{"name": "Delta"}]},
+        ]
+
+        self.assertEqual(
+            spotify._describe_playlist(tracks),
+            "A 4-track mix spanning 4 artists, led by Alpha, Beta, and Gamma.",
+        )
 
 
 if __name__ == "__main__":

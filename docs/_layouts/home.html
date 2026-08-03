@@ -27,7 +27,9 @@ layout: default
                 {{ spotify_pick.playlist.name | escape }}
               </a>
             </h3>
-            <p>Randomly selected from your playlist rotation.</p>
+            {%- if spotify_pick.playlist.description -%}
+              <p>{{ spotify_pick.playlist.description | escape }}</p>
+            {%- endif -%}
           </div>
         </article>
 

@@ -1,0 +1,544 @@
+{
+  "generated_on": "2026-08-03",
+  "methodology": {
+    "playlist_count": 11,
+    "requested_playlist_count": 13,
+    "catalog_slots": 908,
+    "sampled_slots": 657,
+    "coverage_pct": 72.4,
+    "playcount_sample": 524,
+    "note": "Public Spotify embeds expose up to the first 100 tracks per playlist; public playlist pages expose play counts for a variable visible window. Statistics describe those visible windows, not private listening history."
+  },
+  "overview": {
+    "unique_tracks": 657,
+    "distinct_primary_artists": 234,
+    "sampled_hours": 33.5,
+    "median_duration_ms": 179090,
+    "median_duration_label": "2:59",
+    "explicit_pct": 60.0,
+    "under_two_minutes_pct": 9.1,
+    "over_six_minutes_pct": 0.6,
+    "repeat_track_count": 0,
+    "lowercase_title_pct": 4.7,
+    "punctuation_title_pct": 14.3
+  },
+  "playlists": [
+    {
+      "id": "5IvibMktz0TzHg6JyIXzSm",
+      "name": "illumi",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "total_tracks": 338,
+      "sampled_tracks": 100,
+      "sample_coverage_pct": 29.6,
+      "duration_hours": 4.4,
+      "median_duration_ms": 147439,
+      "median_duration_label": "2:27",
+      "explicit_pct": 47.0,
+      "distinct_primary_artists": 43,
+      "top_artist": "Yameii Online",
+      "top_artist_tracks": 16
+    },
+    {
+      "id": "1K3uznQ2lcsxnDk0MMQDZB",
+      "name": "zeke",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "total_tracks": 112,
+      "sampled_tracks": 100,
+      "sample_coverage_pct": 89.3,
+      "duration_hours": 4.4,
+      "median_duration_ms": 155617,
+      "median_duration_label": "2:36",
+      "explicit_pct": 10.0,
+      "distinct_primary_artists": 46,
+      "top_artist": "PinkPantheress",
+      "top_artist_tracks": 18
+    },
+    {
+      "id": "4gzEOrF8mCDu96BCLdwDya",
+      "name": "92.3",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "total_tracks": 96,
+      "sampled_tracks": 96,
+      "sample_coverage_pct": 100.0,
+      "duration_hours": 6.0,
+      "median_duration_ms": 220099,
+      "median_duration_label": "3:40",
+      "explicit_pct": 24.0,
+      "distinct_primary_artists": 50,
+      "top_artist": "Rihanna",
+      "top_artist_tracks": 8
+    },
+    {
+      "id": "38PmYBLrKbhBUlywggIVkP",
+      "name": "void",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "total_tracks": 28,
+      "sampled_tracks": 28,
+      "sample_coverage_pct": 100.0,
+      "duration_hours": 1.2,
+      "median_duration_ms": 144974,
+      "median_duration_label": "2:25",
+      "explicit_pct": 100.0,
+      "distinct_primary_artists": 2,
+      "top_artist": "Lil Tecca",
+      "top_artist_tracks": 27
+    },
+    {
+      "id": "6NDe4f42HlR8RJVhXn1ZCH",
+      "name": "he on something",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "total_tracks": 25,
+      "sampled_tracks": 25,
+      "sample_coverage_pct": 100.0,
+      "duration_hours": 1.5,
+      "median_duration_ms": 207038,
+      "median_duration_label": "3:27",
+      "explicit_pct": 100.0,
+      "distinct_primary_artists": 3,
+      "top_artist": "Lil Uzi Vert",
+      "top_artist_tracks": 23
+    },
+    {
+      "id": "1ulWy0m2PhTsQvCQi3o4Fu",
+      "name": "lucio",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "total_tracks": 35,
+      "sampled_tracks": 35,
+      "sample_coverage_pct": 100.0,
+      "duration_hours": 2.4,
+      "median_duration_ms": 222826,
+      "median_duration_label": "3:43",
+      "explicit_pct": 25.7,
+      "distinct_primary_artists": 20,
+      "top_artist": "Limp Bizkit",
+      "top_artist_tracks": 4
+    },
+    {
+      "id": "1BXO1VOQIBiYkHtGtopfwS",
+      "name": "yeatpilled",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "total_tracks": 97,
+      "sampled_tracks": 97,
+      "sample_coverage_pct": 100.0,
+      "duration_hours": 4.6,
+      "median_duration_ms": 167773,
+      "median_duration_label": "2:48",
+      "explicit_pct": 96.9,
+      "distinct_primary_artists": 18,
+      "top_artist": "Yeat",
+      "top_artist_tracks": 74
+    },
+    {
+      "id": "7p4fxMRZCuY6ZtNeu99vbK",
+      "name": "calm luh",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "total_tracks": 36,
+      "sampled_tracks": 36,
+      "sample_coverage_pct": 100.0,
+      "duration_hours": 1.5,
+      "median_duration_ms": 149201,
+      "median_duration_label": "2:29",
+      "explicit_pct": 97.2,
+      "distinct_primary_artists": 6,
+      "top_artist": "Ken Carson",
+      "top_artist_tracks": 22
+    },
+    {
+      "id": "1LmRGDRZzF0xsVaRezQTBn",
+      "name": "this u?",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "total_tracks": 71,
+      "sampled_tracks": 70,
+      "sample_coverage_pct": 98.6,
+      "duration_hours": 3.4,
+      "median_duration_ms": 180990,
+      "median_duration_label": "3:01",
+      "explicit_pct": 100.0,
+      "distinct_primary_artists": 12,
+      "top_artist": "Playboi Carti",
+      "top_artist_tracks": 54
+    },
+    {
+      "id": "0kVBGAMtUIeJQat1V7a861",
+      "name": "cloud",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "total_tracks": 19,
+      "sampled_tracks": 19,
+      "sample_coverage_pct": 100.0,
+      "duration_hours": 1.3,
+      "median_duration_ms": 242973,
+      "median_duration_label": "4:03",
+      "explicit_pct": 36.8,
+      "distinct_primary_artists": 8,
+      "top_artist": "Mac Miller",
+      "top_artist_tracks": 7
+    },
+    {
+      "id": "27edqSuOsVHom5TGPrtpy7",
+      "name": "flamed",
+      "owner": "ppdunder",
+      "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "total_tracks": 51,
+      "sampled_tracks": 51,
+      "sample_coverage_pct": 100.0,
+      "duration_hours": 2.9,
+      "median_duration_ms": 200547,
+      "median_duration_label": "3:21",
+      "explicit_pct": 90.2,
+      "distinct_primary_artists": 32,
+      "top_artist": "Chief Keef",
+      "top_artist_tracks": 8
+    }
+  ],
+  "unavailable_playlists": [
+    {
+      "id": "7MW7sGh5LeEQPjDreDZPw2",
+      "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
+      "reason": "Private or unavailable to Spotify's signed-out public pages"
+    },
+    {
+      "id": "44j4M8lvi3YrO6Q1xzWZ6W",
+      "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
+      "reason": "Private or unavailable to Spotify's signed-out public pages"
+    }
+  ],
+  "top_artists": [
+    {
+      "name": "Yeat",
+      "tracks": 74
+    },
+    {
+      "name": "Playboi Carti",
+      "tracks": 54
+    },
+    {
+      "name": "Lil Tecca",
+      "tracks": 27
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "tracks": 23
+    },
+    {
+      "name": "Ken Carson",
+      "tracks": 22
+    },
+    {
+      "name": "PinkPantheress",
+      "tracks": 18
+    },
+    {
+      "name": "Yameii Online",
+      "tracks": 16
+    },
+    {
+      "name": "siouxxie sixxsta",
+      "tracks": 10
+    },
+    {
+      "name": "piri",
+      "tracks": 10
+    },
+    {
+      "name": "ilykimchi",
+      "tracks": 10
+    },
+    {
+      "name": "YAZ",
+      "tracks": 8
+    },
+    {
+      "name": "Rihanna",
+      "tracks": 8
+    }
+  ],
+  "underrated": [
+    {
+      "id": "44Ov59zU6H47pxgkYxY0iR",
+      "title": "Think About It",
+      "artist": "Soulja Boy",
+      "url": "https://open.spotify.com/track/44Ov59zU6H47pxgkYxY0iR",
+      "duration_ms": 160888,
+      "duration_label": "2:41",
+      "playcount": 18265,
+      "playcount_label": "18.3K",
+      "playlist_count": 1
+    },
+    {
+      "id": "0hCrWhGNBdXxnOe1FA7Eqf",
+      "title": "TOLD YOU SO",
+      "artist": "MOTL,\u00a0KUTE,\u00a0MUPP",
+      "url": "https://open.spotify.com/track/0hCrWhGNBdXxnOe1FA7Eqf",
+      "duration_ms": 163404,
+      "duration_label": "2:43",
+      "playcount": 38147,
+      "playcount_label": "38.1K",
+      "playlist_count": 1
+    },
+    {
+      "id": "4wpZvII3Uf0JroY2F4Itch",
+      "title": "Loyal 2026",
+      "artist": "Siky Revange",
+      "url": "https://open.spotify.com/track/4wpZvII3Uf0JroY2F4Itch",
+      "duration_ms": 120353,
+      "duration_label": "2:00",
+      "playcount": 46134,
+      "playcount_label": "46.1K",
+      "playlist_count": 1
+    },
+    {
+      "id": "74zACoFCKdX7BZIoHOIXpL",
+      "title": "ready4thenight",
+      "artist": "she loves boon",
+      "url": "https://open.spotify.com/track/74zACoFCKdX7BZIoHOIXpL",
+      "duration_ms": 165173,
+      "duration_label": "2:45",
+      "playcount": 67580,
+      "playcount_label": "67.6K",
+      "playlist_count": 1
+    },
+    {
+      "id": "6QqNb0Z0hK0ox91UNyXiHI",
+      "title": "Pull Up on Meh",
+      "artist": "TwizzyRich Archived",
+      "url": "https://open.spotify.com/track/6QqNb0Z0hK0ox91UNyXiHI",
+      "duration_ms": 148466,
+      "duration_label": "2:28",
+      "playcount": 73840,
+      "playcount_label": "73.8K",
+      "playlist_count": 1
+    },
+    {
+      "id": "6xLcbflYsQX0mXgzjCJFME",
+      "title": "Magic",
+      "artist": "YAZ",
+      "url": "https://open.spotify.com/track/6xLcbflYsQX0mXgzjCJFME",
+      "duration_ms": 95510,
+      "duration_label": "1:36",
+      "playcount": 104915,
+      "playcount_label": "104.9K",
+      "playlist_count": 1
+    },
+    {
+      "id": "01MAfM7gDbLITfH5hzNRnV",
+      "title": "Sway (The Places She Goes)",
+      "artist": "TDJ",
+      "url": "https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV",
+      "duration_ms": 221477,
+      "duration_label": "3:41",
+      "playcount": 128829,
+      "playcount_label": "128.8K",
+      "playlist_count": 1
+    },
+    {
+      "id": "75Dbz8TGmMQO7UWoGXXP7a",
+      "title": "Just a Waste",
+      "artist": "SweedyQ",
+      "url": "https://open.spotify.com/track/75Dbz8TGmMQO7UWoGXXP7a",
+      "duration_ms": 127814,
+      "duration_label": "2:08",
+      "playcount": 158095,
+      "playcount_label": "158.1K",
+      "playlist_count": 1
+    },
+    {
+      "id": "4rYrZjR6UYMVCk8K7GGOsZ",
+      "title": "mystery",
+      "artist": "DJ Kuroneko",
+      "url": "https://open.spotify.com/track/4rYrZjR6UYMVCk8K7GGOsZ",
+      "duration_ms": 185147,
+      "duration_label": "3:05",
+      "playcount": 174148,
+      "playcount_label": "174.1K",
+      "playlist_count": 1
+    },
+    {
+      "id": "2vgAjPDbUaCso8TJusYy7T",
+      "title": "Wish You Were Here",
+      "artist": "YAZ",
+      "url": "https://open.spotify.com/track/2vgAjPDbUaCso8TJusYy7T",
+      "duration_ms": 184615,
+      "duration_label": "3:05",
+      "playcount": 209328,
+      "playcount_label": "209.3K",
+      "playlist_count": 1
+    },
+    {
+      "id": "5W5PwXbMWgqoVPxZuJvYgi",
+      "title": "magic",
+      "artist": "piri & tommy",
+      "url": "https://open.spotify.com/track/5W5PwXbMWgqoVPxZuJvYgi",
+      "duration_ms": 196285,
+      "duration_label": "3:16",
+      "playcount": 211854,
+      "playcount_label": "211.9K",
+      "playlist_count": 1
+    },
+    {
+      "id": "3uhi43nJhnGEUKv7IfAO4X",
+      "title": "All lies",
+      "artist": "luh shmunky !",
+      "url": "https://open.spotify.com/track/3uhi43nJhnGEUKv7IfAO4X",
+      "duration_ms": 175055,
+      "duration_label": "2:55",
+      "playcount": 212334,
+      "playcount_label": "212.3K",
+      "playlist_count": 1
+    }
+  ],
+  "repeat_offenders": [],
+  "oddities": {
+    "shortest": [
+      {
+        "id": "7wtU7N6R49UAbzQcLjRy5q",
+        "title": "if god didnt want us to snort worms he wouldn't have made them cylindrical!",
+        "artist": "MIMIDEATH",
+        "url": "https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q",
+        "duration_ms": 58363,
+        "duration_label": "0:58"
+      },
+      {
+        "id": "0vEUUAGYwtsDc4Xtjc6tWQ",
+        "title": "the con",
+        "artist": "MIMIDEATH",
+        "url": "https://open.spotify.com/track/0vEUUAGYwtsDc4Xtjc6tWQ",
+        "duration_ms": 67716,
+        "duration_label": "1:08"
+      },
+      {
+        "id": "2KajGSNZwQHFSv6rFJ3hY3",
+        "title": "Take Wrisks",
+        "artist": "Yameii Online,\u00a0Deko",
+        "url": "https://open.spotify.com/track/2KajGSNZwQHFSv6rFJ3hY3",
+        "duration_ms": 69903,
+        "duration_label": "1:10"
+      },
+      {
+        "id": "46SV2jEPKyTisZxXn0yb6q",
+        "title": "Bethlehem Entity Xmas Party Gifts Thru the Dna Spiral",
+        "artist": "MIMIDEATH",
+        "url": "https://open.spotify.com/track/46SV2jEPKyTisZxXn0yb6q",
+        "duration_ms": 71695,
+        "duration_label": "1:12"
+      },
+      {
+        "id": "7f5o7afMziVh2QUSKAcz1n",
+        "title": "abusive",
+        "artist": "MIMIDEATH",
+        "url": "https://open.spotify.com/track/7f5o7afMziVh2QUSKAcz1n",
+        "duration_ms": 72800,
+        "duration_label": "1:13"
+      }
+    ],
+    "longest": [
+      {
+        "id": "4rHZZAmHpZrA3iH5zx8frV",
+        "title": "Mirrors",
+        "artist": "Justin Timberlake",
+        "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV",
+        "duration_ms": 485598,
+        "duration_label": "8:06"
+      },
+      {
+        "id": "13Uvqll8OQDjw3wDweIK9y",
+        "title": "The Day That Never Comes",
+        "artist": "Metallica",
+        "url": "https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y",
+        "duration_ms": 476266,
+        "duration_label": "7:56"
+      },
+      {
+        "id": "5IX4TbIR5mMHGE4wiWwKW0",
+        "title": "One",
+        "artist": "Metallica",
+        "url": "https://open.spotify.com/track/5IX4TbIR5mMHGE4wiWwKW0",
+        "duration_ms": 447440,
+        "duration_label": "7:27"
+      },
+      {
+        "id": "6AioOohg4bQZFA4jIYQQ2r",
+        "title": "Forty Six & 2",
+        "artist": "TOOL",
+        "url": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r",
+        "duration_ms": 364520,
+        "duration_label": "6:05"
+      },
+      {
+        "id": "5bJ1DrEM4hNCafcDd1oxHx",
+        "title": "Self Care",
+        "artist": "Mac Miller",
+        "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
+        "duration_ms": 345133,
+        "duration_label": "5:45"
+      }
+    ],
+    "longest_titles": [
+      {
+        "id": "6WzRpISELf3YglGAh7TXcG",
+        "title": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+        "artist": "The Weeknd,\u00a0Playboi Carti,\u00a0Madonna",
+        "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG",
+        "duration_ms": 215466,
+        "duration_label": "3:35",
+        "characters": 98
+      },
+      {
+        "id": "7wtU7N6R49UAbzQcLjRy5q",
+        "title": "if god didnt want us to snort worms he wouldn't have made them cylindrical!",
+        "artist": "MIMIDEATH",
+        "url": "https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q",
+        "duration_ms": 58363,
+        "duration_label": "0:58",
+        "characters": 75
+      },
+      {
+        "id": "0gqfvyewE2Sh8TwKBFajCF",
+        "title": "Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)",
+        "artist": "Lil Uzi Vert,\u00a0Playboi Carti,\u00a0Offset",
+        "url": "https://open.spotify.com/track/0gqfvyewE2Sh8TwKBFajCF",
+        "duration_ms": 261982,
+        "duration_label": "4:22",
+        "characters": 58
+      },
+      {
+        "id": "3gkiUzAUBH035zRHy7KyJg",
+        "title": "It's On Again - From The Amazing Spider-Man 2 Soundtrack",
+        "artist": "Alicia Keys",
+        "url": "https://open.spotify.com/track/3gkiUzAUBH035zRHy7KyJg",
+        "duration_ms": 194868,
+        "duration_label": "3:15",
+        "characters": 56
+      },
+      {
+        "id": "22PnPdB20lq7wElHkk17oP",
+        "title": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+        "artist": "Mura Masa,\u00a0Lil Uzi Vert,\u00a0PinkPantheress,\u00a0Shygirl",
+        "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP",
+        "duration_ms": 172953,
+        "duration_label": "2:53",
+        "characters": 54
+      }
+    ]
+  }
+}
