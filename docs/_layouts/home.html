@@ -8,19 +8,55 @@ layout: default
   {%- assign spotify_pick = site.data.spotify_pick -%}
   {%- if spotify_pick.enabled and spotify_pick.playlist and spotify_pick.track -%}
     <section class="daily-listening" aria-labelledby="daily-listening-heading">
-      <div class="daily-listening-copy">
-        <p class="daily-listening-kicker">Daily listening · {{ spotify_pick.date | date: "%B %-d" }}</p>
-        <h2 id="daily-listening-heading">{{ spotify_pick.track.name | escape }}</h2>
-        {%- if spotify_pick.track.artist_label and spotify_pick.track.artist_label != "" -%}
-          <p class="daily-listening-artist">{{ spotify_pick.track.artist_label | escape }}</p>
-        {%- endif -%}
-        <p class="daily-listening-source">
-          Randomly selected from
-          <a href="{{ spotify_pick.playlist.url | escape }}" target="_blank" rel="noopener">
-            {{ spotify_pick.playlist.name | escape }}
-          </a>.
-        </p>
+      <div class="daily-listening-header">
+        <h2 id="daily-listening-heading">Daily listening</h2>
+        <time datetime="{{ spotify_pick.date | escape }}">{{ spotify_pick.date | date: "%B %-d" }}</time>
       </div>
+
+      <div class="daily-listening-selection">
+        <article class="daily-listening-item daily-listening-playlist">
+          {%- if spotify_pick.playlist.image_url -%}
+            <a class="daily-listening-art" href="{{ spotify_pick.playlist.url | escape }}" target="_blank" rel="noopener" aria-label="Open {{ spotify_pick.playlist.name | escape }} on Spotify">
+              <img src="{{ spotify_pick.playlist.image_url | escape }}" alt="Cover for {{ spotify_pick.playlist.name | escape }}" width="112" height="112" loading="lazy">
+            </a>
+          {%- endif -%}
+          <div class="daily-listening-copy">
+            <p class="daily-listening-label">Today’s playlist</p>
+            <h3>
+              <a href="{{ spotify_pick.playlist.url | escape }}" target="_blank" rel="noopener">
+                {{ spotify_pick.playlist.name | escape }}
+              </a>
+            </h3>
+            <p>Randomly selected from your playlist rotation.</p>
+          </div>
+        </article>
+
+        <article class="daily-listening-item daily-listening-track">
+          {%- if spotify_pick.track.image_url -%}
+            <a class="daily-listening-art" href="{{ spotify_pick.track.url | escape }}" target="_blank" rel="noopener" aria-label="Open {{ spotify_pick.track.name | escape }} on Spotify">
+              <img src="{{ spotify_pick.track.image_url | escape }}" alt="Album cover for {{ spotify_pick.track.name | escape }}" width="112" height="112" loading="lazy">
+            </a>
+          {%- endif -%}
+          <div class="daily-listening-copy">
+            <p class="daily-listening-label">Today’s song</p>
+            <h3>{{ spotify_pick.track.name | escape }}</h3>
+            {%- if spotify_pick.track.artist_label and spotify_pick.track.artist_label != "" -%}
+              <p class="daily-listening-artist">{{ spotify_pick.track.artist_label | escape }}</p>
+            {%- endif -%}
+            {%- if spotify_pick.track.album and spotify_pick.track.album.name -%}
+              <p class="daily-listening-album">
+                Album:
+                {%- if spotify_pick.track.album.url %}
+                  <a href="{{ spotify_pick.track.album.url | escape }}" target="_blank" rel="noopener">{{ spotify_pick.track.album.name | escape }}</a>
+                {%- else %}
+                  {{ spotify_pick.track.album.name | escape }}
+                {%- endif %}
+              </p>
+            {%- endif -%}
+          </div>
+        </article>
+      </div>
+
       <div class="daily-listening-actions">
         <button class="listen-along-button" type="button" data-spotify-listen>
           Listen along

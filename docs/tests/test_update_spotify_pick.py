@@ -33,6 +33,7 @@ class FakeClient:
                     "owner": {"id": "david"},
                     "collaborative": False,
                     "items": {"total": 2},
+                    "images": [{"url": "https://example.com/playlist.jpg"}],
                 },
             ],
             "/playlists/owned/items?limit=50": [
@@ -43,6 +44,11 @@ class FakeClient:
                         "type": "track",
                         "name": "Selected song",
                         "artists": [{"name": "Selected artist"}],
+                        "album": {
+                            "id": "album-1",
+                            "name": "Selected album",
+                            "images": [{"url": "https://example.com/album.jpg"}],
+                        },
                         "is_local": False,
                         "is_playable": True,
                     }
@@ -59,12 +65,23 @@ class FakeClient:
 
 class ChooseSelectionTests(unittest.TestCase):
     def test_selects_owned_playlist_and_playable_track(self) -> None:
-        selection = spotify.choose_selection(FakeClient(), dt.date(2026, 8, 2), {})
+        selection = spotify.choose_selection(
+            FakeClient(), dt.date(2026, 8, 2), {}, ["owned"]
+        )
 
         self.assertTrue(selection["enabled"])
         self.assertEqual(selection["playlist"]["id"], "owned")
         self.assertEqual(selection["track"]["id"], "track-1")
         self.assertEqual(selection["track"]["artist_label"], "Selected artist")
+        self.assertEqual(selection["playlist"]["image_url"], "https://example.com/playlist.jpg")
+        self.assertEqual(selection["track"]["image_url"], "https://example.com/album.jpg")
+        self.assertEqual(selection["track"]["album"]["name"], "Selected album")
+
+    def test_playlist_allowlist_is_strict(self) -> None:
+        with self.assertRaisesRegex(spotify.SpotifyError, "None of the configured"):
+            spotify.choose_selection(
+                FakeClient(), dt.date(2026, 8, 2), {}, ["followed"]
+            )
 
     def test_daily_seed_is_reproducible(self) -> None:
         first = spotify._daily_random(dt.date(2026, 8, 2)).random()

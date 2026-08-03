@@ -26,7 +26,10 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-        run: python3 docs/scripts/update_spotify_pick.py --output docs/_data/spotify_pick.json
+        run: >-
+          python3 docs/scripts/update_spotify_pick.py
+          --playlists docs/_data/spotify_playlists.json
+          --output docs/_data/spotify_pick.json
 
       - name: Publish the selection
         run: |

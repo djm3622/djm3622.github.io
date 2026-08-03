@@ -25,3 +25,8 @@ To connect the automation:
 
 The workflow then runs at 5:15 a.m. America/New_York each day. A failed Spotify
 request leaves the previous day's working selection unchanged.
+
+The eligible playlist IDs are maintained in
+[`docs/_data/spotify_playlists.json`](docs/_data/spotify_playlists.json). Only
+non-empty entries in that allowlist that the authenticated account owns or
+collaborates on are considered for the daily selection.
