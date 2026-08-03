@@ -48,6 +48,8 @@ header_pages:
   - about.markdown
   - publications.markdown
   - presentations.markdown
+  - music.markdown
+  - plugins.markdown
 
 defaults:
   - scope:
