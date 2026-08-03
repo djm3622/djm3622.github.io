@@ -1,6 +1,29 @@
 {
-  "enabled": false,
-  "date": null,
-  "playlist": null,
-  "track": null
+  "schema_version": 2,
+  "enabled": true,
+  "date": "2026-08-03",
+  "playlist_pool_hash": "2df553059d2de305",
+  "playlist": {
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d"
+  },
+  "track": {
+    "id": "6htWGNhskc5f0Xke88Vn5z",
+    "name": "Turn Your Phone Off",
+    "artists": [
+      "PinkPantheress",
+      "Destroy Lonely"
+    ],
+    "artist_label": "PinkPantheress, Destroy Lonely",
+    "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z",
+    "embed_url": "https://open.spotify.com/embed/track/6htWGNhskc5f0Xke88Vn5z?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d62305068da18b0fdcc0d9d3",
+    "album": {
+      "id": "2vumYq4zWRAEYa3f0567CL",
+      "name": "Turn Your Phone Off",
+      "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
+    }
+  }
 }
