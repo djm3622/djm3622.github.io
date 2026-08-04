@@ -18,7 +18,14 @@ import webbrowser
 from typing import Sequence
 
 REDIRECT_URI = "http://127.0.0.1:8765/callback"
-SCOPES = "playlist-read-private"
+SCOPES = " ".join(
+    (
+        "playlist-read-private",
+        "playlist-read-collaborative",
+        "user-read-recently-played",
+        "user-top-read",
+    )
+)
 
 
 class CallbackHandler(http.server.BaseHTTPRequestHandler):

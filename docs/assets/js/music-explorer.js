@@ -66,7 +66,7 @@
       ' accounts for ' + row.dataset.focus + '% of the visible tracks.'
     ));
     detail.querySelector('[data-detail-coverage]').textContent =
-      row.dataset.coverage + '% of this playlist was visible to the public sampler.';
+      row.dataset.coverage + '% of this playlist is represented in the authenticated snapshot.';
   }
 
   function filterGems(button) {
@@ -108,7 +108,7 @@
 
   var gravityMetricConfig = {
     songs: {
-      primary: { button: 'Public plays', label: 'public Spotify plays', value: function (item) { return item.playcount || 0; }, format: formatCount },
+      primary: { button: 'Recent plays', label: 'captured personal plays', value: function (item) { return item.recent_play_count || 0; }, format: formatPersonalCount },
       time: { button: 'Duration', label: 'track duration', value: function (item) { return item.duration_ms; }, format: formatDuration },
       odd: { button: 'Title length', label: 'title length', value: function (item) { return item.title.length; }, format: function (value) { return value + ' characters'; } }
     },
@@ -141,6 +141,10 @@
     if (value >= 1000000) return (value / 1000000).toFixed(1) + 'M plays';
     if (value >= 1000) return (value / 1000).toFixed(1) + 'K plays';
     return value + ' plays';
+  }
+
+  function formatPersonalCount(value) {
+    return value + (value === 1 ? ' captured play' : ' captured plays');
   }
 
   function formatDuration(value) {

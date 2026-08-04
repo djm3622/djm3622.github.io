@@ -191,6 +191,218 @@
   line-height: 1.5;
 }
 
+.listen-activity-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.listen-activity-stats article {
+  display: grid;
+  gap: 3px;
+  padding: 17px 18px;
+  background: var(--site-surface);
+  border: 1px solid var(--site-border);
+  border-radius: 12px;
+}
+
+.listen-activity-stats strong {
+  color: var(--listen-accent-strong);
+  font-size: 1.55rem;
+  letter-spacing: -0.04em;
+}
+
+.listen-activity-stats span,
+.listen-card-heading span {
+  color: var(--site-muted-soft);
+  font-size: 0.61rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.listen-activity-grid,
+.listen-affinity {
+  display: grid;
+  grid-template-columns: 1.35fr 0.65fr;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+.listen-activity-grid > article,
+.listen-affinity > article,
+.listen-activity-pending {
+  padding: 20px;
+  background: var(--site-surface);
+  border: 1px solid var(--site-border);
+  border-radius: 14px;
+}
+
+.listen-card-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: end;
+  margin-bottom: 18px;
+}
+
+.listen-card-heading h3 {
+  margin: 2px 0 0;
+  color: var(--site-heading);
+  font-size: 1.15rem;
+}
+
+.listen-card-heading small {
+  color: var(--site-muted-soft);
+  font-size: 0.62rem;
+}
+
+.listen-hour-chart {
+  display: grid;
+  grid-template-columns: repeat(24, 1fr);
+  gap: 3px;
+  align-items: end;
+  height: 158px;
+  padding-top: 8px;
+  border-bottom: 1px solid var(--site-border);
+}
+
+.listen-hour-chart > div {
+  display: grid;
+  grid-template-rows: 1fr 18px;
+  align-items: end;
+  height: 100%;
+}
+
+.listen-hour-chart span {
+  display: block;
+  min-height: 2px;
+  background: linear-gradient(180deg, var(--listen-accent), var(--listen-accent-strong));
+  border-radius: 3px 3px 0 0;
+}
+
+.listen-hour-chart small {
+  padding-top: 5px;
+  color: var(--site-muted-soft);
+  font-size: 0.5rem;
+  white-space: nowrap;
+}
+
+.listen-week-chart {
+  display: grid;
+  gap: 10px;
+}
+
+.listen-week-chart > div {
+  display: grid;
+  grid-template-columns: 28px minmax(60px, 1fr) 24px;
+  gap: 9px;
+  align-items: center;
+}
+
+.listen-week-chart span,
+.listen-week-chart strong {
+  color: var(--site-muted);
+  font-size: 0.65rem;
+}
+
+.listen-week-chart strong {
+  text-align: right;
+}
+
+.listen-week-chart i {
+  height: 7px;
+  overflow: hidden;
+  background: var(--site-surface-muted);
+  border-radius: 999px;
+}
+
+.listen-week-chart b {
+  display: block;
+  min-width: 2px;
+  height: 100%;
+  background: var(--listen-accent);
+  border-radius: inherit;
+}
+
+.listen-affinity {
+  grid-template-columns: 1fr 1fr;
+}
+
+.listen-affinity ol {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.listen-affinity li a {
+  display: grid;
+  grid-template-columns: 20px 38px minmax(0, 1fr);
+  gap: 10px;
+  align-items: center;
+  padding: 7px;
+  border-radius: 9px;
+  color: var(--site-heading);
+  text-decoration: none;
+}
+
+.listen-affinity li a:hover {
+  background: var(--site-surface-soft);
+}
+
+.listen-affinity li a > span {
+  color: var(--site-muted-soft);
+  font-size: 0.63rem;
+  text-align: center;
+}
+
+.listen-affinity img {
+  width: 38px;
+  height: 38px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.listen-affinity li div {
+  display: grid;
+  min-width: 0;
+}
+
+.listen-affinity li strong,
+.listen-affinity li small {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.listen-affinity li strong {
+  font-size: 0.76rem;
+}
+
+.listen-affinity li small {
+  color: var(--site-muted);
+  font-size: 0.64rem;
+}
+
+.listen-activity-window {
+  margin: 4px 2px 0;
+  color: var(--site-muted-soft);
+  font-size: 0.67rem;
+}
+
+.listen-activity-pending strong {
+  color: var(--site-heading);
+}
+
+.listen-activity-pending p {
+  margin: 5px 0 0;
+  color: var(--site-muted);
+  font-size: 0.78rem;
+}
+
 .listen-section {
   margin-bottom: 58px;
   scroll-margin-top: 82px;
@@ -907,6 +1119,15 @@
   }
 
   .listen-insights {
+    grid-template-columns: 1fr;
+  }
+
+  .listen-activity-stats {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .listen-activity-grid,
+  .listen-affinity {
     grid-template-columns: 1fr;
   }
 

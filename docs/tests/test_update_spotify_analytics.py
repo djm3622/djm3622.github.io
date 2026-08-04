@@ -1,0 +1,114 @@
+from __future__ import annotations
+
+import datetime as dt
+import importlib.util
+import sys
+import unittest
+from pathlib import Path
+from typing import Any, Mapping
+
+
+SCRIPTS_DIR = Path(__file__).parents[1] / "scripts"
+sys.path.insert(0, str(SCRIPTS_DIR))
+MODULE_PATH = SCRIPTS_DIR / "update_spotify_analytics.py"
+SPEC = importlib.util.spec_from_file_location("update_spotify_analytics", MODULE_PATH)
+assert SPEC is not None and SPEC.loader is not None
+analytics = importlib.util.module_from_spec(SPEC)
+SPEC.loader.exec_module(analytics)
+
+
+def _track(identifier: str = "track-1") -> Mapping[str, Any]:
+    return {
+        "id": identifier,
+        "type": "track",
+        "name": "Night Drive",
+        "duration_ms": 180_000,
+        "explicit": False,
+        "is_local": False,
+        "is_playable": True,
+        "artists": [{"id": "artist-1", "name": "Artist One"}],
+        "album": {"images": [{"url": "https://example.com/cover.jpg"}]},
+    }
+
+
+class FakeClient:
+    def get(self, path: str) -> Mapping[str, Any]:
+        if path == "/me":
+            return {"id": "david"}
+        if path == "/me/player/recently-played?limit=50":
+            return {
+                "items": [
+                    {"played_at": "2026-08-04T03:00:00Z", "track": _track()},
+                    {"played_at": "2026-08-04T04:00:00Z", "track": _track()},
+                ]
+            }
+        if path.startswith("/me/top/tracks"):
+            return {"items": [_track()]}
+        if path.startswith("/me/top/artists"):
+            return {
+                "items": [
+                    {
+                        "id": "artist-1",
+                        "name": "Artist One",
+                        "images": [{"url": "https://example.com/artist.jpg"}],
+                    }
+                ]
+            }
+        raise AssertionError(f"Unexpected get path: {path}")
+
+    def get_all(self, path: str) -> list[Mapping[str, Any]]:
+        if path == "/me/playlists?limit=50":
+            return [
+                {
+                    "id": "playlist-1",
+                    "name": "Private Mix",
+                    "owner": {"id": "david", "display_name": "David"},
+                    "collaborative": False,
+                    "items": {"total": 1},
+                    "images": [{"url": "https://example.com/playlist.jpg"}],
+                }
+            ]
+        if path == "/playlists/playlist-1/items?limit=50":
+            return [{"item": _track()}]
+        raise AssertionError(f"Unexpected get_all path: {path}")
+
+
+class SpotifyAnalyticsTest(unittest.TestCase):
+    def test_authenticated_snapshot_has_full_playlist_and_activity(self) -> None:
+        snapshot = analytics.build_snapshot(
+            FakeClient(),
+            ["playlist-1"],
+            {},
+            now=dt.datetime(2026, 8, 4, 12, tzinfo=dt.timezone.utc),
+        )
+
+        self.assertEqual(snapshot["methodology"]["source"], "authenticated_spotify_api")
+        self.assertEqual(snapshot["methodology"]["coverage_pct"], 100.0)
+        self.assertEqual(snapshot["playlists"][0]["name"], "Private Mix")
+        self.assertEqual(snapshot["activity"]["captured_plays"], 2)
+        self.assertEqual(
+            snapshot["activity"]["top_tracks"]["four_weeks"][0]["name"],
+            "Night Drive",
+        )
+        self.assertEqual(snapshot["discovery_tracks"][0]["recent_play_count"], 2)
+
+    def test_recent_history_deduplicates_and_expires_old_plays(self) -> None:
+        now = dt.datetime(2026, 8, 4, tzinfo=dt.timezone.utc)
+        current = {
+            "id": "track-1",
+            "played_at": "2026-08-03T12:00:00Z",
+            "title": "Current",
+        }
+        old = {
+            "id": "track-2",
+            "played_at": "2026-01-01T12:00:00Z",
+            "title": "Old",
+        }
+
+        merged = analytics._merge_recent_plays([current, old], [current], now)
+
+        self.assertEqual(merged, [current])
+
+
+if __name__ == "__main__":
+    unittest.main()

@@ -1,8 +1,15 @@
-name: Update daily Spotify pick
+name: Update Spotify data
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update-spotify.yml
+      - docs/scripts/spotify_authorize.py
+      - docs/scripts/update_spotify_analytics.py
   schedule:
-    - cron: "15 5 * * *"
+    - cron: "15 */2 * * *"
       timezone: "America/New_York"
   workflow_dispatch:
 
@@ -10,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-spotify-pick
+  group: spotify-data
   cancel-in-progress: false
 
 jobs:
@@ -31,14 +38,24 @@ jobs:
           --playlists docs/_data/spotify_playlists.json
           --output docs/_data/spotify_pick.json
 
-      - name: Publish the selection
+      - name: Refresh private music analytics
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: >-
+          python3 docs/scripts/update_spotify_analytics.py
+          --playlists docs/_data/spotify_playlists.json
+          --output docs/_data/music_analytics.json
+
+      - name: Publish Spotify data
         run: |
-          if git diff --quiet -- docs/_data/spotify_pick.json; then
-            echo "The daily selection is already current."
+          if git diff --quiet -- docs/_data/spotify_pick.json docs/_data/music_analytics.json; then
+            echo "Spotify data is already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/_data/spotify_pick.json
-          git commit -m "Update daily Spotify pick"
+          git add docs/_data/spotify_pick.json docs/_data/music_analytics.json
+          git commit -m "Update Spotify data"
           git push
