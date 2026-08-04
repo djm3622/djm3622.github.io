@@ -6,30 +6,28 @@ description: Plugins and software tools from David Millard.
 ---
 
 <section class="plugin-showcase" aria-labelledby="plugins-heading">
-  <header class="plugin-intro">
-    <div>
-      <p class="plugin-eyebrow">Audio plugin</p>
+  <article class="plugin-card">
+    <div class="plugin-card-copy">
+      <p class="plugin-eyebrow">Free and open-source VST3 effect</p>
       <h1 id="plugins-heading">SineSoda</h1>
-      <p class="plugin-lede">Fifteen ways to look at the same sound, live.</p>
-    </div>
-    <a class="plugin-link" href="{{ '/SineSoda/' | relative_url }}">
-      Open SineSoda <span aria-hidden="true">&#8599;</span>
-    </a>
-  </header>
+      <p class="plugin-tagline">See sound from every angle.</p>
+      <p class="plugin-summary">A real-time time-frequency analyzer with 15 transforms for exploring harmonics, transients, pitch, and motion.</p>
 
-  <div class="plugin-window">
-    <div class="plugin-window-bar" aria-hidden="true">
-      <span class="plugin-window-controls">
-        <span></span><span></span><span></span>
-      </span>
-      <span class="plugin-window-address">djm3622.github.io/SineSoda</span>
-      <span class="plugin-window-spacer"></span>
+      <ul class="plugin-details" aria-label="SineSoda highlights">
+        <li>15 analysis modes</li>
+        <li>macOS + Windows</li>
+        <li>Bit-exact pass-through</li>
+      </ul>
+
+      <a class="plugin-link" href="{{ '/SineSoda/' | relative_url }}">
+        Explore SineSoda <span aria-hidden="true">&#8594;</span>
+      </a>
     </div>
-    <iframe
-      class="plugin-window-preview"
-      src="{{ '/SineSoda/' | relative_url }}"
-      title="Live preview of the SineSoda website"
-      loading="eager">
-    </iframe>
-  </div>
+
+    <div class="plugin-card-visual" aria-hidden="true">
+      <span class="plugin-visual-number">15</span>
+      <span class="plugin-visual-label">ways to see sound</span>
+      <span class="plugin-visual-wave"></span>
+    </div>
+  </article>
 </section>
