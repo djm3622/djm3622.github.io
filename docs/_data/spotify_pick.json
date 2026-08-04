@@ -1,29 +1,31 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "27edqSuOsVHom5TGPrtpy7",
-    "name": "flamed",
-    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
-    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
+    "id": "5IvibMktz0TzHg6JyIXzSm",
+    "name": "illumi",
+    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+    "description": "A 320-track mix spanning 239 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
   },
   "track": {
-    "id": "6J1SjVyNDzkZ3sF85Ndd3B",
-    "name": "Faneto",
+    "id": "7rS4H6hEzdhv3LTWdQkMF8",
+    "name": "Offline !",
     "artists": [
-      "Chief Keef"
+      "1863",
+      "snorunt",
+      "dj33needler"
     ],
-    "artist_label": "Chief Keef",
-    "url": "https://open.spotify.com/track/6J1SjVyNDzkZ3sF85Ndd3B",
-    "embed_url": "https://open.spotify.com/embed/track/6J1SjVyNDzkZ3sF85Ndd3B?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273655fcf5eceb744b624bfe795",
+    "artist_label": "1863, snorunt, dj33needler",
+    "url": "https://open.spotify.com/track/7rS4H6hEzdhv3LTWdQkMF8",
+    "embed_url": "https://open.spotify.com/embed/track/7rS4H6hEzdhv3LTWdQkMF8?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27340c036a0ddb6687f1b356613",
     "album": {
-      "id": "53eRw37Sne9d5kCGwu0Yk0",
-      "name": "Back From The Dead 2",
-      "url": "https://open.spotify.com/album/53eRw37Sne9d5kCGwu0Yk0"
+      "id": "2UJFpgCEeL4tDg4G2fUZxI",
+      "name": "Teahupoo",
+      "url": "https://open.spotify.com/album/2UJFpgCEeL4tDg4G2fUZxI"
     }
   }
 }
