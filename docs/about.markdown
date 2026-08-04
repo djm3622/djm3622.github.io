@@ -148,6 +148,118 @@ description: Background, education, research interests, and contact information 
     text-underline-offset: 3px;
   }
 
+  .about-experience {
+    margin-top: 28px;
+    padding: 30px;
+    background: var(--site-surface);
+    border: 1px solid var(--site-border);
+    border-radius: 18px;
+    box-shadow: 0 10px 30px var(--site-shadow);
+  }
+
+  .about-experience-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .about-experience-header h2 {
+    margin: 0 0 5px;
+    font-size: 1.35rem;
+    letter-spacing: -0.015em;
+    line-height: 1.3;
+  }
+
+  .about-experience-header p {
+    margin: 0;
+    color: var(--site-muted);
+    font-size: 0.94rem;
+  }
+
+  .about-experience-link {
+    flex: 0 0 auto;
+    color: var(--site-accent-strong);
+    font-size: 0.88rem;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .about-experience-link:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .experience-timeline {
+    position: relative;
+    margin: 26px 0 0;
+    padding: 0 0 0 27px;
+    list-style: none;
+  }
+
+  .experience-timeline::before {
+    position: absolute;
+    top: 7px;
+    bottom: 7px;
+    left: 6px;
+    width: 2px;
+    background: var(--site-border);
+    content: "";
+  }
+
+  .experience-item {
+    position: relative;
+    display: grid;
+    grid-template-columns: 128px minmax(0, 1fr);
+    gap: 24px;
+    padding: 0 0 26px;
+  }
+
+  .experience-item:last-child {
+    padding-bottom: 0;
+  }
+
+  .experience-item::before {
+    position: absolute;
+    top: 5px;
+    left: -27px;
+    box-sizing: border-box;
+    width: 14px;
+    height: 14px;
+    background: var(--site-surface);
+    border: 3px solid var(--site-accent);
+    border-radius: 50%;
+    content: "";
+  }
+
+  .experience-date {
+    color: var(--site-accent-strong);
+    font-size: 0.82rem;
+    font-weight: 650;
+    line-height: 1.45;
+  }
+
+  .experience-copy h3 {
+    margin: 0 0 2px;
+    font-size: 1.02rem;
+    line-height: 1.35;
+  }
+
+  .experience-organization {
+    margin: 0 0 7px;
+    color: var(--site-muted);
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+
+  .experience-description {
+    margin: 0;
+    color: var(--site-text);
+    font-size: 0.94rem;
+    line-height: 1.62;
+  }
+
   @media (max-width: 700px) {
     .about-page {
       margin-top: 8px;
@@ -169,6 +281,25 @@ description: Background, education, research interests, and contact information 
       grid-template-columns: 1fr;
       gap: 24px;
       padding: 20px;
+    }
+
+    .about-experience {
+      padding: 20px;
+    }
+
+    .about-experience-header {
+      display: block;
+    }
+
+    .about-experience-link {
+      display: inline-block;
+      margin-top: 10px;
+    }
+
+    .experience-item {
+      grid-template-columns: 1fr;
+      gap: 5px;
+      padding-bottom: 24px;
     }
 
     .about-profile {
@@ -240,4 +371,92 @@ description: Background, education, research interests, and contact information 
       </section>
     </div>
   </div>
+
+  <section class="about-experience" aria-labelledby="work-experience-heading">
+    <header class="about-experience-header">
+      <div>
+        <h2 id="work-experience-heading">Work experience</h2>
+        <p>Research and engineering roles.</p>
+      </div>
+      <a
+        class="about-experience-link"
+        href="https://www.linkedin.com/in/david-millard-77b214243/"
+        target="_blank"
+        rel="me noopener">LinkedIn ↗</a>
+    </header>
+
+    <ol class="experience-timeline">
+      <li class="experience-item">
+        <span class="experience-date">Jun. – Aug. 2026</span>
+        <div class="experience-copy">
+          <h3>Research Assistant</h3>
+          <p class="experience-organization">University of Rochester · On-site</p>
+          <p class="experience-description">Research in audio engineering and digital signal processing.</p>
+        </div>
+      </li>
+
+      <li class="experience-item">
+        <span class="experience-date">Sep. – Nov. 2025</span>
+        <div class="experience-copy">
+          <h3>IRES-PROWIL Scholar</h3>
+          <p class="experience-organization">Rochester Institute of Technology · Gothenburg, Sweden</p>
+          <p class="experience-description">International research experience focused on machine learning and control for safety-critical systems.</p>
+        </div>
+      </li>
+
+      <li class="experience-item">
+        <span class="experience-date">May – Aug. 2025</span>
+        <div class="experience-copy">
+          <h3>SURF Research Fellowship</h3>
+          <p class="experience-organization">Rochester Institute of Technology · Rochester, New York</p>
+          <p class="experience-description">Research fellowship involving high-performance computing and scientific proposal development.</p>
+        </div>
+      </li>
+
+      <li class="experience-item">
+        <span class="experience-date">Feb. – May 2025</span>
+        <div class="experience-copy">
+          <h3>Research Assistant</h3>
+          <p class="experience-organization">Rochester Institute of Technology · Rochester, New York</p>
+          <p class="experience-description">Part-time research in reinforcement learning and deep learning.</p>
+        </div>
+      </li>
+
+      <li class="experience-item">
+        <span class="experience-date">Aug. 2024 – May 2025</span>
+        <div class="experience-copy">
+          <h3>Research Assistant</h3>
+          <p class="experience-organization">Lehigh University · Remote</p>
+          <p class="experience-description">Part-time research in deep learning methods for weather forecasting.</p>
+        </div>
+      </li>
+
+      <li class="experience-item">
+        <span class="experience-date">Jun. – Aug. 2024</span>
+        <div class="experience-copy">
+          <h3>REU Research Fellowship</h3>
+          <p class="experience-organization">Lehigh University · Bethlehem, Pennsylvania</p>
+          <p class="experience-description">Full-time summer research in numerical analysis and dynamical systems.</p>
+        </div>
+      </li>
+
+      <li class="experience-item">
+        <span class="experience-date">Sep. 2023 – Aug. 2024</span>
+        <div class="experience-copy">
+          <h3>Teaching Assistant</h3>
+          <p class="experience-organization">Rochester Institute of Technology · Part-time</p>
+          <p class="experience-description">Supported coursework in machine learning and deep learning.</p>
+        </div>
+      </li>
+
+      <li class="experience-item">
+        <span class="experience-date">Aug. 2022 – May 2023</span>
+        <div class="experience-copy">
+          <h3>Software Engineer Intern</h3>
+          <p class="experience-organization">Alpine Software Corporation · On-site</p>
+          <p class="experience-description">Full-time software engineering work using Delphi and Python.</p>
+        </div>
+      </li>
+    </ol>
+  </section>
 </div>
