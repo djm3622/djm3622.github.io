@@ -2,7 +2,7 @@
 layout: page
 title: Music
 permalink: /music/
-description: An interactive look at David Millard's private Spotify playlists and listening activity.
+description: A playful tour through David Millard's playlists, recent favorites, and listening habits.
 ---
 
 {%- assign music = site.data.music_analytics -%}
@@ -13,11 +13,11 @@ description: An interactive look at David Millard's private Spotify playlists an
 <div class="listen-page">
   <section class="listen-hero" aria-labelledby="music-heading">
     <div class="listen-hero-copy">
-      <p class="listen-kicker">Music · private listening analysis</p>
-      <h1 id="music-heading">Listening, mapped.</h1>
+      <p class="listen-kicker">Music · what I have been listening to</p>
+      <h1 id="music-heading">A look inside my playlists.</h1>
       <p>
-        An interactive look through my complete Spotify playlists and the rhythms of what
-        I actually listen to—from long-term favorites to late-night sessions.
+        Music is usually playing somewhere in my day. This is a tour through the playlists,
+        artists, and songs I keep coming back to—from longtime favorites to late-night finds.
       </p>
       <div class="listen-hero-links">
         <a class="listen-button" href="#playlist-explorer" data-section-jump>Explore the playlists</a>
@@ -25,16 +25,16 @@ description: An interactive look at David Millard's private Spotify playlists an
         <a href="#hidden-gems" data-section-jump>Find overlooked tracks</a>
       </div>
     </div>
-    <div class="listen-signal" aria-label="Summary of the analyzed music library">
+    <div class="listen-signal" aria-label="A quick look at my music collection">
       <div class="listen-signal-main">
         <span>{{ music.overview.unique_tracks }}</span>
-        <small>unique tracks in my playlists</small>
+        <small>songs across my playlists</small>
       </div>
       <div class="listen-signal-grid">
-        <p><strong>{{ music.methodology.playlist_count }}</strong> private + public playlists</p>
-        <p><strong>{{ music.overview.distinct_primary_artists }}</strong> primary artists</p>
+        <p><strong>{{ music.methodology.playlist_count }}</strong> playlists</p>
+        <p><strong>{{ music.overview.distinct_primary_artists }}</strong> artists</p>
         <p><strong>{{ music.overview.sampled_hours }}h</strong> of music</p>
-        <p><strong>{{ music.overview.median_duration_label }}</strong> median track</p>
+        <p><strong>{{ music.overview.median_duration_label }}</strong> typical song</p>
       </div>
     </div>
   </section>
@@ -42,40 +42,40 @@ description: An interactive look at David Millard's private Spotify playlists an
   <section class="listen-insights" aria-label="Key findings">
     <article>
       <span class="listen-insight-icon" aria-hidden="true">01</span>
-      <div><strong>{{ music.overview.repeat_track_count }} cross-playlist repeats</strong><p>The authenticated snapshot can see every configured playlist slot.</p></div>
+      <div><strong>A playlist for every mood</strong><p>Some are built for a single feeling; others wander across artists and eras.</p></div>
     </article>
     <article>
       <span class="listen-insight-icon" aria-hidden="true">02</span>
-      <div><strong>Some playlists are artist studies</strong><p>{{ playlists_by_size[0].top_artist | escape }} leads the largest playlist at {{ playlists_by_size[0].top_artist_share_pct }}%.</p></div>
+      <div><strong>Some playlists go deep on one artist</strong><p>{{ playlists_by_size[0].top_artist | escape }} appears more than anyone else in my largest playlist.</p></div>
     </article>
     <article>
       <span class="listen-insight-icon" aria-hidden="true">03</span>
-      <div><strong>Full-library coverage</strong><p>{{ music.methodology.coverage_pct }}% of {{ music.methodology.catalog_slots }} configured playlist slots are represented.</p></div>
+      <div><strong>Quick hits and long listens</strong><p>The songs range from {{ music.oddities.shortest[0].duration_label }} to {{ music.oddities.longest[0].duration_label }}.</p></div>
     </article>
   </section>
 
   <section class="listen-section listen-activity" id="listening-activity" aria-labelledby="activity-heading">
     <header class="listen-section-heading">
       <div>
-        <p class="listen-kicker">Private account signal</p>
-        <h2 id="activity-heading">When listening becomes a pattern.</h2>
+        <p class="listen-kicker">Listening lately</p>
+        <h2 id="activity-heading">What has been on repeat.</h2>
       </div>
-      <p>Recent plays are captured privately by the scheduled updater, then published here as a rolling aggregate.</p>
+      <p>A glimpse at when I tend to listen and which songs and artists have been filling my headphones.</p>
     </header>
 
     {%- if music.activity.enabled -%}
-      <div class="listen-activity-stats" aria-label="Captured listening summary">
-        <article><strong>{{ music.activity.captured_plays }}</strong><span>plays captured</span></article>
-        <article><strong>{{ music.activity.captured_hours }}h</strong><span>captured track time</span></article>
-        <article><strong>{{ music.activity.distinct_tracks }}</strong><span>distinct tracks</span></article>
-        <article><strong>{{ music.activity.distinct_artists }}</strong><span>distinct artists</span></article>
+      <div class="listen-activity-stats" aria-label="Recent listening at a glance">
+        <article><strong>{{ music.activity.captured_plays }}</strong><span>recent plays</span></article>
+        <article><strong>{{ music.activity.captured_hours }}h</strong><span>of music</span></article>
+        <article><strong>{{ music.activity.distinct_tracks }}</strong><span>different songs</span></article>
+        <article><strong>{{ music.activity.distinct_artists }}</strong><span>different artists</span></article>
       </div>
 
       <div class="listen-activity-grid">
         <article class="listen-hour-card">
           <div class="listen-card-heading">
-            <div><span>Time of day</span><h3>A day in plays</h3></div>
-            <small>America/New_York</small>
+            <div><span>Time of day</span><h3>A day in music</h3></div>
+            <small>Eastern Time</small>
           </div>
           <div class="listen-hour-chart" aria-label="Listening plays by hour of day">
             {%- for hour in music.activity.hour_bins -%}
@@ -90,7 +90,7 @@ description: An interactive look at David Millard's private Spotify playlists an
 
         <article class="listen-week-card">
           <div class="listen-card-heading">
-            <div><span>Weekly cadence</span><h3>Plays by day</h3></div>
+            <div><span>Across the week</span><h3>Listening by day</h3></div>
           </div>
           <div class="listen-week-chart">
             {%- for day in music.activity.weekday_bins -%}
@@ -107,7 +107,7 @@ description: An interactive look at David Millard's private Spotify playlists an
       <div class="listen-affinity">
         <article>
           <div class="listen-card-heading">
-            <div><span>Spotify affinity · four weeks</span><h3>Top tracks</h3></div>
+            <div><span>Last four weeks</span><h3>Top tracks</h3></div>
           </div>
           <ol>
             {%- for track in music.activity.top_tracks.four_weeks limit: 5 -%}
@@ -123,7 +123,7 @@ description: An interactive look at David Millard's private Spotify playlists an
         </article>
         <article>
           <div class="listen-card-heading">
-            <div><span>Spotify affinity · four weeks</span><h3>Top artists</h3></div>
+            <div><span>Last four weeks</span><h3>Top artists</h3></div>
           </div>
           <ol>
             {%- for artist in music.activity.top_artists.four_weeks limit: 5 -%}
@@ -131,18 +131,18 @@ description: An interactive look at David Millard's private Spotify playlists an
                 <a href="{{ artist.url }}" target="_blank" rel="noopener">
                   <span>{{ artist.rank }}</span>
                   <img src="{{ artist.image_url }}" alt="" loading="lazy">
-                  <div><strong>{{ artist.name | escape }}</strong><small>private ranking</small></div>
+                  <div><strong>{{ artist.name | escape }}</strong><small>one of my recent favorites</small></div>
                 </a>
               </li>
             {%- endfor -%}
           </ol>
         </article>
       </div>
-      <p class="listen-activity-window">Captured window: {{ music.activity.history_start | date: "%B %-d, %Y" }}–{{ music.activity.history_end | date: "%B %-d, %Y" }}. Private sessions and missed polling intervals may not appear.</p>
+      <p class="listen-activity-window">A look at my listening from {{ music.activity.history_start | date: "%B %-d, %Y" }} to {{ music.activity.history_end | date: "%B %-d, %Y" }}.</p>
     {%- else -%}
       <div class="listen-activity-pending">
-        <strong>Listening activity is ready to connect.</strong>
-        <p>The graphics will populate after Spotify authorization is renewed with recent-history and top-items access.</p>
+        <strong>More listening highlights are coming soon.</strong>
+        <p>Once there is something worth sharing, this space will fill with recent favorites and listening patterns.</p>
       </div>
     {%- endif -%}
   </section>
@@ -150,10 +150,10 @@ description: An interactive look at David Millard's private Spotify playlists an
   <section class="listen-section" id="playlist-explorer" aria-labelledby="playlist-heading">
     <header class="listen-section-heading">
       <div>
-        <p class="listen-kicker">Interactive explorer</p>
-        <h2 id="playlist-heading">Compare the playlists</h2>
+        <p class="listen-kicker">Playlist tour</p>
+        <h2 id="playlist-heading">Browse my playlists</h2>
       </div>
-      <p>Change the lens, then select any playlist for its profile.</p>
+      <p>Choose what you want to compare, then pick a playlist for a closer look.</p>
     </header>
 
     <div class="listen-metric-tabs" aria-label="Playlist comparison metric">
@@ -181,7 +181,6 @@ description: An interactive look at David Millard's private Spotify playlists an
             data-duration="{{ playlist.median_duration_label }}"
             data-top-artist="{{ playlist.top_artist | escape }}"
             data-top-artist-tracks="{{ playlist.top_artist_tracks }}"
-            data-coverage="{{ playlist.sample_coverage_pct }}"
             aria-pressed="{% if forloop.first %}true{% else %}false{% endif %}"
           >
             <img src="{{ playlist.image_url }}" alt="" loading="lazy">
@@ -209,13 +208,11 @@ description: An interactive look at David Millard's private Spotify playlists an
           <div><dt>Tracks</dt><dd data-detail-tracks>{{ initial_playlist.total_tracks }}</dd></div>
           <div><dt>Artists</dt><dd data-detail-artists>{{ initial_playlist.distinct_primary_artists }}</dd></div>
           <div><dt>Explicit</dt><dd data-detail-explicit>{{ initial_playlist.explicit_pct }}%</dd></div>
-          <div><dt>Median</dt><dd data-detail-duration>{{ initial_playlist.median_duration_label }}</dd></div>
+          <div><dt>Typical song</dt><dd data-detail-duration>{{ initial_playlist.median_duration_label }}</dd></div>
         </dl>
         <p data-detail-summary>
-          <strong>{{ initial_playlist.top_artist | escape }}</strong> accounts for
-          {{ initial_playlist.top_artist_share_pct }}% of the visible tracks.
+          <strong>{{ initial_playlist.top_artist | escape }}</strong> appears more often than any other artist here.
         </p>
-        <small data-detail-coverage>{{ initial_playlist.sample_coverage_pct }}% of this playlist is represented in the authenticated snapshot.</small>
       </aside>
     </div>
   </section>
@@ -226,7 +223,7 @@ description: An interactive look at David Millard's private Spotify playlists an
         <p class="listen-kicker">Hidden gems</p>
         <h2 id="gems-heading">The quieter corner</h2>
       </div>
-      <p>Tracks with the smallest public Spotify play counts in the visible sample.</p>
+      <p>A few lesser-known songs from my playlists, based on their public play counts.</p>
     </header>
 
     <div class="listen-gem-controls" aria-label="Filter hidden gems by play count">
@@ -261,7 +258,7 @@ description: An interactive look at David Millard's private Spotify playlists an
     <div class="listen-discovery-copy">
       <p class="listen-kicker">Discovery mix</p>
       <h2 id="discovery-heading">Pick something I might defend too enthusiastically.</h2>
-      <p>Every pick samples all {{ music.discovery_tracks.size }} unique tracks in the authenticated snapshot—not only the obvious favorites.</p>
+      <p>Every pick comes from the {{ music.discovery_tracks.size }} songs gathered here, not just the obvious favorites.</p>
     </div>
     <div class="listen-picker" aria-live="polite">
       <div>
@@ -278,10 +275,10 @@ description: An interactive look at David Millard's private Spotify playlists an
   <section class="listen-section listen-gravity" id="listening-gravity" aria-labelledby="gravity-heading">
     <header class="listen-section-heading">
       <div>
-        <p class="listen-kicker">Catalog orbit</p>
+        <p class="listen-kicker">Music in motion</p>
         <h2 id="gravity-heading">Everything pulls toward the center.</h2>
       </div>
-      <p>Artwork orbits a shared center. Change what each object represents, then drag, flick, or tap one to inspect it.</p>
+      <p>Album artwork drifts around the page. Switch between songs, artists, and playlists, then drag or tap anything that catches your eye.</p>
     </header>
 
     <div class="listen-gravity-toolbar">
@@ -305,7 +302,7 @@ description: An interactive look at David Millard's private Spotify playlists an
     </div>
 
     <p class="listen-gravity-summary" data-gravity-summary aria-live="polite"></p>
-    <div class="listen-gravity-stage" data-gravity-stage aria-label="Interactive orbital catalog simulation"></div>
+    <div class="listen-gravity-stage" data-gravity-stage aria-label="Interactive music artwork"></div>
     <div class="listen-gravity-detail" data-gravity-detail aria-live="polite">
       <span>Choose an object</span>
       <strong>Drag, flick, or tap artwork to reveal what is orbiting.</strong>
@@ -316,7 +313,7 @@ description: An interactive look at David Millard's private Spotify playlists an
     <div>
       <p class="listen-kicker">One useful oddity</p>
       <h2 id="range-heading">The duration range</h2>
-      <p>The shortest sampled track also has one of the longest titles.</p>
+      <p>Among the songs here, the shortest one also has one of the longest titles.</p>
     </div>
     <div class="listen-range-chart">
       <div class="listen-range-line" aria-hidden="true"><span></span></div>
@@ -336,15 +333,12 @@ description: An interactive look at David Millard's private Spotify playlists an
   </section>
 
   <details class="listen-method" id="method">
-    <summary>About the data and its limitations</summary>
+    <summary>A quick note about these numbers</summary>
     <div>
-      <p>{{ music.methodology.note }}</p>
       <p>
-        This snapshot covers {{ music.methodology.sampled_slots }} of {{ music.methodology.catalog_slots }}
-        authenticated playlist slots ({{ music.methodology.coverage_pct }}%). Recent listening is retained for
-        up to 90 days from the point collection begins. Track time sums full track durations and therefore does
-        not measure skips; Spotify top-item rankings are affinity estimates, not exact lifetime play counts.
-        Snapshot: {{ music.generated_on | date: "%B %-d, %Y" }}.
+        The songs and totals on this page will change as my playlists do. A song may
+        appear in more than one playlist, and public play counts are not available for every track.
+        Last updated {{ music.generated_on | date: "%B %-d, %Y" }}.
       </p>
     </div>
   </details>

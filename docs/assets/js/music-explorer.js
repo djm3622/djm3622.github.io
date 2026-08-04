@@ -63,10 +63,8 @@
     artist.textContent = row.dataset.topArtist;
     summary.appendChild(artist);
     summary.appendChild(document.createTextNode(
-      ' accounts for ' + row.dataset.focus + '% of the visible tracks.'
+      ' appears more often than any other artist here.'
     ));
-    detail.querySelector('[data-detail-coverage]').textContent =
-      row.dataset.coverage + '% of this playlist is represented in the authenticated snapshot.';
   }
 
   function filterGems(button) {
@@ -83,7 +81,7 @@
     var status = document.querySelector('[data-gem-status]');
     if (status) {
       status.textContent = selected === 'all'
-        ? 'Showing all ' + visible + ' overlooked tracks in the sample.'
+        ? 'Showing all ' + visible + ' overlooked tracks.'
         : 'Showing ' + visible + ' tracks under ' + Math.round(threshold / 1000) + 'K plays.';
     }
   }
@@ -108,19 +106,19 @@
 
   var gravityMetricConfig = {
     songs: {
-      primary: { button: 'Recent plays', label: 'captured personal plays', value: function (item) { return item.recent_play_count || 0; }, format: formatPersonalCount },
-      time: { button: 'Duration', label: 'track duration', value: function (item) { return item.duration_ms; }, format: formatDuration },
+      primary: { button: 'Recent plays', label: 'recent plays', value: function (item) { return item.recent_play_count || 0; }, format: formatPersonalCount },
+      time: { button: 'Duration', label: 'longer songs', value: function (item) { return item.duration_ms; }, format: formatDuration },
       odd: { button: 'Title length', label: 'title length', value: function (item) { return item.title.length; }, format: function (value) { return value + ' characters'; } }
     },
     artists: {
-      primary: { button: 'Track count', label: 'tracks in the catalog', value: function (item) { return item.tracks; }, format: function (value) { return value + (value === 1 ? ' track' : ' tracks'); } },
-      time: { button: 'Catalog time', label: 'catalog time', value: function (item) { return item.duration_ms; }, format: formatCatalogTime },
-      odd: { button: 'Explicit share', label: 'explicit-track share', value: function (item) { return item.explicit_pct; }, format: function (value) { return value + '% explicit'; } }
+      primary: { button: 'Track count', label: 'more songs', value: function (item) { return item.tracks; }, format: function (value) { return value + (value === 1 ? ' track' : ' tracks'); } },
+      time: { button: 'Total music', label: 'more music', value: function (item) { return item.duration_ms; }, format: formatCatalogTime },
+      odd: { button: 'Explicit share', label: 'more explicit songs', value: function (item) { return item.explicit_pct; }, format: function (value) { return value + '% explicit'; } }
     },
     playlists: {
-      primary: { button: 'Library size', label: 'playlist size', value: function (item) { return item.total_tracks; }, format: function (value) { return value + ' tracks'; } },
-      time: { button: 'Sampled time', label: 'sampled catalog time', value: function (item) { return item.duration_hours; }, format: function (value) { return value + ' hours'; } },
-      odd: { button: 'Artist focus', label: 'top-artist concentration', value: function (item) { return item.top_artist_share_pct; }, format: function (value) { return value + '% one artist'; } }
+      primary: { button: 'Library size', label: 'more songs', value: function (item) { return item.total_tracks; }, format: function (value) { return value + ' tracks'; } },
+      time: { button: 'Playlist time', label: 'longer playlists', value: function (item) { return item.duration_hours; }, format: function (value) { return value + ' hours'; } },
+      odd: { button: 'Artist focus', label: 'more songs by the leading artist', value: function (item) { return item.top_artist_share_pct; }, format: function (value) { return value + '% one artist'; } }
     }
   };
 
@@ -144,7 +142,7 @@
   }
 
   function formatPersonalCount(value) {
-    return value + (value === 1 ? ' captured play' : ' captured plays');
+    return value + (value === 1 ? ' recent play' : ' recent plays');
   }
 
   function formatDuration(value) {
@@ -426,7 +424,8 @@
     resetGravityDetail(entity);
     var summary = document.querySelector('[data-gravity-summary]');
     if (summary) {
-      summary.textContent = (entity === 'playlists' ? 'All ' : limit + '-object orbit from ') + pool.length + ' ' + entity + ' · object size represents ' + config.label + '.';
+      summary.textContent = (entity === 'playlists' ? 'Showing all ' + pool.length : 'Showing ' + limit + ' of ' + pool.length) +
+        ' ' + entity + '. Bigger artwork means ' + config.label + '.';
     }
     updateGravityMetricLabels(entity);
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
