@@ -22,7 +22,7 @@ description: Plugins and software tools from David Millard.
       <span class="plugin-window-controls">
         <span></span><span></span><span></span>
       </span>
-      <span class="plugin-window-address">djm3622.github.io/SineSoda</span>
+      <span class="plugin-window-address">notdavidmill.dev/SineSoda</span>
       <span class="plugin-window-spacer"></span>
     </div>
     <iframe
