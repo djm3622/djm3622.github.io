@@ -89,6 +89,27 @@
     });
   }
 
+  function updatePageStyles(nextDocument) {
+    var pageStyleSelector = 'link[data-page-style], link[href$="/assets/css/plugins.css"]';
+    document.head.querySelectorAll(pageStyleSelector).forEach(function (stylesheet) {
+      stylesheet.remove();
+    });
+    nextDocument.head.querySelectorAll(pageStyleSelector).forEach(function (stylesheet) {
+      document.head.appendChild(stylesheet.cloneNode(true));
+    });
+  }
+
+  function activateContentScripts(container) {
+    container.querySelectorAll('script').forEach(function (script) {
+      var activeScript = document.createElement('script');
+      Array.from(script.attributes).forEach(function (attribute) {
+        activeScript.setAttribute(attribute.name, attribute.value);
+      });
+      activeScript.textContent = script.textContent;
+      script.replaceWith(activeScript);
+    });
+  }
+
   function updateNavigation(url) {
     var links = document.querySelectorAll('.site-nav .page-link');
     var foundExactMatch = false;
@@ -137,6 +158,8 @@
 
         currentMain.innerHTML = nextMain.innerHTML;
         updateMetadata(nextDocument);
+        updatePageStyles(nextDocument);
+        activateContentScripts(currentMain);
         updateNavigation(url);
         if (addHistory) window.history.pushState({}, '', url.href);
         window.scrollTo(0, 0);
