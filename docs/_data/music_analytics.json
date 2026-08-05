@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 320,
       "sampled_tracks": 320,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -11067,7 +11067,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf3efadb9aa719e504a0736",
       "playcount": null,
-      "recent_play_count": 1
+      "recent_play_count": 4
     },
     {
       "id": "4j3sLMVOMeJKnW7dhSBbJZ",
@@ -16149,7 +16149,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
       "playcount": null,
-      "recent_play_count": 26
+      "recent_play_count": 27
     },
     {
       "id": "0BybFIHpANp0dYoiQec8XZ",
@@ -16591,25 +16591,25 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 78,
-    "captured_hours": 3.3,
-    "distinct_tracks": 28,
-    "distinct_artists": 24,
+    "captured_plays": 84,
+    "captured_hours": 3.6,
+    "distinct_tracks": 30,
+    "distinct_artists": 26,
     "history_start": "2026-08-02",
     "history_end": "2026-08-05",
-    "last_played_at": "2026-08-05T01:24:40.846Z",
+    "last_played_at": "2026-08-05T05:18:41.131Z",
     "hour_bins": [
       {
         "hour": 0,
         "label": "12 AM",
-        "plays": 1,
-        "height_pct": 7
+        "plays": 4,
+        "height_pct": 29
       },
       {
         "hour": 1,
         "label": "1 AM",
-        "plays": 4,
-        "height_pct": 29
+        "plays": 5,
+        "height_pct": 36
       },
       {
         "hour": 2,
@@ -16740,8 +16740,8 @@
       {
         "hour": 23,
         "label": "11 PM",
-        "plays": 9,
-        "height_pct": 64
+        "plays": 11,
+        "height_pct": 79
       }
     ],
     "weekday_bins": [
@@ -16752,13 +16752,13 @@
       },
       {
         "label": "Tue",
-        "plays": 27,
-        "width_pct": 75
+        "plays": 29,
+        "width_pct": 81
       },
       {
         "label": "Wed",
-        "plays": 0,
-        "width_pct": 0
+        "plays": 4,
+        "width_pct": 11
       },
       {
         "label": "Thu",
@@ -16788,7 +16788,7 @@
         "artist": "franz1",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
         "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw",
-        "plays": 26
+        "plays": 27
       },
       {
         "id": "0daWH6qNvD4kj0ybK7QvGg",
@@ -16805,6 +16805,14 @@
         "image_url": "https://i.scdn.co/image/ab67616d0000b273589138eb4f42c9abcf848ba0",
         "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h",
         "plays": 6
+      },
+      {
+        "id": "6OmifNc6mKmrQ8un4dPHQI",
+        "name": "Novocaine 2",
+        "artist": "Cloke, Shiloh Dynasty",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf3efadb9aa719e504a0736",
+        "url": "https://open.spotify.com/track/6OmifNc6mKmrQ8un4dPHQI",
+        "plays": 4
       },
       {
         "id": "61VJJGzYRkjLtju99MnL0s",
@@ -16837,20 +16845,12 @@
         "image_url": "https://i.scdn.co/image/ab67616d0000b27356ba832535abe30d2ed5e9f2",
         "url": "https://open.spotify.com/track/759azhbIMyf61kmUCfg6TK",
         "plays": 2
-      },
-      {
-        "id": "1YhNljrEyPYaYNgBNsWap5",
-        "name": "Turn it up",
-        "artist": "PinkPantheress",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b431072a4d9a3f62f62df133",
-        "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5",
-        "plays": 2
       }
     ],
     "recent_top_artists": [
       {
         "name": "franz1",
-        "plays": 26
+        "plays": 27
       },
       {
         "name": "piri",
@@ -16865,6 +16865,10 @@
         "plays": 6
       },
       {
+        "name": "Cloke",
+        "plays": 4
+      },
+      {
         "name": "1863",
         "plays": 4
       },
@@ -16875,10 +16879,6 @@
       {
         "name": "Yazida",
         "plays": 3
-      },
-      {
-        "name": "Kelly Clarkson",
-        "plays": 2
       }
     ],
     "top_tracks": {
@@ -17798,6 +17798,66 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-05T05:18:41.131Z",
+        "id": "6OmifNc6mKmrQ8un4dPHQI",
+        "title": "Novocaine 2",
+        "artist": "Cloke, Shiloh Dynasty",
+        "primary_artist": "Cloke",
+        "duration_ms": 147156,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf3efadb9aa719e504a0736",
+        "url": "https://open.spotify.com/track/6OmifNc6mKmrQ8un4dPHQI"
+      },
+      {
+        "played_at": "2026-08-05T04:52:04.733Z",
+        "id": "5POtlbMQGFnMDjiEBszBDi",
+        "title": "Sommer in Berlin",
+        "artist": "miiraqt",
+        "primary_artist": "miiraqt",
+        "duration_ms": 157714,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27300335b50360f82398449537c",
+        "url": "https://open.spotify.com/track/5POtlbMQGFnMDjiEBszBDi"
+      },
+      {
+        "played_at": "2026-08-05T04:50:25.092Z",
+        "id": "6OmifNc6mKmrQ8un4dPHQI",
+        "title": "Novocaine 2",
+        "artist": "Cloke, Shiloh Dynasty",
+        "primary_artist": "Cloke",
+        "duration_ms": 147156,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf3efadb9aa719e504a0736",
+        "url": "https://open.spotify.com/track/6OmifNc6mKmrQ8un4dPHQI"
+      },
+      {
+        "played_at": "2026-08-05T04:47:31.890Z",
+        "id": "3h7QZ9cXhlOoh1ywJWS8GH",
+        "title": "Nothing like uuu",
+        "artist": "Nettspend",
+        "primary_artist": "Nettspend",
+        "duration_ms": 112243,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737aad2d9a061b550958e5847d",
+        "url": "https://open.spotify.com/track/3h7QZ9cXhlOoh1ywJWS8GH"
+      },
+      {
+        "played_at": "2026-08-05T03:52:23.087Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T03:50:21.432Z",
+        "id": "6OmifNc6mKmrQ8un4dPHQI",
+        "title": "Novocaine 2",
+        "artist": "Cloke, Shiloh Dynasty",
+        "primary_artist": "Cloke",
+        "duration_ms": 147156,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf3efadb9aa719e504a0736",
+        "url": "https://open.spotify.com/track/6OmifNc6mKmrQ8un4dPHQI"
+      },
       {
         "played_at": "2026-08-05T01:24:40.846Z",
         "id": "64N9EFCiMOoVIqQBRJBfZM",
