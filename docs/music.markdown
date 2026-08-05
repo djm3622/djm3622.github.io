@@ -14,10 +14,10 @@ description: A playful tour through David Millard's playlists, recent favorites,
   <section class="listen-hero" aria-labelledby="music-heading">
     <div class="listen-hero-copy">
       <p class="listen-kicker">Music · what I have been listening to</p>
-      <h1 id="music-heading">A look inside my playlists.</h1>
+      <h1 id="music-heading">Even more about me</h1>
       <p>
         Music is usually playing somewhere in my day. This is a tour through the playlists,
-        artists, and songs I keep coming back to—from longtime favorites to late-night finds.
+        artists, and songs I love to hear.
       </p>
       <div class="listen-hero-links">
         <a class="listen-button" href="#playlist-explorer" data-section-jump>Explore the playlists</a>
@@ -257,7 +257,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
   <section class="listen-discovery" aria-labelledby="discovery-heading">
     <div class="listen-discovery-copy">
       <p class="listen-kicker">Discovery mix</p>
-      <h2 id="discovery-heading">Pick something I might defend too enthusiastically.</h2>
+      <h2 id="discovery-heading">pick a random song from list</h2>
       <p>Every pick comes from the {{ music.discovery_tracks.size }} songs gathered here, not just the obvious favorites.</p>
     </div>
     <div class="listen-picker" aria-live="polite">
@@ -276,7 +276,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
     <header class="listen-section-heading">
       <div>
         <p class="listen-kicker">Music in motion</p>
-        <h2 id="gravity-heading">Everything pulls toward the center.</h2>
+        <h2 id="gravity-heading">catch an orbit</h2>
       </div>
       <p>Album artwork drifts around the page. Switch between songs, artists, and playlists, then drag or tap anything that catches your eye.</p>
     </header>
