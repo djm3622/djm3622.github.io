@@ -1,31 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "5IvibMktz0TzHg6JyIXzSm",
-    "name": "illumi",
-    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
-    "description": "A 320-track mix spanning 239 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 107-track mix spanning 67 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "7rS4H6hEzdhv3LTWdQkMF8",
-    "name": "Offline !",
+    "id": "6OmifNc6mKmrQ8un4dPHQI",
+    "name": "Novocaine 2",
     "artists": [
-      "1863",
-      "snorunt",
-      "dj33needler"
+      "Cloke",
+      "Shiloh Dynasty"
     ],
-    "artist_label": "1863, snorunt, dj33needler",
-    "url": "https://open.spotify.com/track/7rS4H6hEzdhv3LTWdQkMF8",
-    "embed_url": "https://open.spotify.com/embed/track/7rS4H6hEzdhv3LTWdQkMF8?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27340c036a0ddb6687f1b356613",
+    "artist_label": "Cloke, Shiloh Dynasty",
+    "url": "https://open.spotify.com/track/6OmifNc6mKmrQ8un4dPHQI",
+    "embed_url": "https://open.spotify.com/embed/track/6OmifNc6mKmrQ8un4dPHQI?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf3efadb9aa719e504a0736",
     "album": {
-      "id": "2UJFpgCEeL4tDg4G2fUZxI",
-      "name": "Teahupoo",
-      "url": "https://open.spotify.com/album/2UJFpgCEeL4tDg4G2fUZxI"
+      "id": "6UJj51XRsw27fQaxDjYZ3c",
+      "name": "Gamma",
+      "url": "https://open.spotify.com/album/6UJj51XRsw27fQaxDjYZ3c"
     }
   }
 }
