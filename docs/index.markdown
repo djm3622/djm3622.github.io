@@ -147,7 +147,7 @@ description: Research website of David Millard, a Ph.D. student at the Universit
 </style>
 
 <section class="home-intro">
-  <h1 class="home-name">Hey, I'm David</h1>
+  <h1 class="home-name">Hey, I'm David.</h1>
   <p class="home-lead">Ph.D. researcher in machine learning, scientific computing, controls, and audio at the University of Rochester.</p>
   <div class="home-actions">
     <a href="{{ '/publications/' | relative_url }}">Explore my research</a>

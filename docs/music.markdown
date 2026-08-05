@@ -14,7 +14,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
   <section class="listen-hero" aria-labelledby="music-heading">
     <div class="listen-hero-copy">
       <p class="listen-kicker">Music · what I have been listening to</p>
-      <h1 id="music-heading">Meet me between the tracks</h1>
+      <h1 id="music-heading">Meet me between the tracks.</h1>
       <p>
         Music is usually playing somewhere in my day. This is a tour through the playlists,
         artists, and songs I love to hear.
@@ -58,7 +58,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
     <header class="listen-section-heading">
       <div>
         <p class="listen-kicker">Listening lately</p>
-        <h2 id="activity-heading">What has been on repeat</h2>
+        <h2 id="activity-heading">What has been on repeat.</h2>
       </div>
       <p>A glimpse at when I tend to listen and which songs and artists have been filling my headphones.</p>
     </header>
@@ -151,7 +151,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
     <header class="listen-section-heading">
       <div>
         <p class="listen-kicker">Playlist tour</p>
-        <h2 id="playlist-heading">A playlist for every mood</h2>
+        <h2 id="playlist-heading">A playlist for every mood.</h2>
       </div>
       <p>Choose what you want to compare, then pick a playlist for a closer look.</p>
     </header>
@@ -221,7 +221,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
     <header class="listen-section-heading">
       <div>
         <p class="listen-kicker">Hidden gems</p>
-        <h2 id="gems-heading">Where the hidden gems live</h2>
+        <h2 id="gems-heading">Where the hidden gems live.</h2>
       </div>
       <p>A few lesser-known songs from my playlists, based on their public play counts.</p>
     </header>
@@ -257,7 +257,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
   <section class="listen-discovery" aria-labelledby="discovery-heading">
     <div class="listen-discovery-copy">
       <p class="listen-kicker">Discovery mix</p>
-      <h2 id="discovery-heading">Let chance choose the next track</h2>
+      <h2 id="discovery-heading">Let chance choose the next track.</h2>
       <p>Every pick comes from the {{ music.discovery_tracks.size }} songs gathered here, not just the obvious favorites.</p>
     </div>
     <div class="listen-picker" aria-live="polite">
@@ -276,7 +276,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
     <header class="listen-section-heading">
       <div>
         <p class="listen-kicker">Music in motion</p>
-        <h2 id="gravity-heading">Drift into the orbit</h2>
+        <h2 id="gravity-heading">Drift into the orbit.</h2>
       </div>
       <p>Album artwork drifts around the page. Switch between songs, artists, and playlists, then drag or tap anything that catches your eye.</p>
     </header>
@@ -312,7 +312,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
   <section class="listen-range" aria-labelledby="range-heading">
     <div>
       <p class="listen-kicker">One useful oddity</p>
-      <h2 id="range-heading">From quick hits to long listens</h2>
+      <h2 id="range-heading">From quick hits to long listens.</h2>
       <p>Among the songs here, the shortest one also has one of the longest titles.</p>
     </div>
     <div class="listen-range-chart">

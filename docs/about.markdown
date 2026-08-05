@@ -327,7 +327,7 @@ description: Background, education, research interests, and contact information 
 
 <div class="about-page">
   <header class="about-heading">
-    <h1>All about me</h1>
+    <h1>All about me.</h1>
     <p>Research, education, and the work I care about.</p>
   </header>
 
