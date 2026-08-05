@@ -250,6 +250,39 @@ description: Research publications by David Millard in machine learning, scienti
 <h2 class="research-section-title">Articles</h2>
 
 <div class="pub-entry-flex">
+  <img class="pub-image" src="{{ '/assets/images/val_target_potential_centered_mse_vs_ratio.png' | relative_url }}" alt="Validation potential error across learning-rate ratios" />
+  <div class="pub-details">
+    <div class="pub-title">
+      Anton Selitskiy, <strong>David Millard</strong>
+    </div>
+    <div class="pub-meta">
+      <em>Stability of the Monge Map in Semi-Dual Optimal Transport</em><br>
+      Preprint.
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2605.05569" target="_blank">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry-flex">
+  <img class="pub-image" src="{{ '/assets/images/fig_cnn_vs_adv.png' | relative_url }}" alt="Comparison of CNN and neural semi-Lagrangian weather advection" />
+  <div class="pub-details">
+    <div class="pub-title">
+      Carlos A. Pereira, St&eacute;phane Gaudreault, Valentin Dallerit, Christopher Subich, Shoyon Panday, Siqi Wei, Sasa Zhang, Siddharth Rout, Eldad Haber, Raymond J. Spiteri, <strong>David Millard</strong>, Emilia Diaconescu
+    </div>
+    <div class="pub-meta">
+      <em>Learning to Advect: A Neural Semi-Lagrangian Architecture for Weather Forecasting</em><br>
+      Preprint.
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2601.21151" target="_blank">arXiv</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=LEs7ELgAAAAJ&amp;citation_for_view=LEs7ELgAAAAJ:UebtZRa9Y70C" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry-flex">
   <img class="pub-image" src="{{ '/assets/images/panel3_risk_barycenter.png' | relative_url }}" alt="FedAvg and risk-weighted barycenter distributions" />
   <div class="pub-details">
     <div class="pub-title">
