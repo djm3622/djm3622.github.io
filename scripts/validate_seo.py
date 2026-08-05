@@ -11,7 +11,7 @@ from typing import Dict, List, Optional
 import xml.etree.ElementTree as ET
 
 
-SITE_URL = "https://djm3622.github.io"
+SITE_URL = "https://notdavidmill.dev"
 PROFILE_IMAGE = f"{SITE_URL}/assets/images/my_pfp.jpg"
 PROFILE_URLS = [
     "https://github.com/djm3622",

@@ -22,8 +22,8 @@ title: David Millard
 email: david.millard@rochester.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Research website of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester working in machine learning, scientific computing, controls, and audio.
-domain: djm3622.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://djm3622.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: notdavidmill.dev       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://notdavidmill.dev  # the base hostname and protocol for your site, e.g. http://example.com
 github_username:  djm3622
 
 author:
