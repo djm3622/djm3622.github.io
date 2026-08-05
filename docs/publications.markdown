@@ -67,7 +67,12 @@ description: Research publications by David Millard in machine learning, scienti
   }
 
   .pub-image--square {
-    height: 152px;
+    flex-basis: 176px;
+    width: 176px;
+    height: 176px;
+    padding: 14px;
+    background: #fff;
+    object-fit: contain;
   }
 
   .pub-details {
@@ -148,6 +153,7 @@ description: Research publications by David Millard in machine learning, scienti
 
     .pub-image--square {
       height: clamp(170px, 46vw, 220px);
+      padding: 14px;
     }
   }
 </style>
