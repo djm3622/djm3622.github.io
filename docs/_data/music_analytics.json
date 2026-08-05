@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 107,
       "sampled_tracks": 107,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 67,
       "sampled_tracks": 67,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16149,7 +16149,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
       "playcount": null,
-      "recent_play_count": 28
+      "recent_play_count": 31
     },
     {
       "id": "0BybFIHpANp0dYoiQec8XZ",
@@ -16591,31 +16591,31 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 86,
-    "captured_hours": 3.6,
-    "distinct_tracks": 30,
-    "distinct_artists": 26,
+    "captured_plays": 90,
+    "captured_hours": 3.8,
+    "distinct_tracks": 31,
+    "distinct_artists": 27,
     "history_start": "2026-08-02",
     "history_end": "2026-08-05",
-    "last_played_at": "2026-08-05T16:13:00.895Z",
+    "last_played_at": "2026-08-05T17:59:21.467Z",
     "hour_bins": [
       {
         "hour": 0,
         "label": "12 AM",
         "plays": 4,
-        "height_pct": 29
+        "height_pct": 24
       },
       {
         "hour": 1,
         "label": "1 AM",
         "plays": 5,
-        "height_pct": 36
+        "height_pct": 29
       },
       {
         "hour": 2,
         "label": "2 AM",
         "plays": 10,
-        "height_pct": 71
+        "height_pct": 59
       },
       {
         "hour": 3,
@@ -16675,19 +16675,19 @@
         "hour": 12,
         "label": "12 PM",
         "plays": 5,
-        "height_pct": 36
+        "height_pct": 29
       },
       {
         "hour": 13,
         "label": "1 PM",
-        "plays": 14,
+        "plays": 17,
         "height_pct": 100
       },
       {
         "hour": 14,
         "label": "2 PM",
         "plays": 1,
-        "height_pct": 7
+        "height_pct": 6
       },
       {
         "hour": 15,
@@ -16711,54 +16711,54 @@
         "hour": 18,
         "label": "6 PM",
         "plays": 6,
-        "height_pct": 43
+        "height_pct": 35
       },
       {
         "hour": 19,
         "label": "7 PM",
         "plays": 8,
-        "height_pct": 57
+        "height_pct": 47
       },
       {
         "hour": 20,
         "label": "8 PM",
         "plays": 14,
-        "height_pct": 100
+        "height_pct": 82
       },
       {
         "hour": 21,
         "label": "9 PM",
         "plays": 8,
-        "height_pct": 57
+        "height_pct": 47
       },
       {
         "hour": 22,
         "label": "10 PM",
-        "plays": 0,
-        "height_pct": 0
+        "plays": 1,
+        "height_pct": 6
       },
       {
         "hour": 23,
         "label": "11 PM",
         "plays": 11,
-        "height_pct": 79
+        "height_pct": 65
       }
     ],
     "weekday_bins": [
       {
         "label": "Mon",
-        "plays": 36,
+        "plays": 37,
         "width_pct": 100
       },
       {
         "label": "Tue",
         "plays": 29,
-        "width_pct": 81
+        "width_pct": 78
       },
       {
         "label": "Wed",
-        "plays": 6,
-        "width_pct": 17
+        "plays": 9,
+        "width_pct": 24
       },
       {
         "label": "Thu",
@@ -16778,7 +16778,7 @@
       {
         "label": "Sun",
         "plays": 15,
-        "width_pct": 42
+        "width_pct": 41
       }
     ],
     "recent_top_tracks": [
@@ -16788,7 +16788,7 @@
         "artist": "franz1",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
         "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw",
-        "plays": 28
+        "plays": 31
       },
       {
         "id": "0daWH6qNvD4kj0ybK7QvGg",
@@ -16850,7 +16850,7 @@
     "recent_top_artists": [
       {
         "name": "franz1",
-        "plays": 28
+        "plays": 31
       },
       {
         "name": "PinkPantheress",
@@ -17799,6 +17799,36 @@
     },
     "recent_plays": [
       {
+        "played_at": "2026-08-05T17:59:21.467Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T17:57:17.652Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T17:54:35.781Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
         "played_at": "2026-08-05T16:13:00.895Z",
         "id": "1a4RUUKHH1xkDq0hbuWKhw",
         "title": "zehnvonzehn",
@@ -18157,6 +18187,16 @@
         "duration_ms": 194453,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273bcf683bad9ca8297e76f2408",
         "url": "https://open.spotify.com/track/0daWH6qNvD4kj0ybK7QvGg"
+      },
+      {
+        "played_at": "2026-08-04T02:07:56.947Z",
+        "id": "1eyE2fyXSeVQihQCVn5xxp",
+        "title": "The American Way",
+        "artist": "Sacred Reich",
+        "primary_artist": "Sacred Reich",
+        "duration_ms": 219800,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273086f3d5cbd71051de505605b",
+        "url": "https://open.spotify.com/track/1eyE2fyXSeVQihQCVn5xxp"
       },
       {
         "played_at": "2026-08-03T23:26:52.258Z",
