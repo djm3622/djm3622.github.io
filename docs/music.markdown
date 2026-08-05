@@ -58,7 +58,7 @@ description: A playful tour through David Millard's playlists, recent favorites,
     <header class="listen-section-heading">
       <div>
         <p class="listen-kicker">Listening lately</p>
-        <h2 id="activity-heading">What has been on repeat.</h2>
+        <h2 id="activity-heading">What has been on repeat</h2>
       </div>
       <p>A glimpse at when I tend to listen and which songs and artists have been filling my headphones.</p>
     </header>
