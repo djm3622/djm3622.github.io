@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: David Millard
-email: david.millard@rochester.edu
+email: david@notdavidmill.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Research website of David Millard, a Ph.D. student in Electrical and Computer Engineering at the University of Rochester working in machine learning, scientific computing, controls, and audio.
 domain: notdavidmill.dev       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com

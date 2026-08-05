@@ -346,7 +346,7 @@ description: Background, education, research interests, and contact information 
       </div>
 
       <div class="about-links">
-        <a href="mailto:david.millard@rochester.edu">Email me</a>
+        <a href="mailto:david@notdavidmill.dev">Email me</a>
         <a href="{{ '/assets/davidmillard_resume.pdf' | relative_url }}">View resume</a>
       </div>
     </aside>
