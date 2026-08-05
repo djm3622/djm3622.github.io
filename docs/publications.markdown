@@ -66,6 +66,10 @@ description: Research publications by David Millard in machine learning, scienti
     transform: scale(1.015);
   }
 
+  .pub-image--square {
+    height: 152px;
+  }
+
   .pub-details {
     flex: 1;
     min-width: 0;
@@ -140,6 +144,10 @@ description: Research publications by David Millard in machine learning, scienti
       height: clamp(170px, 46vw, 220px);
       max-height: none;
       padding: 10px;
+    }
+
+    .pub-image--square {
+      height: clamp(170px, 46vw, 220px);
     }
   }
 </style>
@@ -266,7 +274,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/fig_cnn_vs_adv.png' | relative_url }}" alt="Comparison of CNN and neural semi-Lagrangian weather advection" />
+  <img class="pub-image pub-image--square" src="{{ '/assets/images/fig_cnn_vs_adv.png' | relative_url }}" alt="Comparison of CNN and neural semi-Lagrangian weather advection" />
   <div class="pub-details">
     <div class="pub-title">
       Carlos A. Pereira, St&eacute;phane Gaudreault, Valentin Dallerit, Christopher Subich, Shoyon Panday, Siqi Wei, Sasa Zhang, Siddharth Rout, Eldad Haber, Raymond J. Spiteri, <strong>David Millard</strong>, Emilia Diaconescu
