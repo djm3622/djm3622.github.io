@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 320,
       "sampled_tracks": 320,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 107,
       "sampled_tracks": 107,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 67,
       "sampled_tracks": 67,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16149,7 +16149,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
       "playcount": null,
-      "recent_play_count": 32
+      "recent_play_count": 39
     },
     {
       "id": "0BybFIHpANp0dYoiQec8XZ",
@@ -16591,13 +16591,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 91,
-    "captured_hours": 3.8,
-    "distinct_tracks": 31,
-    "distinct_artists": 27,
+    "captured_plays": 104,
+    "captured_hours": 4.4,
+    "distinct_tracks": 37,
+    "distinct_artists": 32,
     "history_start": "2026-08-02",
     "history_end": "2026-08-05",
-    "last_played_at": "2026-08-05T21:22:54.182Z",
+    "last_played_at": "2026-08-05T23:15:38.539Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16704,20 +16704,20 @@
       {
         "hour": 17,
         "label": "5 PM",
-        "plays": 1,
-        "height_pct": 6
+        "plays": 8,
+        "height_pct": 47
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 6,
-        "height_pct": 35
+        "plays": 10,
+        "height_pct": 59
       },
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 8,
-        "height_pct": 47
+        "plays": 10,
+        "height_pct": 59
       },
       {
         "hour": 20,
@@ -16757,8 +16757,8 @@
       },
       {
         "label": "Wed",
-        "plays": 10,
-        "width_pct": 27
+        "plays": 23,
+        "width_pct": 62
       },
       {
         "label": "Thu",
@@ -16788,7 +16788,7 @@
         "artist": "franz1",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
         "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw",
-        "plays": 32
+        "plays": 39
       },
       {
         "id": "0daWH6qNvD4kj0ybK7QvGg",
@@ -16850,7 +16850,7 @@
     "recent_top_artists": [
       {
         "name": "franz1",
-        "plays": 32
+        "plays": 39
       },
       {
         "name": "PinkPantheress",
@@ -16941,19 +16941,19 @@
         },
         {
           "rank": 8,
-          "id": "2fQxE0jVrjNMT9oJAXtSJR",
-          "name": "Domino",
-          "artist": "Jessie J",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2737805aebd5a39023d553ada3a",
-          "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
-        },
-        {
-          "rank": 9,
           "id": "40oYjPdjvFBCZH1Smsk46H",
           "name": "Back Home",
           "artist": "Yeat, Joji",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
           "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
+        },
+        {
+          "rank": 9,
+          "id": "2fQxE0jVrjNMT9oJAXtSJR",
+          "name": "Domino",
+          "artist": "Jessie J",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2737805aebd5a39023d553ada3a",
+          "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
         },
         {
           "rank": 10,
@@ -16973,19 +16973,19 @@
         },
         {
           "rank": 12,
-          "id": "4gbVRS8gloEluzf0GzDOFc",
-          "name": "Maps",
-          "artist": "Maroon 5",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
-          "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
-        },
-        {
-          "rank": 13,
           "id": "6ECp64rv50XVz93WvxXMGF",
           "name": "This Love",
           "artist": "Maroon 5",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e",
           "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+        },
+        {
+          "rank": 13,
+          "id": "4gbVRS8gloEluzf0GzDOFc",
+          "name": "Maps",
+          "artist": "Maroon 5",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
+          "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
         },
         {
           "rank": 14,
@@ -17021,27 +17021,27 @@
         },
         {
           "rank": 18,
-          "id": "180tYOjVoVnuDFZdTzgQRe",
-          "name": "Rude Boy",
-          "artist": "Rihanna",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273d82e5f333a81cff2fe5c91cf",
-          "url": "https://open.spotify.com/track/180tYOjVoVnuDFZdTzgQRe"
-        },
-        {
-          "rank": 19,
-          "id": "25B5fGr9K0VdZJiRFsnMO4",
-          "name": "Celebration Station",
-          "artist": "Lil Uzi Vert",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2735267529d83ab73cf102fcbbd",
-          "url": "https://open.spotify.com/track/25B5fGr9K0VdZJiRFsnMO4"
-        },
-        {
-          "rank": 20,
           "id": "37nYSBS0MfRCm913QwCCYo",
           "name": "On tha lin\u00eb",
           "artist": "Yeat",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
           "url": "https://open.spotify.com/track/37nYSBS0MfRCm913QwCCYo"
+        },
+        {
+          "rank": 19,
+          "id": "3mQCDD74WImZLkQxMvmxoK",
+          "name": "OH I DID",
+          "artist": "Yeat, NGeeYL",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
+          "url": "https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK"
+        },
+        {
+          "rank": 20,
+          "id": "2u7mxWSeoqTXndK5e08jMp",
+          "name": "Nowadays (feat. Landon Cube)",
+          "artist": "Lil Skies, Landon Cube",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273c56dcd1015c1ffb8c56d2988",
+          "url": "https://open.spotify.com/track/2u7mxWSeoqTXndK5e08jMp"
         }
       ],
       "six_months": [
@@ -17429,17 +17429,17 @@
         },
         {
           "rank": 9,
-          "id": "26dSoYclwsYLMAKD3tpOr4",
-          "name": "Britney Spears",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf2bcdcea5247d29042b55372",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "rank": 10,
           "id": "6LqNN22kT3074XbTVUrhzX",
           "name": "Kesha",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
           "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "rank": 10,
+          "id": "26dSoYclwsYLMAKD3tpOr4",
+          "name": "Britney Spears",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf2bcdcea5247d29042b55372",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         },
         {
           "rank": 11,
@@ -17457,24 +17457,24 @@
         },
         {
           "rank": 13,
-          "id": "6jJ0s89eD6GaHleKKya26X",
-          "name": "Katy Perry",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "rank": 14,
           "id": "78rUTD7y6Cy67W1RVzYs7t",
           "name": "PinkPantheress",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "id": "4O15NlyKLIASxsJ0PrXPfz",
           "name": "Lil Uzi Vert",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "rank": 15,
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
           "rank": 16,
@@ -17798,6 +17798,136 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-05T23:15:38.539Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T23:06:35.022Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T22:57:44.035Z",
+        "id": "0SHO7NVnp3U5NFc9YWkPCR",
+        "title": "G\u00ebt Busy",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 157779,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737f18c4658caa4a3d47f2d978",
+        "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR"
+      },
+      {
+        "played_at": "2026-08-05T22:41:25.616Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T22:10:46.886Z",
+        "id": "0KKkJNfGyhkQ5aFogxQAPU",
+        "title": "That's What I Like",
+        "artist": "Bruno Mars",
+        "primary_artist": "Bruno Mars",
+        "duration_ms": 206693,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+        "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+      },
+      {
+        "played_at": "2026-08-05T22:08:21.124Z",
+        "id": "6b8Be6ljOzmkOmFslEb23P",
+        "title": "24K Magic",
+        "artist": "Bruno Mars",
+        "primary_artist": "Bruno Mars",
+        "duration_ms": 225983,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+        "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+      },
+      {
+        "played_at": "2026-08-05T21:58:36.679Z",
+        "id": "5HGibWoxnkYSkl6mHmAlOE",
+        "title": "That's My Kind Of Night",
+        "artist": "Luke Bryan",
+        "primary_artist": "Luke Bryan",
+        "duration_ms": 190186,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27316fce2616744168b30462991",
+        "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
+      },
+      {
+        "played_at": "2026-08-05T21:50:31.636Z",
+        "id": "3eDXd2BF0jNVJ317Lpgcla",
+        "title": "SHINIE - Escha & Ytem Remix",
+        "artist": "Varg\u00b2\u2122, Bladee, Escha, Ytem",
+        "primary_artist": "Varg\u00b2\u2122",
+        "duration_ms": 311464,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739f49c76d3ca1665eded88721",
+        "url": "https://open.spotify.com/track/3eDXd2BF0jNVJ317Lpgcla"
+      },
+      {
+        "played_at": "2026-08-05T21:44:30.599Z",
+        "id": "2UU2JifCQj4ICsU11wFu8L",
+        "title": "All White Fit",
+        "artist": "c4rl",
+        "primary_artist": "c4rl",
+        "duration_ms": 180000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fed4d4065a09d2b170ae1bd8",
+        "url": "https://open.spotify.com/track/2UU2JifCQj4ICsU11wFu8L"
+      },
+      {
+        "played_at": "2026-08-05T21:41:29.942Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T21:39:15.094Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T21:35:37.549Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-05T21:32:33.313Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
       {
         "played_at": "2026-08-05T21:22:54.182Z",
         "id": "1a4RUUKHH1xkDq0hbuWKhw",
