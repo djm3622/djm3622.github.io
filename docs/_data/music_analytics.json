@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 320,
       "sampled_tracks": 320,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16885,19 +16885,19 @@
       "four_weeks": [
         {
           "rank": 1,
-          "id": "6JY1IdkZGeIcPegKxjSKeb",
-          "name": "Since U Been Gone",
-          "artist": "Kelly Clarkson",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273158c72ad0003cb37ca0c9eff",
-          "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
-        },
-        {
-          "rank": 2,
           "id": "1a4RUUKHH1xkDq0hbuWKhw",
           "name": "zehnvonzehn",
           "artist": "franz1",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
           "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+        },
+        {
+          "rank": 2,
+          "id": "6JY1IdkZGeIcPegKxjSKeb",
+          "name": "Since U Been Gone",
+          "artist": "Kelly Clarkson",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273158c72ad0003cb37ca0c9eff",
+          "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
         },
         {
           "rank": 3,
@@ -17021,6 +17021,14 @@
         },
         {
           "rank": 18,
+          "id": "7lv4SU2ATVjQJp6Jia0x7N",
+          "name": "Dark Thoughts",
+          "artist": "Lil Tecca",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N"
+        },
+        {
+          "rank": 19,
           "id": "7oJrVhiTPZGBXWPwhxjy9S",
           "name": "Lust",
           "artist": "Lil Skies",
@@ -17028,20 +17036,12 @@
           "url": "https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "id": "25B5fGr9K0VdZJiRFsnMO4",
           "name": "Celebration Station",
           "artist": "Lil Uzi Vert",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2735267529d83ab73cf102fcbbd",
           "url": "https://open.spotify.com/track/25B5fGr9K0VdZJiRFsnMO4"
-        },
-        {
-          "rank": 20,
-          "id": "3mQCDD74WImZLkQxMvmxoK",
-          "name": "OH I DID",
-          "artist": "Yeat, NGeeYL",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
-          "url": "https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK"
         }
       ],
       "six_months": [
