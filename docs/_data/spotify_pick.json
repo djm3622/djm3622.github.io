@@ -1,30 +1,32 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 107-track mix spanning 67 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "7MW7sGh5LeEQPjDreDZPw2",
+    "name": "bobby ray",
+    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
   },
   "track": {
-    "id": "6OmifNc6mKmrQ8un4dPHQI",
-    "name": "Novocaine 2",
+    "id": "2yUbCEiaolfSMluDo9RMmG",
+    "name": "Powerglide (feat. Juicy J)",
     "artists": [
-      "Cloke",
-      "Shiloh Dynasty"
+      "Rae Sremmurd",
+      "Swae Lee",
+      "Slim Jxmmi",
+      "Juicy J"
     ],
-    "artist_label": "Cloke, Shiloh Dynasty",
-    "url": "https://open.spotify.com/track/6OmifNc6mKmrQ8un4dPHQI",
-    "embed_url": "https://open.spotify.com/embed/track/6OmifNc6mKmrQ8un4dPHQI?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf3efadb9aa719e504a0736",
+    "artist_label": "Rae Sremmurd, Swae Lee, Slim Jxmmi, Juicy J",
+    "url": "https://open.spotify.com/track/2yUbCEiaolfSMluDo9RMmG",
+    "embed_url": "https://open.spotify.com/embed/track/2yUbCEiaolfSMluDo9RMmG?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273685f3c0308abbb32799800b2",
     "album": {
-      "id": "6UJj51XRsw27fQaxDjYZ3c",
-      "name": "Gamma",
-      "url": "https://open.spotify.com/album/6UJj51XRsw27fQaxDjYZ3c"
+      "id": "3fIOEmQedwtoWzFk1Jals8",
+      "name": "Powerglide (feat. Juicy J)",
+      "url": "https://open.spotify.com/album/3fIOEmQedwtoWzFk1Jals8"
     }
   }
 }
