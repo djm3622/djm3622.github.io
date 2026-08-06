@@ -45,16 +45,14 @@ description: Research publications by David Millard in machine learning, scienti
 
   .pub-image {
     display: block;
-    flex: 0 0 auto;
-    width: auto;
-    height: auto;
-    max-width: 176px;
-    max-height: 176px;
+    flex: 0 0 176px;
+    width: 176px;
+    height: 176px;
     box-sizing: border-box;
     image-rendering: auto;
     object-fit: contain;
     object-position: center;
-    padding: 10px;
+    padding: 14px;
     background: #fff;
     border: 1px solid var(--site-border);
     border-radius: 12px;
@@ -138,12 +136,10 @@ description: Research publications by David Millard in machine learning, scienti
 
     .pub-image {
       flex-basis: auto;
-      align-self: center;
-      width: auto;
-      height: auto;
-      max-width: 100%;
-      max-height: 220px;
-      padding: 10px;
+      width: 100%;
+      height: clamp(170px, 46vw, 220px);
+      max-height: none;
+      padding: 14px;
     }
   }
 </style>
