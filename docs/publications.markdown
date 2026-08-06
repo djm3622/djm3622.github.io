@@ -52,7 +52,7 @@ description: Research publications by David Millard in machine learning, scienti
     image-rendering: auto;
     object-fit: contain;
     object-position: center;
-    padding: 14px;
+    padding: 6px;
     background: #fff;
     border: 1px solid var(--site-border);
     border-radius: 12px;
@@ -139,7 +139,7 @@ description: Research publications by David Millard in machine learning, scienti
       width: 100%;
       height: clamp(170px, 46vw, 220px);
       max-height: none;
-      padding: 14px;
+      padding: 6px;
     }
   }
 </style>
@@ -147,7 +147,7 @@ description: Research publications by David Millard in machine learning, scienti
 <h2 class="research-section-title">Publications &amp; Proceedings</h2>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/policy_3_flat.png' | relative_url }}" alt="Local, mean, and barycenter policies" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/policy_3_flat.png' | relative_url }}" alt="Local, mean, and barycenter policies" />
   <div class="pub-details">
     <div class="pub-title">
       <strong>David Millard</strong>, Ali Baheri
@@ -164,7 +164,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/trajectory_instance_0.gif' | relative_url }}" alt="Split conformal prediction in function space" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/trajectory_instance_0.gif' | relative_url }}" alt="Split conformal prediction in function space" />
   <div class="pub-details">
     <div class="pub-title">
       <strong>David Millard</strong>, Lars Lindemann, Ali Baheri
@@ -181,7 +181,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/pearl2025.png' | relative_url }}" alt="PEARL: Preconditioner Enhancement" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/pearl2025.png' | relative_url }}" alt="PEARL: Preconditioner Enhancement" />
   <div class="pub-details">
     <div class="pub-title">
       <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
@@ -198,7 +198,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/ams2025.png' | relative_url }}" alt="Deep Ritz" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/ams2025.png' | relative_url }}" alt="Deep Ritz" />
   <div class="pub-details">
     <div class="pub-title">
       Anton Selitskiy, <strong>David Millard</strong>
@@ -214,7 +214,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/bigdata2024-1.gif' | relative_url }}" alt="Koopman Operator" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/bigdata2024-1.gif' | relative_url }}" alt="Koopman Operator" />
   <div class="pub-details">
     <div class="pub-title">
       <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault
@@ -231,7 +231,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/bigdata2024-2.gif' | relative_url }}" alt="Initial Guess Selection" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/bigdata2024-2.gif' | relative_url }}" alt="Initial Guess Selection" />
   <div class="pub-details">
     <div class="pub-title">
       <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault
@@ -250,7 +250,7 @@ description: Research publications by David Millard in machine learning, scienti
 <h2 class="research-section-title">Articles</h2>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/val_target_potential_centered_mse_vs_ratio.png' | relative_url }}" alt="Validation potential error across learning-rate ratios" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/val_target_potential_centered_mse_vs_ratio.png' | relative_url }}" alt="Validation potential error across learning-rate ratios" />
   <div class="pub-details">
     <div class="pub-title">
       Anton Selitskiy, <strong>David Millard</strong>
@@ -266,7 +266,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/fig_cnn_vs_adv.png' | relative_url }}" alt="Comparison of CNN and neural semi-Lagrangian weather advection" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/fig_cnn_vs_adv.png' | relative_url }}" alt="Comparison of CNN and neural semi-Lagrangian weather advection" />
   <div class="pub-details">
     <div class="pub-title">
       Carlos A. Pereira, St&eacute;phane Gaudreault, Valentin Dallerit, Christopher Subich, Shoyon Panday, Siqi Wei, Sasa Zhang, Siddharth Rout, Eldad Haber, Raymond J. Spiteri, <strong>David Millard</strong>, Emilia Diaconescu
@@ -282,7 +282,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/panel3_risk_barycenter.png' | relative_url }}" alt="FedAvg and risk-weighted barycenter distributions" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/panel3_risk_barycenter.png' | relative_url }}" alt="FedAvg and risk-weighted barycenter distributions" />
   <div class="pub-details">
     <div class="pub-title">
       <strong>David Millard</strong>, Cecilia Alm, Rashid Ali, Pengcheng Shi, Ali Baheri
@@ -298,7 +298,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image" src="{{ '/assets/images/Specific Humidity H600_Ensemble_Spread.gif' | relative_url }}" alt="DEF: Diffusion-augmented" />
+  <img class="pub-image" src="{{ '/assets/images/publication_thumbnails/specific_humidity_h600_ensemble_spread.gif' | relative_url }}" alt="DEF: Diffusion-augmented" />
   <div class="pub-details">
     <div class="pub-title">
       <strong>David Millard</strong>, Arielle Carr, Stéphane Gaudreault, Ali Baheri
