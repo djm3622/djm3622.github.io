@@ -45,15 +45,15 @@ description: Research publications by David Millard in machine learning, scienti
 
   .pub-image {
     display: block;
-    flex: 0 0 152px;
-    width: 152px;
-    height: 118px;
+    flex: 0 0 176px;
+    width: 176px;
+    height: 176px;
     box-sizing: border-box;
     image-rendering: auto;
     object-fit: contain;
     object-position: center;
-    padding: 8px;
-    background: var(--site-surface-soft);
+    padding: 14px;
+    background: #fff;
     border: 1px solid var(--site-border);
     border-radius: 12px;
     box-shadow: 0 3px 12px var(--site-shadow);
@@ -64,15 +64,6 @@ description: Research publications by David Millard in machine learning, scienti
     border-color: var(--site-border-strong);
     box-shadow: 0 5px 16px var(--site-shadow);
     transform: scale(1.015);
-  }
-
-  .pub-image--square {
-    flex-basis: 176px;
-    width: 176px;
-    height: 176px;
-    padding: 14px;
-    background: #fff;
-    object-fit: contain;
   }
 
   .pub-details {
@@ -148,11 +139,6 @@ description: Research publications by David Millard in machine learning, scienti
       width: 100%;
       height: clamp(170px, 46vw, 220px);
       max-height: none;
-      padding: 10px;
-    }
-
-    .pub-image--square {
-      height: clamp(170px, 46vw, 220px);
       padding: 14px;
     }
   }
@@ -280,7 +266,7 @@ description: Research publications by David Millard in machine learning, scienti
 </div>
 
 <div class="pub-entry-flex">
-  <img class="pub-image pub-image--square" src="{{ '/assets/images/fig_cnn_vs_adv.png' | relative_url }}" alt="Comparison of CNN and neural semi-Lagrangian weather advection" />
+  <img class="pub-image" src="{{ '/assets/images/fig_cnn_vs_adv.png' | relative_url }}" alt="Comparison of CNN and neural semi-Lagrangian weather advection" />
   <div class="pub-details">
     <div class="pub-title">
       Carlos A. Pereira, St&eacute;phane Gaudreault, Valentin Dallerit, Christopher Subich, Shoyon Panday, Siqi Wei, Sasa Zhang, Siddharth Rout, Eldad Haber, Raymond J. Spiteri, <strong>David Millard</strong>, Emilia Diaconescu
