@@ -33,6 +33,7 @@ LOCAL_TIMEZONE = ZoneInfo("America/New_York")
 TRACK_URL = "https://open.spotify.com/track/{track_id}"
 ARTIST_URL = "https://open.spotify.com/artist/{artist_id}"
 PLAYLIST_URL = "https://open.spotify.com/playlist/{playlist_id}"
+ARTIST_BATCH_SIZE = 50
 
 
 def _load_existing(path: Path) -> Mapping[str, Any]:
@@ -188,6 +189,34 @@ def _fetch_top_items(client: SpotifyClient, item_type: str) -> dict[str, list[di
             and (card := _top_item(item, rank, item_type)) is not None
         ]
     return output
+
+
+def _fetch_artist_images(
+    client: SpotifyClient, artist_ids: Iterable[str]
+) -> dict[str, str]:
+    """Return available Spotify profile images keyed by artist ID.
+
+    The Web API accepts at most 50 artist IDs per request. Missing images are
+    intentionally omitted so callers can use the album-art fallback already
+    present in the playlist snapshot.
+    """
+
+    identifiers = list(dict.fromkeys(identifier for identifier in artist_ids if identifier))
+    images: dict[str, str] = {}
+    for offset in range(0, len(identifiers), ARTIST_BATCH_SIZE):
+        batch = identifiers[offset : offset + ARTIST_BATCH_SIZE]
+        response = client.get("/artists?ids=" + ",".join(batch))
+        raw_artists = response.get("artists", [])
+        if not isinstance(raw_artists, list):
+            raise SpotifyError("Spotify returned an invalid artist image response")
+        for artist in raw_artists:
+            if not isinstance(artist, Mapping):
+                continue
+            identifier = artist.get("id")
+            image_url = _first_image_url(artist)
+            if isinstance(identifier, str) and identifier and image_url:
+                images[identifier] = image_url
+    return images
 
 
 def _activity_snapshot(
@@ -414,15 +443,21 @@ def build_snapshot(
     artist_counts = collections.Counter(str(track["primary_artist"]) for track in slots)
     artist_durations: collections.Counter[str] = collections.Counter()
     artist_explicit: collections.Counter[str] = collections.Counter()
-    artist_images: dict[str, str | None] = {}
+    artist_fallback_images: dict[str, str | None] = {}
     artist_ids: dict[str, str] = {}
     for track in slots:
         name = str(track["primary_artist"])
         artist_durations[name] += int(track["duration_ms"])
         artist_explicit[name] += int(bool(track["explicit"]))
-        artist_images.setdefault(name, track.get("image_url"))
+        fallback_image = track.get("image_url")
+        if name not in artist_fallback_images or (
+            artist_fallback_images[name] is None and fallback_image
+        ):
+            artist_fallback_images[name] = fallback_image
         if track.get("primary_artist_id"):
             artist_ids[name] = str(track["primary_artist_id"])
+
+    artist_images = _fetch_artist_images(client, artist_ids.values())
     artists = [
         {
             "name": name,
@@ -431,8 +466,12 @@ def build_snapshot(
             "duration_label": _catalog_duration_label(artist_durations[name]),
             "explicit_pct": _rounded_percentage(artist_explicit[name], count),
             "url": ARTIST_URL.format(artist_id=artist_ids[name]) if name in artist_ids else None,
-            "image_url": artist_images[name],
-            "image_kind": "album",
+            "image_url": artist_images.get(
+                artist_ids.get(name, ""), artist_fallback_images[name]
+            ),
+            "image_kind": "artist"
+            if artist_ids.get(name) in artist_images
+            else "album",
         }
         for name, count in artist_counts.most_common()
     ]

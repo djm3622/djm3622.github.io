@@ -181,7 +181,7 @@
   function gravityPool(catalog, entity) {
     if (entity === 'songs') return catalog.tracks;
     return entity === 'artists'
-      ? catalog.artists.filter(function (artist) { return artist.image_kind === 'artist'; })
+      ? catalog.artists.filter(function (artist) { return Boolean(artist.image_url); })
       : catalog.playlists;
   }
 
