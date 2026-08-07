@@ -1,32 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7MW7sGh5LeEQPjDreDZPw2",
-    "name": "bobby ray",
-    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
-    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
+    "id": "4gzEOrF8mCDu96BCLdwDya",
+    "name": "92.3",
+    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+    "description": "A 96-track mix spanning 77 artists, led by Rihanna, Britney Spears, and Lady Gaga."
   },
   "track": {
-    "id": "2yUbCEiaolfSMluDo9RMmG",
-    "name": "Powerglide (feat. Juicy J)",
+    "id": "6btyEL6NwUa97Nex9cZFvo",
+    "name": "Pump It",
     "artists": [
-      "Rae Sremmurd",
-      "Swae Lee",
-      "Slim Jxmmi",
-      "Juicy J"
+      "Black Eyed Peas"
     ],
-    "artist_label": "Rae Sremmurd, Swae Lee, Slim Jxmmi, Juicy J",
-    "url": "https://open.spotify.com/track/2yUbCEiaolfSMluDo9RMmG",
-    "embed_url": "https://open.spotify.com/embed/track/2yUbCEiaolfSMluDo9RMmG?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273685f3c0308abbb32799800b2",
+    "artist_label": "Black Eyed Peas",
+    "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo",
+    "embed_url": "https://open.spotify.com/embed/track/6btyEL6NwUa97Nex9cZFvo?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27308b19a033829c0bec97be61a",
     "album": {
-      "id": "3fIOEmQedwtoWzFk1Jals8",
-      "name": "Powerglide (feat. Juicy J)",
-      "url": "https://open.spotify.com/album/3fIOEmQedwtoWzFk1Jals8"
+      "id": "2szeSQtOcJgRhDXmTS3SIf",
+      "name": "Monkey Business",
+      "url": "https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf"
     }
   }
 }
