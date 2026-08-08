@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "4gzEOrF8mCDu96BCLdwDya",
-    "name": "92.3",
-    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
-    "description": "A 96-track mix spanning 77 artists, led by Rihanna, Britney Spears, and Lady Gaga."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 107-track mix spanning 67 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "6btyEL6NwUa97Nex9cZFvo",
-    "name": "Pump It",
+    "id": "6htWGNhskc5f0Xke88Vn5z",
+    "name": "Turn Your Phone Off",
     "artists": [
-      "Black Eyed Peas"
+      "PinkPantheress",
+      "Destroy Lonely"
     ],
-    "artist_label": "Black Eyed Peas",
-    "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo",
-    "embed_url": "https://open.spotify.com/embed/track/6btyEL6NwUa97Nex9cZFvo?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27308b19a033829c0bec97be61a",
+    "artist_label": "PinkPantheress, Destroy Lonely",
+    "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z",
+    "embed_url": "https://open.spotify.com/embed/track/6htWGNhskc5f0Xke88Vn5z?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d62305068da18b0fdcc0d9d3",
     "album": {
-      "id": "2szeSQtOcJgRhDXmTS3SIf",
-      "name": "Monkey Business",
-      "url": "https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf"
+      "id": "2vumYq4zWRAEYa3f0567CL",
+      "name": "Turn Your Phone Off",
+      "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
     }
   }
 }
