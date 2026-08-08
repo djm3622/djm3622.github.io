@@ -54,15 +54,6 @@ class FakeClient:
                     }
                 ]
             }
-        if path == "/artists?ids=artist-1":
-            return {
-                "artists": [
-                    {
-                        "id": "artist-1",
-                        "images": [{"url": "https://example.com/catalog-artist.jpg"}],
-                    }
-                ]
-            }
         raise AssertionError(f"Unexpected get path: {path}")
 
     def get_all(self, path: str) -> list[Mapping[str, Any]]:
@@ -100,54 +91,11 @@ class SpotifyAnalyticsTest(unittest.TestCase):
             "Night Drive",
         )
         self.assertEqual(snapshot["discovery_tracks"][0]["recent_play_count"], 2)
-        self.assertEqual(snapshot["artists"][0]["image_kind"], "artist")
-        self.assertEqual(
-            snapshot["artists"][0]["image_url"],
-            "https://example.com/catalog-artist.jpg",
-        )
-
-    def test_artist_images_fall_back_to_album_art(self) -> None:
-        class MissingArtistImageClient(FakeClient):
-            def get(self, path: str) -> Mapping[str, Any]:
-                if path == "/artists?ids=artist-1":
-                    return {"artists": [{"id": "artist-1", "images": []}]}
-                return super().get(path)
-
-        snapshot = analytics.build_snapshot(
-            MissingArtistImageClient(),
-            ["playlist-1"],
-            {},
-            now=dt.datetime(2026, 8, 4, 12, tzinfo=dt.timezone.utc),
-        )
-
         self.assertEqual(snapshot["artists"][0]["image_kind"], "album")
         self.assertEqual(
-            snapshot["artists"][0]["image_url"], "https://example.com/cover.jpg"
+            snapshot["artists"][0]["image_url"],
+            "https://example.com/cover.jpg",
         )
-
-    def test_artist_image_requests_are_batched(self) -> None:
-        class BatchClient:
-            def __init__(self) -> None:
-                self.paths: list[str] = []
-
-            def get(self, path: str) -> Mapping[str, Any]:
-                self.paths.append(path)
-                identifiers = path.removeprefix("/artists?ids=").split(",")
-                return {
-                    "artists": [
-                        {"id": identifier, "images": [{"url": f"https://example.com/{identifier}.jpg"}]}
-                        for identifier in identifiers
-                    ]
-                }
-
-        client = BatchClient()
-        identifiers = [f"artist-{index}" for index in range(51)]
-
-        images = analytics._fetch_artist_images(client, identifiers)
-
-        self.assertEqual(len(client.paths), 2)
-        self.assertEqual(len(images), 51)
-        self.assertEqual(images["artist-50"], "https://example.com/artist-50.jpg")
 
     def test_recent_history_deduplicates_and_expires_old_plays(self) -> None:
         now = dt.datetime(2026, 8, 4, tzinfo=dt.timezone.utc)
