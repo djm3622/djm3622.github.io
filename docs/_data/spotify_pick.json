@@ -1,30 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 107-track mix spanning 67 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "4gzEOrF8mCDu96BCLdwDya",
+    "name": "92.3",
+    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+    "description": "A 96-track mix spanning 77 artists, led by Rihanna, Britney Spears, and Lady Gaga."
   },
   "track": {
-    "id": "6htWGNhskc5f0Xke88Vn5z",
-    "name": "Turn Your Phone Off",
+    "id": "0HPD5WQqrq7wPWR7P7Dw1i",
+    "name": "TiK ToK",
     "artists": [
-      "PinkPantheress",
-      "Destroy Lonely"
+      "Kesha"
     ],
-    "artist_label": "PinkPantheress, Destroy Lonely",
-    "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z",
-    "embed_url": "https://open.spotify.com/embed/track/6htWGNhskc5f0Xke88Vn5z?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273d62305068da18b0fdcc0d9d3",
+    "artist_label": "Kesha",
+    "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i",
+    "embed_url": "https://open.spotify.com/embed/track/0HPD5WQqrq7wPWR7P7Dw1i?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27397c7b770b28ffeed164f4d0e",
     "album": {
-      "id": "2vumYq4zWRAEYa3f0567CL",
-      "name": "Turn Your Phone Off",
-      "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
+      "id": "6fpLLJsDSSAlToEDW2jv4F",
+      "name": "Animal (Expanded Edition)",
+      "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
     }
   }
 }
