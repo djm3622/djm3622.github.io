@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -5265,7 +5265,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c",
       "playcount": null,
-      "recent_play_count": 1
+      "recent_play_count": 2
     },
     {
       "id": "2GfeXwQIe8qSLgy7ezh5pd",
@@ -10613,7 +10613,7 @@
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
       "playcount": 488644550,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "5bXywAczpBWdhY1wq1RYiP",
@@ -11033,7 +11033,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
       "playcount": 32667475,
-      "recent_play_count": 1
+      "recent_play_count": 2
     },
     {
       "id": "6OmifNc6mKmrQ8un4dPHQI",
@@ -16101,7 +16101,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
       "playcount": null,
-      "recent_play_count": 66
+      "recent_play_count": 68
     },
     {
       "id": "0BybFIHpANp0dYoiQec8XZ",
@@ -16543,13 +16543,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 193,
-    "captured_hours": 8.2,
-    "distinct_tracks": 80,
-    "distinct_artists": 63,
+    "captured_plays": 201,
+    "captured_hours": 8.5,
+    "distinct_tracks": 83,
+    "distinct_artists": 66,
     "history_start": "2026-08-02",
     "history_end": "2026-08-09",
-    "last_played_at": "2026-08-09T00:32:20.335Z",
+    "last_played_at": "2026-08-09T16:34:34.472Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16620,14 +16620,14 @@
       {
         "hour": 11,
         "label": "11 AM",
-        "plays": 0,
-        "height_pct": 0
+        "plays": 1,
+        "height_pct": 3
       },
       {
         "hour": 12,
         "label": "12 PM",
-        "plays": 5,
-        "height_pct": 13
+        "plays": 12,
+        "height_pct": 31
       },
       {
         "hour": 13,
@@ -16729,8 +16729,8 @@
       },
       {
         "label": "Sun",
-        "plays": 15,
-        "width_pct": 35
+        "plays": 23,
+        "width_pct": 53
       }
     ],
     "recent_top_tracks": [
@@ -16740,7 +16740,7 @@
         "artist": "franz1",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
         "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw",
-        "plays": 66
+        "plays": 68
       },
       {
         "id": "0daWH6qNvD4kj0ybK7QvGg",
@@ -16802,15 +16802,15 @@
     "recent_top_artists": [
       {
         "name": "franz1",
-        "plays": 66
+        "plays": 68
+      },
+      {
+        "name": "PinkPantheress",
+        "plays": 14
       },
       {
         "name": "piri",
         "plays": 14
-      },
-      {
-        "name": "PinkPantheress",
-        "plays": 13
       },
       {
         "name": "Lil Mosey",
@@ -17750,6 +17750,86 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-09T16:34:34.472Z",
+        "id": "5bnvBQNcA3JvNFGFVwsrX0",
+        "title": "Fake ID",
+        "artist": "yukan",
+        "primary_artist": "yukan",
+        "duration_ms": 121769,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739bc6caf294d008f08a0520ed",
+        "url": "https://open.spotify.com/track/5bnvBQNcA3JvNFGFVwsrX0"
+      },
+      {
+        "played_at": "2026-08-09T16:32:32.245Z",
+        "id": "4TFOpl0juiBGT5VTHlrige",
+        "title": "Queen St",
+        "artist": "twentythree",
+        "primary_artist": "twentythree",
+        "duration_ms": 128659,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c18ec4d508e46932041446b8",
+        "url": "https://open.spotify.com/track/4TFOpl0juiBGT5VTHlrige"
+      },
+      {
+        "played_at": "2026-08-09T16:30:23.067Z",
+        "id": "4WKUmjoUeYkzyoEvTbiVdW",
+        "title": "Night , Blooming Jasmine .",
+        "artist": "fakemink",
+        "primary_artist": "fakemink",
+        "duration_ms": 178868,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732822c6fa1d20afb002e5417f",
+        "url": "https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW"
+      },
+      {
+        "played_at": "2026-08-09T16:26:27.410Z",
+        "id": "0wbnC9AUenxp613TYaJsGK",
+        "title": "Narcos",
+        "artist": "Migos",
+        "primary_artist": "Migos",
+        "duration_ms": 255378,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+        "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
+      },
+      {
+        "played_at": "2026-08-09T16:15:31.230Z",
+        "id": "5w9YU63asHqNFyWq3nCsSl",
+        "title": "Noticed I Cried",
+        "artist": "PinkPantheress",
+        "primary_artist": "PinkPantheress",
+        "duration_ms": 82226,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+        "url": "https://open.spotify.com/track/5w9YU63asHqNFyWq3nCsSl"
+      },
+      {
+        "played_at": "2026-08-09T16:14:08.545Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-09T16:06:43.288Z",
+        "id": "3TGRqZ0a2l1LRblBkJoaDx",
+        "title": "Call Me Maybe",
+        "artist": "Carly Rae Jepsen",
+        "primary_artist": "Carly Rae Jepsen",
+        "duration_ms": 193400,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c",
+        "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+      },
+      {
+        "played_at": "2026-08-09T15:57:20.156Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
       {
         "played_at": "2026-08-09T00:32:20.335Z",
         "id": "6htWGNhskc5f0Xke88Vn5z",
