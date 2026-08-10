@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "4gzEOrF8mCDu96BCLdwDya",
-    "name": "92.3",
-    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
-    "description": "A 96-track mix spanning 77 artists, led by Rihanna, Britney Spears, and Lady Gaga."
+    "id": "7p4fxMRZCuY6ZtNeu99vbK",
+    "name": "calm luh",
+    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+    "description": "A 36-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
   },
   "track": {
-    "id": "0HPD5WQqrq7wPWR7P7Dw1i",
-    "name": "TiK ToK",
+    "id": "7pdt56nlqNtHs5H8DRBZiO",
+    "name": "VETERAN (feat. Ken Carson)",
     "artists": [
-      "Kesha"
+      "Destroy Lonely",
+      "Ken Carson"
     ],
-    "artist_label": "Kesha",
-    "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i",
-    "embed_url": "https://open.spotify.com/embed/track/0HPD5WQqrq7wPWR7P7Dw1i?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27397c7b770b28ffeed164f4d0e",
+    "artist_label": "Destroy Lonely, Ken Carson",
+    "url": "https://open.spotify.com/track/7pdt56nlqNtHs5H8DRBZiO",
+    "embed_url": "https://open.spotify.com/embed/track/7pdt56nlqNtHs5H8DRBZiO?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273ace84faee0a6206881a2a555",
     "album": {
-      "id": "6fpLLJsDSSAlToEDW2jv4F",
-      "name": "Animal (Expanded Edition)",
-      "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      "id": "4eofl3fkWPQWKpttvulret",
+      "name": "NO STYLIST",
+      "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
     }
   }
 }
