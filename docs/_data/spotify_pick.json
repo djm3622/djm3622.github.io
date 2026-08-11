@@ -1,30 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7p4fxMRZCuY6ZtNeu99vbK",
-    "name": "calm luh",
-    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
-    "description": "A 36-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
+    "id": "38PmYBLrKbhBUlywggIVkP",
+    "name": "void",
+    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
   },
   "track": {
-    "id": "7pdt56nlqNtHs5H8DRBZiO",
-    "name": "VETERAN (feat. Ken Carson)",
+    "id": "1Ftb0PK0Qqwax3gofiMd2X",
+    "name": "I CAN\u2019T LET GO",
     "artists": [
-      "Destroy Lonely",
-      "Ken Carson"
+      "Lil Tecca",
+      "Don Toliver"
     ],
-    "artist_label": "Destroy Lonely, Ken Carson",
-    "url": "https://open.spotify.com/track/7pdt56nlqNtHs5H8DRBZiO",
-    "embed_url": "https://open.spotify.com/embed/track/7pdt56nlqNtHs5H8DRBZiO?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273ace84faee0a6206881a2a555",
+    "artist_label": "Lil Tecca, Don Toliver",
+    "url": "https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X",
+    "embed_url": "https://open.spotify.com/embed/track/1Ftb0PK0Qqwax3gofiMd2X?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
     "album": {
-      "id": "4eofl3fkWPQWKpttvulret",
-      "name": "NO STYLIST",
-      "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
+      "id": "6uWva3kfeqqVIsNAJ2MmeL",
+      "name": "PLAN A",
+      "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
     }
   }
 }

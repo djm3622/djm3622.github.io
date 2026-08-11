@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-08-10",
+  "generated_on": "2026-08-11",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 318,
       "sampled_tracks": 318,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 107,
       "sampled_tracks": 107,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16543,13 +16543,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 241,
-    "captured_hours": 10.3,
-    "distinct_tracks": 102,
-    "distinct_artists": 75,
+    "captured_plays": 249,
+    "captured_hours": 10.6,
+    "distinct_tracks": 106,
+    "distinct_artists": 77,
     "history_start": "2026-08-02",
-    "history_end": "2026-08-10",
-    "last_played_at": "2026-08-10T14:49:47.836Z",
+    "history_end": "2026-08-11",
+    "last_played_at": "2026-08-11T00:32:51.351Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16674,8 +16674,8 @@
       {
         "hour": 20,
         "label": "8 PM",
-        "plays": 17,
-        "height_pct": 32
+        "plays": 25,
+        "height_pct": 47
       },
       {
         "hour": 21,
@@ -16699,8 +16699,8 @@
     "weekday_bins": [
       {
         "label": "Mon",
-        "plays": 43,
-        "width_pct": 75
+        "plays": 51,
+        "width_pct": 89
       },
       {
         "label": "Tue",
@@ -16743,6 +16743,14 @@
         "plays": 71
       },
       {
+        "id": "35XIBy0gLLwPzqLshKrWf4",
+        "name": "AGAIN",
+        "artist": "Moors",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
+        "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4",
+        "plays": 9
+      },
+      {
         "id": "5hhv2mBCNoiWfRZmBzutW8",
         "name": "Every Night",
         "artist": "Lil Mosey",
@@ -16757,14 +16765,6 @@
         "image_url": "https://i.scdn.co/image/ab67616d0000b273bcf683bad9ca8297e76f2408",
         "url": "https://open.spotify.com/track/0daWH6qNvD4kj0ybK7QvGg",
         "plays": 9
-      },
-      {
-        "id": "35XIBy0gLLwPzqLshKrWf4",
-        "name": "AGAIN",
-        "artist": "Moors",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
-        "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4",
-        "plays": 8
       },
       {
         "id": "6fL8iaSdwmSTQiUv9K6L4h",
@@ -16813,12 +16813,12 @@
         "plays": 14
       },
       {
-        "name": "Lil Mosey",
-        "plays": 10
+        "name": "Moors",
+        "plays": 11
       },
       {
-        "name": "Moors",
-        "plays": 9
+        "name": "Lil Mosey",
+        "plays": 10
       },
       {
         "name": "Lil Tecca",
@@ -16885,14 +16885,6 @@
         },
         {
           "rank": 7,
-          "id": "40oYjPdjvFBCZH1Smsk46H",
-          "name": "Back Home",
-          "artist": "Yeat, Joji",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
-          "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
-        },
-        {
-          "rank": 8,
           "id": "4wpZvII3Uf0JroY2F4Itch",
           "name": "Loyal 2026",
           "artist": "Siky Revange",
@@ -16900,15 +16892,15 @@
           "url": "https://open.spotify.com/track/4wpZvII3Uf0JroY2F4Itch"
         },
         {
-          "rank": 9,
-          "id": "2fQxE0jVrjNMT9oJAXtSJR",
-          "name": "Domino",
-          "artist": "Jessie J",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2737805aebd5a39023d553ada3a",
-          "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
+          "rank": 8,
+          "id": "40oYjPdjvFBCZH1Smsk46H",
+          "name": "Back Home",
+          "artist": "Yeat, Joji",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
+          "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "id": "4CIyxiObT9G35HrSItAblR",
           "name": "HVN ON EARTH (with Kodak Black)",
           "artist": "Lil Tecca, Kodak Black",
@@ -16916,7 +16908,7 @@
           "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "id": "35XIBy0gLLwPzqLshKrWf4",
           "name": "AGAIN",
           "artist": "Moors",
@@ -16924,12 +16916,20 @@
           "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "7lv4SU2ATVjQJp6Jia0x7N",
           "name": "Dark Thoughts",
           "artist": "Lil Tecca",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
           "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N"
+        },
+        {
+          "rank": 12,
+          "id": "2fQxE0jVrjNMT9oJAXtSJR",
+          "name": "Domino",
+          "artist": "Jessie J",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2737805aebd5a39023d553ada3a",
+          "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
         },
         {
           "rank": 13,
@@ -16941,30 +16941,6 @@
         },
         {
           "rank": 14,
-          "id": "0Pc767nHJYSdWvnMjLyC5r",
-          "name": "MONTAGEM REBOLA",
-          "artist": "ATLXS, DJ FKU",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273759baf9f1b3f1b656648869f",
-          "url": "https://open.spotify.com/track/0Pc767nHJYSdWvnMjLyC5r"
-        },
-        {
-          "rank": 15,
-          "id": "1VvXLOfkv1zxa3LZ0zBXt2",
-          "name": "Griddl\u00eb",
-          "artist": "Yeat, Don Toliver",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
-          "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
-        },
-        {
-          "rank": 16,
-          "id": "37nYSBS0MfRCm913QwCCYo",
-          "name": "On tha lin\u00eb",
-          "artist": "Yeat",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
-          "url": "https://open.spotify.com/track/37nYSBS0MfRCm913QwCCYo"
-        },
-        {
-          "rank": 17,
           "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
           "name": "poster boy",
           "artist": "2hollis",
@@ -16972,7 +16948,15 @@
           "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
         },
         {
-          "rank": 18,
+          "rank": 15,
+          "id": "0Pc767nHJYSdWvnMjLyC5r",
+          "name": "MONTAGEM REBOLA",
+          "artist": "ATLXS, DJ FKU",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273759baf9f1b3f1b656648869f",
+          "url": "https://open.spotify.com/track/0Pc767nHJYSdWvnMjLyC5r"
+        },
+        {
+          "rank": 16,
           "id": "0daWH6qNvD4kj0ybK7QvGg",
           "name": "sunlight",
           "artist": "piri, Tommy Villiers, piri & tommy",
@@ -16980,7 +16964,7 @@
           "url": "https://open.spotify.com/track/0daWH6qNvD4kj0ybK7QvGg"
         },
         {
-          "rank": 19,
+          "rank": 17,
           "id": "5B5eTk7DF8KVp1zpQoY1XY",
           "name": "The Reason",
           "artist": "Hoobastank",
@@ -16988,12 +16972,28 @@
           "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
         },
         {
+          "rank": 18,
+          "id": "1ulXmqjktxSdrdT1bzc69H",
+          "name": "Hot N Cold",
+          "artist": "Katy Perry",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27331cc26681b0164332fa26634",
+          "url": "https://open.spotify.com/track/1ulXmqjktxSdrdT1bzc69H"
+        },
+        {
+          "rank": 19,
+          "id": "37nYSBS0MfRCm913QwCCYo",
+          "name": "On tha lin\u00eb",
+          "artist": "Yeat",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+          "url": "https://open.spotify.com/track/37nYSBS0MfRCm913QwCCYo"
+        },
+        {
           "rank": 20,
-          "id": "3mQCDD74WImZLkQxMvmxoK",
-          "name": "OH I DID",
-          "artist": "Yeat, NGeeYL",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
-          "url": "https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK"
+          "id": "2iJuuzV8P9Yz0VSurttIV5",
+          "name": "Scream & Shout",
+          "artist": "will.i.am, Britney Spears",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273e6082141bd7c86ae9f11ea26",
+          "url": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"
         }
       ],
       "six_months": [
@@ -17325,17 +17325,17 @@
       "four_weeks": [
         {
           "rank": 1,
-          "id": "3qiHUAX7zY4Qnjx8TNUzVx",
-          "name": "Yeat",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb3cb51ac0d2a735316c536315",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "rank": 2,
           "id": "4Ga1P7PMIsmqEZqhYZQgDo",
           "name": "Lil Tecca",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "rank": 2,
+          "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+          "name": "Yeat",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb3cb51ac0d2a735316c536315",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         },
         {
           "rank": 3,
@@ -17395,73 +17395,73 @@
         },
         {
           "rank": 11,
-          "id": "1HY2Jd0NmPuamShAr6KMms",
-          "name": "Lady Gaga",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 12,
           "id": "26dSoYclwsYLMAKD3tpOr4",
           "name": "Britney Spears",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf2bcdcea5247d29042b55372",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "id": "6cCXgBhHKKuftmzJTL9Omb",
           "name": "ilykimchi",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebc86bb670f52a73da3f89e768",
           "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "id": "6jJ0s89eD6GaHleKKya26X",
           "name": "Katy Perry",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "id": "3gBZUcNeVumkeeJ19CY2sX",
           "name": "Ken Carson",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "id": "4MCBfE4596Uoi2O4DtmEMz",
           "name": "Juice WRLD",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "id": "7CajNmpbOovFoOoasH2HaY",
           "name": "Calvin Harris",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "id": "1yxSLGMDHlW21z4YXirZDS",
           "name": "Black Eyed Peas",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb7a135c757d5b9c7aeb7609d0",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "rank": 19,
-          "id": "7d3WFRME3vBY2cgoP38RDo",
-          "name": "Lil Skies",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c91ee64878b36dcee243160",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+          "rank": 18,
+          "id": "5G312D5mch8GZE501qpDIy",
+          "name": "Johnny 2 Phones",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
+          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "id": "3Isy6kedDrgPYoTS1dazA9",
           "name": "Sean Paul",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22",
           "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "rank": 20,
+          "id": "6S0dmVVn4udvppDhZIWxCr",
+          "name": "Sean Kingston",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebee205e5029a04bd0460e16e4",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
         }
       ],
       "six_months": [
@@ -17750,6 +17750,86 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-11T00:32:51.351Z",
+        "id": "3SgitaYipGGrtT5LMPRadb",
+        "title": "Gang Shit",
+        "artist": "Johnny 2 Phones, Hunna G",
+        "primary_artist": "Johnny 2 Phones",
+        "duration_ms": 97095,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a9a9afdd6e76706ae9e0ef1a",
+        "url": "https://open.spotify.com/track/3SgitaYipGGrtT5LMPRadb"
+      },
+      {
+        "played_at": "2026-08-11T00:25:48.673Z",
+        "id": "3nAr7FWxvj3KyJrV5bjr47",
+        "title": "Pity Party",
+        "artist": "Johnny 2 Phones, Hunna G",
+        "primary_artist": "Johnny 2 Phones",
+        "duration_ms": 132385,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a9a9afdd6e76706ae9e0ef1a",
+        "url": "https://open.spotify.com/track/3nAr7FWxvj3KyJrV5bjr47"
+      },
+      {
+        "played_at": "2026-08-11T00:23:35.850Z",
+        "id": "0QAqpYjtartFwR2ZunvRS1",
+        "title": "HEART AWAY - JERSEY REMIX - BONUS",
+        "artist": "Johnny 2 Phones, Hunna G",
+        "primary_artist": "Johnny 2 Phones",
+        "duration_ms": 85000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273836055716c51735c6a6da848",
+        "url": "https://open.spotify.com/track/0QAqpYjtartFwR2ZunvRS1"
+      },
+      {
+        "played_at": "2026-08-11T00:22:10.374Z",
+        "id": "4sdQlIMPHfWyMoDkm7jALu",
+        "title": "do ya?",
+        "artist": "ericdoa",
+        "primary_artist": "ericdoa",
+        "duration_ms": 129287,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733e3f1f9b2a8708278d8c4b8a",
+        "url": "https://open.spotify.com/track/4sdQlIMPHfWyMoDkm7jALu"
+      },
+      {
+        "played_at": "2026-08-11T00:20:00.613Z",
+        "id": "3UsJUXvHb7qz4GiQtEc4a4",
+        "title": "keep steady",
+        "artist": "sosocamo",
+        "primary_artist": "sosocamo",
+        "duration_ms": 99705,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738a372f389087673289f84d09",
+        "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
+      },
+      {
+        "played_at": "2026-08-11T00:18:20.394Z",
+        "id": "35XIBy0gLLwPzqLshKrWf4",
+        "title": "AGAIN",
+        "artist": "Moors",
+        "primary_artist": "Moors",
+        "duration_ms": 153633,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
+        "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4"
+      },
+      {
+        "played_at": "2026-08-11T00:15:46.309Z",
+        "id": "5ZQpEmoLqPYuCyhUeE0bOV",
+        "title": "OBSESSION",
+        "artist": "Moors",
+        "primary_artist": "Moors",
+        "duration_ms": 153604,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bb320d8a974c3bd778bfa5c4",
+        "url": "https://open.spotify.com/track/5ZQpEmoLqPYuCyhUeE0bOV"
+      },
+      {
+        "played_at": "2026-08-11T00:12:00.103Z",
+        "id": "3dhjNA0jGA8vHBQ1VdD6vV",
+        "title": "I Feel It Coming",
+        "artist": "The Weeknd, Daft Punk",
+        "primary_artist": "The Weeknd",
+        "duration_ms": 269186,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+        "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
+      },
       {
         "played_at": "2026-08-10T14:49:47.836Z",
         "id": "6rjuKpPydT2SxN15TZpV7r",
