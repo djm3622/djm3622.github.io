@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 107,
       "sampled_tracks": 107,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 96,
       "sampled_tracks": 96,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 67,
       "sampled_tracks": 67,
       "sample_coverage_pct": 100.0,
@@ -16543,13 +16543,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 256,
-    "captured_hours": 10.8,
+    "captured_plays": 257,
+    "captured_hours": 10.9,
     "distinct_tracks": 107,
     "distinct_artists": 77,
     "history_start": "2026-08-02",
     "history_end": "2026-08-11",
-    "last_played_at": "2026-08-11T03:25:37.662Z",
+    "last_played_at": "2026-08-11T19:10:33.243Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16644,8 +16644,8 @@
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 0,
-        "height_pct": 0
+        "plays": 1,
+        "height_pct": 2
       },
       {
         "hour": 16,
@@ -16704,8 +16704,8 @@
       },
       {
         "label": "Tue",
-        "plays": 29,
-        "width_pct": 50
+        "plays": 30,
+        "width_pct": 52
       },
       {
         "label": "Wed",
@@ -16825,12 +16825,12 @@
         "plays": 8
       },
       {
-        "name": "2hollis",
+        "name": "Johnny 2 Phones",
         "plays": 7
       },
       {
-        "name": "Johnny 2 Phones",
-        "plays": 6
+        "name": "2hollis",
+        "plays": 7
       }
     ],
     "top_tracks": {
@@ -17750,6 +17750,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-11T19:10:33.243Z",
+        "id": "3SgitaYipGGrtT5LMPRadb",
+        "title": "Gang Shit",
+        "artist": "Johnny 2 Phones, Hunna G",
+        "primary_artist": "Johnny 2 Phones",
+        "duration_ms": 97095,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a9a9afdd6e76706ae9e0ef1a",
+        "url": "https://open.spotify.com/track/3SgitaYipGGrtT5LMPRadb"
+      },
       {
         "played_at": "2026-08-11T03:25:37.662Z",
         "id": "3nAr7FWxvj3KyJrV5bjr47",
