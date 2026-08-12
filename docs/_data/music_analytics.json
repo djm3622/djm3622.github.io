@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -16971,6 +16971,14 @@
         },
         {
           "rank": 16,
+          "id": "2JreXnkSzK2oVk2yQInpsi",
+          "name": "Evacuate the Dancefloor - Radio Edit",
+          "artist": "Cascada",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273093920c6d1f62f023e5a9a68",
+          "url": "https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"
+        },
+        {
+          "rank": 17,
           "id": "5B5eTk7DF8KVp1zpQoY1XY",
           "name": "The Reason",
           "artist": "Hoobastank",
@@ -16978,7 +16986,7 @@
           "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "id": "1ulXmqjktxSdrdT1bzc69H",
           "name": "Hot N Cold",
           "artist": "Katy Perry",
@@ -16986,7 +16994,7 @@
           "url": "https://open.spotify.com/track/1ulXmqjktxSdrdT1bzc69H"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "id": "0daWH6qNvD4kj0ybK7QvGg",
           "name": "sunlight",
           "artist": "piri, Tommy Villiers, piri & tommy",
@@ -16994,20 +17002,12 @@
           "url": "https://open.spotify.com/track/0daWH6qNvD4kj0ybK7QvGg"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "id": "5ZQpEmoLqPYuCyhUeE0bOV",
           "name": "OBSESSION",
           "artist": "Moors",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273bb320d8a974c3bd778bfa5c4",
           "url": "https://open.spotify.com/track/5ZQpEmoLqPYuCyhUeE0bOV"
-        },
-        {
-          "rank": 20,
-          "id": "2iJuuzV8P9Yz0VSurttIV5",
-          "name": "Scream & Shout",
-          "artist": "will.i.am, Britney Spears",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273e6082141bd7c86ae9f11ea26",
-          "url": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"
         }
       ],
       "six_months": [
@@ -17430,17 +17430,17 @@
         },
         {
           "rank": 14,
-          "id": "6jJ0s89eD6GaHleKKya26X",
-          "name": "Katy Perry",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "rank": 15,
           "id": "7CajNmpbOovFoOoasH2HaY",
           "name": "Calvin Harris",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "rank": 15,
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
           "rank": 16,
@@ -17451,24 +17451,24 @@
         },
         {
           "rank": 17,
+          "id": "1yxSLGMDHlW21z4YXirZDS",
+          "name": "Black Eyed Peas",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb7a135c757d5b9c7aeb7609d0",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "rank": 18,
           "id": "3gBZUcNeVumkeeJ19CY2sX",
           "name": "Ken Carson",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "id": "4MCBfE4596Uoi2O4DtmEMz",
           "name": "Juice WRLD",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "rank": 19,
-          "id": "1yxSLGMDHlW21z4YXirZDS",
-          "name": "Black Eyed Peas",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb7a135c757d5b9c7aeb7609d0",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
           "rank": 20,
@@ -17679,17 +17679,17 @@
         },
         {
           "rank": 9,
-          "id": "4O15NlyKLIASxsJ0PrXPfz",
-          "name": "Lil Uzi Vert",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "rank": 10,
           "id": "7hkaLWxN3ZmMVTn1qEpPdM",
           "name": "Joeyy",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf001f885f283bd5fdf887e43",
           "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        },
+        {
+          "rank": 10,
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
           "rank": 11,
