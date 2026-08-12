@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 318,
       "sampled_tracks": 318,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 107,
       "sampled_tracks": 107,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 97,
       "sampled_tracks": 97,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 67,
       "sampled_tracks": 67,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -6329,7 +6329,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273e207a14471e5356294146e9d",
       "playcount": 1064174768,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "6Nm8h73ycDG2saCnZV8poF",
@@ -6721,7 +6721,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2736b24e0b3b6dc9e1fea9fe3d9",
       "playcount": null,
-      "recent_play_count": 2
+      "recent_play_count": 5
     },
     {
       "id": "5UWwZ5lm5PKu6eKsHAGxOk",
@@ -9003,7 +9003,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186",
       "playcount": null,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "2x7MyWybabEz6Y6wvHuwGE",
@@ -14687,7 +14687,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4",
       "playcount": 2003975349,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "1WIZiOuNO3woKfdlSK2gNn",
@@ -16557,19 +16557,19 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 285,
-    "captured_hours": 12.1,
-    "distinct_tracks": 116,
-    "distinct_artists": 81,
+    "captured_plays": 292,
+    "captured_hours": 12.5,
+    "distinct_tracks": 120,
+    "distinct_artists": 85,
     "history_start": "2026-08-02",
     "history_end": "2026-08-12",
-    "last_played_at": "2026-08-12T03:35:53.493Z",
+    "last_played_at": "2026-08-12T16:51:39.917Z",
     "hour_bins": [
       {
         "hour": 0,
         "label": "12 AM",
-        "plays": 4,
-        "height_pct": 7
+        "plays": 5,
+        "height_pct": 8
       },
       {
         "hour": 1,
@@ -16640,8 +16640,8 @@
       {
         "hour": 12,
         "label": "12 PM",
-        "plays": 12,
-        "height_pct": 20
+        "plays": 18,
+        "height_pct": 30
       },
       {
         "hour": 13,
@@ -16723,8 +16723,8 @@
       },
       {
         "label": "Wed",
-        "plays": 28,
-        "width_pct": 48
+        "plays": 35,
+        "width_pct": 60
       },
       {
         "label": "Thu",
@@ -16805,11 +16805,11 @@
         "plays": 6
       },
       {
-        "id": "4UqqJKV58hgIlcQIuSSzC0",
-        "name": "guy like you",
-        "artist": "Yazida",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736daecf85da319518461f3803",
-        "url": "https://open.spotify.com/track/4UqqJKV58hgIlcQIuSSzC0",
+        "id": "360ZhWvMnyXKYFG9Mqsm89",
+        "name": "Evacuate The Dancefloor - Radio Edit",
+        "artist": "Cascada",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b24e0b3b6dc9e1fea9fe3d9",
+        "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89",
         "plays": 5
       }
     ],
@@ -17702,7 +17702,7 @@
           "rank": 12,
           "id": "7ITMCzIU9uII8gwRg8JAhc",
           "name": "Odetari",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebe7f0ccf618b34eac4a349735",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebc1af979ade463140f82dcf69",
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         },
         {
@@ -17764,6 +17764,76 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-12T16:51:39.917Z",
+        "id": "3JA9Jsuxr4xgHXEawAdCp4",
+        "title": "Just Can\u2019t Get Enough",
+        "artist": "Black Eyed Peas",
+        "primary_artist": "Black Eyed Peas",
+        "duration_ms": 219426,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186",
+        "url": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
+      },
+      {
+        "played_at": "2026-08-12T16:48:00.036Z",
+        "id": "360ZhWvMnyXKYFG9Mqsm89",
+        "title": "Evacuate The Dancefloor - Radio Edit",
+        "artist": "Cascada",
+        "primary_artist": "Cascada",
+        "duration_ms": 205884,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b24e0b3b6dc9e1fea9fe3d9",
+        "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+      },
+      {
+        "played_at": "2026-08-12T16:43:26.118Z",
+        "id": "6I9VzXrHxO9rA9A5euc8Ak",
+        "title": "Toxic",
+        "artist": "Britney Spears",
+        "primary_artist": "Britney Spears",
+        "duration_ms": 198800,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4",
+        "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+      },
+      {
+        "played_at": "2026-08-12T16:40:06.814Z",
+        "id": "6cmm1LMvZdB5zsCwX5BjqE",
+        "title": "Down",
+        "artist": "Jay Sean, Lil Wayne",
+        "primary_artist": "Jay Sean",
+        "duration_ms": 212506,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e207a14471e5356294146e9d",
+        "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
+      },
+      {
+        "played_at": "2026-08-12T16:36:33.844Z",
+        "id": "360ZhWvMnyXKYFG9Mqsm89",
+        "title": "Evacuate The Dancefloor - Radio Edit",
+        "artist": "Cascada",
+        "primary_artist": "Cascada",
+        "duration_ms": 205884,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b24e0b3b6dc9e1fea9fe3d9",
+        "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+      },
+      {
+        "played_at": "2026-08-12T16:32:48.175Z",
+        "id": "360ZhWvMnyXKYFG9Mqsm89",
+        "title": "Evacuate The Dancefloor - Radio Edit",
+        "artist": "Cascada",
+        "primary_artist": "Cascada",
+        "duration_ms": 205884,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b24e0b3b6dc9e1fea9fe3d9",
+        "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+      },
+      {
+        "played_at": "2026-08-12T04:58:52.419Z",
+        "id": "3ESSGgWzRf1xvP7G5hHMhB",
+        "title": "Again",
+        "artist": "Fetty Wap",
+        "primary_artist": "Fetty Wap",
+        "duration_ms": 312240,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273df7c1e1c441dd172ea8f29f9",
+        "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
+      },
       {
         "played_at": "2026-08-12T03:35:53.493Z",
         "id": "2y57pNvUsBd05usWgpRfzZ",
