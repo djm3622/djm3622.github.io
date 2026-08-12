@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 318,
       "sampled_tracks": 318,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 67,
       "sampled_tracks": 67,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -760,6 +760,16 @@
       "image_kind": "album"
     },
     {
+      "name": "HXG",
+      "tracks": 4,
+      "duration_ms": 438947,
+      "duration_label": "7m",
+      "explicit_pct": 100.0,
+      "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dce1c4a394c02b161d78b0bd",
+      "image_kind": "album"
+    },
+    {
       "name": "Kodak Black",
       "tracks": 4,
       "duration_ms": 851209,
@@ -937,26 +947,6 @@
       "explicit_pct": 100.0,
       "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273f0ceea527986ccd91b22372d",
-      "image_kind": "album"
-    },
-    {
-      "name": "HXG",
-      "tracks": 3,
-      "duration_ms": 356165,
-      "duration_label": "6m",
-      "explicit_pct": 100.0,
-      "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273dce1c4a394c02b161d78b0bd",
-      "image_kind": "album"
-    },
-    {
-      "name": "Homixide Gang",
-      "tracks": 3,
-      "duration_ms": 325878,
-      "duration_label": "5m",
-      "explicit_pct": 100.0,
-      "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273616033c26de5de987fc59434",
       "image_kind": "album"
     },
     {
@@ -1357,6 +1347,16 @@
       "explicit_pct": 100.0,
       "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj",
       "image_url": "https://i.scdn.co/image/ab67616d0000b27397ce10b4cfeb26d2a93cc409",
+      "image_kind": "album"
+    },
+    {
+      "name": "Homixide Gang",
+      "tracks": 2,
+      "duration_ms": 243096,
+      "duration_label": "4m",
+      "explicit_pct": 100.0,
+      "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273616033c26de5de987fc59434",
       "image_kind": "album"
     },
     {
@@ -3912,8 +3912,8 @@
     {
       "id": "7eUvg5UEG8AVyWKGWm7Lj1",
       "title": "55 Lifestyle",
-      "artist": "Homixide Gang",
-      "primary_artist": "Homixide Gang",
+      "artist": "HXG",
+      "primary_artist": "HXG",
       "playlist": "calm luh",
       "url": "https://open.spotify.com/track/7eUvg5UEG8AVyWKGWm7Lj1",
       "duration_ms": 82782,
