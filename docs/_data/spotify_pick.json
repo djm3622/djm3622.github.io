@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "6NDe4f42HlR8RJVhXn1ZCH",
-    "name": "he on something",
-    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
-    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
+    "id": "0kVBGAMtUIeJQat1V7a861",
+    "name": "cloud",
+    "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+    "description": "A 19-track mix spanning 9 artists, led by Mac Miller, Kanye West, and Joji."
   },
   "track": {
-    "id": "25B5fGr9K0VdZJiRFsnMO4",
-    "name": "Celebration Station",
+    "id": "1DWZUa5Mzf2BwzpHtgbHPY",
+    "name": "Good News",
     "artists": [
-      "Lil Uzi Vert"
+      "Mac Miller"
     ],
-    "artist_label": "Lil Uzi Vert",
-    "url": "https://open.spotify.com/track/25B5fGr9K0VdZJiRFsnMO4",
-    "embed_url": "https://open.spotify.com/embed/track/25B5fGr9K0VdZJiRFsnMO4?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2735267529d83ab73cf102fcbbd",
+    "artist_label": "Mac Miller",
+    "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY",
+    "embed_url": "https://open.spotify.com/embed/track/1DWZUa5Mzf2BwzpHtgbHPY?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d9d8f1a08476cd347fbea313",
     "album": {
-      "id": "7IyoGB8J31fvQDwGtHAq9m",
-      "name": "Eternal Atake",
-      "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
+      "id": "5sY6UIQ32GqwMLAfSNEaXb",
+      "name": "Circles",
+      "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
     }
   }
 }
