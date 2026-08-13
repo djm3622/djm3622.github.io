@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -7673,7 +7673,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273d9d8f1a08476cd347fbea313",
       "playcount": 537723770,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "4sEaCcKtU4PkrzGa0MmWnY",
@@ -16557,13 +16557,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 322,
-    "captured_hours": 14.1,
-    "distinct_tracks": 133,
-    "distinct_artists": 89,
+    "captured_plays": 323,
+    "captured_hours": 14.2,
+    "distinct_tracks": 134,
+    "distinct_artists": 90,
     "history_start": "2026-08-02",
     "history_end": "2026-08-13",
-    "last_played_at": "2026-08-13T18:29:48.849Z",
+    "last_played_at": "2026-08-13T19:44:13.029Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16658,8 +16658,8 @@
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 1,
-        "height_pct": 1
+        "plays": 2,
+        "height_pct": 3
       },
       {
         "hour": 16,
@@ -16728,8 +16728,8 @@
       },
       {
         "label": "Thu",
-        "plays": 51,
-        "width_pct": 88
+        "plays": 52,
+        "width_pct": 90
       },
       {
         "label": "Fri",
@@ -17381,24 +17381,24 @@
         },
         {
           "rank": 7,
+          "id": "4DpmPt7gfAAq7WEx0E1X8s",
+          "name": "piri",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb1f3a898eda73082c4618e541",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "rank": 8,
           "id": "0jnsk9HBra6NMjO2oANoPY",
           "name": "Flo Rida",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb655ca8f3196953554b479452",
           "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
         },
         {
-          "rank": 8,
-          "id": "2jl4qd6UbzeCmImT4nWbtA",
-          "name": "Nettspend",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        },
-        {
           "rank": 9,
-          "id": "4DpmPt7gfAAq7WEx0E1X8s",
-          "name": "piri",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb1f3a898eda73082c4618e541",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+          "id": "5G312D5mch8GZE501qpDIy",
+          "name": "Johnny 2 Phones",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
+          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
         },
         {
           "rank": 10,
@@ -17409,73 +17409,73 @@
         },
         {
           "rank": 11,
-          "id": "5G312D5mch8GZE501qpDIy",
-          "name": "Johnny 2 Phones",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
-          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
-        },
-        {
-          "rank": 12,
           "id": "6cCXgBhHKKuftmzJTL9Omb",
           "name": "ilykimchi",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebc86bb670f52a73da3f89e768",
           "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "id": "6jJ0s89eD6GaHleKKya26X",
           "name": "Katy Perry",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 14,
-          "id": "1HY2Jd0NmPuamShAr6KMms",
-          "name": "Lady Gaga",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 15,
+          "rank": 13,
           "id": "6LqNN22kT3074XbTVUrhzX",
           "name": "Kesha",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
           "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         },
         {
-          "rank": 16,
+          "rank": 14,
           "id": "6VvnLfGL8XDQomLEa91WPk",
           "name": "YAZ",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb85646fdd11a7efdb0bdfa0e9",
           "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
         },
         {
-          "rank": 17,
-          "id": "7CajNmpbOovFoOoasH2HaY",
-          "name": "Calvin Harris",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "rank": 15,
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 18,
+          "rank": 16,
           "id": "1yxSLGMDHlW21z4YXirZDS",
           "name": "Black Eyed Peas",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb7a135c757d5b9c7aeb7609d0",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "rank": 19,
+          "rank": 17,
           "id": "3gBZUcNeVumkeeJ19CY2sX",
           "name": "Ken Carson",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 20,
+          "rank": 18,
           "id": "4MCBfE4596Uoi2O4DtmEMz",
           "name": "Juice WRLD",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "rank": 19,
+          "id": "7CajNmpbOovFoOoasH2HaY",
+          "name": "Calvin Harris",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "rank": 20,
+          "id": "6S0dmVVn4udvppDhZIWxCr",
+          "name": "Sean Kingston",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebee205e5029a04bd0460e16e4",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
         }
       ],
       "six_months": [
@@ -17764,6 +17764,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-13T19:44:13.029Z",
+        "id": "1DWZUa5Mzf2BwzpHtgbHPY",
+        "title": "Good News",
+        "artist": "Mac Miller",
+        "primary_artist": "Mac Miller",
+        "duration_ms": 342040,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d9d8f1a08476cd347fbea313",
+        "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
+      },
       {
         "played_at": "2026-08-13T18:29:48.849Z",
         "id": "1a4RUUKHH1xkDq0hbuWKhw",
