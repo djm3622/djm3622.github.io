@@ -1,29 +1,32 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "0kVBGAMtUIeJQat1V7a861",
-    "name": "cloud",
-    "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
-    "description": "A 19-track mix spanning 9 artists, led by Mac Miller, Kanye West, and Joji."
+    "id": "7MW7sGh5LeEQPjDreDZPw2",
+    "name": "bobby ray",
+    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
   },
   "track": {
-    "id": "1DWZUa5Mzf2BwzpHtgbHPY",
-    "name": "Good News",
+    "id": "2yUbCEiaolfSMluDo9RMmG",
+    "name": "Powerglide (feat. Juicy J)",
     "artists": [
-      "Mac Miller"
+      "Rae Sremmurd",
+      "Swae Lee",
+      "Slim Jxmmi",
+      "Juicy J"
     ],
-    "artist_label": "Mac Miller",
-    "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY",
-    "embed_url": "https://open.spotify.com/embed/track/1DWZUa5Mzf2BwzpHtgbHPY?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273d9d8f1a08476cd347fbea313",
+    "artist_label": "Rae Sremmurd, Swae Lee, Slim Jxmmi, Juicy J",
+    "url": "https://open.spotify.com/track/2yUbCEiaolfSMluDo9RMmG",
+    "embed_url": "https://open.spotify.com/embed/track/2yUbCEiaolfSMluDo9RMmG?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273685f3c0308abbb32799800b2",
     "album": {
-      "id": "5sY6UIQ32GqwMLAfSNEaXb",
-      "name": "Circles",
-      "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      "id": "3fIOEmQedwtoWzFk1Jals8",
+      "name": "Powerglide (feat. Juicy J)",
+      "url": "https://open.spotify.com/album/3fIOEmQedwtoWzFk1Jals8"
     }
   }
 }
