@@ -1,32 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7MW7sGh5LeEQPjDreDZPw2",
-    "name": "bobby ray",
-    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
-    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
+    "id": "1LmRGDRZzF0xsVaRezQTBn",
+    "name": "this u?",
+    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+    "description": "A 67-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
   },
   "track": {
-    "id": "2yUbCEiaolfSMluDo9RMmG",
-    "name": "Powerglide (feat. Juicy J)",
+    "id": "2BITQ360Knh6qNAOqR7Dyq",
+    "name": "Miss The Rage (feat. Playboi Carti)",
     "artists": [
-      "Rae Sremmurd",
-      "Swae Lee",
-      "Slim Jxmmi",
-      "Juicy J"
+      "Trippie Redd",
+      "Playboi Carti"
     ],
-    "artist_label": "Rae Sremmurd, Swae Lee, Slim Jxmmi, Juicy J",
-    "url": "https://open.spotify.com/track/2yUbCEiaolfSMluDo9RMmG",
-    "embed_url": "https://open.spotify.com/embed/track/2yUbCEiaolfSMluDo9RMmG?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273685f3c0308abbb32799800b2",
+    "artist_label": "Trippie Redd, Playboi Carti",
+    "url": "https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq",
+    "embed_url": "https://open.spotify.com/embed/track/2BITQ360Knh6qNAOqR7Dyq?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d9b293fd7af470ec2c58e75f",
     "album": {
-      "id": "3fIOEmQedwtoWzFk1Jals8",
-      "name": "Powerglide (feat. Juicy J)",
-      "url": "https://open.spotify.com/album/3fIOEmQedwtoWzFk1Jals8"
+      "id": "1FsFHXroF1ILBdVyBRMt3A",
+      "name": "Miss The Rage (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A"
     }
   }
 }
