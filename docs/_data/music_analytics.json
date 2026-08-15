@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 318,
       "sampled_tracks": 318,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 67,
       "sampled_tracks": 67,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -4719,7 +4719,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c",
       "playcount": null,
-      "recent_play_count": 4
+      "recent_play_count": 6
     },
     {
       "id": "4CYTQpr2jc4uBScYvpEK2w",
@@ -16585,13 +16585,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 383,
-    "captured_hours": 16.5,
+    "captured_plays": 386,
+    "captured_hours": 16.6,
     "distinct_tracks": 153,
     "distinct_artists": 96,
     "history_start": "2026-08-02",
-    "history_end": "2026-08-14",
-    "last_played_at": "2026-08-14T21:02:55.553Z",
+    "history_end": "2026-08-15",
+    "last_played_at": "2026-08-15T20:33:22.999Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16692,14 +16692,14 @@
       {
         "hour": 16,
         "label": "4 PM",
-        "plays": 10,
-        "height_pct": 11
+        "plays": 12,
+        "height_pct": 14
       },
       {
         "hour": 17,
         "label": "5 PM",
-        "plays": 53,
-        "height_pct": 61
+        "plays": 54,
+        "height_pct": 62
       },
       {
         "hour": 18,
@@ -16761,13 +16761,13 @@
       },
       {
         "label": "Fri",
-        "plays": 49,
-        "width_pct": 51
+        "plays": 50,
+        "width_pct": 52
       },
       {
         "label": "Sat",
-        "plays": 7,
-        "width_pct": 7
+        "plays": 9,
+        "width_pct": 9
       },
       {
         "label": "Sun",
@@ -16790,7 +16790,7 @@
         "artist": "Moors",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
         "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4",
-        "plays": 17
+        "plays": 18
       },
       {
         "id": "360ZhWvMnyXKYFG9Mqsm89",
@@ -16852,7 +16852,7 @@
       },
       {
         "name": "Moors",
-        "plays": 21
+        "plays": 22
       },
       {
         "name": "PinkPantheress",
@@ -16863,16 +16863,16 @@
         "plays": 15
       },
       {
+        "name": "Kelly Clarkson",
+        "plays": 14
+      },
+      {
         "name": "Lil Mosey",
         "plays": 14
       },
       {
         "name": "piri",
         "plays": 14
-      },
-      {
-        "name": "Kelly Clarkson",
-        "plays": 12
       }
     ],
     "top_tracks": {
@@ -17275,14 +17275,6 @@
         },
         {
           "rank": 10,
-          "id": "0JJP0IS4w0fJx01EcrfkDe",
-          "name": "Dear Maria, Count Me In",
-          "artist": "All Time Low",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273c8913cd7b91bb7f6bbbec305",
-          "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
-        },
-        {
-          "rank": 11,
           "id": "0YVolQ5yrWetHWaaf78Y5f",
           "name": "Soulja",
           "artist": "Lil Mosey",
@@ -17290,7 +17282,7 @@
           "url": "https://open.spotify.com/track/0YVolQ5yrWetHWaaf78Y5f"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "3IM6Cc6bK88qFYXrF8wh8t",
           "name": "TASTE",
           "artist": "Lil Tecca",
@@ -17298,7 +17290,7 @@
           "url": "https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "id": "6rjuKpPydT2SxN15TZpV7r",
           "name": "500lbs",
           "artist": "Lil Tecca",
@@ -17306,7 +17298,7 @@
           "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "id": "2h7vLf7jv2KsRb7fV77w5H",
           "name": "crush",
           "artist": "2hollis",
@@ -17314,7 +17306,7 @@
           "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "id": "1a4RUUKHH1xkDq0hbuWKhw",
           "name": "zehnvonzehn",
           "artist": "franz1",
@@ -17322,7 +17314,7 @@
           "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "id": "3GDxQBr7aghzWH0kA0N8yk",
           "name": "Batman",
           "artist": "mikeeysmind, dadanny",
@@ -17330,7 +17322,7 @@
           "url": "https://open.spotify.com/track/3GDxQBr7aghzWH0kA0N8yk"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "id": "79IgD1wf3xltQdDK3l5Why",
           "name": "In My Room",
           "artist": "Julia Wolf",
@@ -17338,15 +17330,15 @@
           "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
         },
         {
-          "rank": 18,
-          "id": "3ZLdTqGr8k1vlBQmuKHr8z",
-          "name": "help herself",
-          "artist": "bbno$, Diamond Pistols, BENEE",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273e4b2b1629f430e39072baf57",
-          "url": "https://open.spotify.com/track/3ZLdTqGr8k1vlBQmuKHr8z"
+          "rank": 17,
+          "id": "0JJP0IS4w0fJx01EcrfkDe",
+          "name": "Dear Maria, Count Me In",
+          "artist": "All Time Low",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273c8913cd7b91bb7f6bbbec305",
+          "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "id": "3UsJUXvHb7qz4GiQtEc4a4",
           "name": "keep steady",
           "artist": "sosocamo",
@@ -17354,12 +17346,20 @@
           "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
         },
         {
+          "rank": 19,
+          "id": "3ZLdTqGr8k1vlBQmuKHr8z",
+          "name": "help herself",
+          "artist": "bbno$, Diamond Pistols, BENEE",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273e4b2b1629f430e39072baf57",
+          "url": "https://open.spotify.com/track/3ZLdTqGr8k1vlBQmuKHr8z"
+        },
+        {
           "rank": 20,
-          "id": "6zUy2nnchfZpzaDalE6sO2",
-          "name": "Circles",
-          "artist": "Pierce The Veil",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
-          "url": "https://open.spotify.com/track/6zUy2nnchfZpzaDalE6sO2"
+          "id": "4oPLjuY1WgGTL0Ja1doDOn",
+          "name": "Magic Johnson",
+          "artist": "ian",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn"
         }
       ]
     },
@@ -17792,6 +17792,36 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-15T20:33:22.999Z",
+        "id": "35XIBy0gLLwPzqLshKrWf4",
+        "title": "AGAIN",
+        "artist": "Moors",
+        "primary_artist": "Moors",
+        "duration_ms": 153633,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
+        "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4"
+      },
+      {
+        "played_at": "2026-08-15T20:27:54.404Z",
+        "id": "0AKAxdNkwq9ZxRdW1DN9zW",
+        "title": "Behind These Hazel Eyes",
+        "artist": "Kelly Clarkson",
+        "primary_artist": "Kelly Clarkson",
+        "duration_ms": 198973,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c",
+        "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
+      },
+      {
+        "played_at": "2026-08-14T21:09:48.407Z",
+        "id": "0AKAxdNkwq9ZxRdW1DN9zW",
+        "title": "Behind These Hazel Eyes",
+        "artist": "Kelly Clarkson",
+        "primary_artist": "Kelly Clarkson",
+        "duration_ms": 198973,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c",
+        "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
+      },
       {
         "played_at": "2026-08-14T21:02:55.553Z",
         "id": "6Knv6wdA0luoMUuuoYi2i1",
