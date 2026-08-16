@@ -1,30 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1LmRGDRZzF0xsVaRezQTBn",
-    "name": "this u?",
-    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
-    "description": "A 67-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 108-track mix spanning 68 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "2BITQ360Knh6qNAOqR7Dyq",
-    "name": "Miss The Rage (feat. Playboi Carti)",
+    "id": "1vyzpZ8td4h4QNpuATl3ZX",
+    "name": "fumble (feat. piri)",
     "artists": [
-      "Trippie Redd",
-      "Playboi Carti"
+      "Sudley",
+      "piri"
     ],
-    "artist_label": "Trippie Redd, Playboi Carti",
-    "url": "https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq",
-    "embed_url": "https://open.spotify.com/embed/track/2BITQ360Knh6qNAOqR7Dyq?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273d9b293fd7af470ec2c58e75f",
+    "artist_label": "Sudley, piri",
+    "url": "https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX",
+    "embed_url": "https://open.spotify.com/embed/track/1vyzpZ8td4h4QNpuATl3ZX?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d3adb94b0c49dca121575d30",
     "album": {
-      "id": "1FsFHXroF1ILBdVyBRMt3A",
-      "name": "Miss The Rage (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A"
+      "id": "5hscifRFV9IXLm2mZ27fSH",
+      "name": "fumble (feat. piri)",
+      "url": "https://open.spotify.com/album/5hscifRFV9IXLm2mZ27fSH"
     }
   }
 }
