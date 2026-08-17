@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 318,
       "sampled_tracks": 318,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -16585,13 +16585,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 487,
-    "captured_hours": 20.2,
-    "distinct_tracks": 187,
-    "distinct_artists": 110,
+    "captured_plays": 503,
+    "captured_hours": 20.8,
+    "distinct_tracks": 194,
+    "distinct_artists": 114,
     "history_start": "2026-08-02",
-    "history_end": "2026-08-16",
-    "last_played_at": "2026-08-16T18:44:09.576Z",
+    "history_end": "2026-08-17",
+    "last_played_at": "2026-08-17T16:42:29.608Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16668,8 +16668,8 @@
       {
         "hour": 12,
         "label": "12 PM",
-        "plays": 38,
-        "height_pct": 36
+        "plays": 53,
+        "height_pct": 50
       },
       {
         "hour": 13,
@@ -16728,8 +16728,8 @@
       {
         "hour": 22,
         "label": "10 PM",
-        "plays": 12,
-        "height_pct": 11
+        "plays": 13,
+        "height_pct": 12
       },
       {
         "hour": 23,
@@ -16741,8 +16741,8 @@
     "weekday_bins": [
       {
         "label": "Mon",
-        "plays": 58,
-        "width_pct": 46
+        "plays": 73,
+        "width_pct": 58
       },
       {
         "label": "Tue",
@@ -16752,12 +16752,12 @@
       {
         "label": "Wed",
         "plays": 57,
-        "width_pct": 46
+        "width_pct": 45
       },
       {
         "label": "Thu",
         "plays": 97,
-        "width_pct": 78
+        "width_pct": 77
       },
       {
         "label": "Fri",
@@ -16767,11 +16767,11 @@
       {
         "label": "Sat",
         "plays": 42,
-        "width_pct": 34
+        "width_pct": 33
       },
       {
         "label": "Sun",
-        "plays": 125,
+        "plays": 126,
         "width_pct": 100
       }
     ],
@@ -16790,7 +16790,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP",
-        "plays": 24
+        "plays": 25
       },
       {
         "id": "55rXApL8KBessVIpJpH4Fw",
@@ -16798,7 +16798,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw",
-        "plays": 23
+        "plays": 24
       },
       {
         "id": "35XIBy0gLLwPzqLshKrWf4",
@@ -16822,7 +16822,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
         "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ",
-        "plays": 17
+        "plays": 18
       },
       {
         "id": "5hhv2mBCNoiWfRZmBzutW8",
@@ -16848,7 +16848,7 @@
       },
       {
         "name": "2hollis",
-        "plays": 74
+        "plays": 79
       },
       {
         "name": "Moors",
@@ -17500,10 +17500,10 @@
         },
         {
           "rank": 20,
-          "id": "7CGSp2GbiOpLPSq61qjxf8",
-          "name": "midwxst",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcefa3103a0e3e6d3bfa18121",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "id": "4hR6Bm9YYtktXzjmKhb1Cn",
+          "name": "ericdoa",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb0323a01d4bf25da5323fe836",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
       "six_months": [
@@ -17792,6 +17792,166 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-17T16:42:29.608Z",
+        "id": "46AWeklp0oLQcUqdsZbuxU",
+        "title": "Headlock - 1shot Jersey Club",
+        "artist": "1shot",
+        "primary_artist": "1shot",
+        "duration_ms": 107076,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730517dee6c45c136bf158f48f",
+        "url": "https://open.spotify.com/track/46AWeklp0oLQcUqdsZbuxU"
+      },
+      {
+        "played_at": "2026-08-17T16:40:42.068Z",
+        "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
+        "title": "poster boy",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 121089,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+      },
+      {
+        "played_at": "2026-08-17T16:38:30.505Z",
+        "id": "6hxowqRsDm1fsm00y2eHJP",
+        "title": "sidekick",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 78400,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
+      },
+      {
+        "played_at": "2026-08-17T16:37:12.118Z",
+        "id": "55rXApL8KBessVIpJpH4Fw",
+        "title": "ego",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 64000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
+      },
+      {
+        "played_at": "2026-08-17T16:34:02.348Z",
+        "id": "0zXnqruuTKhV7dTmbaO52L",
+        "title": "Sunset",
+        "artist": "LUCKI",
+        "primary_artist": "LUCKI",
+        "duration_ms": 125021,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738afe05439fd7b3d4a6b79bb9",
+        "url": "https://open.spotify.com/track/0zXnqruuTKhV7dTmbaO52L"
+      },
+      {
+        "played_at": "2026-08-17T16:31:56.874Z",
+        "id": "2h7vLf7jv2KsRb7fV77w5H",
+        "title": "crush",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 146225,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H"
+      },
+      {
+        "played_at": "2026-08-17T16:29:30.193Z",
+        "id": "5gAwpwuchaCGnJLlBMGBzp",
+        "title": "DO IT AGAIN (feat. 2Rare)",
+        "artist": "NLE Choppa, 2Rare",
+        "primary_artist": "NLE Choppa",
+        "duration_ms": 213206,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27395d6f398b62fd044fae5d669",
+        "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
+      },
+      {
+        "played_at": "2026-08-17T16:25:56.521Z",
+        "id": "3jCMS72hCFNF1NESsL6L9m",
+        "title": "My Humps - JBroadway Remix",
+        "artist": "JBroadway, Black Eyed Peas",
+        "primary_artist": "JBroadway",
+        "duration_ms": 135208,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27306621deb363fc650e1309ab7",
+        "url": "https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m"
+      },
+      {
+        "played_at": "2026-08-17T16:23:40.855Z",
+        "id": "1GAyiJ6lME4pFquf8NuY8k",
+        "title": "Glitz",
+        "artist": "Joeyy",
+        "primary_artist": "Joeyy",
+        "duration_ms": 91853,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d39915d9954eabae19cf8119",
+        "url": "https://open.spotify.com/track/1GAyiJ6lME4pFquf8NuY8k"
+      },
+      {
+        "played_at": "2026-08-17T16:22:08.502Z",
+        "id": "2kWOfoDtiLM6ONlmOecg2O",
+        "title": "two bad",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 214761,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
+      },
+      {
+        "played_at": "2026-08-17T16:17:35.774Z",
+        "id": "02TdwVX01k1K1jt127jDC3",
+        "title": "need melatonin",
+        "artist": "Kody Lavigne",
+        "primary_artist": "Kody Lavigne",
+        "duration_ms": 87170,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a57486b72a2e90dd2ab41c76",
+        "url": "https://open.spotify.com/track/02TdwVX01k1K1jt127jDC3"
+      },
+      {
+        "played_at": "2026-08-17T16:16:08.147Z",
+        "id": "1kADZJDyRUbmlLxYiqi077",
+        "title": "fuck this town",
+        "artist": "glaive, ericdoa",
+        "primary_artist": "glaive",
+        "duration_ms": 115875,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c9e15d9b71bee93158645592",
+        "url": "https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077"
+      },
+      {
+        "played_at": "2026-08-17T16:14:11.816Z",
+        "id": "3XVAivXQWs5stb6bhR7tVM",
+        "title": "riddle",
+        "artist": "midwxst",
+        "primary_artist": "midwxst",
+        "duration_ms": 108045,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730ab7204e3238857b5fc38c81",
+        "url": "https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM"
+      },
+      {
+        "played_at": "2026-08-17T16:12:23.312Z",
+        "id": "6Qrcmv8ITikAMz962IMtpK",
+        "title": "monclizzy",
+        "artist": "bill clesen",
+        "primary_artist": "bill clesen",
+        "duration_ms": 339197,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273eb7263cc48826fad40d84aeb",
+        "url": "https://open.spotify.com/track/6Qrcmv8ITikAMz962IMtpK"
+      },
+      {
+        "played_at": "2026-08-17T16:06:43.594Z",
+        "id": "6U2sXLGhxJVmKskGUvJzI3",
+        "title": "fantasize",
+        "artist": "ericdoa",
+        "primary_artist": "ericdoa",
+        "duration_ms": 150612,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c63fcc35a0d7de6cdfbcce91",
+        "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+      },
+      {
+        "played_at": "2026-08-17T02:17:08.924Z",
+        "id": "6U2sXLGhxJVmKskGUvJzI3",
+        "title": "fantasize",
+        "artist": "ericdoa",
+        "primary_artist": "ericdoa",
+        "duration_ms": 150612,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c63fcc35a0d7de6cdfbcce91",
+        "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+      },
       {
         "played_at": "2026-08-16T18:44:09.576Z",
         "id": "1yCZyiJlxQSt0DFB9mVTCS",
