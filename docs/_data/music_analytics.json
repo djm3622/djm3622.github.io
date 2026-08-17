@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-08-16",
+  "generated_on": "2026-08-17",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 67,
       "sampled_tracks": 67,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -17049,19 +17049,19 @@
         },
         {
           "rank": 2,
-          "id": "2Ui2JtVjnbHZuExldryCOA",
-          "name": "In My Room",
-          "artist": "Julia Wolf",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273a89fdceada45b52f0de8601c",
-          "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
-        },
-        {
-          "rank": 3,
           "id": "1a4RUUKHH1xkDq0hbuWKhw",
           "name": "zehnvonzehn",
           "artist": "franz1",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
           "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+        },
+        {
+          "rank": 3,
+          "id": "2Ui2JtVjnbHZuExldryCOA",
+          "name": "In My Room",
+          "artist": "Julia Wolf",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273a89fdceada45b52f0de8601c",
+          "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
         },
         {
           "rank": 4,
@@ -17621,31 +17621,31 @@
         },
         {
           "rank": 17,
+          "id": "5G312D5mch8GZE501qpDIy",
+          "name": "Johnny 2 Phones",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
+          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
+        },
+        {
+          "rank": 18,
           "id": "6jJ0s89eD6GaHleKKya26X",
           "name": "Katy Perry",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "id": "0TnOYISbd1XYRBk9myaseg",
           "name": "Pitbull",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
           "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "id": "4DpmPt7gfAAq7WEx0E1X8s",
           "name": "piri",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb1f3a898eda73082c4618e541",
           "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "rank": 20,
-          "id": "5zctI4wO9XSKS8XwcnqEHk",
-          "name": "Lil Mosey",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebdb253ca1b593bf197493a9fc",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
         }
       ],
       "one_year": [
