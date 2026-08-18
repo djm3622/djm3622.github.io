@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 97,
       "sampled_tracks": 97,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -12515,7 +12515,7 @@
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2736b9e2cd3c76bc7e3c1c52f95",
       "playcount": 35446757,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "2zG8L9QM7FnlKkLQYirIxh",
@@ -16071,7 +16071,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
       "playcount": null,
-      "recent_play_count": 82
+      "recent_play_count": 86
     },
     {
       "id": "0BybFIHpANp0dYoiQec8XZ",
@@ -16513,13 +16513,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 600,
-    "captured_hours": 25.3,
-    "distinct_tracks": 234,
-    "distinct_artists": 126,
+    "captured_plays": 605,
+    "captured_hours": 25.5,
+    "distinct_tracks": 235,
+    "distinct_artists": 127,
     "history_start": "2026-08-02",
     "history_end": "2026-08-18",
-    "last_played_at": "2026-08-18T02:32:58.618Z",
+    "last_played_at": "2026-08-18T14:42:02.690Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16584,8 +16584,8 @@
       {
         "hour": 10,
         "label": "10 AM",
-        "plays": 12,
-        "height_pct": 11
+        "plays": 17,
+        "height_pct": 15
       },
       {
         "hour": 11,
@@ -16674,8 +16674,8 @@
       },
       {
         "label": "Tue",
-        "plays": 58,
-        "width_pct": 34
+        "plays": 63,
+        "width_pct": 37
       },
       {
         "label": "Wed",
@@ -16710,7 +16710,7 @@
         "artist": "franz1",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
         "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw",
-        "plays": 82
+        "plays": 86
       },
       {
         "id": "6hxowqRsDm1fsm00y2eHJP",
@@ -16776,7 +16776,7 @@
       },
       {
         "name": "franz1",
-        "plays": 82
+        "plays": 86
       },
       {
         "name": "Moors",
@@ -17720,6 +17720,56 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-18T14:42:02.690Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-18T14:40:02.072Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-18T14:38:01.404Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-18T14:36:00.784Z",
+        "id": "1a4RUUKHH1xkDq0hbuWKhw",
+        "title": "zehnvonzehn",
+        "artist": "franz1",
+        "primary_artist": "franz1",
+        "duration_ms": 120098,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+      },
+      {
+        "played_at": "2026-08-18T14:33:13.404Z",
+        "id": "58lknB6kkfcDjMpCfx7rLH",
+        "title": "Right Now",
+        "artist": "Lil Uzi Vert",
+        "primary_artist": "Lil Uzi Vert",
+        "duration_ms": 227910,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b9e2cd3c76bc7e3c1c52f95",
+        "url": "https://open.spotify.com/track/58lknB6kkfcDjMpCfx7rLH"
+      },
       {
         "played_at": "2026-08-18T02:32:58.618Z",
         "id": "2d8JP84HNLKhmd6IYOoupQ",
