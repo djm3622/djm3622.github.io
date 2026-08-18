@@ -1,30 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "27edqSuOsVHom5TGPrtpy7",
-    "name": "flamed",
-    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
-    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
+    "id": "6NDe4f42HlR8RJVhXn1ZCH",
+    "name": "he on something",
+    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
   },
   "track": {
-    "id": "1rfofaqEpACxVEHIZBJe6W",
-    "name": "Havana (feat. Young Thug)",
+    "id": "58lknB6kkfcDjMpCfx7rLH",
+    "name": "Right Now",
     "artists": [
-      "Camila Cabello",
-      "Young Thug"
+      "Lil Uzi Vert"
     ],
-    "artist_label": "Camila Cabello, Young Thug",
-    "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W",
-    "embed_url": "https://open.spotify.com/embed/track/1rfofaqEpACxVEHIZBJe6W?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273652c9f55dfbf3cfe1800daea",
+    "artist_label": "Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/58lknB6kkfcDjMpCfx7rLH",
+    "embed_url": "https://open.spotify.com/embed/track/58lknB6kkfcDjMpCfx7rLH?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736b9e2cd3c76bc7e3c1c52f95",
     "album": {
-      "id": "2vD3zSQr8hNlg0obNel4TE",
-      "name": "Camila",
-      "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      "id": "5WrbKW1nRN4vSsu70uizxX",
+      "name": "Luv Is Rage",
+      "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX"
     }
   }
 }
