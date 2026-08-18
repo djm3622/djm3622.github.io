@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16561,13 +16561,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 599,
+    "captured_plays": 600,
     "captured_hours": 25.3,
-    "distinct_tracks": 233,
+    "distinct_tracks": 234,
     "distinct_artists": 126,
     "history_start": "2026-08-02",
     "history_end": "2026-08-18",
-    "last_played_at": "2026-08-18T01:03:31.678Z",
+    "last_played_at": "2026-08-18T02:32:58.618Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16704,7 +16704,7 @@
       {
         "hour": 22,
         "label": "10 PM",
-        "plays": 13,
+        "plays": 14,
         "height_pct": 12
       },
       {
@@ -16717,7 +16717,7 @@
     "weekday_bins": [
       {
         "label": "Mon",
-        "plays": 169,
+        "plays": 170,
         "width_pct": 100
       },
       {
@@ -16738,7 +16738,7 @@
       {
         "label": "Fri",
         "plays": 50,
-        "width_pct": 30
+        "width_pct": 29
       },
       {
         "label": "Sat",
@@ -16748,7 +16748,7 @@
       {
         "label": "Sun",
         "plays": 126,
-        "width_pct": 75
+        "width_pct": 74
       }
     ],
     "recent_top_tracks": [
@@ -16887,19 +16887,19 @@
         },
         {
           "rank": 5,
-          "id": "35XIBy0gLLwPzqLshKrWf4",
-          "name": "AGAIN",
-          "artist": "Moors",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
-          "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4"
-        },
-        {
-          "rank": 6,
           "id": "55rXApL8KBessVIpJpH4Fw",
           "name": "ego",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
           "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
+        },
+        {
+          "rank": 6,
+          "id": "35XIBy0gLLwPzqLshKrWf4",
+          "name": "AGAIN",
+          "artist": "Moors",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
+          "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4"
         },
         {
           "rank": 7,
@@ -17768,6 +17768,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-18T02:32:58.618Z",
+        "id": "2d8JP84HNLKhmd6IYOoupQ",
+        "title": "Trap Queen",
+        "artist": "Fetty Wap",
+        "primary_artist": "Fetty Wap",
+        "duration_ms": 222093,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273df7c1e1c441dd172ea8f29f9",
+        "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+      },
       {
         "played_at": "2026-08-18T01:03:31.678Z",
         "id": "2GhvoJajHIXxWK4vtPWkqN",
