@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "6NDe4f42HlR8RJVhXn1ZCH",
-    "name": "he on something",
-    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
-    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
+    "id": "7MW7sGh5LeEQPjDreDZPw2",
+    "name": "bobby ray",
+    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
   },
   "track": {
-    "id": "58lknB6kkfcDjMpCfx7rLH",
-    "name": "Right Now",
+    "id": "6mapJIPnQ23RTAevUoE0DL",
+    "name": "Swang",
     "artists": [
-      "Lil Uzi Vert"
+      "Rae Sremmurd"
     ],
-    "artist_label": "Lil Uzi Vert",
-    "url": "https://open.spotify.com/track/58lknB6kkfcDjMpCfx7rLH",
-    "embed_url": "https://open.spotify.com/embed/track/58lknB6kkfcDjMpCfx7rLH?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2736b9e2cd3c76bc7e3c1c52f95",
+    "artist_label": "Rae Sremmurd",
+    "url": "https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL",
+    "embed_url": "https://open.spotify.com/embed/track/6mapJIPnQ23RTAevUoE0DL?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
     "album": {
-      "id": "5WrbKW1nRN4vSsu70uizxX",
-      "name": "Luv Is Rage",
-      "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX"
+      "id": "5v6iBhIlflzR9rEd1LAMbd",
+      "name": "SremmLife 2 (Deluxe)",
+      "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
     }
   }
 }
