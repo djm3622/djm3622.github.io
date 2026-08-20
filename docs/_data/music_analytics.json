@@ -4,19 +4,19 @@
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
     "requested_playlist_count": 13,
-    "catalog_slots": 893,
-    "sampled_slots": 893,
+    "catalog_slots": 892,
+    "sampled_slots": 892,
     "coverage_pct": 100.0,
     "playcount_sample": 12,
     "note": "Playlist composition comes from Spotify's authenticated API, including configured private and collaborative playlists. Listening activity combines Spotify's recent-play history with private top-item affinity rankings."
   },
   "overview": {
-    "unique_tracks": 891,
+    "unique_tracks": 890,
     "distinct_primary_artists": 342,
-    "sampled_hours": 44.3,
-    "median_duration_ms": 172291,
+    "sampled_hours": 44.2,
+    "median_duration_ms": 171956,
     "median_duration_label": "2:52",
-    "explicit_pct": 55.7,
+    "explicit_pct": 55.6,
     "under_two_minutes_pct": 12.4,
     "over_six_minutes_pct": 1.0,
     "repeat_track_count": 2
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 101,
       "sampled_tracks": 101,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -136,17 +136,17 @@
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
       "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
-      "total_tracks": 88,
-      "sampled_tracks": 88,
+      "total_tracks": 87,
+      "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
-      "duration_hours": 4.2,
-      "median_duration_ms": 167479,
+      "duration_hours": 4.1,
+      "median_duration_ms": 167186,
       "median_duration_label": "2:47",
       "explicit_pct": 96.6,
       "distinct_primary_artists": 12,
       "top_artist": "Yeat",
       "top_artist_tracks": 74,
-      "top_artist_share_pct": 84.1
+      "top_artist_share_pct": 85.1
     },
     {
       "id": "7p4fxMRZCuY6ZtNeu99vbK",
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -960,16 +960,6 @@
       "image_kind": "album"
     },
     {
-      "name": "mikeeysmind",
-      "tracks": 3,
-      "duration_ms": 517513,
-      "duration_label": "9m",
-      "explicit_pct": 100.0,
-      "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0ceea527986ccd91b22372d",
-      "image_kind": "album"
-    },
-    {
       "name": "Tyler, The Creator",
       "tracks": 3,
       "duration_ms": 495212,
@@ -1367,6 +1357,16 @@
       "explicit_pct": 100.0,
       "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj",
       "image_url": "https://i.scdn.co/image/ab67616d0000b27397ce10b4cfeb26d2a93cc409",
+      "image_kind": "album"
+    },
+    {
+      "name": "mikeeysmind",
+      "tracks": 2,
+      "duration_ms": 289901,
+      "duration_label": "5m",
+      "explicit_pct": 100.0,
+      "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0ceea527986ccd91b22372d",
       "image_kind": "album"
     },
     {
@@ -15338,20 +15338,6 @@
       "recent_play_count": 0
     },
     {
-      "id": "5XXAkqaDUHTVyBCuVBzCWF",
-      "title": "VVV",
-      "artist": "mikeeysmind, Sanikwave",
-      "primary_artist": "mikeeysmind",
-      "playlist": "yeatpilled",
-      "url": "https://open.spotify.com/track/5XXAkqaDUHTVyBCuVBzCWF",
-      "duration_ms": 227612,
-      "duration_label": "3:48",
-      "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2736da6183c5d6b8e757f2885a2",
-      "playcount": null,
-      "recent_play_count": 0
-    },
-    {
       "id": "2G1tXoGBaEMJ7FKGnkf6ud",
       "title": "Wake Up in the Sky",
       "artist": "Gucci Mane, Bruno Mars, Kodak Black",
@@ -17197,11 +17183,11 @@
         },
         {
           "rank": 20,
-          "id": "2JreXnkSzK2oVk2yQInpsi",
-          "name": "Evacuate the Dancefloor - Radio Edit",
-          "artist": "Cascada",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273093920c6d1f62f023e5a9a68",
-          "url": "https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"
+          "id": "55rXApL8KBessVIpJpH4Fw",
+          "name": "ego",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
         }
       ],
       "one_year": [
@@ -17625,24 +17611,24 @@
         },
         {
           "rank": 17,
+          "id": "5G312D5mch8GZE501qpDIy",
+          "name": "Johnny 2 Phones",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
+          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
+        },
+        {
+          "rank": 18,
           "id": "5zctI4wO9XSKS8XwcnqEHk",
           "name": "Lil Mosey",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebdb253ca1b593bf197493a9fc",
           "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "id": "0TnOYISbd1XYRBk9myaseg",
           "name": "Pitbull",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
           "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "rank": 19,
-          "id": "5G312D5mch8GZE501qpDIy",
-          "name": "Johnny 2 Phones",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
-          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
         },
         {
           "rank": 20,
