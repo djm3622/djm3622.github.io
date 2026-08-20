@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7MW7sGh5LeEQPjDreDZPw2",
-    "name": "bobby ray",
-    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
-    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
+    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
+    "name": "lucio",
+    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
   },
   "track": {
-    "id": "6mapJIPnQ23RTAevUoE0DL",
-    "name": "Swang",
+    "id": "3FP8A246XpuafFofRhDlWG",
+    "name": "I'm So Sick",
     "artists": [
-      "Rae Sremmurd"
+      "Flyleaf"
     ],
-    "artist_label": "Rae Sremmurd",
-    "url": "https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL",
-    "embed_url": "https://open.spotify.com/embed/track/6mapJIPnQ23RTAevUoE0DL?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
+    "artist_label": "Flyleaf",
+    "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
+    "embed_url": "https://open.spotify.com/embed/track/3FP8A246XpuafFofRhDlWG?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
     "album": {
-      "id": "5v6iBhIlflzR9rEd1LAMbd",
-      "name": "SremmLife 2 (Deluxe)",
-      "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
+      "id": "4Hv9JeNCe9bMyTrgt9NjXt",
+      "name": "Flyleaf",
+      "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
     }
   }
 }
