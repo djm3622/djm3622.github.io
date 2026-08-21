@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
-    "name": "lucio",
-    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
-    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
+    "id": "27edqSuOsVHom5TGPrtpy7",
+    "name": "flamed",
+    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
   },
   "track": {
-    "id": "3FP8A246XpuafFofRhDlWG",
-    "name": "I'm So Sick",
+    "id": "3Ol2xnObFdKV9pmRD2t9x8",
+    "name": "Look Back at It",
     "artists": [
-      "Flyleaf"
+      "A Boogie Wit da Hoodie"
     ],
-    "artist_label": "Flyleaf",
-    "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
-    "embed_url": "https://open.spotify.com/embed/track/3FP8A246XpuafFofRhDlWG?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+    "artist_label": "A Boogie Wit da Hoodie",
+    "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8",
+    "embed_url": "https://open.spotify.com/embed/track/3Ol2xnObFdKV9pmRD2t9x8?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273a5c7151899ae5da4f4382d54",
     "album": {
-      "id": "4Hv9JeNCe9bMyTrgt9NjXt",
-      "name": "Flyleaf",
-      "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
+      "id": "3r5hf3Cj3EMh1C2saQ8jyt",
+      "name": "Hoodie SZN",
+      "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
     }
   }
 }
