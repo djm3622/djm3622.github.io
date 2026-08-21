@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -16575,13 +16575,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 706,
-    "captured_hours": 29.2,
-    "distinct_tracks": 249,
+    "captured_plays": 708,
+    "captured_hours": 29.3,
+    "distinct_tracks": 250,
     "distinct_artists": 134,
     "history_start": "2026-08-02",
     "history_end": "2026-08-21",
-    "last_played_at": "2026-08-21T04:45:36.775Z",
+    "last_played_at": "2026-08-21T16:04:47.897Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16640,8 +16640,8 @@
       {
         "hour": 9,
         "label": "9 AM",
-        "plays": 0,
-        "height_pct": 0
+        "plays": 1,
+        "height_pct": 1
       },
       {
         "hour": 10,
@@ -16658,8 +16658,8 @@
       {
         "hour": 12,
         "label": "12 PM",
-        "plays": 65,
-        "height_pct": 52
+        "plays": 66,
+        "height_pct": 53
       },
       {
         "hour": 13,
@@ -16751,8 +16751,8 @@
       },
       {
         "label": "Fri",
-        "plays": 51,
-        "width_pct": 30
+        "plays": 53,
+        "width_pct": 31
       },
       {
         "label": "Sat",
@@ -17782,6 +17782,26 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-21T16:04:47.897Z",
+        "id": "2hnMS47jN0etwvFPzYk11f",
+        "title": "Santeria",
+        "artist": "Sublime",
+        "primary_artist": "Sublime",
+        "duration_ms": 182746,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85",
+        "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+      },
+      {
+        "played_at": "2026-08-21T13:26:02.909Z",
+        "id": "2hnMS47jN0etwvFPzYk11f",
+        "title": "Santeria",
+        "artist": "Sublime",
+        "primary_artist": "Sublime",
+        "duration_ms": 182746,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85",
+        "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+      },
       {
         "played_at": "2026-08-21T04:45:36.775Z",
         "id": "2kWOfoDtiLM6ONlmOecg2O",
