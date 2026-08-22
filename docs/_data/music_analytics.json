@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16575,13 +16575,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 737,
-    "captured_hours": 30.5,
+    "captured_plays": 738,
+    "captured_hours": 30.6,
     "distinct_tracks": 252,
     "distinct_artists": 134,
     "history_start": "2026-08-02",
     "history_end": "2026-08-22",
-    "last_played_at": "2026-08-22T20:19:42.357Z",
+    "last_played_at": "2026-08-22T22:35:26.551Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16659,13 +16659,13 @@
         "hour": 12,
         "label": "12 PM",
         "plays": 66,
-        "height_pct": 51
+        "height_pct": 50
       },
       {
         "hour": 13,
         "label": "1 PM",
         "plays": 75,
-        "height_pct": 58
+        "height_pct": 57
       },
       {
         "hour": 14,
@@ -16689,19 +16689,19 @@
         "hour": 17,
         "label": "5 PM",
         "plays": 91,
-        "height_pct": 70
+        "height_pct": 69
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 130,
+        "plays": 131,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
         "plays": 83,
-        "height_pct": 64
+        "height_pct": 63
       },
       {
         "hour": 20,
@@ -16725,7 +16725,7 @@
         "hour": 23,
         "label": "11 PM",
         "plays": 28,
-        "height_pct": 22
+        "height_pct": 21
       }
     ],
     "weekday_bins": [
@@ -16756,8 +16756,8 @@
       },
       {
         "label": "Sat",
-        "plays": 56,
-        "width_pct": 33
+        "plays": 57,
+        "width_pct": 34
       },
       {
         "label": "Sun",
@@ -16804,7 +16804,7 @@
         "artist": "Moors",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
         "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4",
-        "plays": 27
+        "plays": 28
       },
       {
         "id": "360ZhWvMnyXKYFG9Mqsm89",
@@ -16842,7 +16842,7 @@
       },
       {
         "name": "Moors",
-        "plays": 33
+        "plays": 34
       },
       {
         "name": "Lil Mosey",
@@ -17420,38 +17420,38 @@
         },
         {
           "rank": 10,
+          "id": "6PXS4YHDkKvl1wkIl4V8DL",
+          "name": "Fetty Wap",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf6df2e78223259e7d425b1ee",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "rank": 11,
           "id": "0TnOYISbd1XYRBk9myaseg",
           "name": "Pitbull",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
           "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "id": "5pKCCKE2ajJHZ9KAiaK11H",
           "name": "Rihanna",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "id": "4cJKDGSv4Dz9QycXYmo565",
           "name": "glaive",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebc4bdb0035310b2535bdacfa3",
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "id": "04gDigrS5kc9YWfZHwBETP",
           "name": "Maroon 5",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "rank": 14,
-          "id": "6PXS4YHDkKvl1wkIl4V8DL",
-          "name": "Fetty Wap",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf6df2e78223259e7d425b1ee",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         },
         {
           "rank": 15,
@@ -17782,6 +17782,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-22T22:35:26.551Z",
+        "id": "35XIBy0gLLwPzqLshKrWf4",
+        "title": "AGAIN",
+        "artist": "Moors",
+        "primary_artist": "Moors",
+        "duration_ms": 153633,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
+        "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4"
+      },
       {
         "played_at": "2026-08-22T20:19:42.357Z",
         "id": "2d8JP84HNLKhmd6IYOoupQ",
