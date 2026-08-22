@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "27edqSuOsVHom5TGPrtpy7",
-    "name": "flamed",
-    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
-    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
+    "id": "1BXO1VOQIBiYkHtGtopfwS",
+    "name": "yeatpilled",
+    "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+    "description": "A 87-track mix spanning 24 artists, led by Yeat, alyx, and prodbysky."
   },
   "track": {
-    "id": "3Ol2xnObFdKV9pmRD2t9x8",
-    "name": "Look Back at It",
+    "id": "00zk0uua6s2ifh0Nc3ppfW",
+    "name": "Nun id change",
     "artists": [
-      "A Boogie Wit da Hoodie"
+      "Yeat"
     ],
-    "artist_label": "A Boogie Wit da Hoodie",
-    "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8",
-    "embed_url": "https://open.spotify.com/embed/track/3Ol2xnObFdKV9pmRD2t9x8?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273a5c7151899ae5da4f4382d54",
+    "artist_label": "Yeat",
+    "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW",
+    "embed_url": "https://open.spotify.com/embed/track/00zk0uua6s2ifh0Nc3ppfW?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
     "album": {
-      "id": "3r5hf3Cj3EMh1C2saQ8jyt",
-      "name": "Hoodie SZN",
-      "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      "id": "25Uddgldy3slnChqKqHsIM",
+      "name": "Aft\u00ebrLyfe",
+      "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
     }
   }
 }
