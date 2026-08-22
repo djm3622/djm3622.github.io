@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -16575,13 +16575,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 722,
+    "captured_plays": 723,
     "captured_hours": 30.0,
     "distinct_tracks": 252,
     "distinct_artists": 134,
     "history_start": "2026-08-02",
-    "history_end": "2026-08-21",
-    "last_played_at": "2026-08-21T22:28:20.106Z",
+    "history_end": "2026-08-22",
+    "last_played_at": "2026-08-22T00:04:56.377Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16706,8 +16706,8 @@
       {
         "hour": 20,
         "label": "8 PM",
-        "plays": 47,
-        "height_pct": 36
+        "plays": 48,
+        "height_pct": 37
       },
       {
         "hour": 21,
@@ -16751,8 +16751,8 @@
       },
       {
         "label": "Fri",
-        "plays": 67,
-        "width_pct": 39
+        "plays": 68,
+        "width_pct": 40
       },
       {
         "label": "Sat",
@@ -16820,7 +16820,7 @@
         "artist": "Lil Mosey",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2737aa54f905ae6c1e7f67020ea",
         "url": "https://open.spotify.com/track/5hhv2mBCNoiWfRZmBzutW8",
-        "plays": 16
+        "plays": 17
       },
       {
         "id": "3xrn9i8zhNZsTtcoWgQEAd",
@@ -16846,7 +16846,7 @@
       },
       {
         "name": "Lil Mosey",
-        "plays": 27
+        "plays": 28
       },
       {
         "name": "Cascada",
@@ -17782,6 +17782,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-22T00:04:56.377Z",
+        "id": "5hhv2mBCNoiWfRZmBzutW8",
+        "title": "Every Night",
+        "artist": "Lil Mosey",
+        "primary_artist": "Lil Mosey",
+        "duration_ms": 149991,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737aa54f905ae6c1e7f67020ea",
+        "url": "https://open.spotify.com/track/5hhv2mBCNoiWfRZmBzutW8"
+      },
       {
         "played_at": "2026-08-21T22:28:20.106Z",
         "id": "7iHHxY2NLlJRAmlAmC4ahQ",
