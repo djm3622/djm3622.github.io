@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 101,
       "sampled_tracks": 101,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -7215,7 +7215,7 @@
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
       "playcount": null,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "7bO7a1KrtmGNDIOy2u3siZ",
@@ -16575,13 +16575,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 760,
-    "captured_hours": 31.5,
-    "distinct_tracks": 266,
+    "captured_plays": 762,
+    "captured_hours": 31.6,
+    "distinct_tracks": 267,
     "distinct_artists": 140,
     "history_start": "2026-08-02",
     "history_end": "2026-08-23",
-    "last_played_at": "2026-08-23T05:40:00.314Z",
+    "last_played_at": "2026-08-23T18:42:46.817Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16652,8 +16652,8 @@
       {
         "hour": 11,
         "label": "11 AM",
-        "plays": 10,
-        "height_pct": 7
+        "plays": 11,
+        "height_pct": 8
       },
       {
         "hour": 12,
@@ -16670,8 +16670,8 @@
       {
         "hour": 14,
         "label": "2 PM",
-        "plays": 48,
-        "height_pct": 34
+        "plays": 49,
+        "height_pct": 35
       },
       {
         "hour": 15,
@@ -16761,8 +16761,8 @@
       },
       {
         "label": "Sun",
-        "plays": 136,
-        "width_pct": 80
+        "plays": 138,
+        "width_pct": 81
       }
     ],
     "recent_top_tracks": [
@@ -16780,7 +16780,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw",
-        "plays": 51
+        "plays": 52
       },
       {
         "id": "6hxowqRsDm1fsm00y2eHJP",
@@ -16834,7 +16834,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 164
+        "plays": 165
       },
       {
         "name": "franz1",
@@ -16858,7 +16858,7 @@
       },
       {
         "name": "Yeat",
-        "plays": 20
+        "plays": 21
       },
       {
         "name": "piri",
@@ -17782,6 +17782,26 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-23T18:42:46.817Z",
+        "id": "55rXApL8KBessVIpJpH4Fw",
+        "title": "ego",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 64000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
+      },
+      {
+        "played_at": "2026-08-23T15:40:24.774Z",
+        "id": "3xDnJvoFMxSRmboLsYwPfU",
+        "title": "FLY NIT\u00cb",
+        "artist": "Yeat, FKA twigs",
+        "primary_artist": "Yeat",
+        "duration_ms": 228295,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
+        "url": "https://open.spotify.com/track/3xDnJvoFMxSRmboLsYwPfU"
+      },
       {
         "played_at": "2026-08-23T05:40:00.314Z",
         "id": "1X1qDJuuXctXEwsaJ0Eubx",
