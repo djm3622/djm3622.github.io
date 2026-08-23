@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-08-22",
+  "generated_on": "2026-08-23",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16575,19 +16575,19 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 738,
-    "captured_hours": 30.6,
-    "distinct_tracks": 252,
-    "distinct_artists": 134,
+    "captured_plays": 750,
+    "captured_hours": 31.1,
+    "distinct_tracks": 264,
+    "distinct_artists": 139,
     "history_start": "2026-08-02",
     "history_end": "2026-08-22",
-    "last_played_at": "2026-08-22T22:35:26.551Z",
+    "last_played_at": "2026-08-22T23:11:16.941Z",
     "hour_bins": [
       {
         "hour": 0,
         "label": "12 AM",
         "plays": 6,
-        "height_pct": 5
+        "height_pct": 4
       },
       {
         "hour": 1,
@@ -16599,7 +16599,7 @@
         "hour": 2,
         "label": "2 AM",
         "plays": 10,
-        "height_pct": 8
+        "height_pct": 7
       },
       {
         "hour": 3,
@@ -16647,85 +16647,85 @@
         "hour": 10,
         "label": "10 AM",
         "plays": 18,
-        "height_pct": 14
+        "height_pct": 13
       },
       {
         "hour": 11,
         "label": "11 AM",
         "plays": 10,
-        "height_pct": 8
+        "height_pct": 7
       },
       {
         "hour": 12,
         "label": "12 PM",
         "plays": 66,
-        "height_pct": 50
+        "height_pct": 47
       },
       {
         "hour": 13,
         "label": "1 PM",
         "plays": 75,
-        "height_pct": 57
+        "height_pct": 54
       },
       {
         "hour": 14,
         "label": "2 PM",
         "plays": 48,
-        "height_pct": 37
+        "height_pct": 34
       },
       {
         "hour": 15,
         "label": "3 PM",
         "plays": 44,
-        "height_pct": 34
+        "height_pct": 31
       },
       {
         "hour": 16,
         "label": "4 PM",
         "plays": 40,
-        "height_pct": 31
+        "height_pct": 29
       },
       {
         "hour": 17,
         "label": "5 PM",
         "plays": 91,
-        "height_pct": 69
+        "height_pct": 65
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 131,
+        "plays": 140,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 83,
-        "height_pct": 63
+        "plays": 86,
+        "height_pct": 61
       },
       {
         "hour": 20,
         "label": "8 PM",
         "plays": 48,
-        "height_pct": 37
+        "height_pct": 34
       },
       {
         "hour": 21,
         "label": "9 PM",
         "plays": 20,
-        "height_pct": 15
+        "height_pct": 14
       },
       {
         "hour": 22,
         "label": "10 PM",
         "plays": 14,
-        "height_pct": 11
+        "height_pct": 10
       },
       {
         "hour": 23,
         "label": "11 PM",
         "plays": 28,
-        "height_pct": 21
+        "height_pct": 20
       }
     ],
     "weekday_bins": [
@@ -16756,8 +16756,8 @@
       },
       {
         "label": "Sat",
-        "plays": 57,
-        "width_pct": 34
+        "plays": 69,
+        "width_pct": 41
       },
       {
         "label": "Sun",
@@ -17399,17 +17399,17 @@
         },
         {
           "rank": 7,
-          "id": "5zctI4wO9XSKS8XwcnqEHk",
-          "name": "Lil Mosey",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebdb253ca1b593bf197493a9fc",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        },
-        {
-          "rank": 8,
           "id": "5G312D5mch8GZE501qpDIy",
           "name": "Johnny 2 Phones",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
           "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
+        },
+        {
+          "rank": 8,
+          "id": "5zctI4wO9XSKS8XwcnqEHk",
+          "name": "Lil Mosey",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebdb253ca1b593bf197493a9fc",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
         },
         {
           "rank": 9,
@@ -17434,17 +17434,17 @@
         },
         {
           "rank": 12,
-          "id": "5pKCCKE2ajJHZ9KAiaK11H",
-          "name": "Rihanna",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "rank": 13,
           "id": "4cJKDGSv4Dz9QycXYmo565",
           "name": "glaive",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebc4bdb0035310b2535bdacfa3",
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "rank": 13,
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
           "rank": 14,
@@ -17469,31 +17469,31 @@
         },
         {
           "rank": 17,
-          "id": "6LqNN22kT3074XbTVUrhzX",
-          "name": "Kesha",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "rank": 18,
           "id": "7CGSp2GbiOpLPSq61qjxf8",
           "name": "midwxst",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcefa3103a0e3e6d3bfa18121",
           "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         },
         {
+          "rank": 18,
+          "id": "4hR6Bm9YYtktXzjmKhb1Cn",
+          "name": "ericdoa",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb0323a01d4bf25da5323fe836",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        },
+        {
           "rank": 19,
+          "id": "6LqNN22kT3074XbTVUrhzX",
+          "name": "Kesha",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "rank": 20,
           "id": "7CajNmpbOovFoOoasH2HaY",
           "name": "Calvin Harris",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "rank": 20,
-          "id": "07YZf4WDAMNwqr4jfgOZ8y",
-          "name": "Jason Derulo",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebfb65e1af01cf95c25bd29ed1",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
       "six_months": [
@@ -17782,6 +17782,126 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-22T23:11:16.941Z",
+        "id": "0FtuxFKzjbVCQAA3UQZXll",
+        "title": "Crush",
+        "artist": "Souly Had",
+        "primary_artist": "Souly Had",
+        "duration_ms": 159813,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27372363335a223b634b11f7c5f",
+        "url": "https://open.spotify.com/track/0FtuxFKzjbVCQAA3UQZXll"
+      },
+      {
+        "played_at": "2026-08-22T23:04:46.064Z",
+        "id": "4dMN3rD80ygXkqyV47DTSG",
+        "title": "Falling (feat. blackbear) - blackbear Remix",
+        "artist": "Trevor Daniel, blackbear",
+        "primary_artist": "Trevor Daniel",
+        "duration_ms": 171968,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737bf1b91bc05ea3b837e8eb94",
+        "url": "https://open.spotify.com/track/4dMN3rD80ygXkqyV47DTSG"
+      },
+      {
+        "played_at": "2026-08-22T23:01:53.636Z",
+        "id": "6QL39n47cRewKHOnp831iC",
+        "title": "physs",
+        "artist": "glaive, ericdoa",
+        "primary_artist": "glaive",
+        "duration_ms": 147488,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e427154ba07871825a9ac721",
+        "url": "https://open.spotify.com/track/6QL39n47cRewKHOnp831iC"
+      },
+      {
+        "played_at": "2026-08-22T22:59:25.693Z",
+        "id": "1qzEU17KHCczdNs89uYqdD",
+        "title": "Brooklyn",
+        "artist": "Johnny 2 Phones",
+        "primary_artist": "Johnny 2 Phones",
+        "duration_ms": 142199,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733b0b2cdb433fef3c84c060d4",
+        "url": "https://open.spotify.com/track/1qzEU17KHCczdNs89uYqdD"
+      },
+      {
+        "played_at": "2026-08-22T22:57:03.038Z",
+        "id": "5FkoSXiJPKTNyYgALRJFhD",
+        "title": "ORANGE SODA",
+        "artist": "Baby Keem",
+        "primary_artist": "Baby Keem",
+        "duration_ms": 129882,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+        "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
+      },
+      {
+        "played_at": "2026-08-22T22:54:17.541Z",
+        "id": "01yiSZ6GzLj5YxGv02IrNd",
+        "title": "ifhy",
+        "artist": "ericdoa",
+        "primary_artist": "ericdoa",
+        "duration_ms": 169874,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a2409f9883c3e677f5fba331",
+        "url": "https://open.spotify.com/track/01yiSZ6GzLj5YxGv02IrNd"
+      },
+      {
+        "played_at": "2026-08-22T22:51:27.208Z",
+        "id": "2QJZMmVPXpTjjW6MR9N6hw",
+        "title": "SNAKE EYES",
+        "artist": "Aries",
+        "primary_artist": "Aries",
+        "duration_ms": 130370,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730d5875919c6cd697c41bae5c",
+        "url": "https://open.spotify.com/track/2QJZMmVPXpTjjW6MR9N6hw"
+      },
+      {
+        "played_at": "2026-08-22T22:49:16.383Z",
+        "id": "5hTpBe8h35rJ67eAWHQsJx",
+        "title": "Caroline",
+        "artist": "Amin\u00e9",
+        "primary_artist": "Amin\u00e9",
+        "duration_ms": 209640,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27360282020360f5048976275aa",
+        "url": "https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx"
+      },
+      {
+        "played_at": "2026-08-22T22:45:46.284Z",
+        "id": "7nc7mlSdWYeFom84zZ8Wr8",
+        "title": "Tell Em",
+        "artist": "Cochise, $NOT",
+        "primary_artist": "Cochise",
+        "duration_ms": 180379,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e60b56aa1e58fe76240a101b",
+        "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+      },
+      {
+        "played_at": "2026-08-22T22:42:45.458Z",
+        "id": "4KRQnlwO69SYQKCVwfq2lO",
+        "title": "Smile",
+        "artist": "midwxst, glaive",
+        "primary_artist": "midwxst",
+        "duration_ms": 146009,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731650f59bed16ee57c922e306",
+        "url": "https://open.spotify.com/track/4KRQnlwO69SYQKCVwfq2lO"
+      },
+      {
+        "played_at": "2026-08-22T22:40:19.007Z",
+        "id": "72PFP54TZ9Tpj9dYQcb46D",
+        "title": "NIGHTRIDER",
+        "artist": "Arizona Zervas",
+        "primary_artist": "Arizona Zervas",
+        "duration_ms": 156367,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27368f04df4bfa3212b88843710",
+        "url": "https://open.spotify.com/track/72PFP54TZ9Tpj9dYQcb46D"
+      },
+      {
+        "played_at": "2026-08-22T22:37:42.184Z",
+        "id": "7L9EFcixaIOGjrh71XN4wZ",
+        "title": "Into the Sun",
+        "artist": "Johnny 2 Phones",
+        "primary_artist": "Johnny 2 Phones",
+        "duration_ms": 135178,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273263f95f55ed658f23226727f",
+        "url": "https://open.spotify.com/track/7L9EFcixaIOGjrh71XN4wZ"
+      },
       {
         "played_at": "2026-08-22T22:35:26.551Z",
         "id": "35XIBy0gLLwPzqLshKrWf4",
