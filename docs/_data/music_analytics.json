@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -17135,19 +17135,19 @@
         },
         {
           "rank": 14,
-          "id": "3gsTHXu2xjshL1LoEnqkuO",
-          "name": "H0w Sh0uld ! f33l",
-          "artist": "North West",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2738f4bb77764360ed866ccbcd1",
-          "url": "https://open.spotify.com/track/3gsTHXu2xjshL1LoEnqkuO"
-        },
-        {
-          "rank": 15,
           "id": "20I6sIOMTCkB6w7ryavxtO",
           "name": "Call Me Maybe",
           "artist": "Carly Rae Jepsen",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72",
           "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+        },
+        {
+          "rank": 15,
+          "id": "3gsTHXu2xjshL1LoEnqkuO",
+          "name": "H0w Sh0uld ! f33l",
+          "artist": "North West",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2738f4bb77764360ed866ccbcd1",
+          "url": "https://open.spotify.com/track/3gsTHXu2xjshL1LoEnqkuO"
         },
         {
           "rank": 16,
@@ -17233,19 +17233,19 @@
         },
         {
           "rank": 6,
-          "id": "26QJuQfM8PVAWkIm1JRyqq",
-          "name": "ss",
-          "artist": "Ken Carson",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2733b494c1b464d41ef641de442",
-          "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
-        },
-        {
-          "rank": 7,
           "id": "1Es7AUAhQvapIcoh3qMKDL",
           "name": "Timeless (feat. Playboi Carti)",
           "artist": "The Weeknd, Playboi Carti",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27358cd6595ed970f6862906ab8",
           "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+        },
+        {
+          "rank": 7,
+          "id": "26QJuQfM8PVAWkIm1JRyqq",
+          "name": "ss",
+          "artist": "Ken Carson",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2733b494c1b464d41ef641de442",
+          "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
         },
         {
           "rank": 8,
@@ -17321,14 +17321,6 @@
         },
         {
           "rank": 17,
-          "id": "0JJP0IS4w0fJx01EcrfkDe",
-          "name": "Dear Maria, Count Me In",
-          "artist": "All Time Low",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273c8913cd7b91bb7f6bbbec305",
-          "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
-        },
-        {
-          "rank": 18,
           "id": "3UsJUXvHb7qz4GiQtEc4a4",
           "name": "keep steady",
           "artist": "sosocamo",
@@ -17336,7 +17328,7 @@
           "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "id": "3ZLdTqGr8k1vlBQmuKHr8z",
           "name": "help herself",
           "artist": "bbno$, Diamond Pistols, BENEE",
@@ -17344,12 +17336,20 @@
           "url": "https://open.spotify.com/track/3ZLdTqGr8k1vlBQmuKHr8z"
         },
         {
+          "rank": 19,
+          "id": "0JJP0IS4w0fJx01EcrfkDe",
+          "name": "Dear Maria, Count Me In",
+          "artist": "All Time Low",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273c8913cd7b91bb7f6bbbec305",
+          "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
+        },
+        {
           "rank": 20,
-          "id": "4oPLjuY1WgGTL0Ja1doDOn",
-          "name": "Magic Johnson",
-          "artist": "ian",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn"
+          "id": "5itTZ7kNRBl65Nn1QO9Ax9",
+          "name": "Dead or Alive",
+          "artist": "Lil Tecca",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96",
+          "url": "https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9"
         }
       ]
     },
@@ -17611,17 +17611,17 @@
         },
         {
           "rank": 17,
-          "id": "1HY2Jd0NmPuamShAr6KMms",
-          "name": "Lady Gaga",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 18,
           "id": "5G312D5mch8GZE501qpDIy",
           "name": "Johnny 2 Phones",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
           "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
+        },
+        {
+          "rank": 18,
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
           "rank": 19,
