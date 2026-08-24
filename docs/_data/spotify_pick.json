@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 108-track mix spanning 68 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "7p4fxMRZCuY6ZtNeu99vbK",
+    "name": "calm luh",
+    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
   },
   "track": {
-    "id": "5FQ9NDyx3KZXhovWWq4Gxo",
-    "name": "Should've Been Me",
+    "id": "5XffaIvP5YObMdofKhklN0",
+    "name": "i need u",
     "artists": [
-      "Mitski"
+      "Ken Carson"
     ],
-    "artist_label": "Mitski",
-    "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo",
-    "embed_url": "https://open.spotify.com/embed/track/5FQ9NDyx3KZXhovWWq4Gxo?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273d8041a531487d0e0e4cfb41f",
+    "artist_label": "Ken Carson",
+    "url": "https://open.spotify.com/track/5XffaIvP5YObMdofKhklN0",
+    "embed_url": "https://open.spotify.com/embed/track/5XffaIvP5YObMdofKhklN0?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27332ca8b9eb6b93ab8c7b8d2ed",
     "album": {
-      "id": "4rcinMUHEWOxpIwJo2sf22",
-      "name": "Laurel Hell",
-      "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      "id": "0QodbRnnQoHtYQTnosQEfQ",
+      "name": "i need u",
+      "url": "https://open.spotify.com/album/0QodbRnnQoHtYQTnosQEfQ"
     }
   }
 }
