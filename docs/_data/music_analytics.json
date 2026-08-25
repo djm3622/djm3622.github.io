@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -17117,19 +17117,19 @@
         },
         {
           "rank": 13,
-          "id": "6b8Be6ljOzmkOmFslEb23P",
-          "name": "24K Magic",
-          "artist": "Bruno Mars",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-          "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-        },
-        {
-          "rank": 14,
           "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
           "name": "poster boy",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
           "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+        },
+        {
+          "rank": 14,
+          "id": "6b8Be6ljOzmkOmFslEb23P",
+          "name": "24K Magic",
+          "artist": "Bruno Mars",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+          "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
         },
         {
           "rank": 15,
@@ -17149,6 +17149,14 @@
         },
         {
           "rank": 17,
+          "id": "55rXApL8KBessVIpJpH4Fw",
+          "name": "ego",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
+        },
+        {
+          "rank": 18,
           "id": "5hhv2mBCNoiWfRZmBzutW8",
           "name": "Every Night",
           "artist": "Lil Mosey",
@@ -17156,20 +17164,12 @@
           "url": "https://open.spotify.com/track/5hhv2mBCNoiWfRZmBzutW8"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "id": "04KGYP88lnBiS5kDZFgJV7",
           "name": "My Way",
           "artist": "Yeat, Julia Wolf",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
           "url": "https://open.spotify.com/track/04KGYP88lnBiS5kDZFgJV7"
-        },
-        {
-          "rank": 19,
-          "id": "55rXApL8KBessVIpJpH4Fw",
-          "name": "ego",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
         },
         {
           "rank": 20,
@@ -17503,17 +17503,17 @@
         },
         {
           "rank": 3,
-          "id": "4O15NlyKLIASxsJ0PrXPfz",
-          "name": "Lil Uzi Vert",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "rank": 4,
           "id": "72NhFAGG5Pt91VbheJeEPG",
           "name": "2hollis",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebfa8e5370cae3d2cfba098c87",
           "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        },
+        {
+          "rank": 4,
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
           "rank": 5,
