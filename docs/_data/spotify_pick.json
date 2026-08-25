@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7p4fxMRZCuY6ZtNeu99vbK",
-    "name": "calm luh",
-    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
-    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
+    "id": "38PmYBLrKbhBUlywggIVkP",
+    "name": "void",
+    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
   },
   "track": {
-    "id": "5XffaIvP5YObMdofKhklN0",
-    "name": "i need u",
+    "id": "0YgyE3xIbYNzYhaPPHqrXJ",
+    "name": "Tic Tac Toe (with Ken Carson)",
     "artists": [
+      "Lil Tecca",
       "Ken Carson"
     ],
-    "artist_label": "Ken Carson",
-    "url": "https://open.spotify.com/track/5XffaIvP5YObMdofKhklN0",
-    "embed_url": "https://open.spotify.com/embed/track/5XffaIvP5YObMdofKhklN0?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27332ca8b9eb6b93ab8c7b8d2ed",
+    "artist_label": "Lil Tecca, Ken Carson",
+    "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ",
+    "embed_url": "https://open.spotify.com/embed/track/0YgyE3xIbYNzYhaPPHqrXJ?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
     "album": {
-      "id": "0QodbRnnQoHtYQTnosQEfQ",
-      "name": "i need u",
-      "url": "https://open.spotify.com/album/0QodbRnnQoHtYQTnosQEfQ"
+      "id": "0CLqdKIh14TmKqLZCs9dml",
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
     }
   }
 }
