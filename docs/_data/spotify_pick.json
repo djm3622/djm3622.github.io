@@ -1,30 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "38PmYBLrKbhBUlywggIVkP",
-    "name": "void",
-    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
-    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
+    "id": "1LmRGDRZzF0xsVaRezQTBn",
+    "name": "this u?",
+    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+    "description": "A 66-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
   },
   "track": {
-    "id": "0YgyE3xIbYNzYhaPPHqrXJ",
-    "name": "Tic Tac Toe (with Ken Carson)",
+    "id": "1UAmQe8EwpxQ80OfYVD13z",
+    "name": "Lookin",
     "artists": [
-      "Lil Tecca",
-      "Ken Carson"
+      "Playboi Carti",
+      "Lil Uzi Vert"
     ],
-    "artist_label": "Lil Tecca, Ken Carson",
-    "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ",
-    "embed_url": "https://open.spotify.com/embed/track/0YgyE3xIbYNzYhaPPHqrXJ?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+    "artist_label": "Playboi Carti, Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z",
+    "embed_url": "https://open.spotify.com/embed/track/1UAmQe8EwpxQ80OfYVD13z?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
     "album": {
-      "id": "0CLqdKIh14TmKqLZCs9dml",
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      "id": "4rJgzzfFHAVFhCSt2P4I3j",
+      "name": "Playboi Carti",
+      "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
     }
   }
 }
