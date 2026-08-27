@@ -1,22 +1,22 @@
 {
-  "generated_on": "2026-08-26",
+  "generated_on": "2026-08-27",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
     "requested_playlist_count": 13,
-    "catalog_slots": 897,
-    "sampled_slots": 897,
+    "catalog_slots": 893,
+    "sampled_slots": 893,
     "coverage_pct": 100.0,
     "playcount_sample": 12,
     "note": "Playlist composition comes from Spotify's authenticated API, including configured private and collaborative playlists. Listening activity combines Spotify's recent-play history with private top-item affinity rankings."
   },
   "overview": {
-    "unique_tracks": 895,
-    "distinct_primary_artists": 346,
-    "sampled_hours": 44.5,
+    "unique_tracks": 891,
+    "distinct_primary_artists": 342,
+    "sampled_hours": 44.3,
     "median_duration_ms": 171622,
     "median_duration_label": "2:52",
-    "explicit_pct": 55.6,
+    "explicit_pct": 55.7,
     "under_two_minutes_pct": 12.4,
     "over_six_minutes_pct": 1.0,
     "repeat_track_count": 2
@@ -27,25 +27,25 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
-      "total_tracks": 320,
-      "sampled_tracks": 320,
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "total_tracks": 316,
+      "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
-      "duration_hours": 14.1,
-      "median_duration_ms": 144591,
-      "median_duration_label": "2:25",
+      "duration_hours": 13.8,
+      "median_duration_ms": 144047,
+      "median_duration_label": "2:24",
       "explicit_pct": 46.2,
-      "distinct_primary_artists": 169,
+      "distinct_primary_artists": 165,
       "top_artist": "Yameii Online",
       "top_artist_tracks": 18,
-      "top_artist_share_pct": 5.6
+      "top_artist_share_pct": 5.7
     },
     {
       "id": "1K3uznQ2lcsxnDk0MMQDZB",
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 28,
       "sampled_tracks": 28,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -1790,16 +1790,6 @@
       "image_kind": "album"
     },
     {
-      "name": "anilifts",
-      "tracks": 1,
-      "duration_ms": 164815,
-      "duration_label": "3m",
-      "explicit_pct": 0.0,
-      "url": "https://open.spotify.com/artist/4OnAnBRiOkbYcMi9RccvZH",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd9786144036e8736cc76be7",
-      "image_kind": "album"
-    },
-    {
       "name": "loveyouparadise",
       "tracks": 1,
       "duration_ms": 123831,
@@ -1817,16 +1807,6 @@
       "explicit_pct": 0.0,
       "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273a6feeebd8e715f1a4660b788",
-      "image_kind": "album"
-    },
-    {
-      "name": "slidesta",
-      "tracks": 1,
-      "duration_ms": 304991,
-      "duration_label": "5m",
-      "explicit_pct": 100.0,
-      "url": "https://open.spotify.com/artist/3LYOLjkW4ffvb40jpvm7HI",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27351b9b38530639053b7976da7",
       "image_kind": "album"
     },
     {
@@ -1857,26 +1837,6 @@
       "explicit_pct": 0.0,
       "url": "https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz",
       "image_url": "https://i.scdn.co/image/ab67616d0000b27345592721ca55b1cddb43a19d",
-      "image_kind": "album"
-    },
-    {
-      "name": "Yandere",
-      "tracks": 1,
-      "duration_ms": 144979,
-      "duration_label": "2m",
-      "explicit_pct": 0.0,
-      "url": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27397ac01dddaead2c46683cf8a",
-      "image_kind": "album"
-    },
-    {
-      "name": "crypvolk",
-      "tracks": 1,
-      "duration_ms": 208000,
-      "duration_label": "3m",
-      "explicit_pct": 100.0,
-      "url": "https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5236294affbe170be00b35c",
       "image_kind": "album"
     },
     {
@@ -8644,20 +8604,6 @@
       "recent_play_count": 0
     },
     {
-      "id": "5emUdsZSfeaByE3z7mHgxZ",
-      "title": "I'm Good",
-      "artist": "crypvolk, AniLifts, Yosuf",
-      "primary_artist": "crypvolk",
-      "playlist": "illumi",
-      "url": "https://open.spotify.com/track/5emUdsZSfeaByE3z7mHgxZ",
-      "duration_ms": 208000,
-      "duration_label": "3:28",
-      "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5236294affbe170be00b35c",
-      "playcount": null,
-      "recent_play_count": 0
-    },
-    {
       "id": "3FP8A246XpuafFofRhDlWG",
       "title": "I'm So Sick",
       "artist": "Flyleaf",
@@ -13236,20 +13182,6 @@
       "recent_play_count": 1
     },
     {
-      "id": "1vyCoYrMRtECCtvS42bsxc",
-      "title": "Show me Calcium",
-      "artist": "slidesta",
-      "primary_artist": "slidesta",
-      "playlist": "illumi",
-      "url": "https://open.spotify.com/track/1vyCoYrMRtECCtvS42bsxc",
-      "duration_ms": 304991,
-      "duration_label": "5:05",
-      "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27351b9b38530639053b7976da7",
-      "playcount": null,
-      "recent_play_count": 0
-    },
-    {
       "id": "2iDIFn3hIbiwfsLtCggubr",
       "title": "shut down entirely",
       "artist": "meat computer",
@@ -13922,20 +13854,6 @@
       "recent_play_count": 0
     },
     {
-      "id": "2hOE6aYHeuZqiUA25qgT5v",
-      "title": "sugar rush",
-      "artist": "Yandere",
-      "primary_artist": "Yandere",
-      "playlist": "illumi",
-      "url": "https://open.spotify.com/track/2hOE6aYHeuZqiUA25qgT5v",
-      "duration_ms": 144979,
-      "duration_label": "2:25",
-      "explicit": false,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27397ac01dddaead2c46683cf8a",
-      "playcount": null,
-      "recent_play_count": 0
-    },
-    {
       "id": "7jVH8CXr0MSpGheHOjN4NA",
       "title": "SUICIDE YEAR",
       "artist": "WEEDMANE, Suicideyear",
@@ -14044,20 +13962,6 @@
       "duration_label": "3:41",
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2733914cab48ff5a0ef5ba9e765",
-      "playcount": null,
-      "recent_play_count": 0
-    },
-    {
-      "id": "637xeaarvqRv51pkdCP7QM",
-      "title": "Sweet Dreams",
-      "artist": "anilifts, Yosuf, Yotora",
-      "primary_artist": "anilifts",
-      "playlist": "illumi",
-      "url": "https://open.spotify.com/track/637xeaarvqRv51pkdCP7QM",
-      "duration_ms": 164815,
-      "duration_label": "2:45",
-      "explicit": false,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd9786144036e8736cc76be7",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -16685,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 894,
+    "captured_plays": 895,
     "captured_hours": 37.1,
     "distinct_tracks": 299,
     "distinct_artists": 144,
     "history_start": "2026-08-02",
-    "history_end": "2026-08-26",
-    "last_played_at": "2026-08-26T22:03:59.400Z",
+    "history_end": "2026-08-27",
+    "last_played_at": "2026-08-27T01:23:11.553Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16822,8 +16726,8 @@
       {
         "hour": 21,
         "label": "9 PM",
-        "plays": 20,
-        "height_pct": 14
+        "plays": 21,
+        "height_pct": 15
       },
       {
         "hour": 22,
@@ -16851,8 +16755,8 @@
       },
       {
         "label": "Wed",
-        "plays": 113,
-        "width_pct": 58
+        "plays": 114,
+        "width_pct": 59
       },
       {
         "label": "Thu",
@@ -16944,7 +16848,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 283
+        "plays": 284
       },
       {
         "name": "franz1",
@@ -17253,19 +17157,19 @@
         },
         {
           "rank": 15,
-          "id": "6b8Be6ljOzmkOmFslEb23P",
-          "name": "24K Magic",
-          "artist": "Bruno Mars",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-          "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-        },
-        {
-          "rank": 16,
           "id": "20I6sIOMTCkB6w7ryavxtO",
           "name": "Call Me Maybe",
           "artist": "Carly Rae Jepsen",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72",
           "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+        },
+        {
+          "rank": 16,
+          "id": "6b8Be6ljOzmkOmFslEb23P",
+          "name": "24K Magic",
+          "artist": "Bruno Mars",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+          "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
         },
         {
           "rank": 17,
@@ -17892,6 +17796,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-27T01:23:11.553Z",
+        "id": "46bUjfJt7SVePcWtBVKa7W",
+        "title": "flash",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 164117,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W"
+      },
       {
         "played_at": "2026-08-26T22:03:59.400Z",
         "id": "4Mjl46Mh8sAjsEB0QkeOWJ",

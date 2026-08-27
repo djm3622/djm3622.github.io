@@ -1,30 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1LmRGDRZzF0xsVaRezQTBn",
-    "name": "this u?",
-    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
-    "description": "A 66-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
+    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
+    "name": "johto",
+    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
   },
   "track": {
-    "id": "1UAmQe8EwpxQ80OfYVD13z",
-    "name": "Lookin",
+    "id": "799f6Ih1Pu4AUApMyXhxUc",
+    "name": "Bonfire",
     "artists": [
-      "Playboi Carti",
-      "Lil Uzi Vert"
+      "Childish Gambino"
     ],
-    "artist_label": "Playboi Carti, Lil Uzi Vert",
-    "url": "https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z",
-    "embed_url": "https://open.spotify.com/embed/track/1UAmQe8EwpxQ80OfYVD13z?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+    "artist_label": "Childish Gambino",
+    "url": "https://open.spotify.com/track/799f6Ih1Pu4AUApMyXhxUc",
+    "embed_url": "https://open.spotify.com/embed/track/799f6Ih1Pu4AUApMyXhxUc?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736f134f8d843353be21a9706e",
     "album": {
-      "id": "4rJgzzfFHAVFhCSt2P4I3j",
-      "name": "Playboi Carti",
-      "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      "id": "32KdoFFhgjCLdU0DWL71tx",
+      "name": "Camp",
+      "url": "https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx"
     }
   }
 }
