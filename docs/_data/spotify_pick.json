@@ -1,29 +1,31 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
-    "name": "johto",
-    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
-    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 108-track mix spanning 68 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "799f6Ih1Pu4AUApMyXhxUc",
-    "name": "Bonfire",
+    "id": "1LjMPAZCsTIdMuwlM9PcPF",
+    "name": "beachin",
     "artists": [
-      "Childish Gambino"
+      "piri",
+      "Tommy Villiers",
+      "piri & tommy"
     ],
-    "artist_label": "Childish Gambino",
-    "url": "https://open.spotify.com/track/799f6Ih1Pu4AUApMyXhxUc",
-    "embed_url": "https://open.spotify.com/embed/track/799f6Ih1Pu4AUApMyXhxUc?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2736f134f8d843353be21a9706e",
+    "artist_label": "piri, Tommy Villiers, piri & tommy",
+    "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF",
+    "embed_url": "https://open.spotify.com/embed/track/1LjMPAZCsTIdMuwlM9PcPF?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2732e8670913dc839242d6f34a1",
     "album": {
-      "id": "32KdoFFhgjCLdU0DWL71tx",
-      "name": "Camp",
-      "url": "https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx"
+      "id": "0ceD9hGoyjc5kplHQNP4Mn",
+      "name": "beachin",
+      "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
     }
   }
 }
