@@ -1,31 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 108-track mix spanning 68 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "0kVBGAMtUIeJQat1V7a861",
+    "name": "cloud",
+    "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+    "description": "A 19-track mix spanning 9 artists, led by Mac Miller, Kanye West, and Joji."
   },
   "track": {
-    "id": "1LjMPAZCsTIdMuwlM9PcPF",
-    "name": "beachin",
+    "id": "7CC6UbCs4iGsePSzFxYxNn",
+    "name": "Moon",
     "artists": [
-      "piri",
-      "Tommy Villiers",
-      "piri & tommy"
+      "Kanye West"
     ],
-    "artist_label": "piri, Tommy Villiers, piri & tommy",
-    "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF",
-    "embed_url": "https://open.spotify.com/embed/track/1LjMPAZCsTIdMuwlM9PcPF?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2732e8670913dc839242d6f34a1",
+    "artist_label": "Kanye West",
+    "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn",
+    "embed_url": "https://open.spotify.com/embed/track/7CC6UbCs4iGsePSzFxYxNn?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
     "album": {
-      "id": "0ceD9hGoyjc5kplHQNP4Mn",
-      "name": "beachin",
-      "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
+      "id": "5CnpZV3q5BcESefcB3WJmz",
+      "name": "Donda",
+      "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
     }
   }
 }
