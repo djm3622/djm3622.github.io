@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16589,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 954,
+    "captured_plays": 955,
     "captured_hours": 39.3,
     "distinct_tracks": 299,
     "distinct_artists": 144,
     "history_start": "2026-08-02",
-    "history_end": "2026-08-28",
-    "last_played_at": "2026-08-28T20:42:46.950Z",
+    "history_end": "2026-08-29",
+    "last_played_at": "2026-08-29T19:25:11.276Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16690,7 +16690,7 @@
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 88,
+        "plays": 89,
         "height_pct": 62
       },
       {
@@ -16770,7 +16770,7 @@
       },
       {
         "label": "Sat",
-        "plays": 69,
+        "plays": 70,
         "width_pct": 36
       },
       {
@@ -16848,7 +16848,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 335
+        "plays": 336
       },
       {
         "name": "franz1",
@@ -16963,19 +16963,19 @@
         },
         {
           "rank": 11,
-          "id": "20I6sIOMTCkB6w7ryavxtO",
-          "name": "Call Me Maybe",
-          "artist": "Carly Rae Jepsen",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72",
-          "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
-        },
-        {
-          "rank": 12,
           "id": "6xBQEW4ge9OlbYUt5IVyVz",
           "name": "Behind These Hazel Eyes",
           "artist": "Kelly Clarkson",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273158c72ad0003cb37ca0c9eff",
           "url": "https://open.spotify.com/track/6xBQEW4ge9OlbYUt5IVyVz"
+        },
+        {
+          "rank": 12,
+          "id": "20I6sIOMTCkB6w7ryavxtO",
+          "name": "Call Me Maybe",
+          "artist": "Carly Rae Jepsen",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72",
+          "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
         },
         {
           "rank": 13,
@@ -17019,19 +17019,19 @@
         },
         {
           "rank": 18,
-          "id": "46bUjfJt7SVePcWtBVKa7W",
-          "name": "flash",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W"
-        },
-        {
-          "rank": 19,
           "id": "08WEIBLx95kvXakvVs8izv",
           "name": "FORFEIT",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
           "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
+        },
+        {
+          "rank": 19,
+          "id": "46bUjfJt7SVePcWtBVKa7W",
+          "name": "flash",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W"
         },
         {
           "rank": 20,
@@ -17427,38 +17427,38 @@
         },
         {
           "rank": 9,
-          "id": "6VvnLfGL8XDQomLEa91WPk",
-          "name": "YAZ",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb85646fdd11a7efdb0bdfa0e9",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
-        },
-        {
-          "rank": 10,
           "id": "5pKCCKE2ajJHZ9KAiaK11H",
           "name": "Rihanna",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "id": "6PXS4YHDkKvl1wkIl4V8DL",
           "name": "Fetty Wap",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf6df2e78223259e7d425b1ee",
           "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "0TnOYISbd1XYRBk9myaseg",
           "name": "Pitbull",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
           "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "id": "4cJKDGSv4Dz9QycXYmo565",
           "name": "glaive",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebc4bdb0035310b2535bdacfa3",
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "rank": 13,
+          "id": "6VvnLfGL8XDQomLEa91WPk",
+          "name": "YAZ",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb85646fdd11a7efdb0bdfa0e9",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
         },
         {
           "rank": 14,
@@ -17796,6 +17796,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-08-29T19:25:11.276Z",
+        "id": "08WEIBLx95kvXakvVs8izv",
+        "title": "FORFEIT",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 170664,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
+      },
       {
         "played_at": "2026-08-28T20:42:46.950Z",
         "id": "5XD08ZPXrYSnc5xRPQ0gu4",
