@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7MW7sGh5LeEQPjDreDZPw2",
-    "name": "bobby ray",
-    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
-    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
+    "id": "7p4fxMRZCuY6ZtNeu99vbK",
+    "name": "calm luh",
+    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
   },
   "track": {
-    "id": "1Ser4X0TKttOvo8bgdytTP",
-    "name": "Come Get Her",
+    "id": "1cdqNRXIRrvT4HnApj6yw6",
+    "name": "if looks could kill",
     "artists": [
-      "Rae Sremmurd"
+      "Destroy Lonely"
     ],
-    "artist_label": "Rae Sremmurd",
-    "url": "https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP",
-    "embed_url": "https://open.spotify.com/embed/track/1Ser4X0TKttOvo8bgdytTP?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460",
+    "artist_label": "Destroy Lonely",
+    "url": "https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6",
+    "embed_url": "https://open.spotify.com/embed/track/1cdqNRXIRrvT4HnApj6yw6?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27374263936c646f196bfe58893",
     "album": {
-      "id": "6eDx949ONWDCN0O22wFZf7",
-      "name": "SremmLife",
-      "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
+      "id": "1lbRv6yB7ZI2MuoGG9io6E",
+      "name": "if looks could kill",
+      "url": "https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E"
     }
   }
 }
