@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -16987,14 +16987,6 @@
         },
         {
           "rank": 14,
-          "id": "4Mjl46Mh8sAjsEB0QkeOWJ",
-          "name": "beginning",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/4Mjl46Mh8sAjsEB0QkeOWJ"
-        },
-        {
-          "rank": 15,
           "id": "08WEIBLx95kvXakvVs8izv",
           "name": "FORFEIT",
           "artist": "2hollis",
@@ -17002,20 +16994,28 @@
           "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
         },
         {
-          "rank": 16,
-          "id": "4KxmNhZkzlLdLGYdMlgDgC",
-          "name": "burn",
+          "rank": 15,
+          "id": "4Mjl46Mh8sAjsEB0QkeOWJ",
+          "name": "beginning",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
+          "url": "https://open.spotify.com/track/4Mjl46Mh8sAjsEB0QkeOWJ"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "id": "2QD4C6RRHgRNRAyrfnoeAo",
           "name": "Play Hard (feat. Ne-Yo & Akon)",
           "artist": "David Guetta, Ne-Yo, Akon",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27387e2f8346625bb6fd20d52be",
           "url": "https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo"
+        },
+        {
+          "rank": 17,
+          "id": "4KxmNhZkzlLdLGYdMlgDgC",
+          "name": "burn",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
         },
         {
           "rank": 18,
@@ -17093,19 +17093,19 @@
         },
         {
           "rank": 7,
-          "id": "44PH8NLzVddk4qhAUvm4v3",
-          "name": "Purpose General",
-          "artist": "Yeat",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
-          "url": "https://open.spotify.com/track/44PH8NLzVddk4qhAUvm4v3"
-        },
-        {
-          "rank": 8,
           "id": "55rXApL8KBessVIpJpH4Fw",
           "name": "ego",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
           "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
+        },
+        {
+          "rank": 8,
+          "id": "44PH8NLzVddk4qhAUvm4v3",
+          "name": "Purpose General",
+          "artist": "Yeat",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
+          "url": "https://open.spotify.com/track/44PH8NLzVddk4qhAUvm4v3"
         },
         {
           "rank": 9,
@@ -17117,19 +17117,19 @@
         },
         {
           "rank": 10,
-          "id": "1D9XWqsoNWIfLEzjHcrgMx",
-          "name": "BAD TIME",
-          "artist": "Lil Tecca",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
-          "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
-        },
-        {
-          "rank": 11,
           "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
           "name": "poster boy",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
           "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+        },
+        {
+          "rank": 11,
+          "id": "1D9XWqsoNWIfLEzjHcrgMx",
+          "name": "BAD TIME",
+          "artist": "Lil Tecca",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+          "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
         },
         {
           "rank": 12,
@@ -17504,10 +17504,10 @@
         },
         {
           "rank": 20,
-          "id": "7CajNmpbOovFoOoasH2HaY",
-          "name": "Calvin Harris",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
       "six_months": [
