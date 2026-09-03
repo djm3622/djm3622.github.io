@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 108-track mix spanning 68 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "7p4fxMRZCuY6ZtNeu99vbK",
+    "name": "calm luh",
+    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
   },
   "track": {
-    "id": "4DWXFYTDoiRoZxQ5AckERs",
-    "name": "big flirt",
+    "id": "7eUvg5UEG8AVyWKGWm7Lj1",
+    "name": "55 Lifestyle",
     "artists": [
-      "lil hero"
+      "HXG"
     ],
-    "artist_label": "lil hero",
-    "url": "https://open.spotify.com/track/4DWXFYTDoiRoZxQ5AckERs",
-    "embed_url": "https://open.spotify.com/embed/track/4DWXFYTDoiRoZxQ5AckERs?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27301054a4b4c24ec84353bd087",
+    "artist_label": "HXG",
+    "url": "https://open.spotify.com/track/7eUvg5UEG8AVyWKGWm7Lj1",
+    "embed_url": "https://open.spotify.com/embed/track/7eUvg5UEG8AVyWKGWm7Lj1?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e57962f75f6165382e40ac51",
     "album": {
-      "id": "7EMoYQ7QghVnHSsdNLWv5P",
-      "name": "pawwwfect!",
-      "url": "https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P"
+      "id": "5Fy36L5DnmGWWmAQsq4Ido",
+      "name": "Snotty World (Deluxe)",
+      "url": "https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido"
     }
   }
 }
