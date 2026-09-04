@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -1896,7 +1896,7 @@
       "duration_label": "2m",
       "explicit_pct": 0.0,
       "url": "https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c1b33fafbc03f5ddfb9aba9",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347b56033f770b7b6876bad58",
       "image_kind": "album"
     },
     {
@@ -11735,7 +11735,7 @@
       "duration_ms": 131657,
       "duration_label": "2:12",
       "explicit": false,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c1b33fafbc03f5ddfb9aba9",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347b56033f770b7b6876bad58",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -16589,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1258,
-    "captured_hours": 52.1,
-    "distinct_tracks": 364,
+    "captured_plays": 1261,
+    "captured_hours": 52.2,
+    "distinct_tracks": 365,
     "distinct_artists": 169,
     "history_start": "2026-08-02",
     "history_end": "2026-09-04",
-    "last_played_at": "2026-09-04T02:49:11.253Z",
+    "last_played_at": "2026-09-04T15:44:46.904Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16666,8 +16666,8 @@
       {
         "hour": 11,
         "label": "11 AM",
-        "plays": 21,
-        "height_pct": 11
+        "plays": 24,
+        "height_pct": 12
       },
       {
         "hour": 12,
@@ -16765,8 +16765,8 @@
       },
       {
         "label": "Fri",
-        "plays": 78,
-        "width_pct": 28
+        "plays": 81,
+        "width_pct": 29
       },
       {
         "label": "Sat",
@@ -16848,7 +16848,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 517
+        "plays": 520
       },
       {
         "name": "franz1",
@@ -17796,6 +17796,36 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-04T15:44:46.904Z",
+        "id": "6sRL01QlNZUt8UtpHw1nFW",
+        "title": "mountain",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 142258,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/6sRL01QlNZUt8UtpHw1nFW"
+      },
+      {
+        "played_at": "2026-09-04T15:42:24.616Z",
+        "id": "4JcS9WIUfDny6XJ82GqMpZ",
+        "title": "light",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 165428,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/4JcS9WIUfDny6XJ82GqMpZ"
+      },
+      {
+        "played_at": "2026-09-04T15:33:58.030Z",
+        "id": "08WEIBLx95kvXakvVs8izv",
+        "title": "FORFEIT",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 170664,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
+      },
       {
         "played_at": "2026-09-04T02:49:11.253Z",
         "id": "7mABPLrORWP8aPNS2avdyV",
