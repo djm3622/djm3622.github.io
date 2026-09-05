@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 28,
       "sampled_tracks": 28,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -5227,7 +5227,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b27360606c4dfff97da7a917423c",
       "playcount": null,
-      "recent_play_count": 1
+      "recent_play_count": 2
     },
     {
       "id": "5u4KF3JQ31fxUgd2QOfJ3i",
@@ -5409,7 +5409,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273b8dde909d6e44be287c83cde",
       "playcount": null,
-      "recent_play_count": 1
+      "recent_play_count": 2
     },
     {
       "id": "6zUy2nnchfZpzaDalE6sO2",
@@ -11261,7 +11261,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2733174a9f789d91a20d3ef14aa",
       "playcount": null,
-      "recent_play_count": 1
+      "recent_play_count": 2
     },
     {
       "id": "0syXbGoFZbTMXm8hGCEvW0",
@@ -16589,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1326,
-    "captured_hours": 55.8,
+    "captured_plays": 1329,
+    "captured_hours": 55.9,
     "distinct_tracks": 387,
     "distinct_artists": 178,
     "history_start": "2026-08-02",
     "history_end": "2026-09-05",
-    "last_played_at": "2026-09-05T18:11:01.270Z",
+    "last_played_at": "2026-09-05T19:24:34.584Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16684,13 +16684,13 @@
       {
         "hour": 14,
         "label": "2 PM",
-        "plays": 74,
-        "height_pct": 37
+        "plays": 76,
+        "height_pct": 38
       },
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 111,
+        "plays": 112,
         "height_pct": 56
       },
       {
@@ -16770,8 +16770,8 @@
       },
       {
         "label": "Sat",
-        "plays": 86,
-        "width_pct": 30
+        "plays": 89,
+        "width_pct": 31
       },
       {
         "label": "Sun",
@@ -17483,31 +17483,31 @@
         },
         {
           "rank": 17,
+          "id": "7CajNmpbOovFoOoasH2HaY",
+          "name": "Calvin Harris",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "rank": 18,
           "id": "2U6J9Q89i1TNhesKreFD65",
           "name": "piri & tommy",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb7fb03392206f895e0c219b6d",
           "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "id": "0jnsk9HBra6NMjO2oANoPY",
           "name": "Flo Rida",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb655ca8f3196953554b479452",
           "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "id": "26dSoYclwsYLMAKD3tpOr4",
           "name": "Britney Spears",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8cf8f7cab75b0e44dd4e0ea8",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "rank": 20,
-          "id": "7CGSp2GbiOpLPSq61qjxf8",
-          "name": "midwxst",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcefa3103a0e3e6d3bfa18121",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         }
       ],
       "six_months": [
@@ -17796,6 +17796,36 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-05T19:24:34.584Z",
+        "id": "0bCrjySLJB37HbwKd4wIun",
+        "title": "Cigarette Stub",
+        "artist": "Asal",
+        "primary_artist": "Asal",
+        "duration_ms": 179398,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b8dde909d6e44be287c83cde",
+        "url": "https://open.spotify.com/track/0bCrjySLJB37HbwKd4wIun"
+      },
+      {
+        "played_at": "2026-09-05T18:32:58.143Z",
+        "id": "7E4qUlNYocWix5FKBdw5CN",
+        "title": "OH! TENGO SUERTE",
+        "artist": "Masayoshi Takanaka",
+        "primary_artist": "Masayoshi Takanaka",
+        "duration_ms": 252666,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733174a9f789d91a20d3ef14aa",
+        "url": "https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN"
+      },
+      {
+        "played_at": "2026-09-05T18:27:49.079Z",
+        "id": "0K0ccueOxKjB5vgLVpnhIf",
+        "title": "c u never",
+        "artist": "tomcbumpz, piri",
+        "primary_artist": "tomcbumpz",
+        "duration_ms": 175806,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27360606c4dfff97da7a917423c",
+        "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
+      },
       {
         "played_at": "2026-09-05T18:11:01.270Z",
         "id": "07nH4ifBxUB4lZcsf44Brn",
