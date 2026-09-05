@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "4gzEOrF8mCDu96BCLdwDya",
-    "name": "92.3",
-    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
-    "description": "A 100-track mix spanning 76 artists, led by Rihanna, Britney Spears, and Lady Gaga."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 108-track mix spanning 68 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "7Hqig8kp32q2Ire3ECQvWM",
-    "name": "Paparazzi",
+    "id": "7mOJd6rFEP7y0CONwDUFbU",
+    "name": "American Girls",
     "artists": [
-      "Lady Gaga"
+      "YAZ"
     ],
-    "artist_label": "Lady Gaga",
-    "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM",
-    "embed_url": "https://open.spotify.com/embed/track/7Hqig8kp32q2Ire3ECQvWM?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+    "artist_label": "YAZ",
+    "url": "https://open.spotify.com/track/7mOJd6rFEP7y0CONwDUFbU",
+    "embed_url": "https://open.spotify.com/embed/track/7mOJd6rFEP7y0CONwDUFbU?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2733b07e91827c3e113dc6efe9d",
     "album": {
-      "id": "1jpUMnKpRlng1OJN7LJauV",
-      "name": "The Fame",
-      "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      "id": "5BD3DdNohv7LwLnZKNuzaj",
+      "name": "American Girls",
+      "url": "https://open.spotify.com/album/5BD3DdNohv7LwLnZKNuzaj"
     }
   }
 }

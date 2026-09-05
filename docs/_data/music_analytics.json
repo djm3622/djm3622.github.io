@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-09-04",
+  "generated_on": "2026-09-05",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 28,
       "sampled_tracks": 28,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -16589,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1265,
-    "captured_hours": 52.4,
-    "distinct_tracks": 365,
-    "distinct_artists": 169,
+    "captured_plays": 1273,
+    "captured_hours": 52.8,
+    "distinct_tracks": 366,
+    "distinct_artists": 170,
     "history_start": "2026-08-02",
     "history_end": "2026-09-04",
-    "last_played_at": "2026-09-04T20:05:36.585Z",
+    "last_played_at": "2026-09-04T21:34:36.745Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16696,14 +16696,14 @@
       {
         "hour": 16,
         "label": "4 PM",
-        "plays": 120,
-        "height_pct": 60
+        "plays": 121,
+        "height_pct": 61
       },
       {
         "hour": 17,
         "label": "5 PM",
-        "plays": 157,
-        "height_pct": 79
+        "plays": 164,
+        "height_pct": 82
       },
       {
         "hour": 18,
@@ -16765,8 +16765,8 @@
       },
       {
         "label": "Fri",
-        "plays": 85,
-        "width_pct": 30
+        "plays": 93,
+        "width_pct": 33
       },
       {
         "label": "Sat",
@@ -16848,7 +16848,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 524
+        "plays": 531
       },
       {
         "name": "franz1",
@@ -16923,19 +16923,19 @@
         },
         {
           "rank": 6,
-          "id": "2GhvoJajHIXxWK4vtPWkqN",
-          "name": "destroy me",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
-        },
-        {
-          "rank": 7,
           "id": "2kWOfoDtiLM6ONlmOecg2O",
           "name": "two bad",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
           "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
+        },
+        {
+          "rank": 7,
+          "id": "2GhvoJajHIXxWK4vtPWkqN",
+          "name": "destroy me",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
         },
         {
           "rank": 8,
@@ -17796,6 +17796,86 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-04T21:34:36.745Z",
+        "id": "7mABPLrORWP8aPNS2avdyV",
+        "title": "fame runner",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 217262,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/7mABPLrORWP8aPNS2avdyV"
+      },
+      {
+        "played_at": "2026-09-04T21:20:48.554Z",
+        "id": "4ATdGhsuRfFIViwwP9WH52",
+        "title": "blackbirds",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 163441,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/4ATdGhsuRfFIViwwP9WH52"
+      },
+      {
+        "played_at": "2026-09-04T21:18:05.054Z",
+        "id": "6ZlJ8X4mzXghjiEuhcvo2n",
+        "title": "nothing2 lose",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 142037,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/6ZlJ8X4mzXghjiEuhcvo2n"
+      },
+      {
+        "played_at": "2026-09-04T21:15:42.858Z",
+        "id": "08WEIBLx95kvXakvVs8izv",
+        "title": "FORFEIT",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 170664,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
+      },
+      {
+        "played_at": "2026-09-04T21:12:48.490Z",
+        "id": "2h7vLf7jv2KsRb7fV77w5H",
+        "title": "crush",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 146225,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H"
+      },
+      {
+        "played_at": "2026-09-04T21:10:22.094Z",
+        "id": "7iBRnYx1CRQ1H6drgplfjR",
+        "title": "sister",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 215813,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/7iBRnYx1CRQ1H6drgplfjR"
+      },
+      {
+        "played_at": "2026-09-04T21:06:46.265Z",
+        "id": "2kWOfoDtiLM6ONlmOecg2O",
+        "title": "two bad",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 214761,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
+      },
+      {
+        "played_at": "2026-09-04T20:46:26.015Z",
+        "id": "4DZZ87AiaclFKuxF4VhqLV",
+        "title": "Raris & Rovers",
+        "artist": "YUNG SAINT PAUL, Fanny",
+        "primary_artist": "YUNG SAINT PAUL",
+        "duration_ms": 155187,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27371887fc6c99b81c5d541d7e3",
+        "url": "https://open.spotify.com/track/4DZZ87AiaclFKuxF4VhqLV"
+      },
       {
         "played_at": "2026-09-04T20:05:36.585Z",
         "id": "7iBRnYx1CRQ1H6drgplfjR",
