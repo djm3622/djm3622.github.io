@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 28,
       "sampled_tracks": 28,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -11597,7 +11597,7 @@
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273128d95d09561d556c65bc08b",
       "playcount": 362209814,
-      "recent_play_count": 0
+      "recent_play_count": 2
     },
     {
       "id": "4S4QJfBGGrC8jRIjJHf1Ka",
@@ -16589,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1395,
-    "captured_hours": 59.3,
-    "distinct_tracks": 400,
-    "distinct_artists": 182,
+    "captured_plays": 1401,
+    "captured_hours": 59.6,
+    "distinct_tracks": 404,
+    "distinct_artists": 184,
     "history_start": "2026-08-02",
     "history_end": "2026-09-06",
-    "last_played_at": "2026-09-06T00:42:37.608Z",
+    "last_played_at": "2026-09-06T20:17:06.907Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16690,14 +16690,14 @@
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 112,
-        "height_pct": 52
+        "plays": 116,
+        "height_pct": 54
       },
       {
         "hour": 16,
         "label": "4 PM",
-        "plays": 121,
-        "height_pct": 56
+        "plays": 123,
+        "height_pct": 57
       },
       {
         "hour": 17,
@@ -16746,36 +16746,36 @@
       {
         "label": "Mon",
         "plays": 247,
-        "width_pct": 87
+        "width_pct": 85
       },
       {
         "label": "Tue",
         "plays": 195,
-        "width_pct": 69
+        "width_pct": 67
       },
       {
         "label": "Wed",
         "plays": 169,
-        "width_pct": 60
+        "width_pct": 58
       },
       {
         "label": "Thu",
         "plays": 216,
-        "width_pct": 76
+        "width_pct": 75
       },
       {
         "label": "Fri",
         "plays": 130,
-        "width_pct": 46
+        "width_pct": 45
       },
       {
         "label": "Sat",
         "plays": 155,
-        "width_pct": 55
+        "width_pct": 54
       },
       {
         "label": "Sun",
-        "plays": 283,
+        "plays": 289,
         "width_pct": 100
       }
     ],
@@ -16818,7 +16818,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB",
-        "plays": 43
+        "plays": 44
       },
       {
         "id": "2GhvoJajHIXxWK4vtPWkqN",
@@ -16848,7 +16848,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 545
+        "plays": 547
       },
       {
         "name": "franz1",
@@ -16939,19 +16939,19 @@
         },
         {
           "rank": 8,
-          "id": "1a4RUUKHH1xkDq0hbuWKhw",
-          "name": "zehnvonzehn",
-          "artist": "franz1",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
-          "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
-        },
-        {
-          "rank": 9,
           "id": "6hxowqRsDm1fsm00y2eHJP",
           "name": "sidekick",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
           "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
+        },
+        {
+          "rank": 9,
+          "id": "1a4RUUKHH1xkDq0hbuWKhw",
+          "name": "zehnvonzehn",
+          "artist": "franz1",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
+          "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
         },
         {
           "rank": 10,
@@ -17035,11 +17035,11 @@
         },
         {
           "rank": 20,
-          "id": "20I6sIOMTCkB6w7ryavxtO",
-          "name": "Call Me Maybe",
-          "artist": "Carly Rae Jepsen",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72",
-          "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+          "id": "1KGi9sZVMeszgZOWivFpxs",
+          "name": "No Scrubs",
+          "artist": "TLC",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95",
+          "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
         }
       ],
       "six_months": [
@@ -17796,6 +17796,66 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-06T20:17:06.907Z",
+        "id": "1Xd0PWZV3LCEGzc7fkjTeu",
+        "title": "P2",
+        "artist": "Lil Uzi Vert",
+        "primary_artist": "Lil Uzi Vert",
+        "duration_ms": 234626,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273128d95d09561d556c65bc08b",
+        "url": "https://open.spotify.com/track/1Xd0PWZV3LCEGzc7fkjTeu"
+      },
+      {
+        "played_at": "2026-09-06T20:14:43.326Z",
+        "id": "1Xd0PWZV3LCEGzc7fkjTeu",
+        "title": "P2",
+        "artist": "Lil Uzi Vert",
+        "primary_artist": "Lil Uzi Vert",
+        "duration_ms": 234626,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273128d95d09561d556c65bc08b",
+        "url": "https://open.spotify.com/track/1Xd0PWZV3LCEGzc7fkjTeu"
+      },
+      {
+        "played_at": "2026-09-06T19:30:21.902Z",
+        "id": "7MVgoiNaYhQaQmkEfzdGU6",
+        "title": "Enjoy Yourself - very cool tutorials Remix",
+        "artist": "berryblue, very cool tutorials",
+        "primary_artist": "berryblue",
+        "duration_ms": 162321,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d5c1cd77fca4601e56e0029c",
+        "url": "https://open.spotify.com/track/7MVgoiNaYhQaQmkEfzdGU6"
+      },
+      {
+        "played_at": "2026-09-06T19:27:59.922Z",
+        "id": "173oCRuE5CCCiG2XSzxUQH",
+        "title": "Telephone",
+        "artist": "Elxnce, Cece Natalie",
+        "primary_artist": "Elxnce",
+        "duration_ms": 128415,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273251ba1c3f8be1516088ab04d",
+        "url": "https://open.spotify.com/track/173oCRuE5CCCiG2XSzxUQH"
+      },
+      {
+        "played_at": "2026-09-06T19:22:40.485Z",
+        "id": "41YlWhySoJVw2TXaxW1q5G",
+        "title": "afraid (feat. nate sib)",
+        "artist": "2hollis, nate sib",
+        "primary_artist": "2hollis",
+        "duration_ms": 178826,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27315f3099c066ac4ff26dbdcbb",
+        "url": "https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G"
+      },
+      {
+        "played_at": "2026-09-06T19:19:41.566Z",
+        "id": "5u0eNAp8riUKygaLJTe5YB",
+        "title": "nerve",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 175874,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB"
+      },
       {
         "played_at": "2026-09-06T00:42:37.608Z",
         "id": "4S4QJfBGGrC8jRIjJHf1Ka",
