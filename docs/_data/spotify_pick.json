@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 108-track mix spanning 68 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "6NDe4f42HlR8RJVhXn1ZCH",
+    "name": "he on something",
+    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
   },
   "track": {
-    "id": "7mOJd6rFEP7y0CONwDUFbU",
-    "name": "American Girls",
+    "id": "1Xd0PWZV3LCEGzc7fkjTeu",
+    "name": "P2",
     "artists": [
-      "YAZ"
+      "Lil Uzi Vert"
     ],
-    "artist_label": "YAZ",
-    "url": "https://open.spotify.com/track/7mOJd6rFEP7y0CONwDUFbU",
-    "embed_url": "https://open.spotify.com/embed/track/7mOJd6rFEP7y0CONwDUFbU?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2733b07e91827c3e113dc6efe9d",
+    "artist_label": "Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/1Xd0PWZV3LCEGzc7fkjTeu",
+    "embed_url": "https://open.spotify.com/embed/track/1Xd0PWZV3LCEGzc7fkjTeu?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273128d95d09561d556c65bc08b",
     "album": {
-      "id": "5BD3DdNohv7LwLnZKNuzaj",
-      "name": "American Girls",
-      "url": "https://open.spotify.com/album/5BD3DdNohv7LwLnZKNuzaj"
+      "id": "0fEO7g2c5onkaXsybEtuD2",
+      "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
+      "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
     }
   }
 }
