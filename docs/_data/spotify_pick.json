@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "6NDe4f42HlR8RJVhXn1ZCH",
-    "name": "he on something",
-    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
-    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
+    "id": "38PmYBLrKbhBUlywggIVkP",
+    "name": "void",
+    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+    "description": "A 28-track mix spanning 5 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
   },
   "track": {
-    "id": "1Xd0PWZV3LCEGzc7fkjTeu",
-    "name": "P2",
+    "id": "4CIyxiObT9G35HrSItAblR",
+    "name": "HVN ON EARTH (with Kodak Black)",
     "artists": [
-      "Lil Uzi Vert"
+      "Lil Tecca",
+      "Kodak Black"
     ],
-    "artist_label": "Lil Uzi Vert",
-    "url": "https://open.spotify.com/track/1Xd0PWZV3LCEGzc7fkjTeu",
-    "embed_url": "https://open.spotify.com/embed/track/1Xd0PWZV3LCEGzc7fkjTeu?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273128d95d09561d556c65bc08b",
+    "artist_label": "Lil Tecca, Kodak Black",
+    "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR",
+    "embed_url": "https://open.spotify.com/embed/track/4CIyxiObT9G35HrSItAblR?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96",
     "album": {
-      "id": "0fEO7g2c5onkaXsybEtuD2",
-      "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
-      "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
+      "id": "4EURMuWFiLLRmQYoH5cgiE",
+      "name": "TEC",
+      "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
     }
   }
 }
