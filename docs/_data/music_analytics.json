@@ -1,22 +1,22 @@
 {
-  "generated_on": "2026-09-08",
+  "generated_on": "2026-09-09",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
     "requested_playlist_count": 13,
-    "catalog_slots": 894,
-    "sampled_slots": 894,
+    "catalog_slots": 893,
+    "sampled_slots": 893,
     "coverage_pct": 100.0,
     "playcount_sample": 12,
     "note": "Playlist composition comes from Spotify's authenticated API, including configured private and collaborative playlists. Listening activity combines Spotify's recent-play history with private top-item affinity rankings."
   },
   "overview": {
-    "unique_tracks": 892,
+    "unique_tracks": 891,
     "distinct_primary_artists": 342,
     "sampled_hours": 44.3,
-    "median_duration_ms": 171610,
+    "median_duration_ms": 171622,
     "median_duration_label": "2:52",
-    "explicit_pct": 55.6,
+    "explicit_pct": 55.7,
     "under_two_minutes_pct": 12.4,
     "over_six_minutes_pct": 1.0,
     "repeat_track_count": 2
@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -63,25 +63,25 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
-      "total_tracks": 101,
-      "sampled_tracks": 101,
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "total_tracks": 100,
+      "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
-      "duration_hours": 6.3,
-      "median_duration_ms": 218093,
-      "median_duration_label": "3:38",
-      "explicit_pct": 21.8,
+      "duration_hours": 6.2,
+      "median_duration_ms": 218759,
+      "median_duration_label": "3:39",
+      "explicit_pct": 22.0,
       "distinct_primary_artists": 50,
       "top_artist": "Rihanna",
       "top_artist_tracks": 8,
-      "top_artist_share_pct": 7.9
+      "top_artist_share_pct": 8.0
     },
     {
       "id": "38PmYBLrKbhBUlywggIVkP",
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 28,
       "sampled_tracks": 28,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -1297,16 +1297,6 @@
       "explicit_pct": 50.0,
       "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2738dd53da15b55d402dfc3a20e",
-      "image_kind": "album"
-    },
-    {
-      "name": "Sean Paul",
-      "tracks": 2,
-      "duration_ms": 365594,
-      "duration_label": "6m",
-      "explicit_pct": 0.0,
-      "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a8ccb596f3f9c0a5914d4a7",
       "image_kind": "album"
     },
     {
@@ -3097,6 +3087,16 @@
       "explicit_pct": 100.0,
       "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL",
       "image_url": "https://i.scdn.co/image/ab67616d0000b27300af73f9f1240e706d4cb99d",
+      "image_kind": "album"
+    },
+    {
+      "name": "Sean Paul",
+      "tracks": 1,
+      "duration_ms": 216320,
+      "duration_label": "4m",
+      "explicit_pct": 0.0,
+      "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a8ccb596f3f9c0a5914d4a7",
       "image_kind": "album"
     },
     {
@@ -14218,20 +14218,6 @@
       "recent_play_count": 0
     },
     {
-      "id": "0kSmUBrs0JW0DtYtifFVrT",
-      "title": "Temperature (GAMEBOYS RMX) - Radio Edit",
-      "artist": "Sean Paul, GAMEBOYS",
-      "primary_artist": "Sean Paul",
-      "playlist": "92.3",
-      "url": "https://open.spotify.com/track/0kSmUBrs0JW0DtYtifFVrT",
-      "duration_ms": 149274,
-      "duration_label": "2:29",
-      "explicit": false,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2735eaeae8bdebafeea465bf4ce",
-      "playcount": null,
-      "recent_play_count": 1
-    },
-    {
       "id": "1DMEzmAoQIikcL52psptQL",
       "title": "TEST DRIVE",
       "artist": "Joji",
@@ -16603,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1474,
-    "captured_hours": 63.1,
-    "distinct_tracks": 438,
-    "distinct_artists": 201,
+    "captured_plays": 1491,
+    "captured_hours": 63.9,
+    "distinct_tracks": 442,
+    "distinct_artists": 204,
     "history_start": "2026-08-02",
-    "history_end": "2026-09-08",
-    "last_played_at": "2026-09-08T20:54:49.612Z",
+    "history_end": "2026-09-09",
+    "last_played_at": "2026-09-09T00:10:42.031Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16687,54 +16673,54 @@
         "hour": 12,
         "label": "12 PM",
         "plays": 107,
-        "height_pct": 50
+        "height_pct": 49
       },
       {
         "hour": 13,
         "label": "1 PM",
         "plays": 123,
-        "height_pct": 57
+        "height_pct": 56
       },
       {
         "hour": 14,
         "label": "2 PM",
         "plays": 81,
-        "height_pct": 38
+        "height_pct": 37
       },
       {
         "hour": 15,
         "label": "3 PM",
         "plays": 126,
-        "height_pct": 58
+        "height_pct": 57
       },
       {
         "hour": 16,
         "label": "4 PM",
-        "plays": 127,
-        "height_pct": 59
+        "plays": 128,
+        "height_pct": 58
       },
       {
         "hour": 17,
         "label": "5 PM",
         "plays": 175,
-        "height_pct": 81
+        "height_pct": 80
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 216,
+        "plays": 220,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 171,
-        "height_pct": 79
+        "plays": 180,
+        "height_pct": 82
       },
       {
         "hour": 20,
         "label": "8 PM",
-        "plays": 119,
+        "plays": 122,
         "height_pct": 55
       },
       {
@@ -16747,7 +16733,7 @@
         "hour": 22,
         "label": "10 PM",
         "plays": 25,
-        "height_pct": 12
+        "height_pct": 11
       },
       {
         "hour": 23,
@@ -16764,8 +16750,8 @@
       },
       {
         "label": "Tue",
-        "plays": 207,
-        "width_pct": 67
+        "plays": 224,
+        "width_pct": 73
       },
       {
         "label": "Wed",
@@ -16800,7 +16786,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw",
-        "plays": 117
+        "plays": 118
       },
       {
         "id": "6hxowqRsDm1fsm00y2eHJP",
@@ -16808,7 +16794,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP",
-        "plays": 95
+        "plays": 96
       },
       {
         "id": "1a4RUUKHH1xkDq0hbuWKhw",
@@ -16862,7 +16848,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 569
+        "plays": 572
       },
       {
         "name": "franz1",
@@ -16953,19 +16939,19 @@
         },
         {
           "rank": 8,
-          "id": "35XIBy0gLLwPzqLshKrWf4",
-          "name": "AGAIN",
-          "artist": "Moors",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
-          "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4"
-        },
-        {
-          "rank": 9,
           "id": "08WEIBLx95kvXakvVs8izv",
           "name": "FORFEIT",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
           "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
+        },
+        {
+          "rank": 9,
+          "id": "35XIBy0gLLwPzqLshKrWf4",
+          "name": "AGAIN",
+          "artist": "Moors",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
+          "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4"
         },
         {
           "rank": 10,
@@ -17441,66 +17427,66 @@
         },
         {
           "rank": 9,
-          "id": "5G312D5mch8GZE501qpDIy",
-          "name": "Johnny 2 Phones",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
-          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
-        },
-        {
-          "rank": 10,
           "id": "6VvnLfGL8XDQomLEa91WPk",
           "name": "YAZ",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb85646fdd11a7efdb0bdfa0e9",
           "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "id": "26dSoYclwsYLMAKD3tpOr4",
           "name": "Britney Spears",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb8cf8f7cab75b0e44dd4e0ea8",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "6LqNN22kT3074XbTVUrhzX",
           "name": "Kesha",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
           "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "id": "04gDigrS5kc9YWfZHwBETP",
           "name": "Maroon 5",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "id": "2U6J9Q89i1TNhesKreFD65",
           "name": "piri & tommy",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb7fb03392206f895e0c219b6d",
           "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "id": "6jJ0s89eD6GaHleKKya26X",
           "name": "Katy Perry",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "id": "6PXS4YHDkKvl1wkIl4V8DL",
           "name": "Fetty Wap",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf6df2e78223259e7d425b1ee",
           "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "id": "4cJKDGSv4Dz9QycXYmo565",
           "name": "glaive",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebc4bdb0035310b2535bdacfa3",
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "rank": 17,
+          "id": "5G312D5mch8GZE501qpDIy",
+          "name": "Johnny 2 Phones",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
+          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
         },
         {
           "rank": 18,
@@ -17810,6 +17796,176 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-09T00:10:42.031Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-09T00:07:19.150Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-09T00:00:16.420Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-08T23:52:37.934Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-08T23:43:15.242Z",
+        "id": "3SpRtNO7GKWaFyWydXArvn",
+        "title": "astrid",
+        "artist": "glaive",
+        "primary_artist": "glaive",
+        "duration_ms": 101938,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730a994d905b3983b535de6149",
+        "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
+      },
+      {
+        "played_at": "2026-09-08T23:35:01.749Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-08T23:27:30.548Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-08T23:21:53.654Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-08T23:13:13.754Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-08T23:09:53.568Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-08T23:02:46.408Z",
+        "id": "6hxowqRsDm1fsm00y2eHJP",
+        "title": "sidekick",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 78400,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
+      },
+      {
+        "played_at": "2026-09-08T23:01:27.989Z",
+        "id": "55rXApL8KBessVIpJpH4Fw",
+        "title": "ego",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 64000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
+      },
+      {
+        "played_at": "2026-09-08T22:56:12.906Z",
+        "id": "4jqnMhuS8KIh8gbCsOMsc6",
+        "title": "FELL",
+        "artist": "Varg\u00b2\u2122, Bladee",
+        "primary_artist": "Varg\u00b2\u2122",
+        "duration_ms": 183333,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732d1442d8781d9a04e718b5d0",
+        "url": "https://open.spotify.com/track/4jqnMhuS8KIh8gbCsOMsc6"
+      },
+      {
+        "played_at": "2026-09-08T22:52:55.474Z",
+        "id": "6HJszgJO19tAKff7X40ggp",
+        "title": "Reality Surf",
+        "artist": "Bladee",
+        "primary_artist": "Bladee",
+        "duration_ms": 123586,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+        "url": "https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp"
+      },
+      {
+        "played_at": "2026-09-08T22:49:37.180Z",
+        "id": "4lUc0XBymgLCx3fs6ovzRj",
+        "title": "Amygdala",
+        "artist": "Ecco2k, Bladee",
+        "primary_artist": "Ecco2k",
+        "duration_ms": 130026,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273db02c9498cbc3124452dba8e",
+        "url": "https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj"
+      },
+      {
+        "played_at": "2026-09-08T22:46:51.995Z",
+        "id": "6BTYix29cWAPED4gr0J5Y7",
+        "title": "Som Jag",
+        "artist": "Dj Billybool, Bladee",
+        "primary_artist": "Dj Billybool",
+        "duration_ms": 143091,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731d198e259466b219243aa379",
+        "url": "https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7"
+      },
+      {
+        "played_at": "2026-09-08T20:55:18.771Z",
+        "id": "55MjAJmZtuJlvZHgxvivQH",
+        "title": "safe",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 172910,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/55MjAJmZtuJlvZHgxvivQH"
+      },
       {
         "played_at": "2026-09-08T20:54:49.612Z",
         "id": "5XD08ZPXrYSnc5xRPQ0gu4",
