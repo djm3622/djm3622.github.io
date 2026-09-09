@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 108,
       "sampled_tracks": 108,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 28,
       "sampled_tracks": 28,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16589,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1524,
-    "captured_hours": 65.2,
+    "captured_plays": 1554,
+    "captured_hours": 66.3,
     "distinct_tracks": 454,
     "distinct_artists": 214,
     "history_start": "2026-08-02",
     "history_end": "2026-09-09",
-    "last_played_at": "2026-09-09T03:54:54.104Z",
+    "last_played_at": "2026-09-09T15:53:04.003Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16660,14 +16660,14 @@
       {
         "hour": 10,
         "label": "10 AM",
-        "plays": 37,
-        "height_pct": 17
+        "plays": 47,
+        "height_pct": 21
       },
       {
         "hour": 11,
         "label": "11 AM",
-        "plays": 41,
-        "height_pct": 19
+        "plays": 61,
+        "height_pct": 28
       },
       {
         "hour": 12,
@@ -16755,8 +16755,8 @@
       },
       {
         "label": "Wed",
-        "plays": 169,
-        "width_pct": 55
+        "plays": 199,
+        "width_pct": 65
       },
       {
         "label": "Thu",
@@ -17796,6 +17796,306 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-09T15:53:04.003Z",
+        "id": "4nv0YMN384g5GCxkjYPHtb",
+        "title": "Magic Trick",
+        "artist": "bronclair",
+        "primary_artist": "bronclair",
+        "duration_ms": 122153,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733482905749f054f985989325",
+        "url": "https://open.spotify.com/track/4nv0YMN384g5GCxkjYPHtb"
+      },
+      {
+        "played_at": "2026-09-09T15:51:01.217Z",
+        "id": "0SOgNgT3DIWMUYpw8hHvKh",
+        "title": "solo soldier",
+        "artist": "onlywoke",
+        "primary_artist": "onlywoke",
+        "duration_ms": 112620,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734b6ff5ca8c9acf5c0650fc0f",
+        "url": "https://open.spotify.com/track/0SOgNgT3DIWMUYpw8hHvKh"
+      },
+      {
+        "played_at": "2026-09-09T15:45:32.575Z",
+        "id": "3dgGCaEO0PoODF2DrvaJCA",
+        "title": "bitter",
+        "artist": "karta",
+        "primary_artist": "karta",
+        "duration_ms": 126580,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738f4ff9cd2c4d198a33c33357",
+        "url": "https://open.spotify.com/track/3dgGCaEO0PoODF2DrvaJCA"
+      },
+      {
+        "played_at": "2026-09-09T15:43:19.075Z",
+        "id": "6OulmGAyF3d9rslvN6n7NY",
+        "title": "one percent",
+        "artist": "Steele 11",
+        "primary_artist": "Steele 11",
+        "duration_ms": 116078,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739645927d33a3c75332a56a79",
+        "url": "https://open.spotify.com/track/6OulmGAyF3d9rslvN6n7NY"
+      },
+      {
+        "played_at": "2026-09-09T15:41:22.517Z",
+        "id": "4RKtDDOYsm6864QgAziwdW",
+        "title": "Bridgerton",
+        "artist": "gloss*",
+        "primary_artist": "gloss*",
+        "duration_ms": 117302,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27335a5dcd9e3dceaa7e9bf2019",
+        "url": "https://open.spotify.com/track/4RKtDDOYsm6864QgAziwdW"
+      },
+      {
+        "played_at": "2026-09-09T15:39:24.753Z",
+        "id": "5G4nSOQRVI4kxoHSQlMYEl",
+        "title": "Kill Me Slow",
+        "artist": "countdragonss",
+        "primary_artist": "countdragonss",
+        "duration_ms": 157296,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d8fcd60249d4c674232f8a66",
+        "url": "https://open.spotify.com/track/5G4nSOQRVI4kxoHSQlMYEl"
+      },
+      {
+        "played_at": "2026-09-09T15:36:46.974Z",
+        "id": "1ReLidifYt9akeD9v3J4FJ",
+        "title": "pretty boy money",
+        "artist": "osk",
+        "primary_artist": "osk",
+        "duration_ms": 110073,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273da8c43b24d79b899bc16f000",
+        "url": "https://open.spotify.com/track/1ReLidifYt9akeD9v3J4FJ"
+      },
+      {
+        "played_at": "2026-09-09T15:34:56.418Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-09T15:32:32.815Z",
+        "id": "6P1kP29g7QxPVyLiUxqfmi",
+        "title": "NUN 2 SUM.",
+        "artist": "Yves!",
+        "primary_artist": "Yves!",
+        "duration_ms": 120347,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a156efeb671b7daff91cf17f",
+        "url": "https://open.spotify.com/track/6P1kP29g7QxPVyLiUxqfmi"
+      },
+      {
+        "played_at": "2026-09-09T15:30:31.977Z",
+        "id": "2aymD3sjn2AjEFrwRZBjDs",
+        "title": "mimosa (OG pitch)",
+        "artist": "disinfecting",
+        "primary_artist": "disinfecting",
+        "duration_ms": 187522,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273377cfda126c92c78e69d8eb5",
+        "url": "https://open.spotify.com/track/2aymD3sjn2AjEFrwRZBjDs"
+      },
+      {
+        "played_at": "2026-09-09T15:27:23.966Z",
+        "id": "7K82vMTmLLiYSjTUaSKWkK",
+        "title": "back2life",
+        "artist": "EthanUno",
+        "primary_artist": "EthanUno",
+        "duration_ms": 147040,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27390031a5629db2b67a20b2ebb",
+        "url": "https://open.spotify.com/track/7K82vMTmLLiYSjTUaSKWkK"
+      },
+      {
+        "played_at": "2026-09-09T15:24:56.435Z",
+        "id": "7IaKP1mfFnGeKZiO1MFurW",
+        "title": "teeth",
+        "artist": "halfadedd",
+        "primary_artist": "halfadedd",
+        "duration_ms": 91865,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d51f73218768ae37e3bb3218",
+        "url": "https://open.spotify.com/track/7IaKP1mfFnGeKZiO1MFurW"
+      },
+      {
+        "played_at": "2026-09-09T15:23:24.086Z",
+        "id": "75UWMf8EgcYZ88jKVMJaAP",
+        "title": "RISKY - Bonus",
+        "artist": "PureSnow, yukan",
+        "primary_artist": "PureSnow",
+        "duration_ms": 90906,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27384f4a88c0bc15518cbd66687",
+        "url": "https://open.spotify.com/track/75UWMf8EgcYZ88jKVMJaAP"
+      },
+      {
+        "played_at": "2026-09-09T15:21:52.694Z",
+        "id": "5uC9ESGDdualOapwl48pHY",
+        "title": "difficult (feat. poptropicaslutz!)",
+        "artist": "Internet Girl",
+        "primary_artist": "Internet Girl",
+        "duration_ms": 124584,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736ca480bac682b5c702fac5b0",
+        "url": "https://open.spotify.com/track/5uC9ESGDdualOapwl48pHY"
+      },
+      {
+        "played_at": "2026-09-09T15:19:47.623Z",
+        "id": "5SXKBMBnVz3mTHNoWnwREI",
+        "title": "bad4me",
+        "artist": "taewon",
+        "primary_artist": "taewon",
+        "duration_ms": 161664,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bd2e84f7a14ccb50ead6165b",
+        "url": "https://open.spotify.com/track/5SXKBMBnVz3mTHNoWnwREI"
+      },
+      {
+        "played_at": "2026-09-09T15:17:05.470Z",
+        "id": "5pftF7nuE5AjkDmvJRWgJP",
+        "title": "you let me down",
+        "artist": "oliviajones34596070, twentythree",
+        "primary_artist": "oliviajones34596070",
+        "duration_ms": 150204,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bdca954bbe504ee9ae139260",
+        "url": "https://open.spotify.com/track/5pftF7nuE5AjkDmvJRWgJP"
+      },
+      {
+        "played_at": "2026-09-09T15:14:34.775Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-09T15:06:25.445Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-09T15:04:01.850Z",
+        "id": "6P1kP29g7QxPVyLiUxqfmi",
+        "title": "NUN 2 SUM.",
+        "artist": "Yves!",
+        "primary_artist": "Yves!",
+        "duration_ms": 120347,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a156efeb671b7daff91cf17f",
+        "url": "https://open.spotify.com/track/6P1kP29g7QxPVyLiUxqfmi"
+      },
+      {
+        "played_at": "2026-09-09T15:01:59.522Z",
+        "id": "2aymD3sjn2AjEFrwRZBjDs",
+        "title": "mimosa (OG pitch)",
+        "artist": "disinfecting",
+        "primary_artist": "disinfecting",
+        "duration_ms": 187522,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273377cfda126c92c78e69d8eb5",
+        "url": "https://open.spotify.com/track/2aymD3sjn2AjEFrwRZBjDs"
+      },
+      {
+        "played_at": "2026-09-09T14:58:51.507Z",
+        "id": "7K82vMTmLLiYSjTUaSKWkK",
+        "title": "back2life",
+        "artist": "EthanUno",
+        "primary_artist": "EthanUno",
+        "duration_ms": 147040,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27390031a5629db2b67a20b2ebb",
+        "url": "https://open.spotify.com/track/7K82vMTmLLiYSjTUaSKWkK"
+      },
+      {
+        "played_at": "2026-09-09T14:56:21.950Z",
+        "id": "7IaKP1mfFnGeKZiO1MFurW",
+        "title": "teeth",
+        "artist": "halfadedd",
+        "primary_artist": "halfadedd",
+        "duration_ms": 91865,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d51f73218768ae37e3bb3218",
+        "url": "https://open.spotify.com/track/7IaKP1mfFnGeKZiO1MFurW"
+      },
+      {
+        "played_at": "2026-09-09T14:54:47.776Z",
+        "id": "75UWMf8EgcYZ88jKVMJaAP",
+        "title": "RISKY - Bonus",
+        "artist": "PureSnow, yukan",
+        "primary_artist": "PureSnow",
+        "duration_ms": 90906,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27384f4a88c0bc15518cbd66687",
+        "url": "https://open.spotify.com/track/75UWMf8EgcYZ88jKVMJaAP"
+      },
+      {
+        "played_at": "2026-09-09T14:53:16.376Z",
+        "id": "5uC9ESGDdualOapwl48pHY",
+        "title": "difficult (feat. poptropicaslutz!)",
+        "artist": "Internet Girl",
+        "primary_artist": "Internet Girl",
+        "duration_ms": 124584,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736ca480bac682b5c702fac5b0",
+        "url": "https://open.spotify.com/track/5uC9ESGDdualOapwl48pHY"
+      },
+      {
+        "played_at": "2026-09-09T14:51:11.301Z",
+        "id": "5SXKBMBnVz3mTHNoWnwREI",
+        "title": "bad4me",
+        "artist": "taewon",
+        "primary_artist": "taewon",
+        "duration_ms": 161664,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bd2e84f7a14ccb50ead6165b",
+        "url": "https://open.spotify.com/track/5SXKBMBnVz3mTHNoWnwREI"
+      },
+      {
+        "played_at": "2026-09-09T14:48:29.156Z",
+        "id": "5pftF7nuE5AjkDmvJRWgJP",
+        "title": "you let me down",
+        "artist": "oliviajones34596070, twentythree",
+        "primary_artist": "oliviajones34596070",
+        "duration_ms": 150204,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bdca954bbe504ee9ae139260",
+        "url": "https://open.spotify.com/track/5pftF7nuE5AjkDmvJRWgJP"
+      },
+      {
+        "played_at": "2026-09-09T14:45:57.006Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-09T14:42:30.614Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-09T14:33:24.004Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-09T14:00:19.384Z",
+        "id": "5SXKBMBnVz3mTHNoWnwREI",
+        "title": "bad4me",
+        "artist": "taewon",
+        "primary_artist": "taewon",
+        "duration_ms": 161664,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bd2e84f7a14ccb50ead6165b",
+        "url": "https://open.spotify.com/track/5SXKBMBnVz3mTHNoWnwREI"
+      },
       {
         "played_at": "2026-09-09T03:54:54.104Z",
         "id": "1ReLidifYt9akeD9v3J4FJ",
