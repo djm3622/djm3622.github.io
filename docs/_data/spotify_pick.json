@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7p4fxMRZCuY6ZtNeu99vbK",
-    "name": "calm luh",
-    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
-    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
+    "id": "27edqSuOsVHom5TGPrtpy7",
+    "name": "flamed",
+    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
   },
   "track": {
-    "id": "7eUvg5UEG8AVyWKGWm7Lj1",
-    "name": "55 Lifestyle",
+    "id": "0wbnC9AUenxp613TYaJsGK",
+    "name": "Narcos",
     "artists": [
-      "HXG"
+      "Migos"
     ],
-    "artist_label": "HXG",
-    "url": "https://open.spotify.com/track/7eUvg5UEG8AVyWKGWm7Lj1",
-    "embed_url": "https://open.spotify.com/embed/track/7eUvg5UEG8AVyWKGWm7Lj1?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273e57962f75f6165382e40ac51",
+    "artist_label": "Migos",
+    "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK",
+    "embed_url": "https://open.spotify.com/embed/track/0wbnC9AUenxp613TYaJsGK?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
     "album": {
-      "id": "5Fy36L5DnmGWWmAQsq4Ido",
-      "name": "Snotty World (Deluxe)",
-      "url": "https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido"
+      "id": "7fd7SEK25VS3gJAUgSwL6y",
+      "name": "Culture II",
+      "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
     }
   }
 }
