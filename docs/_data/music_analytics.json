@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 28,
       "sampled_tracks": 28,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16589,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1596,
-    "captured_hours": 68.0,
-    "distinct_tracks": 454,
-    "distinct_artists": 214,
+    "captured_plays": 1615,
+    "captured_hours": 68.7,
+    "distinct_tracks": 461,
+    "distinct_artists": 219,
     "history_start": "2026-08-02",
     "history_end": "2026-09-10",
-    "last_played_at": "2026-09-10T00:07:26.049Z",
+    "last_played_at": "2026-09-10T01:07:27.131Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16720,14 +16720,14 @@
       {
         "hour": 20,
         "label": "8 PM",
-        "plays": 126,
-        "height_pct": 56
+        "plays": 141,
+        "height_pct": 63
       },
       {
         "hour": 21,
         "label": "9 PM",
-        "plays": 59,
-        "height_pct": 26
+        "plays": 63,
+        "height_pct": 28
       },
       {
         "hour": 22,
@@ -16755,8 +16755,8 @@
       },
       {
         "label": "Wed",
-        "plays": 241,
-        "width_pct": 78
+        "plays": 260,
+        "width_pct": 84
       },
       {
         "label": "Thu",
@@ -16786,7 +16786,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw",
-        "plays": 118
+        "plays": 119
       },
       {
         "id": "6hxowqRsDm1fsm00y2eHJP",
@@ -16826,7 +16826,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN",
-        "plays": 38
+        "plays": 39
       },
       {
         "id": "35XIBy0gLLwPzqLshKrWf4",
@@ -16848,7 +16848,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 572
+        "plays": 578
       },
       {
         "name": "franz1",
@@ -16931,19 +16931,19 @@
         },
         {
           "rank": 7,
-          "id": "2JreXnkSzK2oVk2yQInpsi",
-          "name": "Evacuate the Dancefloor - Radio Edit",
-          "artist": "Cascada",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273093920c6d1f62f023e5a9a68",
-          "url": "https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"
-        },
-        {
-          "rank": 8,
           "id": "08WEIBLx95kvXakvVs8izv",
           "name": "FORFEIT",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
           "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
+        },
+        {
+          "rank": 8,
+          "id": "2JreXnkSzK2oVk2yQInpsi",
+          "name": "Evacuate the Dancefloor - Radio Edit",
+          "artist": "Cascada",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273093920c6d1f62f023e5a9a68",
+          "url": "https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"
         },
         {
           "rank": 9,
@@ -17796,6 +17796,196 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-10T01:07:27.131Z",
+        "id": "5WIGbrfNMvFeCQOx5XykBO",
+        "title": "2010 Justin Bieber",
+        "artist": "Lucy Bedroque",
+        "primary_artist": "Lucy Bedroque",
+        "duration_ms": 112139,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
+        "url": "https://open.spotify.com/track/5WIGbrfNMvFeCQOx5XykBO"
+      },
+      {
+        "played_at": "2026-09-10T01:05:34.519Z",
+        "id": "1RZ6czgnmvTCVfPlfSRAAu",
+        "title": "Like a taxi (Oh well)",
+        "artist": "Cece Natalie",
+        "primary_artist": "Cece Natalie",
+        "duration_ms": 167160,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27343ae12077d4c73bf472c7901",
+        "url": "https://open.spotify.com/track/1RZ6czgnmvTCVfPlfSRAAu"
+      },
+      {
+        "played_at": "2026-09-10T01:02:46.881Z",
+        "id": "5O8YbBKCqT4oJBf8IIQX5s",
+        "title": "ski slopes",
+        "artist": "Lex Amarni",
+        "primary_artist": "Lex Amarni",
+        "duration_ms": 119383,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734dd9b28da92bd5df57db3383",
+        "url": "https://open.spotify.com/track/5O8YbBKCqT4oJBf8IIQX5s"
+      },
+      {
+        "played_at": "2026-09-10T01:00:47.019Z",
+        "id": "1qVeiyPNX4KPALXyPpenBd",
+        "title": "whiplash",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 167244,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273edb4ce20d2432cad4ddfcaa2",
+        "url": "https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd"
+      },
+      {
+        "played_at": "2026-09-10T00:57:59.305Z",
+        "id": "1XD4K4CGAKTIBmFpvuaFru",
+        "title": "Dancing with your eyes closed",
+        "artist": "Jane Remover",
+        "primary_artist": "Jane Remover",
+        "duration_ms": 230526,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+        "url": "https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru"
+      },
+      {
+        "played_at": "2026-09-10T00:54:08.318Z",
+        "id": "41YlWhySoJVw2TXaxW1q5G",
+        "title": "afraid (feat. nate sib)",
+        "artist": "2hollis, nate sib",
+        "primary_artist": "2hollis",
+        "duration_ms": 178826,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27315f3099c066ac4ff26dbdcbb",
+        "url": "https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G"
+      },
+      {
+        "played_at": "2026-09-10T00:51:09.025Z",
+        "id": "0LE7SeQ9YiYF2GH45uRbMn",
+        "title": "nothing to show",
+        "artist": "aidn.",
+        "primary_artist": "aidn.",
+        "duration_ms": 98102,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d9620e0d2ab44e227a8084",
+        "url": "https://open.spotify.com/track/0LE7SeQ9YiYF2GH45uRbMn"
+      },
+      {
+        "played_at": "2026-09-10T00:49:30.441Z",
+        "id": "7MZyREIMPkgc7v5vzCGw87",
+        "title": "the kill 2",
+        "artist": "Lex Amarni, 2muchmotion",
+        "primary_artist": "Lex Amarni",
+        "duration_ms": 121294,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27347c800c40f339462035bd0cc",
+        "url": "https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87"
+      },
+      {
+        "played_at": "2026-09-10T00:47:28.677Z",
+        "id": "4TFOpl0juiBGT5VTHlrige",
+        "title": "Queen St",
+        "artist": "twentythree",
+        "primary_artist": "twentythree",
+        "duration_ms": 128659,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c18ec4d508e46932041446b8",
+        "url": "https://open.spotify.com/track/4TFOpl0juiBGT5VTHlrige"
+      },
+      {
+        "played_at": "2026-09-10T00:45:19.543Z",
+        "id": "6C2nVSSeXNqfoY8t6tliZ4",
+        "title": "jeans",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 181258,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b8362432f72c45d2b6bf08d8",
+        "url": "https://open.spotify.com/track/6C2nVSSeXNqfoY8t6tliZ4"
+      },
+      {
+        "played_at": "2026-09-10T00:42:17.820Z",
+        "id": "4ATdGhsuRfFIViwwP9WH52",
+        "title": "blackbirds",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 163441,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/4ATdGhsuRfFIViwwP9WH52"
+      },
+      {
+        "played_at": "2026-09-10T00:39:33.910Z",
+        "id": "78UQgWOzIIqp87843nim77",
+        "title": "tesla - slowed electro mix",
+        "artist": "Fixupboy",
+        "primary_artist": "Fixupboy",
+        "duration_ms": 154217,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27328c1cae4d2c34f3921e40e41",
+        "url": "https://open.spotify.com/track/78UQgWOzIIqp87843nim77"
+      },
+      {
+        "played_at": "2026-09-10T00:36:59.226Z",
+        "id": "2GhvoJajHIXxWK4vtPWkqN",
+        "title": "destroy me",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 163655,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
+      },
+      {
+        "played_at": "2026-09-10T00:34:15.102Z",
+        "id": "5pftF7nuE5AjkDmvJRWgJP",
+        "title": "you let me down",
+        "artist": "oliviajones34596070, twentythree",
+        "primary_artist": "oliviajones34596070",
+        "duration_ms": 150204,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bdca954bbe504ee9ae139260",
+        "url": "https://open.spotify.com/track/5pftF7nuE5AjkDmvJRWgJP"
+      },
+      {
+        "played_at": "2026-09-10T00:31:44.422Z",
+        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+        "title": "hold on",
+        "artist": "nate sib",
+        "primary_artist": "nate sib",
+        "duration_ms": 119830,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+      },
+      {
+        "played_at": "2026-09-10T00:29:15.735Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-10T00:25:20.387Z",
+        "id": "55rXApL8KBessVIpJpH4Fw",
+        "title": "ego",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 64000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
+      },
+      {
+        "played_at": "2026-09-10T00:20:30.177Z",
+        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+        "title": "hold on",
+        "artist": "nate sib",
+        "primary_artist": "nate sib",
+        "duration_ms": 119830,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+      },
+      {
+        "played_at": "2026-09-10T00:15:09.609Z",
+        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+        "title": "hold on",
+        "artist": "nate sib",
+        "primary_artist": "nate sib",
+        "duration_ms": 119830,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+      },
       {
         "played_at": "2026-09-10T00:07:26.049Z",
         "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
