@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "27edqSuOsVHom5TGPrtpy7",
-    "name": "flamed",
-    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
-    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
+    "id": "7p4fxMRZCuY6ZtNeu99vbK",
+    "name": "calm luh",
+    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
   },
   "track": {
-    "id": "0wbnC9AUenxp613TYaJsGK",
-    "name": "Narcos",
+    "id": "2l48XirhkqQ5qRqtwItNXn",
+    "name": "Paranoid (feat. Destroy Lonely)",
     "artists": [
-      "Migos"
+      "Ken Carson",
+      "Destroy Lonely"
     ],
-    "artist_label": "Migos",
-    "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK",
-    "embed_url": "https://open.spotify.com/embed/track/0wbnC9AUenxp613TYaJsGK?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+    "artist_label": "Ken Carson, Destroy Lonely",
+    "url": "https://open.spotify.com/track/2l48XirhkqQ5qRqtwItNXn",
+    "embed_url": "https://open.spotify.com/embed/track/2l48XirhkqQ5qRqtwItNXn?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
     "album": {
-      "id": "7fd7SEK25VS3gJAUgSwL6y",
-      "name": "Culture II",
-      "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      "id": "0HS8aknH0JQdMIiBVhyOCW",
+      "name": "A Great Chaos",
+      "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
     }
   }
 }
