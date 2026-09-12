@@ -1,30 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7p4fxMRZCuY6ZtNeu99vbK",
-    "name": "calm luh",
-    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
-    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
+    "id": "5IvibMktz0TzHg6JyIXzSm",
+    "name": "illumi",
+    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+    "description": "A 316-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
   },
   "track": {
-    "id": "2l48XirhkqQ5qRqtwItNXn",
-    "name": "Paranoid (feat. Destroy Lonely)",
+    "id": "2rwbnWjx2J2kHu2lK2ipb3",
+    "name": "lose ur mind",
     "artists": [
-      "Ken Carson",
-      "Destroy Lonely"
+      "Senses",
+      "thirtyonetwentyfive"
     ],
-    "artist_label": "Ken Carson, Destroy Lonely",
-    "url": "https://open.spotify.com/track/2l48XirhkqQ5qRqtwItNXn",
-    "embed_url": "https://open.spotify.com/embed/track/2l48XirhkqQ5qRqtwItNXn?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+    "artist_label": "Senses, thirtyonetwentyfive",
+    "url": "https://open.spotify.com/track/2rwbnWjx2J2kHu2lK2ipb3",
+    "embed_url": "https://open.spotify.com/embed/track/2rwbnWjx2J2kHu2lK2ipb3?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273274f5e026656fe8404702607",
     "album": {
-      "id": "0HS8aknH0JQdMIiBVhyOCW",
-      "name": "A Great Chaos",
-      "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      "id": "4GcNBCL8eKTeEDL0t8j19k",
+      "name": "tutorial: how to..",
+      "url": "https://open.spotify.com/album/4GcNBCL8eKTeEDL0t8j19k"
     }
   }
 }
