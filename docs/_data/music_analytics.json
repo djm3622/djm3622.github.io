@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -11345,7 +11345,7 @@
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
       "playcount": null,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "26G5nmIx7Yvq79bIIluyZV",
@@ -12059,7 +12059,7 @@
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
       "playcount": null,
-      "recent_play_count": 0
+      "recent_play_count": 1
     },
     {
       "id": "3Yb3Z1HRrMrBh886cayujG",
@@ -16589,13 +16589,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1758,
-    "captured_hours": 74.3,
-    "distinct_tracks": 467,
-    "distinct_artists": 219,
+    "captured_plays": 1800,
+    "captured_hours": 76.1,
+    "distinct_tracks": 505,
+    "distinct_artists": 235,
     "history_start": "2026-08-02",
     "history_end": "2026-09-12",
-    "last_played_at": "2026-09-12T22:12:45.327Z",
+    "last_played_at": "2026-09-12T23:59:01.718Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16661,85 +16661,85 @@
         "hour": 10,
         "label": "10 AM",
         "plays": 59,
-        "height_pct": 24
+        "height_pct": 23
       },
       {
         "hour": 11,
         "label": "11 AM",
         "plays": 88,
-        "height_pct": 36
+        "height_pct": 34
       },
       {
         "hour": 12,
         "label": "12 PM",
         "plays": 126,
-        "height_pct": 52
+        "height_pct": 49
       },
       {
         "hour": 13,
         "label": "1 PM",
         "plays": 140,
-        "height_pct": 58
+        "height_pct": 54
       },
       {
         "hour": 14,
         "label": "2 PM",
         "plays": 116,
-        "height_pct": 48
+        "height_pct": 45
       },
       {
         "hour": 15,
         "label": "3 PM",
         "plays": 129,
-        "height_pct": 53
+        "height_pct": 50
       },
       {
         "hour": 16,
         "label": "4 PM",
         "plays": 145,
-        "height_pct": 60
+        "height_pct": 56
       },
       {
         "hour": 17,
         "label": "5 PM",
         "plays": 191,
-        "height_pct": 79
+        "height_pct": 74
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 242,
+        "plays": 259,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 194,
-        "height_pct": 80
+        "plays": 219,
+        "height_pct": 85
       },
       {
         "hour": 20,
         "label": "8 PM",
         "plays": 141,
-        "height_pct": 58
+        "height_pct": 54
       },
       {
         "hour": 21,
         "label": "9 PM",
         "plays": 64,
-        "height_pct": 26
+        "height_pct": 25
       },
       {
         "hour": 22,
         "label": "10 PM",
         "plays": 32,
-        "height_pct": 13
+        "height_pct": 12
       },
       {
         "hour": 23,
         "label": "11 PM",
         "plays": 52,
-        "height_pct": 21
+        "height_pct": 20
       }
     ],
     "weekday_bins": [
@@ -16770,8 +16770,8 @@
       },
       {
         "label": "Sat",
-        "plays": 178,
-        "width_pct": 58
+        "plays": 220,
+        "width_pct": 71
       },
       {
         "label": "Sun",
@@ -16863,6 +16863,10 @@
         "plays": 49
       },
       {
+        "name": "Yeat",
+        "plays": 39
+      },
+      {
         "name": "Westwood",
         "plays": 37
       },
@@ -16872,10 +16876,6 @@
       },
       {
         "name": "nate sib",
-        "plays": 32
-      },
-      {
-        "name": "Lil Mosey",
         "plays": 32
       }
     ],
@@ -16915,19 +16915,19 @@
         },
         {
           "rank": 5,
-          "id": "2GhvoJajHIXxWK4vtPWkqN",
-          "name": "destroy me",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
-        },
-        {
-          "rank": 6,
           "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
           "name": "hold on",
           "artist": "nate sib",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
           "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+        },
+        {
+          "rank": 6,
+          "id": "2GhvoJajHIXxWK4vtPWkqN",
+          "name": "destroy me",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
         },
         {
           "rank": 7,
@@ -16955,14 +16955,6 @@
         },
         {
           "rank": 10,
-          "id": "2JreXnkSzK2oVk2yQInpsi",
-          "name": "Evacuate the Dancefloor - Radio Edit",
-          "artist": "Cascada",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273093920c6d1f62f023e5a9a68",
-          "url": "https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"
-        },
-        {
-          "rank": 11,
           "id": "2QD4C6RRHgRNRAyrfnoeAo",
           "name": "Play Hard (feat. Ne-Yo & Akon)",
           "artist": "David Guetta, Ne-Yo, Akon",
@@ -16970,12 +16962,20 @@
           "url": "https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "4JcS9WIUfDny6XJ82GqMpZ",
           "name": "light",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
           "url": "https://open.spotify.com/track/4JcS9WIUfDny6XJ82GqMpZ"
+        },
+        {
+          "rank": 12,
+          "id": "2JreXnkSzK2oVk2yQInpsi",
+          "name": "Evacuate the Dancefloor - Radio Edit",
+          "artist": "Cascada",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273093920c6d1f62f023e5a9a68",
+          "url": "https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"
         },
         {
           "rank": 13,
@@ -17378,17 +17378,17 @@
         },
         {
           "rank": 2,
-          "id": "78rUTD7y6Cy67W1RVzYs7t",
-          "name": "PinkPantheress",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "rank": 3,
           "id": "3qiHUAX7zY4Qnjx8TNUzVx",
           "name": "Yeat",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
           "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "rank": 3,
+          "id": "78rUTD7y6Cy67W1RVzYs7t",
+          "name": "PinkPantheress",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
           "rank": 4,
@@ -17796,6 +17796,426 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-12T23:59:01.718Z",
+        "id": "2Ejyg4CavumEr7lFUkk9aF",
+        "title": "Rendezvous (feat. Yeat)",
+        "artist": "Don Toliver, Yeat",
+        "primary_artist": "Don Toliver",
+        "duration_ms": 146801,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+        "url": "https://open.spotify.com/track/2Ejyg4CavumEr7lFUkk9aF"
+      },
+      {
+        "played_at": "2026-09-12T23:56:34.377Z",
+        "id": "6JJq9ffqleL3xHnp2Xl9jC",
+        "title": "SO EASY",
+        "artist": "Rich Amiri",
+        "primary_artist": "Rich Amiri",
+        "duration_ms": 127152,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273becc78a3e1cdccde51debcf3",
+        "url": "https://open.spotify.com/track/6JJq9ffqleL3xHnp2Xl9jC"
+      },
+      {
+        "played_at": "2026-09-12T23:54:26.696Z",
+        "id": "58w4PdAT5dFbDSCYUP5HRq",
+        "title": "DEMISE - GUITAR REMIX & SLOWED",
+        "artist": "Camie",
+        "primary_artist": "Camie",
+        "duration_ms": 111052,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c7cd04482b90457439c5ae94",
+        "url": "https://open.spotify.com/track/58w4PdAT5dFbDSCYUP5HRq"
+      },
+      {
+        "played_at": "2026-09-12T23:52:35.103Z",
+        "id": "53lS5rsYcbEMtpM2grepw5",
+        "title": "KEEP IT COOL",
+        "artist": "Internet Money, Rich Amiri",
+        "primary_artist": "Internet Money",
+        "duration_ms": 106666,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273482d41b0cba1d4b911bd1f80",
+        "url": "https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5"
+      },
+      {
+        "played_at": "2026-09-12T23:50:47.891Z",
+        "id": "1r7dV486KA1fMo2w1voblx",
+        "title": "Tartan",
+        "artist": "EsDeeKid, Fimiguerrero",
+        "primary_artist": "EsDeeKid",
+        "duration_ms": 109714,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045",
+        "url": "https://open.spotify.com/track/1r7dV486KA1fMo2w1voblx"
+      },
+      {
+        "played_at": "2026-09-12T23:48:57.628Z",
+        "id": "7u48RjanhFy30zE8N5dOiw",
+        "title": "Hat\u00ebr",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 152893,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273dac51d9a5701fbfb222f2f06",
+        "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
+      },
+      {
+        "played_at": "2026-09-12T23:46:24.186Z",
+        "id": "431zdjcgNI4zFsS7bhOhLe",
+        "title": "Overloaded",
+        "artist": "prod. antagonist",
+        "primary_artist": "prod. antagonist",
+        "duration_ms": 136334,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737c0ddc4ca0b2ac74093ac316",
+        "url": "https://open.spotify.com/track/431zdjcgNI4zFsS7bhOhLe"
+      },
+      {
+        "played_at": "2026-09-12T23:44:07.305Z",
+        "id": "0Ousam5anlEdLlWGR5yH22",
+        "title": "In & Out",
+        "artist": "Rich Amiri",
+        "primary_artist": "Rich Amiri",
+        "duration_ms": 112941,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27381efd0c32a24090c5308b711",
+        "url": "https://open.spotify.com/track/0Ousam5anlEdLlWGR5yH22"
+      },
+      {
+        "played_at": "2026-09-12T23:42:13.827Z",
+        "id": "2c7HV6DzQwGGWAQYHVOBO3",
+        "title": "Vogue",
+        "artist": "Fimiguerrero",
+        "primary_artist": "Fimiguerrero",
+        "duration_ms": 94809,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731ee4e9d89d2d58a0ac65f580",
+        "url": "https://open.spotify.com/track/2c7HV6DzQwGGWAQYHVOBO3"
+      },
+      {
+        "played_at": "2026-09-12T23:40:38.480Z",
+        "id": "38uKoEfxgpxwsayBEIRs6G",
+        "title": "FREAKOUT",
+        "artist": "TWXN, LL Clawz, 507KAZ",
+        "primary_artist": "TWXN",
+        "duration_ms": 116864,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27325f1bbed2496217b9054fa99",
+        "url": "https://open.spotify.com/track/38uKoEfxgpxwsayBEIRs6G"
+      },
+      {
+        "played_at": "2026-09-12T23:38:41.073Z",
+        "id": "6fL8iaSdwmSTQiUv9K6L4h",
+        "title": "Faneto",
+        "artist": "Chief Keef",
+        "primary_artist": "Chief Keef",
+        "duration_ms": 206654,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273589138eb4f42c9abcf848ba0",
+        "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h"
+      },
+      {
+        "played_at": "2026-09-12T23:35:13.848Z",
+        "id": "3Ygb9jYG5TeibrrKJzCPmV",
+        "title": "ORCHESTRAT\u00cb",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 173096,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738fd4ee592690d0a94caa0045",
+        "url": "https://open.spotify.com/track/3Ygb9jYG5TeibrrKJzCPmV"
+      },
+      {
+        "played_at": "2026-09-12T23:32:20.211Z",
+        "id": "0MXemkrh7WpAfiafcGQwZO",
+        "title": "NOSTYLIST",
+        "artist": "Destroy Lonely",
+        "primary_artist": "Destroy Lonely",
+        "duration_ms": 180000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27316253391849ee562db8da541",
+        "url": "https://open.spotify.com/track/0MXemkrh7WpAfiafcGQwZO"
+      },
+      {
+        "played_at": "2026-09-12T23:29:19.679Z",
+        "id": "3LkWdvgrJtFuM0ZoXKPlpH",
+        "title": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
+        "artist": "Whethan, midwxst, Yeat, Matt OX",
+        "primary_artist": "Whethan",
+        "duration_ms": 183410,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736fb538c986c37f4511802d64",
+        "url": "https://open.spotify.com/track/3LkWdvgrJtFuM0ZoXKPlpH"
+      },
+      {
+        "played_at": "2026-09-12T23:26:15.732Z",
+        "id": "6puyQV1SZ0ykscErX7GGtX",
+        "title": "On Live",
+        "artist": "SDMNR",
+        "primary_artist": "SDMNR",
+        "duration_ms": 185748,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737254d7ee6fe068bd688b5034",
+        "url": "https://open.spotify.com/track/6puyQV1SZ0ykscErX7GGtX"
+      },
+      {
+        "played_at": "2026-09-12T23:23:09.452Z",
+        "id": "6hG8ZNYYSC1PDO0Dcoe9xQ",
+        "title": "ILLUMINATI",
+        "artist": "Rich Amiri",
+        "primary_artist": "Rich Amiri",
+        "duration_ms": 120370,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736cac0ce49078bd5afa49ceeb",
+        "url": "https://open.spotify.com/track/6hG8ZNYYSC1PDO0Dcoe9xQ"
+      },
+      {
+        "played_at": "2026-09-12T23:21:08.541Z",
+        "id": "6paXxvEqAIa38FfPY2vuWB",
+        "title": "On Your Own",
+        "artist": "Lil Tecca",
+        "primary_artist": "Lil Tecca",
+        "duration_ms": 134308,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+        "url": "https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB"
+      },
+      {
+        "played_at": "2026-09-12T23:18:53.696Z",
+        "id": "0Pq8CSHDXInMK8atOkWSAv",
+        "title": "Rackz got m\u00eb (feat. Gunna)",
+        "artist": "Yeat, Gunna",
+        "primary_artist": "Yeat",
+        "duration_ms": 181440,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+        "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
+      },
+      {
+        "played_at": "2026-09-12T23:15:51.710Z",
+        "id": "3AxLP11i37PZTTPDrLisfJ",
+        "title": "Awoo",
+        "artist": "mikeeysmind, prodbysky",
+        "primary_artist": "mikeeysmind",
+        "duration_ms": 147042,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735b2604f3dab4f48f7f829ca0",
+        "url": "https://open.spotify.com/track/3AxLP11i37PZTTPDrLisfJ"
+      },
+      {
+        "played_at": "2026-09-12T23:13:24.126Z",
+        "id": "46oDV1H9EdVmnWSivShuH1",
+        "title": "TELESCOPE",
+        "artist": "TWXN, LL Clawz, 507KAZ",
+        "primary_artist": "TWXN",
+        "duration_ms": 143046,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a5d849e9f07c291fc7e3e609",
+        "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"
+      },
+      {
+        "played_at": "2026-09-12T23:11:00.540Z",
+        "id": "4oPLjuY1WgGTL0Ja1doDOn",
+        "title": "Magic Johnson",
+        "artist": "ian",
+        "primary_artist": "ian",
+        "duration_ms": 137158,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+        "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn"
+      },
+      {
+        "played_at": "2026-09-12T23:08:42.844Z",
+        "id": "3MOiRopkW7q1yE2QC2BHi0",
+        "title": "SAME OLD ME",
+        "artist": "Rich Amiri",
+        "primary_artist": "Rich Amiri",
+        "duration_ms": 158800,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273becc78a3e1cdccde51debcf3",
+        "url": "https://open.spotify.com/track/3MOiRopkW7q1yE2QC2BHi0"
+      },
+      {
+        "played_at": "2026-09-12T23:06:03.484Z",
+        "id": "6rUmUJ2drFemHTH73bFAKQ",
+        "title": "That Go! (feat. T-Shyne)",
+        "artist": "Young Stoner Life, Young Thug, Meek Mill, T-Shyne",
+        "primary_artist": "Young Stoner Life",
+        "duration_ms": 226000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+        "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
+      },
+      {
+        "played_at": "2026-09-12T23:02:16.947Z",
+        "id": "1dyOKsLb0YcEzJcOxVJLpD",
+        "title": "Rokstar",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 133746,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737f18c4658caa4a3d47f2d978",
+        "url": "https://open.spotify.com/track/1dyOKsLb0YcEzJcOxVJLpD"
+      },
+      {
+        "played_at": "2026-09-12T23:00:02.659Z",
+        "id": "2rSTewKrvP4zifuTE3ooEz",
+        "title": "Mandy",
+        "artist": "Fimiguerrero",
+        "primary_artist": "Fimiguerrero",
+        "duration_ms": 90000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731ee4e9d89d2d58a0ac65f580",
+        "url": "https://open.spotify.com/track/2rSTewKrvP4zifuTE3ooEz"
+      },
+      {
+        "played_at": "2026-09-12T22:58:32.075Z",
+        "id": "7oJrVhiTPZGBXWPwhxjy9S",
+        "title": "Lust",
+        "artist": "Lil Skies",
+        "primary_artist": "Lil Skies",
+        "duration_ms": 156000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c56dcd1015c1ffb8c56d2988",
+        "url": "https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S"
+      },
+      {
+        "played_at": "2026-09-12T22:55:55.532Z",
+        "id": "2nvgmIyONM6yzB4MhdC5G3",
+        "title": "GRAMS",
+        "artist": "Thekidszn",
+        "primary_artist": "Thekidszn",
+        "duration_ms": 134265,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f1e27be8d2f0ddf95d1fb74b",
+        "url": "https://open.spotify.com/track/2nvgmIyONM6yzB4MhdC5G3"
+      },
+      {
+        "played_at": "2026-09-12T22:53:40.728Z",
+        "id": "69phA1R4gmQsBFRQ3INW8C",
+        "title": "ONE CALL",
+        "artist": "Rich Amiri",
+        "primary_artist": "Rich Amiri",
+        "duration_ms": 121399,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736cac0ce49078bd5afa49ceeb",
+        "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+      },
+      {
+        "played_at": "2026-09-12T22:51:38.786Z",
+        "id": "2NLOyWzztMiW5FmNhD83K6",
+        "title": "Mist",
+        "artist": "EsDeeKid, Rico Ace",
+        "primary_artist": "EsDeeKid",
+        "duration_ms": 130461,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045",
+        "url": "https://open.spotify.com/track/2NLOyWzztMiW5FmNhD83K6"
+      },
+      {
+        "played_at": "2026-09-12T22:49:27.794Z",
+        "id": "5aO9gzffBoElavmuQKDxgB",
+        "title": "Syst\u00ebm",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 166590,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737aee5b36a3a60ca926bc429b",
+        "url": "https://open.spotify.com/track/5aO9gzffBoElavmuQKDxgB"
+      },
+      {
+        "played_at": "2026-09-12T22:46:40.657Z",
+        "id": "16vvJmnrondzmZjEBThA0T",
+        "title": "GEEKED UP (FEAT. YEAT)",
+        "artist": "Don Toliver, Yeat",
+        "primary_artist": "Don Toliver",
+        "duration_ms": 157613,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739a1a952b7616b7681c3ec3b5",
+        "url": "https://open.spotify.com/track/16vvJmnrondzmZjEBThA0T"
+      },
+      {
+        "played_at": "2026-09-12T22:44:02.478Z",
+        "id": "2fvdbULJrwJHJcrdYiXJ20",
+        "title": "Can't Feel Myself",
+        "artist": "dadanny",
+        "primary_artist": "dadanny",
+        "duration_ms": 181511,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f2720bc9d89620c8b3995452",
+        "url": "https://open.spotify.com/track/2fvdbULJrwJHJcrdYiXJ20"
+      },
+      {
+        "played_at": "2026-09-12T22:41:00.432Z",
+        "id": "6dxIyoJKch3tVdtM9UHSvt",
+        "title": "FOR LYFE",
+        "artist": "gorn",
+        "primary_artist": "gorn",
+        "duration_ms": 142800,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27327e2215959679a7aeb37e283",
+        "url": "https://open.spotify.com/track/6dxIyoJKch3tVdtM9UHSvt"
+      },
+      {
+        "played_at": "2026-09-12T22:38:37.096Z",
+        "id": "2cNTMTh42p1dwMS3Kaea8E",
+        "title": "GO AGAIN (feat. Superheaven)",
+        "artist": "BNYX\u00ae, Yeat, Superheaven",
+        "primary_artist": "BNYX\u00ae",
+        "duration_ms": 214046,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27380f0155c4cbf5e09eaf83d4a",
+        "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
+      },
+      {
+        "played_at": "2026-09-12T22:35:02.488Z",
+        "id": "19h8cGURkW82q5LVTk04D9",
+        "title": "Lyfe",
+        "artist": "alyx, teefaygoo, prodbysky",
+        "primary_artist": "alyx",
+        "duration_ms": 175705,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fd2b3056dd48a5a5de403a99",
+        "url": "https://open.spotify.com/track/19h8cGURkW82q5LVTk04D9"
+      },
+      {
+        "played_at": "2026-09-12T22:32:06.237Z",
+        "id": "7EC3AUEj6jYFST3tyLZ4ly",
+        "title": "Tr\u00ebndy way (feat. SeptembersRich)",
+        "artist": "Yeat, SeptembersRich",
+        "primary_artist": "Yeat",
+        "duration_ms": 200071,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737f18c4658caa4a3d47f2d978",
+        "url": "https://open.spotify.com/track/7EC3AUEj6jYFST3tyLZ4ly"
+      },
+      {
+        "played_at": "2026-09-12T22:28:45.617Z",
+        "id": "4Se3fXoHJkcraQzJXo2IYn",
+        "title": "Mon\u00eby so big",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 160052,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737f18c4658caa4a3d47f2d978",
+        "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
+      },
+      {
+        "played_at": "2026-09-12T22:26:05.021Z",
+        "id": "6Rxs3rW1SNNBZRrRckwU81",
+        "title": "Turban",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 155742,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737f18c4658caa4a3d47f2d978",
+        "url": "https://open.spotify.com/track/6Rxs3rW1SNNBZRrRckwU81"
+      },
+      {
+        "played_at": "2026-09-12T22:23:28.709Z",
+        "id": "5G9CRx8UPvVfZe1L8gXKT0",
+        "title": "Sorry Bout That",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 186017,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732a2ca1ad79dd181c31e08c81",
+        "url": "https://open.spotify.com/track/5G9CRx8UPvVfZe1L8gXKT0"
+      },
+      {
+        "played_at": "2026-09-12T22:20:22.153Z",
+        "id": "3wn8nOygkHLUQ9dlXM1rKW",
+        "title": "Poppin",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 167186,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+        "url": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW"
+      },
+      {
+        "played_at": "2026-09-12T22:17:34.416Z",
+        "id": "0SHO7NVnp3U5NFc9YWkPCR",
+        "title": "G\u00ebt Busy",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 157779,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737f18c4658caa4a3d47f2d978",
+        "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR"
+      },
+      {
+        "played_at": "2026-09-12T22:14:56.085Z",
+        "id": "5WxNSKI7ytrB8InLs6ehgr",
+        "title": "Mad bout that",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 130200,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273eca1fb48afe613ff1034a51a",
+        "url": "https://open.spotify.com/track/5WxNSKI7ytrB8InLs6ehgr"
+      },
       {
         "played_at": "2026-09-12T22:12:45.327Z",
         "id": "5swUIbecpzLt2yR8gTsx0b",
