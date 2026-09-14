@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "38PmYBLrKbhBUlywggIVkP",
-    "name": "void",
-    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
-    "description": "A 28-track mix spanning 5 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
+    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
+    "name": "lucio",
+    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
   },
   "track": {
-    "id": "2VLnOOBxwytrSmr6r4iW7u",
-    "name": "D1",
+    "id": "3ouugfdFz6exFXUxu7wRvD",
+    "name": "If You Can't Hang",
     "artists": [
-      "Lil Tecca"
+      "Sleeping With Sirens"
     ],
-    "artist_label": "Lil Tecca",
-    "url": "https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u",
-    "embed_url": "https://open.spotify.com/embed/track/2VLnOOBxwytrSmr6r4iW7u?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+    "artist_label": "Sleeping With Sirens",
+    "url": "https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD",
+    "embed_url": "https://open.spotify.com/embed/track/3ouugfdFz6exFXUxu7wRvD?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e3cd706ea9791c3959d7b474",
     "album": {
-      "id": "6uWva3kfeqqVIsNAJ2MmeL",
-      "name": "PLAN A",
-      "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      "id": "4TuNgoALZ10zEOHgfkxs8T",
+      "name": "Let's Cheers To This",
+      "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
     }
   }
 }
