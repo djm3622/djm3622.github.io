@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 28,
       "sampled_tracks": 28,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -3993,7 +3993,7 @@
       "duration_ms": 184933,
       "duration_label": "3:05",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -4455,7 +4455,7 @@
       "duration_ms": 193684,
       "duration_label": "3:14",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312b1d53215f6bfe4478f70e2",
       "playcount": null,
       "recent_play_count": 6
     },
@@ -4469,7 +4469,7 @@
       "duration_ms": 210600,
       "duration_label": "3:31",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -4497,7 +4497,7 @@
       "duration_ms": 133000,
       "duration_label": "2:13",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -4539,7 +4539,7 @@
       "duration_ms": 182266,
       "duration_label": "3:02",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -5099,7 +5099,7 @@
       "duration_ms": 170847,
       "duration_label": "2:51",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2739567b80f50a5b9f0178ae993",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738280cc0742ecadd06889d164",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -5211,7 +5211,7 @@
       "duration_ms": 230453,
       "duration_label": "3:50",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -5547,7 +5547,7 @@
       "duration_ms": 198620,
       "duration_label": "3:19",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a99eb4bda4c981a09966162f",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -6331,7 +6331,7 @@
       "duration_ms": 170453,
       "duration_label": "2:50",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce4e6757336a09f7e7ead6ef",
       "playcount": null,
       "recent_play_count": 1
     },
@@ -6471,7 +6471,7 @@
       "duration_ms": 153600,
       "duration_label": "2:34",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273dac51d9a5701fbfb222f2f06",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369544e798a3f04492041005d",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -6513,7 +6513,7 @@
       "duration_ms": 163266,
       "duration_label": "2:43",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -7185,7 +7185,7 @@
       "duration_ms": 176124,
       "duration_label": "2:56",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2737aee5b36a3a60ca926bc429b",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c665c7f2be1f6d3214a93a76",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -7241,7 +7241,7 @@
       "duration_ms": 228295,
       "duration_label": "3:48",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a99eb4bda4c981a09966162f",
       "playcount": null,
       "recent_play_count": 1
     },
@@ -7465,7 +7465,7 @@
       "duration_ms": 170187,
       "duration_label": "2:50",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fd4ee592690d0a94caa0045",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273439a19a2f4a1f97e9d4de1dd",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -7759,7 +7759,7 @@
       "duration_ms": 157333,
       "duration_label": "2:37",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312b1d53215f6bfe4478f70e2",
       "playcount": null,
       "recent_play_count": 2
     },
@@ -8025,7 +8025,7 @@
       "duration_ms": 153652,
       "duration_label": "2:34",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fd4ee592690d0a94caa0045",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273439a19a2f4a1f97e9d4de1dd",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -8291,7 +8291,7 @@
       "duration_ms": 184426,
       "duration_label": "3:04",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -8333,7 +8333,7 @@
       "duration_ms": 148800,
       "duration_label": "2:29",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -9005,7 +9005,7 @@
       "duration_ms": 188240,
       "duration_label": "3:08",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce4e6757336a09f7e7ead6ef",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -9103,7 +9103,7 @@
       "duration_ms": 159893,
       "duration_label": "2:40",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273dac51d9a5701fbfb222f2f06",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369544e798a3f04492041005d",
       "playcount": null,
       "recent_play_count": 2
     },
@@ -9747,7 +9747,7 @@
       "duration_ms": 175920,
       "duration_label": "2:56",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce4e6757336a09f7e7ead6ef",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -10559,7 +10559,7 @@
       "duration_ms": 192000,
       "duration_label": "3:12",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312b1d53215f6bfe4478f70e2",
       "playcount": null,
       "recent_play_count": 2
     },
@@ -10615,7 +10615,7 @@
       "duration_ms": 150453,
       "duration_label": "2:30",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -10629,7 +10629,7 @@
       "duration_ms": 192053,
       "duration_label": "3:12",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -10951,7 +10951,7 @@
       "duration_ms": 238506,
       "duration_label": "3:59",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -11105,7 +11105,7 @@
       "duration_ms": 272306,
       "duration_label": "4:32",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -11147,7 +11147,7 @@
       "duration_ms": 211253,
       "duration_label": "3:31",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -11161,7 +11161,7 @@
       "duration_ms": 166280,
       "duration_label": "2:46",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce4e6757336a09f7e7ead6ef",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -11175,7 +11175,7 @@
       "duration_ms": 167773,
       "duration_label": "2:48",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273dac51d9a5701fbfb222f2f06",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369544e798a3f04492041005d",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -11259,7 +11259,7 @@
       "duration_ms": 176000,
       "duration_label": "2:56",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a99eb4bda4c981a09966162f",
       "playcount": null,
       "recent_play_count": 5
     },
@@ -11329,7 +11329,7 @@
       "duration_ms": 154786,
       "duration_label": "2:35",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce4e6757336a09f7e7ead6ef",
       "playcount": null,
       "recent_play_count": 1
     },
@@ -11511,7 +11511,7 @@
       "duration_ms": 150241,
       "duration_label": "2:30",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2737aee5b36a3a60ca926bc429b",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c665c7f2be1f6d3214a93a76",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -12071,7 +12071,7 @@
       "duration_ms": 167186,
       "duration_label": "2:47",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce4e6757336a09f7e7ead6ef",
       "playcount": null,
       "recent_play_count": 1
     },
@@ -12267,7 +12267,7 @@
       "duration_ms": 205266,
       "duration_label": "3:25",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312b1d53215f6bfe4478f70e2",
       "playcount": null,
       "recent_play_count": 3
     },
@@ -12295,7 +12295,7 @@
       "duration_ms": 157611,
       "duration_label": "2:38",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a99eb4bda4c981a09966162f",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -12351,7 +12351,7 @@
       "duration_ms": 198933,
       "duration_label": "3:19",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -12701,7 +12701,7 @@
       "duration_ms": 216280,
       "duration_label": "3:36",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce4e6757336a09f7e7ead6ef",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -12785,7 +12785,7 @@
       "duration_ms": 208866,
       "duration_label": "3:29",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce4e6757336a09f7e7ead6ef",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -13135,7 +13135,7 @@
       "duration_ms": 193600,
       "duration_label": "3:14",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -13359,7 +13359,7 @@
       "duration_ms": 145426,
       "duration_label": "2:25",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -13639,7 +13639,7 @@
       "duration_ms": 143466,
       "duration_label": "2:23",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -13765,7 +13765,7 @@
       "duration_ms": 104751,
       "duration_label": "1:45",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fd4ee592690d0a94caa0045",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273439a19a2f4a1f97e9d4de1dd",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -13891,7 +13891,7 @@
       "duration_ms": 152666,
       "duration_label": "2:33",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -14073,7 +14073,7 @@
       "duration_ms": 174857,
       "duration_label": "2:55",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2737aee5b36a3a60ca926bc429b",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c665c7f2be1f6d3214a93a76",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -14927,7 +14927,7 @@
       "duration_ms": 192053,
       "duration_label": "3:12",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -15473,7 +15473,7 @@
       "duration_ms": 136653,
       "duration_label": "2:17",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -15781,7 +15781,7 @@
       "duration_ms": 170093,
       "duration_label": "2:50",
       "explicit": true,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c3b5147228c67b6388f7c4b",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -16603,13 +16603,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1859,
-    "captured_hours": 78.7,
+    "captured_plays": 1862,
+    "captured_hours": 78.8,
     "distinct_tracks": 512,
     "distinct_artists": 238,
     "history_start": "2026-08-02",
-    "history_end": "2026-09-14",
-    "last_played_at": "2026-09-14T22:28:14.165Z",
+    "history_end": "2026-09-15",
+    "last_played_at": "2026-09-15T13:57:59.030Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16668,8 +16668,8 @@
       {
         "hour": 9,
         "label": "9 AM",
-        "plays": 8,
-        "height_pct": 3
+        "plays": 11,
+        "height_pct": 4
       },
       {
         "hour": 10,
@@ -16764,7 +16764,7 @@
       },
       {
         "label": "Tue",
-        "plays": 257,
+        "plays": 260,
         "width_pct": 76
       },
       {
@@ -16843,20 +16843,20 @@
         "plays": 45
       },
       {
+        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+        "name": "hold on",
+        "artist": "nate sib",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9",
+        "plays": 41
+      },
+      {
         "id": "35XIBy0gLLwPzqLshKrWf4",
         "name": "AGAIN",
         "artist": "Moors",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2737abacaf8492a24ada10ff572",
         "url": "https://open.spotify.com/track/35XIBy0gLLwPzqLshKrWf4",
         "plays": 41
-      },
-      {
-        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
-        "name": "hold on",
-        "artist": "nate sib",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
-        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9",
-        "plays": 40
       }
     ],
     "recent_top_artists": [
@@ -16870,7 +16870,7 @@
       },
       {
         "name": "Moors",
-        "plays": 59
+        "plays": 60
       },
       {
         "name": "PinkPantheress",
@@ -16882,7 +16882,7 @@
       },
       {
         "name": "nate sib",
-        "plays": 41
+        "plays": 42
       },
       {
         "name": "Yeat",
@@ -17041,19 +17041,19 @@
         },
         {
           "rank": 19,
-          "id": "1a4RUUKHH1xkDq0hbuWKhw",
-          "name": "zehnvonzehn",
-          "artist": "franz1",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
-          "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
+          "id": "1KGi9sZVMeszgZOWivFpxs",
+          "name": "No Scrubs",
+          "artist": "TLC",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95",
+          "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
         },
         {
           "rank": 20,
-          "id": "2JreXnkSzK2oVk2yQInpsi",
-          "name": "Evacuate the Dancefloor - Radio Edit",
-          "artist": "Cascada",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273093920c6d1f62f023e5a9a68",
-          "url": "https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"
+          "id": "7pYfyrMNPn3wtoCyqcTVoI",
+          "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+          "artist": "Maroon 5, Christina Aguilera",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739585ff55fff75c5c07a619cb",
+          "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
         }
       ],
       "six_months": [
@@ -17110,7 +17110,7 @@
           "id": "44PH8NLzVddk4qhAUvm4v3",
           "name": "Purpose General",
           "artist": "Yeat",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27312b1d53215f6bfe4478f70e2",
           "url": "https://open.spotify.com/track/44PH8NLzVddk4qhAUvm4v3"
         },
         {
@@ -17198,7 +17198,7 @@
           "id": "04KGYP88lnBiS5kDZFgJV7",
           "name": "My Way",
           "artist": "Yeat, Julia Wolf",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27312b1d53215f6bfe4478f70e2",
           "url": "https://open.spotify.com/track/04KGYP88lnBiS5kDZFgJV7"
         },
         {
@@ -17469,17 +17469,17 @@
         },
         {
           "rank": 13,
-          "id": "5pKCCKE2ajJHZ9KAiaK11H",
-          "name": "Rihanna",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "rank": 14,
           "id": "2U6J9Q89i1TNhesKreFD65",
           "name": "piri & tommy",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb7fb03392206f895e0c219b6d",
           "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        },
+        {
+          "rank": 14,
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
           "rank": 15,
@@ -17490,38 +17490,38 @@
         },
         {
           "rank": 16,
-          "id": "26dSoYclwsYLMAKD3tpOr4",
-          "name": "Britney Spears",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb8cf8f7cab75b0e44dd4e0ea8",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "rank": 17,
-          "id": "0TnOYISbd1XYRBk9myaseg",
-          "name": "Pitbull",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebe75db75543a89589514259b2",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "rank": 18,
           "id": "1HY2Jd0NmPuamShAr6KMms",
           "name": "Lady Gaga",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 19,
+          "rank": 17,
           "id": "7uMDnSZyUYNBPLhPMNuaM2",
           "name": "Kenya Grace",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb4a4bef984ec5f2eecd12f843",
           "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         },
         {
-          "rank": 20,
+          "rank": 18,
           "id": "6PXS4YHDkKvl1wkIl4V8DL",
           "name": "Fetty Wap",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf6df2e78223259e7d425b1ee",
           "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "rank": 19,
+          "id": "26dSoYclwsYLMAKD3tpOr4",
+          "name": "Britney Spears",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb8cf8f7cab75b0e44dd4e0ea8",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "rank": 20,
+          "id": "6LqNN22kT3074XbTVUrhzX",
+          "name": "Kesha",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
       "six_months": [
@@ -17810,6 +17810,36 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-15T13:57:59.030Z",
+        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+        "title": "hold on",
+        "artist": "nate sib",
+        "primary_artist": "nate sib",
+        "duration_ms": 119830,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+      },
+      {
+        "played_at": "2026-09-15T13:55:58.713Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-15T13:53:29.139Z",
+        "id": "5ZQpEmoLqPYuCyhUeE0bOV",
+        "title": "OBSESSION",
+        "artist": "Moors",
+        "primary_artist": "Moors",
+        "duration_ms": 153604,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bb320d8a974c3bd778bfa5c4",
+        "url": "https://open.spotify.com/track/5ZQpEmoLqPYuCyhUeE0bOV"
+      },
       {
         "played_at": "2026-09-14T22:28:14.165Z",
         "id": "73ck4TGQSxatW45NG0GpVs",
