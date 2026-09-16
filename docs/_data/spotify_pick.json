@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "4gzEOrF8mCDu96BCLdwDya",
-    "name": "92.3",
-    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
-    "description": "A 100-track mix spanning 76 artists, led by Rihanna, Britney Spears, and Lady Gaga."
+    "id": "38PmYBLrKbhBUlywggIVkP",
+    "name": "void",
+    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+    "description": "A 28-track mix spanning 5 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
   },
   "track": {
-    "id": "2VOomzT6VavJOGBeySqaMc",
-    "name": "Disturbia",
+    "id": "5KEixB30VO3hb8etUPkMEq",
+    "name": "Favorite Lie",
     "artists": [
-      "Rihanna"
+      "Lil Tecca"
     ],
-    "artist_label": "Rihanna",
-    "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc",
-    "embed_url": "https://open.spotify.com/embed/track/2VOomzT6VavJOGBeySqaMc?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+    "artist_label": "Lil Tecca",
+    "url": "https://open.spotify.com/track/5KEixB30VO3hb8etUPkMEq",
+    "embed_url": "https://open.spotify.com/embed/track/5KEixB30VO3hb8etUPkMEq?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
     "album": {
-      "id": "3JSWZWeTHF4HDGt5Eozdy7",
-      "name": "Good Girl Gone Bad: Reloaded",
-      "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      "id": "0CLqdKIh14TmKqLZCs9dml",
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
     }
   }
 }
