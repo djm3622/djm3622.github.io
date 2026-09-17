@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "38PmYBLrKbhBUlywggIVkP",
-    "name": "void",
-    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
-    "description": "A 28-track mix spanning 5 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
+    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
+    "name": "johto",
+    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
   },
   "track": {
-    "id": "5KEixB30VO3hb8etUPkMEq",
-    "name": "Favorite Lie",
+    "id": "1nRTH500HbZX8PYwT4ZMby",
+    "name": "Retro (Rough)",
     "artists": [
-      "Lil Tecca"
+      "Childish Gambino"
     ],
-    "artist_label": "Lil Tecca",
-    "url": "https://open.spotify.com/track/5KEixB30VO3hb8etUPkMEq",
-    "embed_url": "https://open.spotify.com/embed/track/5KEixB30VO3hb8etUPkMEq?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+    "artist_label": "Childish Gambino",
+    "url": "https://open.spotify.com/track/1nRTH500HbZX8PYwT4ZMby",
+    "embed_url": "https://open.spotify.com/embed/track/1nRTH500HbZX8PYwT4ZMby?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738d2c4d1fa63ca708307a5308",
     "album": {
-      "id": "0CLqdKIh14TmKqLZCs9dml",
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      "id": "5dVKggb6Nvfp7JJdLfHPof",
+      "name": "Kauai",
+      "url": "https://open.spotify.com/album/5dVKggb6Nvfp7JJdLfHPof"
     }
   }
 }
