@@ -4,20 +4,20 @@
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
     "requested_playlist_count": 13,
-    "catalog_slots": 891,
-    "sampled_slots": 891,
+    "catalog_slots": 893,
+    "sampled_slots": 893,
     "coverage_pct": 100.0,
     "playcount_sample": 12,
     "note": "Playlist composition comes from Spotify's authenticated API, including configured private and collaborative playlists. Listening activity combines Spotify's recent-play history with private top-item affinity rankings."
   },
   "overview": {
-    "unique_tracks": 889,
+    "unique_tracks": 891,
     "distinct_primary_artists": 341,
-    "sampled_hours": 44.2,
-    "median_duration_ms": 171599,
+    "sampled_hours": 44.3,
+    "median_duration_ms": 171622,
     "median_duration_label": "2:52",
-    "explicit_pct": 55.7,
-    "under_two_minutes_pct": 12.5,
+    "explicit_pct": 55.5,
+    "under_two_minutes_pct": 12.4,
     "over_six_minutes_pct": 1.0,
     "repeat_track_count": 2
   },
@@ -28,13 +28,13 @@
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
       "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
-      "total_tracks": 314,
-      "sampled_tracks": 314,
+      "total_tracks": 316,
+      "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
-      "duration_hours": 13.7,
-      "median_duration_ms": 143522,
+      "duration_hours": 13.8,
+      "median_duration_ms": 144047,
       "median_duration_label": "2:24",
-      "explicit_pct": 46.5,
+      "explicit_pct": 46.2,
       "distinct_primary_artists": 165,
       "top_artist": "Yameii Online",
       "top_artist_tracks": 18,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -827,6 +827,16 @@
       "explicit_pct": 33.3,
       "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2735d0beaf89239155e2849e938",
+      "image_kind": "album"
+    },
+    {
+      "name": "Machine Girl",
+      "tracks": 3,
+      "duration_ms": 691303,
+      "duration_label": "12m",
+      "explicit_pct": 0.0,
+      "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5b1bba9b35324a557cc33bc",
       "image_kind": "album"
     },
     {
@@ -2177,16 +2187,6 @@
       "explicit_pct": 100.0,
       "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2734d5a49d56acb995c0325f859",
-      "image_kind": "album"
-    },
-    {
-      "name": "Machine Girl",
-      "tracks": 1,
-      "duration_ms": 200280,
-      "duration_label": "3m",
-      "explicit_pct": 0.0,
-      "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b273702ad23efbc7c5063f69721c",
       "image_kind": "album"
     },
     {
@@ -5738,6 +5738,20 @@
       "recent_play_count": 0
     },
     {
+      "id": "5DbCXRs5PXXDgFrsdzjGDg",
+      "title": "Cyan Hardcore",
+      "artist": "Machine Girl",
+      "primary_artist": "Machine Girl",
+      "playlist": "illumi",
+      "url": "https://open.spotify.com/track/5DbCXRs5PXXDgFrsdzjGDg",
+      "duration_ms": 305502,
+      "duration_label": "5:06",
+      "explicit": false,
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c91fc741001619a09a24398",
+      "playcount": null,
+      "recent_play_count": 0
+    },
+    {
       "id": "0uFFTbo0i81dePHTeZubxm",
       "title": "Cyber Psyche Green",
       "artist": "TOKYOPILL",
@@ -7428,6 +7442,20 @@
       "duration_label": "2:50",
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273439a19a2f4a1f97e9d4de1dd",
+      "playcount": null,
+      "recent_play_count": 0
+    },
+    {
+      "id": "4orMsymF399H3xKBc0AIhx",
+      "title": "Ghost",
+      "artist": "Machine Girl",
+      "primary_artist": "Machine Girl",
+      "playlist": "illumi",
+      "url": "https://open.spotify.com/track/4orMsymF399H3xKBc0AIhx",
+      "duration_ms": 185521,
+      "duration_label": "3:06",
+      "explicit": false,
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5b1bba9b35324a557cc33bc",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -16551,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1928,
+    "captured_plays": 1929,
     "captured_hours": 81.3,
     "distinct_tracks": 513,
     "distinct_artists": 239,
     "history_start": "2026-08-02",
-    "history_end": "2026-09-16",
-    "last_played_at": "2026-09-16T22:42:23.677Z",
+    "history_end": "2026-09-17",
+    "last_played_at": "2026-09-17T02:47:21.772Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16694,8 +16722,8 @@
       {
         "hour": 22,
         "label": "10 PM",
-        "plays": 32,
-        "height_pct": 11
+        "plays": 33,
+        "height_pct": 12
       },
       {
         "hour": 23,
@@ -16717,7 +16745,7 @@
       },
       {
         "label": "Wed",
-        "plays": 284,
+        "plays": 285,
         "width_pct": 84
       },
       {
@@ -16818,7 +16846,7 @@
       },
       {
         "name": "Moors",
-        "plays": 72
+        "plays": 73
       },
       {
         "name": "Westwood",
@@ -17758,6 +17786,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-17T02:47:21.772Z",
+        "id": "5ZQpEmoLqPYuCyhUeE0bOV",
+        "title": "OBSESSION",
+        "artist": "Moors",
+        "primary_artist": "Moors",
+        "duration_ms": 153604,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bb320d8a974c3bd778bfa5c4",
+        "url": "https://open.spotify.com/track/5ZQpEmoLqPYuCyhUeE0bOV"
+      },
       {
         "played_at": "2026-09-16T22:42:23.677Z",
         "id": "73ck4TGQSxatW45NG0GpVs",
