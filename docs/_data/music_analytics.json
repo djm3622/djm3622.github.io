@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 316,
       "sampled_tracks": 316,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16579,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 1970,
-    "captured_hours": 83.0,
-    "distinct_tracks": 521,
-    "distinct_artists": 245,
+    "captured_plays": 1978,
+    "captured_hours": 83.5,
+    "distinct_tracks": 523,
+    "distinct_artists": 247,
     "history_start": "2026-08-02",
-    "history_end": "2026-09-17",
-    "last_played_at": "2026-09-17T23:57:51.445Z",
+    "history_end": "2026-09-18",
+    "last_played_at": "2026-09-18T14:59:24.113Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16644,14 +16644,14 @@
       {
         "hour": 9,
         "label": "9 AM",
-        "plays": 11,
+        "plays": 12,
         "height_pct": 4
       },
       {
         "hour": 10,
         "label": "10 AM",
-        "plays": 74,
-        "height_pct": 26
+        "plays": 81,
+        "height_pct": 28
       },
       {
         "hour": 11,
@@ -16755,8 +16755,8 @@
       },
       {
         "label": "Fri",
-        "plays": 169,
-        "width_pct": 50
+        "plays": 177,
+        "width_pct": 52
       },
       {
         "label": "Sat",
@@ -16808,7 +16808,7 @@
         "artist": "nate sib",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
         "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9",
-        "plays": 56
+        "plays": 57
       },
       {
         "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
@@ -16854,15 +16854,15 @@
       },
       {
         "name": "nate sib",
-        "plays": 57
+        "plays": 58
+      },
+      {
+        "name": "aidn.",
+        "plays": 49
       },
       {
         "name": "PinkPantheress",
         "plays": 49
-      },
-      {
-        "name": "aidn.",
-        "plays": 48
       },
       {
         "name": "Yeat",
@@ -16881,19 +16881,19 @@
         },
         {
           "rank": 2,
-          "id": "55rXApL8KBessVIpJpH4Fw",
-          "name": "ego",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
-        },
-        {
-          "rank": 3,
           "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
           "name": "hold on",
           "artist": "nate sib",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
           "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+        },
+        {
+          "rank": 3,
+          "id": "55rXApL8KBessVIpJpH4Fw",
+          "name": "ego",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
         },
         {
           "rank": 4,
@@ -16905,19 +16905,19 @@
         },
         {
           "rank": 5,
-          "id": "2kWOfoDtiLM6ONlmOecg2O",
-          "name": "two bad",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
-          "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
-        },
-        {
-          "rank": 6,
           "id": "73ck4TGQSxatW45NG0GpVs",
           "name": "Get There",
           "artist": "Westwood, pryme!",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
           "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+        },
+        {
+          "rank": 6,
+          "id": "2kWOfoDtiLM6ONlmOecg2O",
+          "name": "two bad",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+          "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
         },
         {
           "rank": 7,
@@ -17786,6 +17786,86 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-18T14:59:24.113Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-18T14:43:22.368Z",
+        "id": "1Hv1VTm8zeOeybub15mA2R",
+        "title": "Smooth Operator - Single Version",
+        "artist": "Sade",
+        "primary_artist": "Sade",
+        "duration_ms": 258693,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+        "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+      },
+      {
+        "played_at": "2026-09-18T14:41:15.571Z",
+        "id": "1Hv1VTm8zeOeybub15mA2R",
+        "title": "Smooth Operator - Single Version",
+        "artist": "Sade",
+        "primary_artist": "Sade",
+        "duration_ms": 258693,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+        "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+      },
+      {
+        "played_at": "2026-09-18T14:36:56.384Z",
+        "id": "1Hv1VTm8zeOeybub15mA2R",
+        "title": "Smooth Operator - Single Version",
+        "artist": "Sade",
+        "primary_artist": "Sade",
+        "duration_ms": 258693,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+        "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+      },
+      {
+        "played_at": "2026-09-18T14:32:37.185Z",
+        "id": "1Hv1VTm8zeOeybub15mA2R",
+        "title": "Smooth Operator - Single Version",
+        "artist": "Sade",
+        "primary_artist": "Sade",
+        "duration_ms": 258693,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+        "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+      },
+      {
+        "played_at": "2026-09-18T14:28:17.984Z",
+        "id": "1Hv1VTm8zeOeybub15mA2R",
+        "title": "Smooth Operator - Single Version",
+        "artist": "Sade",
+        "primary_artist": "Sade",
+        "duration_ms": 258693,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+        "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+      },
+      {
+        "played_at": "2026-09-18T14:20:44.073Z",
+        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+        "title": "hold on",
+        "artist": "nate sib",
+        "primary_artist": "nate sib",
+        "duration_ms": 119830,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+      },
+      {
+        "played_at": "2026-09-18T13:58:32.019Z",
+        "id": "63cLx0GQj9cLL15bQSQ9xC",
+        "title": "us(nate sib)",
+        "artist": "<222archive",
+        "primary_artist": "<222archive",
+        "duration_ms": 223722,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cebcb3ca023e4f888b8069ef",
+        "url": "https://open.spotify.com/track/63cLx0GQj9cLL15bQSQ9xC"
+      },
       {
         "played_at": "2026-09-17T23:57:51.445Z",
         "id": "5QJH4W4Z5yLL0wlcJRMSoW",
