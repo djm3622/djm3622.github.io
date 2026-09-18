@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
-    "name": "johto",
-    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
-    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
+    "id": "5IvibMktz0TzHg6JyIXzSm",
+    "name": "illumi",
+    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+    "description": "A 316-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
   },
   "track": {
-    "id": "1nRTH500HbZX8PYwT4ZMby",
-    "name": "Retro (Rough)",
+    "id": "48NL8GMxz08wkiGmGK6Wie",
+    "name": "what we did in the desert",
     "artists": [
-      "Childish Gambino"
+      "eightiesheadachetape"
     ],
-    "artist_label": "Childish Gambino",
-    "url": "https://open.spotify.com/track/1nRTH500HbZX8PYwT4ZMby",
-    "embed_url": "https://open.spotify.com/embed/track/1nRTH500HbZX8PYwT4ZMby?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2738d2c4d1fa63ca708307a5308",
+    "artist_label": "eightiesheadachetape",
+    "url": "https://open.spotify.com/track/48NL8GMxz08wkiGmGK6Wie",
+    "embed_url": "https://open.spotify.com/embed/track/48NL8GMxz08wkiGmGK6Wie?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273c59af5480f7564c624c8c95e",
     "album": {
-      "id": "5dVKggb6Nvfp7JJdLfHPof",
-      "name": "Kauai",
-      "url": "https://open.spotify.com/album/5dVKggb6Nvfp7JJdLfHPof"
+      "id": "5qrlcvSfVekFSErw48sV2u",
+      "name": "for a while",
+      "url": "https://open.spotify.com/album/5qrlcvSfVekFSErw48sV2u"
     }
   }
 }
