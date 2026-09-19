@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "5IvibMktz0TzHg6JyIXzSm",
-    "name": "illumi",
-    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
-    "description": "A 316-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
+    "id": "38PmYBLrKbhBUlywggIVkP",
+    "name": "void",
+    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
   },
   "track": {
-    "id": "48NL8GMxz08wkiGmGK6Wie",
-    "name": "what we did in the desert",
+    "id": "6rjuKpPydT2SxN15TZpV7r",
+    "name": "500lbs",
     "artists": [
-      "eightiesheadachetape"
+      "Lil Tecca"
     ],
-    "artist_label": "eightiesheadachetape",
-    "url": "https://open.spotify.com/track/48NL8GMxz08wkiGmGK6Wie",
-    "embed_url": "https://open.spotify.com/embed/track/48NL8GMxz08wkiGmGK6Wie?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273c59af5480f7564c624c8c95e",
+    "artist_label": "Lil Tecca",
+    "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r",
+    "embed_url": "https://open.spotify.com/embed/track/6rjuKpPydT2SxN15TZpV7r?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96",
     "album": {
-      "id": "5qrlcvSfVekFSErw48sV2u",
-      "name": "for a while",
-      "url": "https://open.spotify.com/album/5qrlcvSfVekFSErw48sV2u"
+      "id": "4EURMuWFiLLRmQYoH5cgiE",
+      "name": "TEC",
+      "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
     }
   }
 }
