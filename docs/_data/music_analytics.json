@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-09-19",
+  "generated_on": "2026-09-20",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16579,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 2067,
-    "captured_hours": 87.2,
+    "captured_plays": 2068,
+    "captured_hours": 87.3,
     "distinct_tracks": 543,
     "distinct_artists": 258,
     "history_start": "2026-08-02",
     "history_end": "2026-09-19",
-    "last_played_at": "2026-09-19T19:52:28.583Z",
+    "last_played_at": "2026-09-19T21:09:31.226Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16692,7 +16692,7 @@
       {
         "hour": 17,
         "label": "5 PM",
-        "plays": 207,
+        "plays": 208,
         "height_pct": 69
       },
       {
@@ -16760,7 +16760,7 @@
       },
       {
         "label": "Sat",
-        "plays": 268,
+        "plays": 269,
         "width_pct": 79
       },
       {
@@ -16816,7 +16816,7 @@
         "artist": "aidn., doug suh",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
         "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw",
-        "plays": 54
+        "plays": 55
       },
       {
         "id": "35XIBy0gLLwPzqLshKrWf4",
@@ -16858,7 +16858,7 @@
       },
       {
         "name": "aidn.",
-        "plays": 56
+        "plays": 57
       },
       {
         "name": "PinkPantheress",
@@ -17786,6 +17786,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-19T21:09:31.226Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
       {
         "played_at": "2026-09-19T19:52:28.583Z",
         "id": "19zMOwWhd7wQ2hhyUI1ey9",

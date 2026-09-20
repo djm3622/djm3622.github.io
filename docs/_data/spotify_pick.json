@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "38PmYBLrKbhBUlywggIVkP",
-    "name": "void",
-    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
-    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
+    "id": "1LmRGDRZzF0xsVaRezQTBn",
+    "name": "this u?",
+    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+    "description": "A 66-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
   },
   "track": {
-    "id": "6rjuKpPydT2SxN15TZpV7r",
-    "name": "500lbs",
+    "id": "2cjhSZd6uZIrp4ddxvvBdn",
+    "name": "BACKR00MS (with Travis Scott)",
     "artists": [
-      "Lil Tecca"
+      "Playboi Carti",
+      "Travis Scott"
     ],
-    "artist_label": "Lil Tecca",
-    "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r",
-    "embed_url": "https://open.spotify.com/embed/track/6rjuKpPydT2SxN15TZpV7r?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96",
+    "artist_label": "Playboi Carti, Travis Scott",
+    "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn",
+    "embed_url": "https://open.spotify.com/embed/track/2cjhSZd6uZIrp4ddxvvBdn?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736da4ec0bce9baf42436db10a",
     "album": {
-      "id": "4EURMuWFiLLRmQYoH5cgiE",
-      "name": "TEC",
-      "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      "id": "7sFZGbkCitoqQz7Rt3LoKg",
+      "name": "MUSIC - SORRY 4 DA WAIT",
+      "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
     }
   }
 }
