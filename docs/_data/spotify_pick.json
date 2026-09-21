@@ -1,30 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1LmRGDRZzF0xsVaRezQTBn",
-    "name": "this u?",
-    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
-    "description": "A 66-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
+    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
+    "name": "johto",
+    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
   },
   "track": {
-    "id": "2cjhSZd6uZIrp4ddxvvBdn",
-    "name": "BACKR00MS (with Travis Scott)",
+    "id": "1nRTH500HbZX8PYwT4ZMby",
+    "name": "Retro (Rough)",
     "artists": [
-      "Playboi Carti",
-      "Travis Scott"
+      "Childish Gambino"
     ],
-    "artist_label": "Playboi Carti, Travis Scott",
-    "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn",
-    "embed_url": "https://open.spotify.com/embed/track/2cjhSZd6uZIrp4ddxvvBdn?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2736da4ec0bce9baf42436db10a",
+    "artist_label": "Childish Gambino",
+    "url": "https://open.spotify.com/track/1nRTH500HbZX8PYwT4ZMby",
+    "embed_url": "https://open.spotify.com/embed/track/1nRTH500HbZX8PYwT4ZMby?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738d2c4d1fa63ca708307a5308",
     "album": {
-      "id": "7sFZGbkCitoqQz7Rt3LoKg",
-      "name": "MUSIC - SORRY 4 DA WAIT",
-      "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+      "id": "5dVKggb6Nvfp7JJdLfHPof",
+      "name": "Kauai",
+      "url": "https://open.spotify.com/album/5dVKggb6Nvfp7JJdLfHPof"
     }
   }
 }
