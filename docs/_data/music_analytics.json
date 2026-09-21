@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16579,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 2129,
-    "captured_hours": 90.1,
+    "captured_plays": 2138,
+    "captured_hours": 90.4,
     "distinct_tracks": 558,
     "distinct_artists": 271,
     "history_start": "2026-08-02",
     "history_end": "2026-09-21",
-    "last_played_at": "2026-09-21T19:01:13.424Z",
+    "last_played_at": "2026-09-21T23:13:37.798Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16669,7 +16669,7 @@
         "hour": 13,
         "label": "1 PM",
         "plays": 189,
-        "height_pct": 63
+        "height_pct": 62
       },
       {
         "hour": 14,
@@ -16680,44 +16680,44 @@
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 168,
-        "height_pct": 56
+        "plays": 169,
+        "height_pct": 55
       },
       {
         "hour": 16,
         "label": "4 PM",
         "plays": 160,
-        "height_pct": 53
+        "height_pct": 52
       },
       {
         "hour": 17,
         "label": "5 PM",
         "plays": 208,
-        "height_pct": 69
+        "height_pct": 68
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 302,
+        "plays": 305,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 245,
-        "height_pct": 81
+        "plays": 250,
+        "height_pct": 82
       },
       {
         "hour": 20,
         "label": "8 PM",
         "plays": 153,
-        "height_pct": 51
+        "height_pct": 50
       },
       {
         "hour": 21,
         "label": "9 PM",
         "plays": 74,
-        "height_pct": 25
+        "height_pct": 24
       },
       {
         "hour": 22,
@@ -16729,44 +16729,44 @@
         "hour": 23,
         "label": "11 PM",
         "plays": 53,
-        "height_pct": 18
+        "height_pct": 17
       }
     ],
     "weekday_bins": [
       {
         "label": "Mon",
-        "plays": 368,
+        "plays": 377,
         "width_pct": 100
       },
       {
         "label": "Tue",
         "plays": 303,
-        "width_pct": 82
+        "width_pct": 80
       },
       {
         "label": "Wed",
         "plays": 285,
-        "width_pct": 77
+        "width_pct": 76
       },
       {
         "label": "Thu",
         "plays": 337,
-        "width_pct": 92
+        "width_pct": 89
       },
       {
         "label": "Fri",
         "plays": 228,
-        "width_pct": 62
+        "width_pct": 60
       },
       {
         "label": "Sat",
         "plays": 282,
-        "width_pct": 77
+        "width_pct": 75
       },
       {
         "label": "Sun",
         "plays": 326,
-        "width_pct": 89
+        "width_pct": 86
       }
     ],
     "recent_top_tracks": [
@@ -16795,20 +16795,20 @@
         "plays": 91
       },
       {
-        "id": "73ck4TGQSxatW45NG0GpVs",
-        "name": "Get There",
-        "artist": "Westwood, pryme!",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
-        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs",
-        "plays": 70
-      },
-      {
         "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
         "name": "hold on",
         "artist": "nate sib",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
         "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9",
-        "plays": 70
+        "plays": 72
+      },
+      {
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "name": "Get There",
+        "artist": "Westwood, pryme!",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs",
+        "plays": 71
       },
       {
         "id": "3Wjb9LujZhkRya23MOeTEw",
@@ -16816,7 +16816,7 @@
         "artist": "aidn., doug suh",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
         "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw",
-        "plays": 58
+        "plays": 60
       },
       {
         "id": "35XIBy0gLLwPzqLshKrWf4",
@@ -16850,15 +16850,15 @@
       },
       {
         "name": "nate sib",
-        "plays": 72
+        "plays": 74
       },
       {
         "name": "Westwood",
-        "plays": 70
+        "plays": 71
       },
       {
         "name": "aidn.",
-        "plays": 60
+        "plays": 62
       },
       {
         "name": "PinkPantheress",
@@ -17786,6 +17786,96 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-21T23:13:37.798Z",
+        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+        "title": "hold on",
+        "artist": "nate sib",
+        "primary_artist": "nate sib",
+        "duration_ms": 119830,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+      },
+      {
+        "played_at": "2026-09-21T23:11:37.515Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-21T23:09:13.914Z",
+        "id": "19zMOwWhd7wQ2hhyUI1ey9",
+        "title": "ex",
+        "artist": "onlywoke",
+        "primary_artist": "onlywoke",
+        "duration_ms": 135407,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
+      },
+      {
+        "played_at": "2026-09-21T23:04:49.819Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-21T23:02:26.233Z",
+        "id": "19zMOwWhd7wQ2hhyUI1ey9",
+        "title": "ex",
+        "artist": "onlywoke",
+        "primary_artist": "onlywoke",
+        "duration_ms": 135407,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
+      },
+      {
+        "played_at": "2026-09-21T22:57:18.021Z",
+        "id": "73ck4TGQSxatW45NG0GpVs",
+        "title": "Get There",
+        "artist": "Westwood, pryme!",
+        "primary_artist": "Westwood",
+        "duration_ms": 199700,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
+        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+      },
+      {
+        "played_at": "2026-09-21T22:53:57.818Z",
+        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+        "title": "hold on",
+        "artist": "nate sib",
+        "primary_artist": "nate sib",
+        "duration_ms": 119830,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+      },
+      {
+        "played_at": "2026-09-21T22:49:50.624Z",
+        "id": "19zMOwWhd7wQ2hhyUI1ey9",
+        "title": "ex",
+        "artist": "onlywoke",
+        "primary_artist": "onlywoke",
+        "duration_ms": 135407,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
+      },
+      {
+        "played_at": "2026-09-21T19:01:52.411Z",
+        "id": "5EmRpHqKTMQVFl7KCNbQCw",
+        "title": "none",
+        "artist": "funeral, midwxst",
+        "primary_artist": "funeral",
+        "duration_ms": 112339,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27331c68e89eb102352fb96e1e1",
+        "url": "https://open.spotify.com/track/5EmRpHqKTMQVFl7KCNbQCw"
+      },
       {
         "played_at": "2026-09-21T19:01:13.424Z",
         "id": "58k32my5lKofeZRtIvBDg9",
