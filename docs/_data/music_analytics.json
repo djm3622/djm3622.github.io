@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16579,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 2150,
-    "captured_hours": 91.0,
-    "distinct_tracks": 563,
-    "distinct_artists": 274,
+    "captured_plays": 2158,
+    "captured_hours": 91.3,
+    "distinct_tracks": 565,
+    "distinct_artists": 276,
     "history_start": "2026-08-02",
     "history_end": "2026-09-22",
-    "last_played_at": "2026-09-22T00:15:24.393Z",
+    "last_played_at": "2026-09-22T14:17:57.787Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16596,7 +16596,7 @@
       {
         "hour": 1,
         "label": "1 AM",
-        "plays": 15,
+        "plays": 16,
         "height_pct": 5
       },
       {
@@ -16632,7 +16632,7 @@
       {
         "hour": 7,
         "label": "7 AM",
-        "plays": 0,
+        "plays": 1,
         "height_pct": 0
       },
       {
@@ -16650,8 +16650,8 @@
       {
         "hour": 10,
         "label": "10 AM",
-        "plays": 81,
-        "height_pct": 27
+        "plays": 87,
+        "height_pct": 29
       },
       {
         "hour": 11,
@@ -16740,8 +16740,8 @@
       },
       {
         "label": "Tue",
-        "plays": 303,
-        "width_pct": 78
+        "plays": 311,
+        "width_pct": 80
       },
       {
         "label": "Wed",
@@ -16816,7 +16816,7 @@
         "artist": "aidn., doug suh",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
         "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw",
-        "plays": 60
+        "plays": 61
       },
       {
         "id": "35XIBy0gLLwPzqLshKrWf4",
@@ -16858,7 +16858,7 @@
       },
       {
         "name": "aidn.",
-        "plays": 62
+        "plays": 63
       },
       {
         "name": "PinkPantheress",
@@ -16977,11 +16977,11 @@
         },
         {
           "rank": 14,
-          "id": "4Mjl46Mh8sAjsEB0QkeOWJ",
-          "name": "beginning",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/4Mjl46Mh8sAjsEB0QkeOWJ"
+          "id": "19zMOwWhd7wQ2hhyUI1ey9",
+          "name": "ex",
+          "artist": "onlywoke",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+          "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
         },
         {
           "rank": 15,
@@ -16993,11 +16993,11 @@
         },
         {
           "rank": 16,
-          "id": "19zMOwWhd7wQ2hhyUI1ey9",
-          "name": "ex",
-          "artist": "onlywoke",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
-          "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
+          "id": "4Mjl46Mh8sAjsEB0QkeOWJ",
+          "name": "beginning",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/4Mjl46Mh8sAjsEB0QkeOWJ"
         },
         {
           "rank": 17,
@@ -17009,19 +17009,19 @@
         },
         {
           "rank": 18,
-          "id": "4KxmNhZkzlLdLGYdMlgDgC",
-          "name": "burn",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
-        },
-        {
-          "rank": 19,
           "id": "5XD08ZPXrYSnc5xRPQ0gu4",
           "name": "eldest child",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
           "url": "https://open.spotify.com/track/5XD08ZPXrYSnc5xRPQ0gu4"
+        },
+        {
+          "rank": 19,
+          "id": "4KxmNhZkzlLdLGYdMlgDgC",
+          "name": "burn",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
         },
         {
           "rank": 20,
@@ -17317,19 +17317,19 @@
         },
         {
           "rank": 16,
-          "id": "3GDxQBr7aghzWH0kA0N8yk",
-          "name": "Batman",
-          "artist": "mikeeysmind, dadanny",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273fc56c1a5c921ab0cb6f30987",
-          "url": "https://open.spotify.com/track/3GDxQBr7aghzWH0kA0N8yk"
-        },
-        {
-          "rank": 17,
           "id": "3UsJUXvHb7qz4GiQtEc4a4",
           "name": "keep steady",
           "artist": "sosocamo",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2738a372f389087673289f84d09",
           "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
+        },
+        {
+          "rank": 17,
+          "id": "3GDxQBr7aghzWH0kA0N8yk",
+          "name": "Batman",
+          "artist": "mikeeysmind, dadanny",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273fc56c1a5c921ab0cb6f30987",
+          "url": "https://open.spotify.com/track/3GDxQBr7aghzWH0kA0N8yk"
         },
         {
           "rank": 18,
@@ -17786,6 +17786,86 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-22T14:17:57.787Z",
+        "id": "61Ph6Q4HYgWUVGulPszt9n",
+        "title": "5g",
+        "artist": "brakence",
+        "primary_artist": "brakence",
+        "duration_ms": 209706,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cbf54392eca47bb30303db4c",
+        "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
+      },
+      {
+        "played_at": "2026-09-22T14:14:27.449Z",
+        "id": "6EcB9ZEOxv0jcwxW00EYq0",
+        "title": "let u down",
+        "artist": "kurtains",
+        "primary_artist": "kurtains",
+        "duration_ms": 102699,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273be93e8c16b543649ddf6189e",
+        "url": "https://open.spotify.com/track/6EcB9ZEOxv0jcwxW00EYq0"
+      },
+      {
+        "played_at": "2026-09-22T14:11:09.379Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-22T14:08:45.788Z",
+        "id": "19zMOwWhd7wQ2hhyUI1ey9",
+        "title": "ex",
+        "artist": "onlywoke",
+        "primary_artist": "onlywoke",
+        "duration_ms": 135407,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
+      },
+      {
+        "played_at": "2026-09-22T14:05:33.927Z",
+        "id": "19zMOwWhd7wQ2hhyUI1ey9",
+        "title": "ex",
+        "artist": "onlywoke",
+        "primary_artist": "onlywoke",
+        "duration_ms": 135407,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
+      },
+      {
+        "played_at": "2026-09-22T14:01:17.797Z",
+        "id": "4lriIG2vNqwDWzOj2I9rtj",
+        "title": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+        "artist": "Stromae, Pomme, Arcane",
+        "primary_artist": "Stromae",
+        "duration_ms": 147973,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732aab4ea84f431ad7d92fecbb",
+        "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+      },
+      {
+        "played_at": "2026-09-22T11:49:49.126Z",
+        "id": "4lriIG2vNqwDWzOj2I9rtj",
+        "title": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+        "artist": "Stromae, Pomme, Arcane",
+        "primary_artist": "Stromae",
+        "duration_ms": 147973,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732aab4ea84f431ad7d92fecbb",
+        "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+      },
+      {
+        "played_at": "2026-09-22T05:48:50.930Z",
+        "id": "4lriIG2vNqwDWzOj2I9rtj",
+        "title": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+        "artist": "Stromae, Pomme, Arcane",
+        "primary_artist": "Stromae",
+        "duration_ms": 147973,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732aab4ea84f431ad7d92fecbb",
+        "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+      },
       {
         "played_at": "2026-09-22T00:15:24.393Z",
         "id": "4lriIG2vNqwDWzOj2I9rtj",
