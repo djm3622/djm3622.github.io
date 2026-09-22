@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 100,
       "sampled_tracks": 100,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -466,7 +466,7 @@
       "duration_label": "23m",
       "explicit_pct": 0.0,
       "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk",
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d4cf54f7b412b7c875376f3",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273153630941ac8645d5360ea03",
       "image_kind": "album"
     },
     {
@@ -10367,7 +10367,7 @@
       "duration_ms": 157875,
       "duration_label": "2:38",
       "explicit": false,
-      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d4cf54f7b412b7c875376f3",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273153630941ac8645d5360ea03",
       "playcount": null,
       "recent_play_count": 0
     },
@@ -16579,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 2158,
-    "captured_hours": 91.3,
-    "distinct_tracks": 565,
-    "distinct_artists": 276,
+    "captured_plays": 2167,
+    "captured_hours": 91.6,
+    "distinct_tracks": 571,
+    "distinct_artists": 281,
     "history_start": "2026-08-02",
     "history_end": "2026-09-22",
-    "last_played_at": "2026-09-22T14:17:57.787Z",
+    "last_played_at": "2026-09-22T20:51:18.814Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16680,14 +16680,14 @@
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 169,
-        "height_pct": 55
+        "plays": 175,
+        "height_pct": 57
       },
       {
         "hour": 16,
         "label": "4 PM",
-        "plays": 160,
-        "height_pct": 52
+        "plays": 163,
+        "height_pct": 53
       },
       {
         "hour": 17,
@@ -16740,8 +16740,8 @@
       },
       {
         "label": "Tue",
-        "plays": 311,
-        "width_pct": 80
+        "plays": 320,
+        "width_pct": 82
       },
       {
         "label": "Wed",
@@ -16816,7 +16816,7 @@
         "artist": "aidn., doug suh",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
         "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw",
-        "plays": 61
+        "plays": 62
       },
       {
         "id": "35XIBy0gLLwPzqLshKrWf4",
@@ -16849,16 +16849,16 @@
         "plays": 88
       },
       {
+        "name": "Westwood",
+        "plays": 74
+      },
+      {
         "name": "nate sib",
         "plays": 74
       },
       {
-        "name": "Westwood",
-        "plays": 72
-      },
-      {
         "name": "aidn.",
-        "plays": 63
+        "plays": 64
       },
       {
         "name": "PinkPantheress",
@@ -16921,19 +16921,19 @@
         },
         {
           "rank": 7,
-          "id": "2kWOfoDtiLM6ONlmOecg2O",
-          "name": "two bad",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
-          "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
-        },
-        {
-          "rank": 8,
           "id": "6hxowqRsDm1fsm00y2eHJP",
           "name": "sidekick",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
           "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
+        },
+        {
+          "rank": 8,
+          "id": "2kWOfoDtiLM6ONlmOecg2O",
+          "name": "two bad",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+          "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
         },
         {
           "rank": 9,
@@ -16993,14 +16993,6 @@
         },
         {
           "rank": 16,
-          "id": "4Mjl46Mh8sAjsEB0QkeOWJ",
-          "name": "beginning",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/4Mjl46Mh8sAjsEB0QkeOWJ"
-        },
-        {
-          "rank": 17,
           "id": "2QD4C6RRHgRNRAyrfnoeAo",
           "name": "Play Hard (feat. Ne-Yo & Akon)",
           "artist": "David Guetta, Ne-Yo, Akon",
@@ -17008,7 +17000,7 @@
           "url": "https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "id": "5XD08ZPXrYSnc5xRPQ0gu4",
           "name": "eldest child",
           "artist": "2hollis",
@@ -17016,7 +17008,7 @@
           "url": "https://open.spotify.com/track/5XD08ZPXrYSnc5xRPQ0gu4"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "id": "4KxmNhZkzlLdLGYdMlgDgC",
           "name": "burn",
           "artist": "2hollis",
@@ -17024,12 +17016,20 @@
           "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "id": "2VOt88FoSGjSOuzLaeqz5k",
           "name": "keep steady",
           "artist": "sosocamo",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273f09da6140793f3e9a1ad37ef",
           "url": "https://open.spotify.com/track/2VOt88FoSGjSOuzLaeqz5k"
+        },
+        {
+          "rank": 20,
+          "id": "2Y0wPrPQBrGhoLn14xRYCG",
+          "name": "Come & Go (with Marshmello)",
+          "artist": "Juice WRLD, Marshmello",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+          "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
         }
       ],
       "six_months": [
@@ -17043,11 +17043,11 @@
         },
         {
           "rank": 2,
-          "id": "2Ui2JtVjnbHZuExldryCOA",
-          "name": "In My Room",
-          "artist": "Julia Wolf",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273a89fdceada45b52f0de8601c",
-          "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
+          "id": "55rXApL8KBessVIpJpH4Fw",
+          "name": "ego",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
         },
         {
           "rank": 3,
@@ -17059,14 +17059,6 @@
         },
         {
           "rank": 4,
-          "id": "55rXApL8KBessVIpJpH4Fw",
-          "name": "ego",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
-        },
-        {
-          "rank": 5,
           "id": "6JY1IdkZGeIcPegKxjSKeb",
           "name": "Since U Been Gone",
           "artist": "Kelly Clarkson",
@@ -17074,7 +17066,7 @@
           "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "id": "4wpZvII3Uf0JroY2F4Itch",
           "name": "Loyal 2026",
           "artist": "Siky Revange",
@@ -17082,7 +17074,7 @@
           "url": "https://open.spotify.com/track/4wpZvII3Uf0JroY2F4Itch"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "id": "44PH8NLzVddk4qhAUvm4v3",
           "name": "Purpose General",
           "artist": "Yeat",
@@ -17090,7 +17082,7 @@
           "url": "https://open.spotify.com/track/44PH8NLzVddk4qhAUvm4v3"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "id": "0Pc767nHJYSdWvnMjLyC5r",
           "name": "MONTAGEM REBOLA",
           "artist": "ATLXS, DJ FKU",
@@ -17098,7 +17090,7 @@
           "url": "https://open.spotify.com/track/0Pc767nHJYSdWvnMjLyC5r"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
           "name": "hold on",
           "artist": "nate sib",
@@ -17106,7 +17098,7 @@
           "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
           "name": "poster boy",
           "artist": "2hollis",
@@ -17114,7 +17106,7 @@
           "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "id": "5u0eNAp8riUKygaLJTe5YB",
           "name": "nerve",
           "artist": "2hollis",
@@ -17122,12 +17114,20 @@
           "url": "https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "3Wjb9LujZhkRya23MOeTEw",
           "name": "maybe",
           "artist": "aidn., doug suh",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
           "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+        },
+        {
+          "rank": 12,
+          "id": "2Ui2JtVjnbHZuExldryCOA",
+          "name": "In My Room",
+          "artist": "Julia Wolf",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273a89fdceada45b52f0de8601c",
+          "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
         },
         {
           "rank": 13,
@@ -17179,19 +17179,19 @@
         },
         {
           "rank": 19,
+          "id": "2kWOfoDtiLM6ONlmOecg2O",
+          "name": "two bad",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+          "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
+        },
+        {
+          "rank": 20,
           "id": "1D9XWqsoNWIfLEzjHcrgMx",
           "name": "BAD TIME",
           "artist": "Lil Tecca",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
           "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
-        },
-        {
-          "rank": 20,
-          "id": "1KRZrgvPhUt0HbIdDQZJ0S",
-          "name": "Irish Goodbye",
-          "artist": "Lil Tecca",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-          "url": "https://open.spotify.com/track/1KRZrgvPhUt0HbIdDQZJ0S"
         }
       ],
       "one_year": [
@@ -17786,6 +17786,96 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-22T20:51:18.814Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-22T20:48:55.213Z",
+        "id": "19zMOwWhd7wQ2hhyUI1ey9",
+        "title": "ex",
+        "artist": "onlywoke",
+        "primary_artist": "onlywoke",
+        "duration_ms": 135407,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
+      },
+      {
+        "played_at": "2026-09-22T20:46:15.370Z",
+        "id": "37IoLqvvZCpR025Oc2Z7PL",
+        "title": "clair",
+        "artist": "midwxst archive, skaiwater",
+        "primary_artist": "midwxst archive",
+        "duration_ms": 180022,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f43cb09dba34efdf1beb089a",
+        "url": "https://open.spotify.com/track/37IoLqvvZCpR025Oc2Z7PL"
+      },
+      {
+        "played_at": "2026-09-22T19:43:34.098Z",
+        "id": "7yqrqF5ZARgBQehTvjNILy",
+        "title": "however you want it",
+        "artist": "Voda Fuji",
+        "primary_artist": "Voda Fuji",
+        "duration_ms": 107650,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27355a2a39f4078025b92d9f57c",
+        "url": "https://open.spotify.com/track/7yqrqF5ZARgBQehTvjNILy"
+      },
+      {
+        "played_at": "2026-09-22T19:41:45.903Z",
+        "id": "7zDOs4E2FOqGOIZHUfMdOx",
+        "title": "control yourselfv2",
+        "artist": "caponeti",
+        "primary_artist": "caponeti",
+        "duration_ms": 129660,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273af524d652d4c9a3a7b875f18",
+        "url": "https://open.spotify.com/track/7zDOs4E2FOqGOIZHUfMdOx"
+      },
+      {
+        "played_at": "2026-09-22T19:39:35.723Z",
+        "id": "7f5vjNOwa5ySavFWYadHha",
+        "title": "blx",
+        "artist": "blxty",
+        "primary_artist": "blxty",
+        "duration_ms": 102883,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735953fd67f2f0f7e5dc5c849d",
+        "url": "https://open.spotify.com/track/7f5vjNOwa5ySavFWYadHha"
+      },
+      {
+        "played_at": "2026-09-22T19:37:52.351Z",
+        "id": "4QXjQ3KdLWX7DnaZUilfRG",
+        "title": "taste",
+        "artist": "aldrch",
+        "primary_artist": "aldrch",
+        "duration_ms": 142373,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e49f224512632f017171b546",
+        "url": "https://open.spotify.com/track/4QXjQ3KdLWX7DnaZUilfRG"
+      },
+      {
+        "played_at": "2026-09-22T19:35:29.466Z",
+        "id": "1HHuzawQNWXHKczsW8Fvwe",
+        "title": "Something 2 Prove",
+        "artist": "Westwood",
+        "primary_artist": "Westwood",
+        "duration_ms": 153348,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f8ce34b9a90d923d64fa9a3d",
+        "url": "https://open.spotify.com/track/1HHuzawQNWXHKczsW8Fvwe"
+      },
+      {
+        "played_at": "2026-09-22T19:32:49.736Z",
+        "id": "1HHuzawQNWXHKczsW8Fvwe",
+        "title": "Something 2 Prove",
+        "artist": "Westwood",
+        "primary_artist": "Westwood",
+        "duration_ms": 153348,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f8ce34b9a90d923d64fa9a3d",
+        "url": "https://open.spotify.com/track/1HHuzawQNWXHKczsW8Fvwe"
+      },
       {
         "played_at": "2026-09-22T14:17:57.787Z",
         "id": "61Ph6Q4HYgWUVGulPszt9n",
