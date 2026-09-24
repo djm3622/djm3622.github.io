@@ -1,29 +1,31 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7MW7sGh5LeEQPjDreDZPw2",
-    "name": "bobby ray",
-    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
-    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
+    "id": "4gzEOrF8mCDu96BCLdwDya",
+    "name": "92.3",
+    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+    "description": "A 100-track mix spanning 76 artists, led by Rihanna, Britney Spears, and Lady Gaga."
   },
   "track": {
-    "id": "4scpF6J5uMBvoh6sFB7EL1",
-    "name": "No Type",
+    "id": "45XhKYRRkyeqoW3teSOkCM",
+    "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
     "artists": [
-      "Rae Sremmurd"
+      "DJ Khaled",
+      "Rihanna",
+      "Bryson Tiller"
     ],
-    "artist_label": "Rae Sremmurd",
-    "url": "https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1",
-    "embed_url": "https://open.spotify.com/embed/track/4scpF6J5uMBvoh6sFB7EL1?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460",
+    "artist_label": "DJ Khaled, Rihanna, Bryson Tiller",
+    "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM",
+    "embed_url": "https://open.spotify.com/embed/track/45XhKYRRkyeqoW3teSOkCM?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2737a993075e27042a11896b8fb",
     "album": {
-      "id": "6eDx949ONWDCN0O22wFZf7",
-      "name": "SremmLife",
-      "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
+      "id": "3HhZbSJdhOqMSaRbEt3gtw",
+      "name": "Grateful",
+      "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
     }
   }
 }
