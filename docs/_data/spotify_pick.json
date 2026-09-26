@@ -1,30 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1BXO1VOQIBiYkHtGtopfwS",
-    "name": "yeatpilled",
-    "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
-    "description": "A 87-track mix spanning 24 artists, led by Yeat, alyx, and prodbysky."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 109-track mix spanning 69 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "1VvXLOfkv1zxa3LZ0zBXt2",
-    "name": "Griddl\u00eb",
+    "id": "5JOGKfBRCemKR19pX9qLSy",
+    "name": "ruin my lyf",
     "artists": [
-      "Yeat",
-      "Don Toliver"
+      "Ella Rosa"
     ],
-    "artist_label": "Yeat, Don Toliver",
-    "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2",
-    "embed_url": "https://open.spotify.com/embed/track/1VvXLOfkv1zxa3LZ0zBXt2?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27312b1d53215f6bfe4478f70e2",
+    "artist_label": "Ella Rosa",
+    "url": "https://open.spotify.com/track/5JOGKfBRCemKR19pX9qLSy",
+    "embed_url": "https://open.spotify.com/embed/track/5JOGKfBRCemKR19pX9qLSy?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2731603d907a3f91385905b1d78",
     "album": {
-      "id": "6sKe2lWmQxRYhhUnN7dln3",
-      "name": "ADL",
-      "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      "id": "04rtGQSAAtMzKsa0AZfGT3",
+      "name": "anxious attachment style",
+      "url": "https://open.spotify.com/album/04rtGQSAAtMzKsa0AZfGT3"
     }
   }
 }
