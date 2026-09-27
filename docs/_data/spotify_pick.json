@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 109-track mix spanning 69 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "38PmYBLrKbhBUlywggIVkP",
+    "name": "void",
+    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
   },
   "track": {
-    "id": "5JOGKfBRCemKR19pX9qLSy",
-    "name": "ruin my lyf",
+    "id": "3eti9ys6rCIwNZH9dDWiJ6",
+    "name": "COLD GIRLS",
     "artists": [
-      "Ella Rosa"
+      "Lil Tecca"
     ],
-    "artist_label": "Ella Rosa",
-    "url": "https://open.spotify.com/track/5JOGKfBRCemKR19pX9qLSy",
-    "embed_url": "https://open.spotify.com/embed/track/5JOGKfBRCemKR19pX9qLSy?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2731603d907a3f91385905b1d78",
+    "artist_label": "Lil Tecca",
+    "url": "https://open.spotify.com/track/3eti9ys6rCIwNZH9dDWiJ6",
+    "embed_url": "https://open.spotify.com/embed/track/3eti9ys6rCIwNZH9dDWiJ6?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
     "album": {
-      "id": "04rtGQSAAtMzKsa0AZfGT3",
-      "name": "anxious attachment style",
-      "url": "https://open.spotify.com/album/04rtGQSAAtMzKsa0AZfGT3"
+      "id": "6uWva3kfeqqVIsNAJ2MmeL",
+      "name": "PLAN A",
+      "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
     }
   }
 }
