@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "38PmYBLrKbhBUlywggIVkP",
-    "name": "void",
-    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
-    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
+    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
+    "name": "johto",
+    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
   },
   "track": {
-    "id": "3eti9ys6rCIwNZH9dDWiJ6",
-    "name": "COLD GIRLS",
+    "id": "3WWAvWDBQANpJeNbvVbjMg",
+    "name": "Heartbeat",
     "artists": [
-      "Lil Tecca"
+      "Childish Gambino"
     ],
-    "artist_label": "Lil Tecca",
-    "url": "https://open.spotify.com/track/3eti9ys6rCIwNZH9dDWiJ6",
-    "embed_url": "https://open.spotify.com/embed/track/3eti9ys6rCIwNZH9dDWiJ6?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+    "artist_label": "Childish Gambino",
+    "url": "https://open.spotify.com/track/3WWAvWDBQANpJeNbvVbjMg",
+    "embed_url": "https://open.spotify.com/embed/track/3WWAvWDBQANpJeNbvVbjMg?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736f134f8d843353be21a9706e",
     "album": {
-      "id": "6uWva3kfeqqVIsNAJ2MmeL",
-      "name": "PLAN A",
-      "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      "id": "32KdoFFhgjCLdU0DWL71tx",
+      "name": "Camp",
+      "url": "https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx"
     }
   }
 }
