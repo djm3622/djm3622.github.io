@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-09-29",
+  "generated_on": "2026-09-30",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 87,
       "sampled_tracks": 87,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16579,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 2433,
-    "captured_hours": 105.3,
+    "captured_plays": 2435,
+    "captured_hours": 105.4,
     "distinct_tracks": 648,
     "distinct_artists": 293,
     "history_start": "2026-08-02",
     "history_end": "2026-09-29",
-    "last_played_at": "2026-09-29T20:48:03Z",
+    "last_played_at": "2026-09-29T22:19:43.470Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16597,7 +16597,7 @@
         "hour": 1,
         "label": "1 AM",
         "plays": 29,
-        "height_pct": 9
+        "height_pct": 8
       },
       {
         "hour": 2,
@@ -16645,7 +16645,7 @@
         "hour": 9,
         "label": "9 AM",
         "plays": 12,
-        "height_pct": 4
+        "height_pct": 3
       },
       {
         "hour": 10,
@@ -16681,7 +16681,7 @@
         "hour": 15,
         "label": "3 PM",
         "plays": 193,
-        "height_pct": 57
+        "height_pct": 56
       },
       {
         "hour": 16,
@@ -16693,12 +16693,12 @@
         "hour": 17,
         "label": "5 PM",
         "plays": 224,
-        "height_pct": 66
+        "height_pct": 65
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 341,
+        "plays": 343,
         "height_pct": 100
       },
       {
@@ -16723,7 +16723,7 @@
         "hour": 22,
         "label": "10 PM",
         "plays": 53,
-        "height_pct": 16
+        "height_pct": 15
       },
       {
         "hour": 23,
@@ -16740,7 +16740,7 @@
       },
       {
         "label": "Tue",
-        "plays": 331,
+        "plays": 333,
         "width_pct": 83
       },
       {
@@ -16816,7 +16816,7 @@
         "artist": "aidn., doug suh",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
         "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw",
-        "plays": 70
+        "plays": 71
       },
       {
         "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
@@ -16858,7 +16858,7 @@
       },
       {
         "name": "aidn.",
-        "plays": 72
+        "plays": 73
       },
       {
         "name": "Yeat",
@@ -16929,19 +16929,19 @@
         },
         {
           "rank": 8,
-          "id": "08WEIBLx95kvXakvVs8izv",
-          "name": "FORFEIT",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
-          "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
-        },
-        {
-          "rank": 9,
           "id": "04wy3jvJoWfllmd6HeFM0y",
           "name": "AGAIN",
           "artist": "Moors",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273575282232357fa5d887651d3",
           "url": "https://open.spotify.com/track/04wy3jvJoWfllmd6HeFM0y"
+        },
+        {
+          "rank": 9,
+          "id": "08WEIBLx95kvXakvVs8izv",
+          "name": "FORFEIT",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+          "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
         },
         {
           "rank": 10,
@@ -17001,19 +17001,19 @@
         },
         {
           "rank": 17,
-          "id": "2GhvoJajHIXxWK4vtPWkqN",
-          "name": "destroy me",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
-        },
-        {
-          "rank": 18,
           "id": "2QD4C6RRHgRNRAyrfnoeAo",
           "name": "Play Hard (feat. Ne-Yo & Akon)",
           "artist": "David Guetta, Ne-Yo, Akon",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27387e2f8346625bb6fd20d52be",
           "url": "https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo"
+        },
+        {
+          "rank": 18,
+          "id": "2GhvoJajHIXxWK4vtPWkqN",
+          "name": "destroy me",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
         },
         {
           "rank": 19,
@@ -17786,6 +17786,26 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-09-29T22:19:43.470Z",
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "title": "maybe",
+        "artist": "aidn., doug suh",
+        "primary_artist": "aidn.",
+        "duration_ms": 143111,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
+      },
+      {
+        "played_at": "2026-09-29T22:13:12.783Z",
+        "id": "19zMOwWhd7wQ2hhyUI1ey9",
+        "title": "ex",
+        "artist": "onlywoke",
+        "primary_artist": "onlywoke",
+        "duration_ms": 135407,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
+      },
       {
         "played_at": "2026-09-29T20:48:03Z",
         "id": "6GkceH8tJN21DgdnMpxzd2",
