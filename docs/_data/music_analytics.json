@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -13729,7 +13729,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273695991d6f4a544a05df4c1c0",
       "playcount": null,
-      "recent_play_count": 1
+      "recent_play_count": 3
     },
     {
       "id": "05oIDnL2jfeUxYiDIIqFP6",
@@ -16579,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 2438,
-    "captured_hours": 105.5,
-    "distinct_tracks": 648,
-    "distinct_artists": 293,
+    "captured_plays": 2448,
+    "captured_hours": 106.0,
+    "distinct_tracks": 651,
+    "distinct_artists": 296,
     "history_start": "2026-08-02",
-    "history_end": "2026-09-30",
-    "last_played_at": "2026-09-30T22:24:19.086Z",
+    "history_end": "2026-10-01",
+    "last_played_at": "2026-10-01T22:33:42.709Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16663,61 +16663,61 @@
         "hour": 12,
         "label": "12 PM",
         "plays": 157,
-        "height_pct": 46
+        "height_pct": 45
       },
       {
         "hour": 13,
         "label": "1 PM",
         "plays": 219,
-        "height_pct": 63
+        "height_pct": 62
       },
       {
         "hour": 14,
         "label": "2 PM",
         "plays": 195,
-        "height_pct": 57
+        "height_pct": 55
       },
       {
         "hour": 15,
         "label": "3 PM",
         "plays": 193,
-        "height_pct": 56
+        "height_pct": 55
       },
       {
         "hour": 16,
         "label": "4 PM",
-        "plays": 182,
+        "plays": 185,
         "height_pct": 53
       },
       {
         "hour": 17,
         "label": "5 PM",
         "plays": 224,
-        "height_pct": 65
+        "height_pct": 64
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 345,
+        "plays": 352,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
         "plays": 277,
-        "height_pct": 80
+        "height_pct": 79
       },
       {
         "hour": 20,
         "label": "8 PM",
         "plays": 168,
-        "height_pct": 49
+        "height_pct": 48
       },
       {
         "hour": 21,
         "label": "9 PM",
         "plays": 78,
-        "height_pct": 23
+        "height_pct": 22
       },
       {
         "hour": 22,
@@ -16736,37 +16736,37 @@
       {
         "label": "Mon",
         "plays": 389,
-        "width_pct": 97
+        "width_pct": 95
       },
       {
         "label": "Tue",
         "plays": 334,
-        "width_pct": 83
+        "width_pct": 81
       },
       {
         "label": "Wed",
         "plays": 344,
-        "width_pct": 86
+        "width_pct": 84
       },
       {
         "label": "Thu",
-        "plays": 401,
+        "plays": 411,
         "width_pct": 100
       },
       {
         "label": "Fri",
         "plays": 333,
-        "width_pct": 83
+        "width_pct": 81
       },
       {
         "label": "Sat",
         "plays": 311,
-        "width_pct": 78
+        "width_pct": 76
       },
       {
         "label": "Sun",
         "plays": 326,
-        "width_pct": 81
+        "width_pct": 79
       }
     ],
     "recent_top_tracks": [
@@ -16824,7 +16824,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
         "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ",
-        "plays": 57
+        "plays": 58
       },
       {
         "id": "35XIBy0gLLwPzqLshKrWf4",
@@ -16838,7 +16838,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 635
+        "plays": 638
       },
       {
         "name": "Moors",
@@ -17540,7 +17540,7 @@
           "rank": 6,
           "id": "3gBZUcNeVumkeeJ19CY2sX",
           "name": "Ken Carson",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
@@ -17661,7 +17661,7 @@
           "rank": 3,
           "id": "3gBZUcNeVumkeeJ19CY2sX",
           "name": "Ken Carson",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
@@ -17786,6 +17786,106 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-01T22:33:42.709Z",
+        "id": "31cr5unRoi7GqddSjfwJWJ",
+        "title": "BUCCANEER",
+        "artist": "zemult, xtsy*",
+        "primary_artist": "zemult",
+        "duration_ms": 162708,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27387c712d3365c158f247c9cd2",
+        "url": "https://open.spotify.com/track/31cr5unRoi7GqddSjfwJWJ"
+      },
+      {
+        "played_at": "2026-10-01T22:30:59.670Z",
+        "id": "4nuaPA67S7cvHnLfBIxmlo",
+        "title": "MY POSE",
+        "artist": "starboylikemk",
+        "primary_artist": "starboylikemk",
+        "duration_ms": 151698,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735d79ab51ed7f252394413fef",
+        "url": "https://open.spotify.com/track/4nuaPA67S7cvHnLfBIxmlo"
+      },
+      {
+        "played_at": "2026-10-01T22:27:36.257Z",
+        "id": "4POZsa4JhD4OLcNlbGxZBw",
+        "title": "MY JEALOUSY",
+        "artist": "vivi baby, ovg!",
+        "primary_artist": "vivi baby",
+        "duration_ms": 150770,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273259ecbf56e15464a9afc69c7",
+        "url": "https://open.spotify.com/track/4POZsa4JhD4OLcNlbGxZBw"
+      },
+      {
+        "played_at": "2026-10-01T22:24:59.559Z",
+        "id": "4POZsa4JhD4OLcNlbGxZBw",
+        "title": "MY JEALOUSY",
+        "artist": "vivi baby, ovg!",
+        "primary_artist": "vivi baby",
+        "duration_ms": 150770,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273259ecbf56e15464a9afc69c7",
+        "url": "https://open.spotify.com/track/4POZsa4JhD4OLcNlbGxZBw"
+      },
+      {
+        "played_at": "2026-10-01T22:21:37.106Z",
+        "id": "6ZlJ8X4mzXghjiEuhcvo2n",
+        "title": "nothing2 lose",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 142037,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/6ZlJ8X4mzXghjiEuhcvo2n"
+      },
+      {
+        "played_at": "2026-10-01T22:19:14.907Z",
+        "id": "08WEIBLx95kvXakvVs8izv",
+        "title": "FORFEIT",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 170664,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
+      },
+      {
+        "played_at": "2026-10-01T22:16:13.507Z",
+        "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
+        "title": "poster boy",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 121089,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+      },
+      {
+        "played_at": "2026-10-01T20:54:35.714Z",
+        "id": "0WCiI0ddWiu5F2kSHgfw5S",
+        "title": "Take It Off",
+        "artist": "Kesha",
+        "primary_artist": "Kesha",
+        "duration_ms": 215200,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27397c7b770b28ffeed164f4d0e",
+        "url": "https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S"
+      },
+      {
+        "played_at": "2026-10-01T20:48:52.798Z",
+        "id": "11Iv8RCFmeImLOpaHYxKb4",
+        "title": "Stereo Love",
+        "artist": "Edward Maya, Vika Jigulina",
+        "primary_artist": "Edward Maya",
+        "duration_ms": 185120,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273695991d6f4a544a05df4c1c0",
+        "url": "https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4"
+      },
+      {
+        "played_at": "2026-10-01T20:31:03.455Z",
+        "id": "11Iv8RCFmeImLOpaHYxKb4",
+        "title": "Stereo Love",
+        "artist": "Edward Maya, Vika Jigulina",
+        "primary_artist": "Edward Maya",
+        "duration_ms": 185120,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273695991d6f4a544a05df4c1c0",
+        "url": "https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4"
+      },
       {
         "played_at": "2026-09-30T22:24:19.086Z",
         "id": "2QD4C6RRHgRNRAyrfnoeAo",
