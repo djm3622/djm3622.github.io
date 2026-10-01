@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
-    "name": "johto",
-    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
-    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
+    "id": "4gzEOrF8mCDu96BCLdwDya",
+    "name": "92.3",
+    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+    "description": "A 100-track mix spanning 76 artists, led by Rihanna, Britney Spears, and Lady Gaga."
   },
   "track": {
-    "id": "3WWAvWDBQANpJeNbvVbjMg",
-    "name": "Heartbeat",
+    "id": "3MjUtNVVq3C8Fn0MP3zhXa",
+    "name": "...Baby One More Time",
     "artists": [
-      "Childish Gambino"
+      "Britney Spears"
     ],
-    "artist_label": "Childish Gambino",
-    "url": "https://open.spotify.com/track/3WWAvWDBQANpJeNbvVbjMg",
-    "embed_url": "https://open.spotify.com/embed/track/3WWAvWDBQANpJeNbvVbjMg?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2736f134f8d843353be21a9706e",
+    "artist_label": "Britney Spears",
+    "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa",
+    "embed_url": "https://open.spotify.com/embed/track/3MjUtNVVq3C8Fn0MP3zhXa?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27336cf58e3e7cf36a145b1da18",
     "album": {
-      "id": "32KdoFFhgjCLdU0DWL71tx",
-      "name": "Camp",
-      "url": "https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx"
+      "id": "3WNxdumkSMGMJRhEgK80qx",
+      "name": "...Baby One More Time (Digital Deluxe Version)",
+      "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
     }
   }
 }
