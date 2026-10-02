@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16579,13 +16579,13 @@
   "activity": {
     "enabled": true,
     "history_days": 90,
-    "captured_plays": 2455,
+    "captured_plays": 2456,
     "captured_hours": 106.3,
     "distinct_tracks": 651,
     "distinct_artists": 296,
     "history_start": "2026-08-02",
-    "history_end": "2026-10-01",
-    "last_played_at": "2026-10-01T23:13:45.348Z",
+    "history_end": "2026-10-02",
+    "last_played_at": "2026-10-02T15:06:28.721Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16656,7 +16656,7 @@
       {
         "hour": 11,
         "label": "11 AM",
-        "plays": 105,
+        "plays": 106,
         "height_pct": 30
       },
       {
@@ -16755,7 +16755,7 @@
       },
       {
         "label": "Fri",
-        "plays": 333,
+        "plays": 334,
         "width_pct": 80
       },
       {
@@ -16838,7 +16838,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 641
+        "plays": 642
       },
       {
         "name": "Moors",
@@ -16921,14 +16921,6 @@
         },
         {
           "rank": 7,
-          "id": "08WEIBLx95kvXakvVs8izv",
-          "name": "FORFEIT",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
-          "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
-        },
-        {
-          "rank": 8,
           "id": "55rXApL8KBessVIpJpH4Fw",
           "name": "ego",
           "artist": "2hollis",
@@ -16936,7 +16928,7 @@
           "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "id": "6iaSML1PIYq936g62BDtBq",
           "name": "Robbery",
           "artist": "Juice WRLD",
@@ -16944,12 +16936,20 @@
           "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "id": "5u0eNAp8riUKygaLJTe5YB",
           "name": "nerve",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
           "url": "https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB"
+        },
+        {
+          "rank": 10,
+          "id": "08WEIBLx95kvXakvVs8izv",
+          "name": "FORFEIT",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+          "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
         },
         {
           "rank": 11,
@@ -17786,6 +17786,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-02T15:06:28.721Z",
+        "id": "7fYba5gDhSnMJoQPjqAarN",
+        "title": "trust",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 171496,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/7fYba5gDhSnMJoQPjqAarN"
+      },
       {
         "played_at": "2026-10-01T23:13:45.348Z",
         "id": "4iShoHVUGeSVT7jqyAVgnC",
