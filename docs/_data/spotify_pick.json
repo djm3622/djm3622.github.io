@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7MW7sGh5LeEQPjDreDZPw2",
-    "name": "bobby ray",
-    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
-    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
+    "id": "1BXO1VOQIBiYkHtGtopfwS",
+    "name": "yeatpilled",
+    "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+    "description": "A 87-track mix spanning 24 artists, led by Yeat, alyx, and prodbysky."
   },
   "track": {
-    "id": "6mapJIPnQ23RTAevUoE0DL",
-    "name": "Swang",
+    "id": "29Z5qdYEYNFxly8n6Dt7kp",
+    "name": "Money Tw\u00ebrk",
     "artists": [
-      "Rae Sremmurd"
+      "Yeat"
     ],
-    "artist_label": "Rae Sremmurd",
-    "url": "https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL",
-    "embed_url": "https://open.spotify.com/embed/track/6mapJIPnQ23RTAevUoE0DL?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
+    "artist_label": "Yeat",
+    "url": "https://open.spotify.com/track/29Z5qdYEYNFxly8n6Dt7kp",
+    "embed_url": "https://open.spotify.com/embed/track/29Z5qdYEYNFxly8n6Dt7kp?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27387b1f578fa40d6ac504b57d7",
     "album": {
-      "id": "5v6iBhIlflzR9rEd1LAMbd",
-      "name": "SremmLife 2 (Deluxe)",
-      "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
+      "id": "05QOSu1AEcQxM5jvZFuann",
+      "name": "4L",
+      "url": "https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann"
     }
   }
 }
