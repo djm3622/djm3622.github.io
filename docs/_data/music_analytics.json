@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -4027,7 +4027,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52",
       "playcount": null,
-      "recent_play_count": 2
+      "recent_play_count": 3
     },
     {
       "id": "0L0LDLtzddRxephrrMyya8",
@@ -5917,7 +5917,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273b4c15e20e3f663280c719309",
       "playcount": null,
-      "recent_play_count": 2
+      "recent_play_count": 3
     },
     {
       "id": "13zGVkfc6UIIRg1QbLW1cZ",
@@ -7751,7 +7751,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2736daecf85da319518461f3803",
       "playcount": null,
-      "recent_play_count": 6
+      "recent_play_count": 5
     },
     {
       "id": "20O48JTG6O46tPAuZbliRA",
@@ -11545,7 +11545,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b27363a70170c3272404615432a8",
       "playcount": null,
-      "recent_play_count": 3
+      "recent_play_count": 4
     },
     {
       "id": "0KYvs7DKC7Cl5IHmwpP13f",
@@ -13169,7 +13169,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273d8041a531487d0e0e4cfb41f",
       "playcount": null,
-      "recent_play_count": 2
+      "recent_play_count": 3
     },
     {
       "id": "2iDIFn3hIbiwfsLtCggubr",
@@ -13883,7 +13883,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273bcf683bad9ca8297e76f2408",
       "playcount": null,
-      "recent_play_count": 11
+      "recent_play_count": 9
     },
     {
       "id": "4A8cWXxKfIL3lAyUDzXbCF",
@@ -14821,7 +14821,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273b431072a4d9a3f62f62df133",
       "playcount": null,
-      "recent_play_count": 4
+      "recent_play_count": 3
     },
     {
       "id": "6htWGNhskc5f0Xke88Vn5z",
@@ -16137,7 +16137,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
       "playcount": null,
-      "recent_play_count": 87
+      "recent_play_count": 86
     },
     {
       "id": "0BybFIHpANp0dYoiQec8XZ",
@@ -16580,12 +16580,12 @@
     "enabled": true,
     "history_days": 90,
     "captured_plays": 2500,
-    "captured_hours": 108.1,
+    "captured_hours": 108.2,
     "distinct_tracks": 655,
     "distinct_artists": 298,
-    "history_start": "2026-08-02",
-    "history_end": "2026-10-03",
-    "last_played_at": "2026-10-03T19:21:40.885Z",
+    "history_start": "2026-08-03",
+    "history_end": "2026-10-04",
+    "last_played_at": "2026-10-04T18:06:06.812Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16651,7 +16651,7 @@
         "hour": 10,
         "label": "10 AM",
         "plays": 98,
-        "height_pct": 27
+        "height_pct": 28
       },
       {
         "hour": 11,
@@ -16668,14 +16668,14 @@
       {
         "hour": 13,
         "label": "1 PM",
-        "plays": 223,
-        "height_pct": 62
+        "plays": 225,
+        "height_pct": 63
       },
       {
         "hour": 14,
         "label": "2 PM",
-        "plays": 206,
-        "height_pct": 58
+        "plays": 209,
+        "height_pct": 59
       },
       {
         "hour": 15,
@@ -16698,13 +16698,13 @@
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 357,
+        "plays": 356,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 293,
+        "plays": 292,
         "height_pct": 82
       },
       {
@@ -16728,8 +16728,8 @@
       {
         "hour": 23,
         "label": "11 PM",
-        "plays": 70,
-        "height_pct": 20
+        "plays": 67,
+        "height_pct": 19
       }
     ],
     "weekday_bins": [
@@ -16800,7 +16800,7 @@
         "artist": "franz1",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
         "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw",
-        "plays": 87
+        "plays": 86
       },
       {
         "id": "73ck4TGQSxatW45NG0GpVs",
@@ -16850,7 +16850,7 @@
       },
       {
         "name": "franz1",
-        "plays": 87
+        "plays": 86
       },
       {
         "name": "Westwood",
@@ -16866,7 +16866,7 @@
       },
       {
         "name": "PinkPantheress",
-        "plays": 53
+        "plays": 52
       }
     ],
     "top_tracks": {
@@ -17786,6 +17786,56 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-04T18:06:06.812Z",
+        "id": "5OqBuqX18rRCS07hAb5orM",
+        "title": "lovergirl",
+        "artist": "piri & tommy, piri, Tommy Villiers",
+        "primary_artist": "piri & tommy",
+        "duration_ms": 134790,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27329c88970a2cfaedf187df599",
+        "url": "https://open.spotify.com/track/5OqBuqX18rRCS07hAb5orM"
+      },
+      {
+        "played_at": "2026-10-04T18:03:51.456Z",
+        "id": "0uciuyNzCb0ZUmTLCx0JOv",
+        "title": "Overgrown",
+        "artist": "YAZ",
+        "primary_artist": "YAZ",
+        "duration_ms": 161800,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27363a70170c3272404615432a8",
+        "url": "https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv"
+      },
+      {
+        "played_at": "2026-10-04T18:01:08.957Z",
+        "id": "5FQ9NDyx3KZXhovWWq4Gxo",
+        "title": "Should've Been Me",
+        "artist": "Mitski",
+        "primary_artist": "Mitski",
+        "duration_ms": 191774,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d8041a531487d0e0e4cfb41f",
+        "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo"
+      },
+      {
+        "played_at": "2026-10-04T17:57:56.705Z",
+        "id": "77jaqXz5SdIYy6mfgY2rry",
+        "title": "dazzled",
+        "artist": "Yazida, ASHSOCOZY",
+        "primary_artist": "Yazida",
+        "duration_ms": 136170,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b4c15e20e3f663280c719309",
+        "url": "https://open.spotify.com/track/77jaqXz5SdIYy6mfgY2rry"
+      },
+      {
+        "played_at": "2026-10-04T17:32:02.888Z",
+        "id": "3fuyYaLhZ2RoP9eWpvfP1H",
+        "title": "A New Kind Of Love - Demo",
+        "artist": "Frou Frou, Imogen Heap, Guy Sigsworth",
+        "primary_artist": "Frou Frou",
+        "duration_ms": 259071,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52",
+        "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
+      },
       {
         "played_at": "2026-10-03T19:21:40.885Z",
         "id": "5mjYQaktjmjcMKcUIcqz4s",
@@ -42735,56 +42785,6 @@
         "duration_ms": 137557,
         "image_url": "https://i.scdn.co/image/ab67616d0000b27356ba832535abe30d2ed5e9f2",
         "url": "https://open.spotify.com/track/759azhbIMyf61kmUCfg6TK"
-      },
-      {
-        "played_at": "2026-08-03T03:07:21.931Z",
-        "id": "4UqqJKV58hgIlcQIuSSzC0",
-        "title": "guy like you",
-        "artist": "Yazida",
-        "primary_artist": "Yazida",
-        "duration_ms": 126265,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736daecf85da319518461f3803",
-        "url": "https://open.spotify.com/track/4UqqJKV58hgIlcQIuSSzC0"
-      },
-      {
-        "played_at": "2026-08-03T03:04:56.169Z",
-        "id": "0daWH6qNvD4kj0ybK7QvGg",
-        "title": "sunlight",
-        "artist": "piri, Tommy Villiers, piri & tommy",
-        "primary_artist": "piri",
-        "duration_ms": 194453,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273bcf683bad9ca8297e76f2408",
-        "url": "https://open.spotify.com/track/0daWH6qNvD4kj0ybK7QvGg"
-      },
-      {
-        "played_at": "2026-08-03T03:01:41.169Z",
-        "id": "1a4RUUKHH1xkDq0hbuWKhw",
-        "title": "zehnvonzehn",
-        "artist": "franz1",
-        "primary_artist": "franz1",
-        "duration_ms": 120098,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
-        "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
-      },
-      {
-        "played_at": "2026-08-02T23:37:18.473Z",
-        "id": "1YhNljrEyPYaYNgBNsWap5",
-        "title": "Turn it up",
-        "artist": "PinkPantheress",
-        "primary_artist": "PinkPantheress",
-        "duration_ms": 147020,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b431072a4d9a3f62f62df133",
-        "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
-      },
-      {
-        "played_at": "2026-08-02T22:24:06.068Z",
-        "id": "0daWH6qNvD4kj0ybK7QvGg",
-        "title": "sunlight",
-        "artist": "piri, Tommy Villiers, piri & tommy",
-        "primary_artist": "piri",
-        "duration_ms": 194453,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273bcf683bad9ca8297e76f2408",
-        "url": "https://open.spotify.com/track/0daWH6qNvD4kj0ybK7QvGg"
       }
     ]
   }
