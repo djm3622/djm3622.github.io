@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "38PmYBLrKbhBUlywggIVkP",
-    "name": "void",
-    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
-    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
+    "id": "7p4fxMRZCuY6ZtNeu99vbK",
+    "name": "calm luh",
+    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
   },
   "track": {
-    "id": "1D9XWqsoNWIfLEzjHcrgMx",
-    "name": "BAD TIME",
+    "id": "4EJaMoBaqhbhGn4KX0vwOU",
+    "name": "Thx",
     "artists": [
-      "Lil Tecca"
+      "Ken Carson"
     ],
-    "artist_label": "Lil Tecca",
-    "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx",
-    "embed_url": "https://open.spotify.com/embed/track/1D9XWqsoNWIfLEzjHcrgMx?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+    "artist_label": "Ken Carson",
+    "url": "https://open.spotify.com/track/4EJaMoBaqhbhGn4KX0vwOU",
+    "embed_url": "https://open.spotify.com/embed/track/4EJaMoBaqhbhGn4KX0vwOU?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27353b16cd45ce027fc7b65f9e8",
     "album": {
-      "id": "6uWva3kfeqqVIsNAJ2MmeL",
-      "name": "PLAN A",
-      "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      "id": "1TiWFnZwyZ152viq7v9C31",
+      "name": "More Chaos",
+      "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
     }
   }
 }
