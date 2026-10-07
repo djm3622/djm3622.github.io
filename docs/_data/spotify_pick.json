@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7p4fxMRZCuY6ZtNeu99vbK",
-    "name": "calm luh",
-    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
-    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
+    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
+    "name": "johto",
+    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
   },
   "track": {
-    "id": "4EJaMoBaqhbhGn4KX0vwOU",
-    "name": "Thx",
+    "id": "1nRTH500HbZX8PYwT4ZMby",
+    "name": "Retro (Rough)",
     "artists": [
-      "Ken Carson"
+      "Childish Gambino"
     ],
-    "artist_label": "Ken Carson",
-    "url": "https://open.spotify.com/track/4EJaMoBaqhbhGn4KX0vwOU",
-    "embed_url": "https://open.spotify.com/embed/track/4EJaMoBaqhbhGn4KX0vwOU?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27353b16cd45ce027fc7b65f9e8",
+    "artist_label": "Childish Gambino",
+    "url": "https://open.spotify.com/track/1nRTH500HbZX8PYwT4ZMby",
+    "embed_url": "https://open.spotify.com/embed/track/1nRTH500HbZX8PYwT4ZMby?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738d2c4d1fa63ca708307a5308",
     "album": {
-      "id": "1TiWFnZwyZ152viq7v9C31",
-      "name": "More Chaos",
-      "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      "id": "5dVKggb6Nvfp7JJdLfHPof",
+      "name": "Kauai",
+      "url": "https://open.spotify.com/album/5dVKggb6Nvfp7JJdLfHPof"
     }
   }
 }
