@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "6NDe4f42HlR8RJVhXn1ZCH",
-    "name": "he on something",
-    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
-    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 109-track mix spanning 69 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "0uxSUdBrJy9Un0EYoBowng",
-    "name": "20 Min",
+    "id": "5FQ9NDyx3KZXhovWWq4Gxo",
+    "name": "Should've Been Me",
     "artists": [
-      "Lil Uzi Vert"
+      "Mitski"
     ],
-    "artist_label": "Lil Uzi Vert",
-    "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng",
-    "embed_url": "https://open.spotify.com/embed/track/0uxSUdBrJy9Un0EYoBowng?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273d7e1c68ed8e464b03095afda",
+    "artist_label": "Mitski",
+    "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo",
+    "embed_url": "https://open.spotify.com/embed/track/5FQ9NDyx3KZXhovWWq4Gxo?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d8041a531487d0e0e4cfb41f",
     "album": {
-      "id": "0zicd2mBV8HTzSubByj4vP",
-      "name": "Luv Is Rage 2 (Deluxe)",
-      "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
+      "id": "4rcinMUHEWOxpIwJo2sf22",
+      "name": "Laurel Hell",
+      "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
     }
   }
 }
