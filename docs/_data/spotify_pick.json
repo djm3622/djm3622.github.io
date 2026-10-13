@@ -1,29 +1,31 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
-    "name": "lucio",
-    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
-    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
+    "id": "7MW7sGh5LeEQPjDreDZPw2",
+    "name": "bobby ray",
+    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
   },
   "track": {
-    "id": "05NpeTQWnzXS1d8ZqL4YFZ",
-    "name": "Twisted Transistor",
+    "id": "5uqphUYsR45kPYplrYSAQh",
+    "name": "Throw Sum Mo",
     "artists": [
-      "Korn"
+      "Rae Sremmurd",
+      "Nicki Minaj",
+      "Young Thug"
     ],
-    "artist_label": "Korn",
-    "url": "https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ",
-    "embed_url": "https://open.spotify.com/embed/track/05NpeTQWnzXS1d8ZqL4YFZ?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144",
+    "artist_label": "Rae Sremmurd, Nicki Minaj, Young Thug",
+    "url": "https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh",
+    "embed_url": "https://open.spotify.com/embed/track/5uqphUYsR45kPYplrYSAQh?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460",
     "album": {
-      "id": "2c7ynrgZP08xNtkJi9MhjF",
-      "name": "See You On the Other Side",
-      "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
+      "id": "6eDx949ONWDCN0O22wFZf7",
+      "name": "SremmLife",
+      "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
     }
   }
 }
