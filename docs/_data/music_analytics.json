@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 101,
       "sampled_tracks": 101,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -5427,7 +5427,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2739474419f15773875a495eed3",
       "playcount": null,
-      "recent_play_count": 25
+      "recent_play_count": 26
     },
     {
       "id": "3CLSHJv5aUROAN2vfOyCOh",
@@ -16599,7 +16599,7 @@
     "distinct_artists": 325,
     "history_start": "2026-08-16",
     "history_end": "2026-10-15",
-    "last_played_at": "2026-10-15T16:02:18.836Z",
+    "last_played_at": "2026-10-15T18:22:51.412Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16676,7 +16676,7 @@
       {
         "hour": 12,
         "label": "12 PM",
-        "plays": 138,
+        "plays": 137,
         "height_pct": 45
       },
       {
@@ -16688,7 +16688,7 @@
       {
         "hour": 14,
         "label": "2 PM",
-        "plays": 255,
+        "plays": 256,
         "height_pct": 84
       },
       {
@@ -16764,13 +16764,13 @@
       },
       {
         "label": "Thu",
-        "plays": 430,
+        "plays": 431,
         "width_pct": 100
       },
       {
         "label": "Fri",
         "plays": 312,
-        "width_pct": 73
+        "width_pct": 72
       },
       {
         "label": "Sat",
@@ -16779,7 +16779,7 @@
       },
       {
         "label": "Sun",
-        "plays": 297,
+        "plays": 296,
         "width_pct": 69
       }
     ],
@@ -16790,7 +16790,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw",
-        "plays": 117
+        "plays": 116
       },
       {
         "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
@@ -16852,7 +16852,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 643
+        "plays": 642
       },
       {
         "name": "Westwood",
@@ -16876,7 +16876,7 @@
       },
       {
         "name": "MKTO",
-        "plays": 60
+        "plays": 61
       },
       {
         "name": "onlywoke",
@@ -16983,19 +16983,19 @@
         },
         {
           "rank": 13,
-          "id": "6GkceH8tJN21DgdnMpxzd2",
-          "name": "OBSESSION",
-          "artist": "Moors",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27323e980e7c6b65d72516532ea",
-          "url": "https://open.spotify.com/track/6GkceH8tJN21DgdnMpxzd2"
-        },
-        {
-          "rank": 14,
           "id": "6g8cuDwreIt5rLEBlkukQa",
           "name": "Ghetto Love Story",
           "artist": "BabyChiefDoit",
           "image_url": "https://i.scdn.co/image/ab67616d0000b27364d676141052c2e389c0b7b3",
           "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
+        },
+        {
+          "rank": 14,
+          "id": "6GkceH8tJN21DgdnMpxzd2",
+          "name": "OBSESSION",
+          "artist": "Moors",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27323e980e7c6b65d72516532ea",
+          "url": "https://open.spotify.com/track/6GkceH8tJN21DgdnMpxzd2"
         },
         {
           "rank": 15,
@@ -17800,6 +17800,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-15T18:22:51.412Z",
+        "id": "6FE2iI43OZnszFLuLtvvmg",
+        "title": "Classic",
+        "artist": "MKTO",
+        "primary_artist": "MKTO",
+        "duration_ms": 175426,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739474419f15773875a495eed3",
+        "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+      },
       {
         "played_at": "2026-10-15T16:02:18.836Z",
         "id": "2igwFfvr1OAGX9SKDCPBwO",
@@ -42789,16 +42799,6 @@
         "duration_ms": 78400,
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
-      },
-      {
-        "played_at": "2026-08-16T16:20:19.782Z",
-        "id": "55rXApL8KBessVIpJpH4Fw",
-        "title": "ego",
-        "artist": "2hollis",
-        "primary_artist": "2hollis",
-        "duration_ms": 64000,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-        "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
       }
     ]
   }
