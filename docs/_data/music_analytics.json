@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 101,
       "sampled_tracks": 101,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16595,11 +16595,11 @@
     "history_days": 90,
     "captured_plays": 2500,
     "captured_hours": 112.6,
-    "distinct_tracks": 775,
+    "distinct_tracks": 776,
     "distinct_artists": 327,
     "history_start": "2026-08-16",
-    "history_end": "2026-10-15",
-    "last_played_at": "2026-10-15T23:43:35.849Z",
+    "history_end": "2026-10-16",
+    "last_played_at": "2026-10-16T01:55:15.273Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16676,8 +16676,8 @@
       {
         "hour": 12,
         "label": "12 PM",
-        "plays": 132,
-        "height_pct": 43
+        "plays": 130,
+        "height_pct": 42
       },
       {
         "hour": 13,
@@ -16724,13 +16724,13 @@
       {
         "hour": 20,
         "label": "8 PM",
-        "plays": 153,
+        "plays": 154,
         "height_pct": 50
       },
       {
         "hour": 21,
         "label": "9 PM",
-        "plays": 70,
+        "plays": 71,
         "height_pct": 23
       },
       {
@@ -16755,7 +16755,7 @@
       {
         "label": "Tue",
         "plays": 374,
-        "width_pct": 86
+        "width_pct": 85
       },
       {
         "label": "Wed",
@@ -16764,13 +16764,13 @@
       },
       {
         "label": "Thu",
-        "plays": 436,
+        "plays": 438,
         "width_pct": 100
       },
       {
         "label": "Fri",
         "plays": 312,
-        "width_pct": 72
+        "width_pct": 71
       },
       {
         "label": "Sat",
@@ -16779,8 +16779,8 @@
       },
       {
         "label": "Sun",
-        "plays": 291,
-        "width_pct": 67
+        "plays": 289,
+        "width_pct": 66
       }
     ],
     "recent_top_tracks": [
@@ -16814,7 +16814,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP",
-        "plays": 82
+        "plays": 81
       },
       {
         "id": "3Wjb9LujZhkRya23MOeTEw",
@@ -16852,7 +16852,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 637
+        "plays": 635
       },
       {
         "name": "Westwood",
@@ -17800,6 +17800,26 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-16T01:55:15.273Z",
+        "id": "1vtCjXB12jaqfB0gTUTmv1",
+        "title": "Yankee, Baby - (Johnny's Cut)",
+        "artist": "Johnny 2 Phones",
+        "primary_artist": "Johnny 2 Phones",
+        "duration_ms": 139200,
+        "image_url": "https://i.scdn.co/image/ab6742d3000053b73af98176942b5ef11ed76da2",
+        "url": "https://open.spotify.com/track/1vtCjXB12jaqfB0gTUTmv1"
+      },
+      {
+        "played_at": "2026-10-16T00:05:00.588Z",
+        "id": "6NldeCMoQiYWJlss8LPEcR",
+        "title": "Birds & Bees",
+        "artist": "Michael Minelli, Johnny 2 Phones",
+        "primary_artist": "Michael Minelli",
+        "duration_ms": 169631,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a92c0c3d1fe31fe5edf84d29",
+        "url": "https://open.spotify.com/track/6NldeCMoQiYWJlss8LPEcR"
+      },
       {
         "played_at": "2026-10-15T23:43:35.849Z",
         "id": "6NldeCMoQiYWJlss8LPEcR",
@@ -42779,26 +42799,6 @@
         "duration_ms": 121089,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
         "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-      },
-      {
-        "played_at": "2026-08-16T16:37:41.253Z",
-        "id": "2GhvoJajHIXxWK4vtPWkqN",
-        "title": "destroy me",
-        "artist": "2hollis",
-        "primary_artist": "2hollis",
-        "duration_ms": 163655,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-        "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
-      },
-      {
-        "played_at": "2026-08-16T16:34:57.136Z",
-        "id": "6hxowqRsDm1fsm00y2eHJP",
-        "title": "sidekick",
-        "artist": "2hollis",
-        "primary_artist": "2hollis",
-        "duration_ms": 78400,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-        "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
       }
     ]
   }
