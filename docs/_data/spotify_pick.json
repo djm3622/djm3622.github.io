@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 109-track mix spanning 69 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "5IvibMktz0TzHg6JyIXzSm",
+    "name": "illumi",
+    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+    "description": "A 317-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
   },
   "track": {
-    "id": "4UqqJKV58hgIlcQIuSSzC0",
-    "name": "guy like you",
+    "id": "0TGArkMCrtF5KaRT7ZvNHu",
+    "name": "DOOR TO DUSK",
     "artists": [
-      "Yazida"
+      "Odetari"
     ],
-    "artist_label": "Yazida",
-    "url": "https://open.spotify.com/track/4UqqJKV58hgIlcQIuSSzC0",
-    "embed_url": "https://open.spotify.com/embed/track/4UqqJKV58hgIlcQIuSSzC0?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2736daecf85da319518461f3803",
+    "artist_label": "Odetari",
+    "url": "https://open.spotify.com/track/0TGArkMCrtF5KaRT7ZvNHu",
+    "embed_url": "https://open.spotify.com/embed/track/0TGArkMCrtF5KaRT7ZvNHu?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27399cf928a0bc891cdf194efe6",
     "album": {
-      "id": "72MIwaT5f1CyhW2GHLvh1U",
-      "name": "must-haves",
-      "url": "https://open.spotify.com/album/72MIwaT5f1CyhW2GHLvh1U"
+      "id": "1guVWyGigDPn9PYzibhbpJ",
+      "name": "DOOR TO DUSK",
+      "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
     }
   }
 }
