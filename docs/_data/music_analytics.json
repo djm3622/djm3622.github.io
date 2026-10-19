@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-10-18",
+  "generated_on": "2026-10-19",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 101,
       "sampled_tracks": 101,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -4433,7 +4433,7 @@
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b27345e018eb7fc9ebc610ae4a64",
       "playcount": null,
-      "recent_play_count": 6
+      "recent_play_count": 5
     },
     {
       "id": "0XgQbY9WvAbIQRfVWzRPBK",
@@ -11265,7 +11265,7 @@
       "explicit": true,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273d581e4b339c05d37a96be5ea",
       "playcount": null,
-      "recent_play_count": 3
+      "recent_play_count": 1
     },
     {
       "id": "7E4qUlNYocWix5FKBdw5CN",
@@ -16599,7 +16599,7 @@
     "distinct_artists": 334,
     "history_start": "2026-08-17",
     "history_end": "2026-10-18",
-    "last_played_at": "2026-10-18T22:23:16.999Z",
+    "last_played_at": "2026-10-18T22:32:44.659Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16683,36 +16683,36 @@
         "hour": 13,
         "label": "1 PM",
         "plays": 190,
-        "height_pct": 60
+        "height_pct": 59
       },
       {
         "hour": 14,
         "label": "2 PM",
-        "plays": 231,
-        "height_pct": 73
+        "plays": 230,
+        "height_pct": 72
       },
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 275,
-        "height_pct": 87
+        "plays": 273,
+        "height_pct": 85
       },
       {
         "hour": 16,
         "label": "4 PM",
         "plays": 246,
-        "height_pct": 78
+        "height_pct": 77
       },
       {
         "hour": 17,
         "label": "5 PM",
         "plays": 202,
-        "height_pct": 64
+        "height_pct": 63
       },
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 317,
+        "plays": 320,
         "height_pct": 100
       },
       {
@@ -16725,7 +16725,7 @@
         "hour": 20,
         "label": "8 PM",
         "plays": 154,
-        "height_pct": 49
+        "height_pct": 48
       },
       {
         "hour": 21,
@@ -16749,8 +16749,8 @@
     "weekday_bins": [
       {
         "label": "Mon",
-        "plays": 362,
-        "width_pct": 83
+        "plays": 359,
+        "width_pct": 82
       },
       {
         "label": "Tue",
@@ -16779,8 +16779,8 @@
       },
       {
         "label": "Sun",
-        "plays": 289,
-        "width_pct": 66
+        "plays": 292,
+        "width_pct": 67
       }
     ],
     "recent_top_tracks": [
@@ -16852,7 +16852,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 654
+        "plays": 657
       },
       {
         "name": "Westwood",
@@ -16875,11 +16875,11 @@
         "plays": 64
       },
       {
-        "name": "Yeat",
-        "plays": 52
+        "name": "onlywoke",
+        "plays": 49
       },
       {
-        "name": "onlywoke",
+        "name": "Yeat",
         "plays": 49
       }
     ],
@@ -17800,6 +17800,36 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-18T22:32:44.659Z",
+        "id": "3vMMqHjTyukdNcIVvzka2c",
+        "title": "girl",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 186122,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/3vMMqHjTyukdNcIVvzka2c"
+      },
+      {
+        "played_at": "2026-10-18T22:29:38.522Z",
+        "id": "4KxmNhZkzlLdLGYdMlgDgC",
+        "title": "burn",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 217894,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
+      },
+      {
+        "played_at": "2026-10-18T22:26:00.610Z",
+        "id": "2GhvoJajHIXxWK4vtPWkqN",
+        "title": "destroy me",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 163655,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
+      },
       {
         "played_at": "2026-10-18T22:23:16.999Z",
         "id": "2lNh0tlv8ZgzhiWyWzpwsK",
@@ -42769,36 +42799,6 @@
         "duration_ms": 120098,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fab5e95f2045271a74e12f51",
         "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
-      },
-      {
-        "played_at": "2026-08-17T19:21:18.859Z",
-        "id": "3mQCDD74WImZLkQxMvmxoK",
-        "title": "OH I DID",
-        "artist": "Yeat, NGeeYL",
-        "primary_artist": "Yeat",
-        "duration_ms": 176000,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
-        "url": "https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK"
-      },
-      {
-        "played_at": "2026-08-17T19:07:05.938Z",
-        "id": "3mQCDD74WImZLkQxMvmxoK",
-        "title": "OH I DID",
-        "artist": "Yeat, NGeeYL",
-        "primary_artist": "Yeat",
-        "duration_ms": 176000,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e35aad7bbe4508513f36fd58",
-        "url": "https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK"
-      },
-      {
-        "played_at": "2026-08-17T18:55:49.672Z",
-        "id": "40oYjPdjvFBCZH1Smsk46H",
-        "title": "Back Home",
-        "artist": "Yeat, Joji",
-        "primary_artist": "Yeat",
-        "duration_ms": 193684,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27388fc1b9c89137e73c62d216f",
-        "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
       }
     ]
   }
