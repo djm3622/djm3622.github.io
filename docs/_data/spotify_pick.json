@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 109-track mix spanning 69 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
+    "name": "johto",
+    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
   },
   "track": {
-    "id": "5rAjfXt75uCkxGbCR1OeCP",
-    "name": "Favourite Boy",
+    "id": "17wxjHNmOSstc6nVIe401T",
+    "name": "I. The Worst Guys",
     "artists": [
-      "YAZ"
+      "Childish Gambino",
+      "Chance the Rapper"
     ],
-    "artist_label": "YAZ",
-    "url": "https://open.spotify.com/track/5rAjfXt75uCkxGbCR1OeCP",
-    "embed_url": "https://open.spotify.com/embed/track/5rAjfXt75uCkxGbCR1OeCP?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27339b824cf2c412cd63b18f7aa",
+    "artist_label": "Childish Gambino, Chance the Rapper",
+    "url": "https://open.spotify.com/track/17wxjHNmOSstc6nVIe401T",
+    "embed_url": "https://open.spotify.com/embed/track/17wxjHNmOSstc6nVIe401T?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c",
     "album": {
-      "id": "6T77owJyoRVCZYqjZ6U3H5",
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/album/6T77owJyoRVCZYqjZ6U3H5"
+      "id": "4GNIhgEGXzWGAefgN5qjdU",
+      "name": "Because the Internet",
+      "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
     }
   }
 }
