@@ -1,30 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
-    "name": "johto",
-    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
-    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
+    "id": "1LmRGDRZzF0xsVaRezQTBn",
+    "name": "this u?",
+    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+    "description": "A 66-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
   },
   "track": {
-    "id": "17wxjHNmOSstc6nVIe401T",
-    "name": "I. The Worst Guys",
+    "id": "2ctl2YVjBnxDO3OMf1Haay",
+    "name": "Beef",
     "artists": [
-      "Childish Gambino",
-      "Chance the Rapper"
+      "Ethereal",
+      "Playboi Carti"
     ],
-    "artist_label": "Childish Gambino, Chance the Rapper",
-    "url": "https://open.spotify.com/track/17wxjHNmOSstc6nVIe401T",
-    "embed_url": "https://open.spotify.com/embed/track/17wxjHNmOSstc6nVIe401T?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c",
+    "artist_label": "Ethereal, Playboi Carti",
+    "url": "https://open.spotify.com/track/2ctl2YVjBnxDO3OMf1Haay",
+    "embed_url": "https://open.spotify.com/embed/track/2ctl2YVjBnxDO3OMf1Haay?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273ea0b5e4bacdaeacb038ac6cf",
     "album": {
-      "id": "4GNIhgEGXzWGAefgN5qjdU",
-      "name": "Because the Internet",
-      "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
+      "id": "4RaURq3uVq4GnWXWDjUh4u",
+      "name": "Beef",
+      "url": "https://open.spotify.com/album/4RaURq3uVq4GnWXWDjUh4u"
     }
   }
 }
