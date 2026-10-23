@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "6NDe4f42HlR8RJVhXn1ZCH",
-    "name": "he on something",
-    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
-    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
+    "id": "7MW7sGh5LeEQPjDreDZPw2",
+    "name": "bobby ray",
+    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
   },
   "track": {
-    "id": "1P7ycI8RxUZVErR2xCPqbA",
-    "name": "Ballin",
+    "id": "2RUuKIHFHjk41E7YsJ9HNP",
+    "name": "Up Like Trump",
     "artists": [
-      "Lil Uzi Vert"
+      "Rae Sremmurd"
     ],
-    "artist_label": "Lil Uzi Vert",
-    "url": "https://open.spotify.com/track/1P7ycI8RxUZVErR2xCPqbA",
-    "embed_url": "https://open.spotify.com/embed/track/1P7ycI8RxUZVErR2xCPqbA?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2736b9e2cd3c76bc7e3c1c52f95",
+    "artist_label": "Rae Sremmurd",
+    "url": "https://open.spotify.com/track/2RUuKIHFHjk41E7YsJ9HNP",
+    "embed_url": "https://open.spotify.com/embed/track/2RUuKIHFHjk41E7YsJ9HNP?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460",
     "album": {
-      "id": "5WrbKW1nRN4vSsu70uizxX",
-      "name": "Luv Is Rage",
-      "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX"
+      "id": "6eDx949ONWDCN0O22wFZf7",
+      "name": "SremmLife",
+      "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
     }
   }
 }
