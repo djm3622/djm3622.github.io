@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 101,
       "sampled_tracks": 101,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 86,
       "sampled_tracks": 86,
       "sample_coverage_pct": 100.0,
@@ -16594,12 +16594,12 @@
     "enabled": true,
     "history_days": 90,
     "captured_plays": 2500,
-    "captured_hours": 113.9,
-    "distinct_tracks": 772,
-    "distinct_artists": 334,
+    "captured_hours": 114.0,
+    "distinct_tracks": 773,
+    "distinct_artists": 335,
     "history_start": "2026-08-20",
-    "history_end": "2026-10-22",
-    "last_played_at": "2026-10-22T23:47:21.868Z",
+    "history_end": "2026-10-23",
+    "last_played_at": "2026-10-23T09:07:13.281Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16634,7 +16634,7 @@
       {
         "hour": 5,
         "label": "5 AM",
-        "plays": 0,
+        "plays": 1,
         "height_pct": 0
       },
       {
@@ -16706,7 +16706,7 @@
       {
         "hour": 17,
         "label": "5 PM",
-        "plays": 179,
+        "plays": 178,
         "height_pct": 54
       },
       {
@@ -16755,7 +16755,7 @@
       {
         "label": "Tue",
         "plays": 343,
-        "width_pct": 75
+        "width_pct": 76
       },
       {
         "label": "Wed",
@@ -16764,13 +16764,13 @@
       },
       {
         "label": "Thu",
-        "plays": 455,
+        "plays": 454,
         "width_pct": 100
       },
       {
         "label": "Fri",
-        "plays": 342,
-        "width_pct": 75
+        "plays": 343,
+        "width_pct": 76
       },
       {
         "label": "Sat",
@@ -16780,7 +16780,7 @@
       {
         "label": "Sun",
         "plays": 293,
-        "width_pct": 64
+        "width_pct": 65
       }
     ],
     "recent_top_tracks": [
@@ -16830,7 +16830,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP",
-        "plays": 70
+        "plays": 69
       },
       {
         "id": "19zMOwWhd7wQ2hhyUI1ey9",
@@ -16852,7 +16852,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 684
+        "plays": 683
       },
       {
         "name": "Westwood",
@@ -17015,19 +17015,19 @@
         },
         {
           "rank": 17,
-          "id": "08WEIBLx95kvXakvVs8izv",
-          "name": "FORFEIT",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
-          "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
-        },
-        {
-          "rank": 18,
           "id": "6hxowqRsDm1fsm00y2eHJP",
           "name": "sidekick",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
           "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
+        },
+        {
+          "rank": 18,
+          "id": "08WEIBLx95kvXakvVs8izv",
+          "name": "FORFEIT",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+          "url": "https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv"
         },
         {
           "rank": 19,
@@ -17800,6 +17800,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-23T09:07:13.281Z",
+        "id": "45hOioMDJktr86iKDHC8gr",
+        "title": "Girlfriend",
+        "artist": "Avril Lavigne",
+        "primary_artist": "Avril Lavigne",
+        "duration_ms": 216600,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273476cdf5837ae39eee951cc15",
+        "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
+      },
       {
         "played_at": "2026-10-22T23:47:21.868Z",
         "id": "4356Typ82hUiFAynbLYbPn",
@@ -42789,16 +42799,6 @@
         "duration_ms": 121089,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
         "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-      },
-      {
-        "played_at": "2026-08-20T21:25:39.571Z",
-        "id": "6hxowqRsDm1fsm00y2eHJP",
-        "title": "sidekick",
-        "artist": "2hollis",
-        "primary_artist": "2hollis",
-        "duration_ms": 78400,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-        "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
       }
     ]
   }
