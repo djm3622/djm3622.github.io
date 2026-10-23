@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -17161,19 +17161,19 @@
         },
         {
           "rank": 15,
-          "id": "3gsTHXu2xjshL1LoEnqkuO",
-          "name": "H0w Sh0uld ! f33l",
-          "artist": "North West",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2738f4bb77764360ed866ccbcd1",
-          "url": "https://open.spotify.com/track/3gsTHXu2xjshL1LoEnqkuO"
-        },
-        {
-          "rank": 16,
           "id": "2GhvoJajHIXxWK4vtPWkqN",
           "name": "destroy me",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
           "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
+        },
+        {
+          "rank": 16,
+          "id": "3gsTHXu2xjshL1LoEnqkuO",
+          "name": "H0w Sh0uld ! f33l",
+          "artist": "North West",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2738f4bb77764360ed866ccbcd1",
+          "url": "https://open.spotify.com/track/3gsTHXu2xjshL1LoEnqkuO"
         },
         {
           "rank": 17,
