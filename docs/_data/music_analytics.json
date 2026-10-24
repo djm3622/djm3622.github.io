@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 317,
       "sampled_tracks": 317,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 86,
       "sampled_tracks": 86,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16596,10 +16596,10 @@
     "captured_plays": 2500,
     "captured_hours": 114.0,
     "distinct_tracks": 761,
-    "distinct_artists": 335,
-    "history_start": "2026-08-22",
+    "distinct_artists": 334,
+    "history_start": "2026-08-23",
     "history_end": "2026-10-24",
-    "last_played_at": "2026-10-24T17:34:38.054Z",
+    "last_played_at": "2026-10-24T19:18:10.405Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16610,7 +16610,7 @@
       {
         "hour": 1,
         "label": "1 AM",
-        "plays": 24,
+        "plays": 23,
         "height_pct": 7
       },
       {
@@ -16694,8 +16694,8 @@
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 251,
-        "height_pct": 77
+        "plays": 253,
+        "height_pct": 78
       },
       {
         "hour": 16,
@@ -16718,8 +16718,8 @@
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 275,
-        "height_pct": 85
+        "plays": 274,
+        "height_pct": 84
       },
       {
         "hour": 20,
@@ -16774,13 +16774,13 @@
       },
       {
         "label": "Sat",
-        "plays": 339,
+        "plays": 340,
         "width_pct": 76
       },
       {
         "label": "Sun",
-        "plays": 293,
-        "width_pct": 66
+        "plays": 292,
+        "width_pct": 65
       }
     ],
     "recent_top_tracks": [
@@ -16790,7 +16790,7 @@
         "artist": "2hollis",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw",
-        "plays": 102
+        "plays": 101
       },
       {
         "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
@@ -16852,7 +16852,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 675
+        "plays": 674
       },
       {
         "name": "Westwood",
@@ -17323,6 +17323,14 @@
         },
         {
           "rank": 15,
+          "id": "55rXApL8KBessVIpJpH4Fw",
+          "name": "ego",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
+        },
+        {
+          "rank": 16,
           "id": "6rjuKpPydT2SxN15TZpV7r",
           "name": "500lbs",
           "artist": "Lil Tecca",
@@ -17330,20 +17338,12 @@
           "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "id": "3UsJUXvHb7qz4GiQtEc4a4",
           "name": "keep steady",
           "artist": "sosocamo",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2738a372f389087673289f84d09",
           "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
-        },
-        {
-          "rank": 17,
-          "id": "55rXApL8KBessVIpJpH4Fw",
-          "name": "ego",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
         },
         {
           "rank": 18,
@@ -17800,6 +17800,26 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-24T19:18:10.405Z",
+        "id": "4Yqy0GpeDEXLibWJCZyQew",
+        "title": "Kickstart My Heart",
+        "artist": "M\u00f6tley Cr\u00fce",
+        "primary_artist": "M\u00f6tley Cr\u00fce",
+        "duration_ms": 282653,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2",
+        "url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew"
+      },
+      {
+        "played_at": "2026-10-24T19:12:07.183Z",
+        "id": "4BBL8YQ1SUhSbcsEguX8kL",
+        "title": "Do It",
+        "artist": "underscores",
+        "primary_artist": "underscores",
+        "duration_ms": 213145,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cab898cdda3ee7d1e9b25646",
+        "url": "https://open.spotify.com/track/4BBL8YQ1SUhSbcsEguX8kL"
+      },
       {
         "played_at": "2026-10-24T17:34:38.054Z",
         "id": "6wm3t4VpTxSFfOUgTMlHZM",
@@ -42779,26 +42799,6 @@
         "duration_ms": 121089,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
         "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-      },
-      {
-        "played_at": "2026-08-23T05:11:09.913Z",
-        "id": "55rXApL8KBessVIpJpH4Fw",
-        "title": "ego",
-        "artist": "2hollis",
-        "primary_artist": "2hollis",
-        "duration_ms": 64000,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-        "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
-      },
-      {
-        "played_at": "2026-08-22T23:11:16.941Z",
-        "id": "0FtuxFKzjbVCQAA3UQZXll",
-        "title": "Crush",
-        "artist": "Souly Had",
-        "primary_artist": "Souly Had",
-        "duration_ms": 159813,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27372363335a223b634b11f7c5f",
-        "url": "https://open.spotify.com/track/0FtuxFKzjbVCQAA3UQZXll"
       }
     ]
   }
