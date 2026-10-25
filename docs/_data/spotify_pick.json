@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 109-track mix spanning 69 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
+    "name": "lucio",
+    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
   },
   "track": {
-    "id": "2xVvPrOqBnqpKd5eYebbxf",
-    "name": "someone",
+    "id": "05NpeTQWnzXS1d8ZqL4YFZ",
+    "name": "Twisted Transistor",
     "artists": [
-      "piri & tommy"
+      "Korn"
     ],
-    "artist_label": "piri & tommy",
-    "url": "https://open.spotify.com/track/2xVvPrOqBnqpKd5eYebbxf",
-    "embed_url": "https://open.spotify.com/embed/track/2xVvPrOqBnqpKd5eYebbxf?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27379ddfc5d557e860d7fc2575b",
+    "artist_label": "Korn",
+    "url": "https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ",
+    "embed_url": "https://open.spotify.com/embed/track/05NpeTQWnzXS1d8ZqL4YFZ?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144",
     "album": {
-      "id": "5H3iqGj64HLu2OsNrVmCUC",
-      "name": "magic!",
-      "url": "https://open.spotify.com/album/5H3iqGj64HLu2OsNrVmCUC"
+      "id": "2c7ynrgZP08xNtkJi9MhjF",
+      "name": "See You On the Other Side",
+      "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
     }
   }
 }
