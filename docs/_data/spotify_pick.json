@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
-    "name": "lucio",
-    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
-    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
+    "id": "38PmYBLrKbhBUlywggIVkP",
+    "name": "void",
+    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
   },
   "track": {
-    "id": "05NpeTQWnzXS1d8ZqL4YFZ",
-    "name": "Twisted Transistor",
+    "id": "6dkffLWo31KnXmwCLsgA2K",
+    "name": "Gist",
     "artists": [
-      "Korn"
+      "Lil Tecca"
     ],
-    "artist_label": "Korn",
-    "url": "https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ",
-    "embed_url": "https://open.spotify.com/embed/track/05NpeTQWnzXS1d8ZqL4YFZ?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144",
+    "artist_label": "Lil Tecca",
+    "url": "https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K",
+    "embed_url": "https://open.spotify.com/embed/track/6dkffLWo31KnXmwCLsgA2K?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96",
     "album": {
-      "id": "2c7ynrgZP08xNtkJi9MhjF",
-      "name": "See You On the Other Side",
-      "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
+      "id": "4EURMuWFiLLRmQYoH5cgiE",
+      "name": "TEC",
+      "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
     }
   }
 }

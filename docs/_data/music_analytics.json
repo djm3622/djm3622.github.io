@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-10-25",
+  "generated_on": "2026-10-26",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 317,
       "sampled_tracks": 317,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 101,
       "sampled_tracks": 101,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16598,8 +16598,8 @@
     "distinct_tracks": 756,
     "distinct_artists": 331,
     "history_start": "2026-08-23",
-    "history_end": "2026-10-25",
-    "last_played_at": "2026-10-25T20:24:31.739Z",
+    "history_end": "2026-10-26",
+    "last_played_at": "2026-10-26T02:07:52.266Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16694,7 +16694,7 @@
       {
         "hour": 15,
         "label": "3 PM",
-        "plays": 261,
+        "plays": 260,
         "height_pct": 80
       },
       {
@@ -16736,8 +16736,8 @@
       {
         "hour": 22,
         "label": "10 PM",
-        "plays": 53,
-        "height_pct": 16
+        "plays": 54,
+        "height_pct": 17
       },
       {
         "hour": 23,
@@ -16852,7 +16852,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 673
+        "plays": 674
       },
       {
         "name": "Westwood",
@@ -17039,11 +17039,11 @@
         },
         {
           "rank": 20,
-          "id": "7mPwWxWdjRpSGozaEcdK89",
-          "name": "dream rain sports",
+          "id": "4KxmNhZkzlLdLGYdMlgDgC",
+          "name": "burn",
           "artist": "2hollis",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/7mPwWxWdjRpSGozaEcdK89"
+          "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
         }
       ],
       "six_months": [
@@ -17800,6 +17800,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-10-26T02:07:52.266Z",
+        "id": "4KxmNhZkzlLdLGYdMlgDgC",
+        "title": "burn",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 217894,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
+      },
       {
         "played_at": "2026-10-25T20:24:31.739Z",
         "id": "2GhvoJajHIXxWK4vtPWkqN",
@@ -42789,16 +42799,6 @@
         "duration_ms": 88235,
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/4Mjl46Mh8sAjsEB0QkeOWJ"
-      },
-      {
-        "played_at": "2026-08-23T19:09:19.068Z",
-        "id": "3h7QZ9cXhlOoh1ywJWS8GH",
-        "title": "Nothing like uuu",
-        "artist": "Nettspend",
-        "primary_artist": "Nettspend",
-        "duration_ms": 112243,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2737aad2d9a061b550958e5847d",
-        "url": "https://open.spotify.com/track/3h7QZ9cXhlOoh1ywJWS8GH"
       }
     ]
   }
