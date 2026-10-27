@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "38PmYBLrKbhBUlywggIVkP",
-    "name": "void",
-    "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
-    "description": "A 27-track mix spanning 4 artists, led by Lil Tecca, Ken Carson, and Kodak Black."
+    "id": "6NDe4f42HlR8RJVhXn1ZCH",
+    "name": "he on something",
+    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
   },
   "track": {
-    "id": "6dkffLWo31KnXmwCLsgA2K",
-    "name": "Gist",
+    "id": "5O8x1YlmLQopQHErxtDfi9",
+    "name": "UnFazed (feat. The Weeknd)",
     "artists": [
-      "Lil Tecca"
+      "Lil Uzi Vert",
+      "The Weeknd"
     ],
-    "artist_label": "Lil Tecca",
-    "url": "https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K",
-    "embed_url": "https://open.spotify.com/embed/track/6dkffLWo31KnXmwCLsgA2K?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96",
+    "artist_label": "Lil Uzi Vert, The Weeknd",
+    "url": "https://open.spotify.com/track/5O8x1YlmLQopQHErxtDfi9",
+    "embed_url": "https://open.spotify.com/embed/track/5O8x1YlmLQopQHErxtDfi9?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352",
     "album": {
-      "id": "4EURMuWFiLLRmQYoH5cgiE",
-      "name": "TEC",
-      "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      "id": "733e1ZfktLSwj96X5rsMeE",
+      "name": "Luv Is Rage 2",
+      "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
     }
   }
 }
