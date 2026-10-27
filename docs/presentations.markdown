@@ -58,6 +58,10 @@ description: Research presentations by David Millard, including work on self-sup
     border: 0;
   }
 
+  .presentation-embed-poster {
+    padding-top: 129%;
+  }
+
   .presentation-actions {
     display: flex;
     flex-wrap: wrap;
@@ -93,6 +97,25 @@ description: Research presentations by David Millard, including work on self-sup
     }
   }
 </style>
+
+<section class="presentation-card">
+  <p class="presentation-kicker">SANE 2026 poster</p>
+  <h2>Discrete Parameter Estimation for DDSP Source Separation</h2>
+  <p class="presentation-summary">Poster presented with Andrea Cogliati at SANE 2026 (Speech and Audio in the Northeast) at MIT. It studies how to fit the integer loop delay and pluck position of a Karplus–Strong string model, where gradient descent breaks down, comparing exhaustive search, pitch estimation, continuous relaxations, and learned categorical estimators (REINFORCE, Gumbel-Softmax) on mixtures of up to seven strings.</p>
+
+  <div class="presentation-embed presentation-embed-poster">
+    <iframe
+      src="{{ '/assets/presentations/sane2026_poster.pdf' | relative_url }}#view=FitH"
+      title="Discrete Parameter Estimation for DDSP Source Separation"
+      loading="lazy"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <p class="presentation-actions">
+    <a href="{{ '/assets/presentations/sane2026_poster.pdf' | relative_url }}" target="_blank">Open PDF</a>
+  </p>
+</section>
 
 <section class="presentation-card">
   <p class="presentation-kicker">Audio information research</p>
