@@ -4,7 +4,7 @@
 {%- endif -%}
 {%- assign metadata_page_title = page.seo_title | default: page.title | default: site.title -%}
 {%- if is_homepage -%}
-  {%- assign metadata_title = site.title | append: " | Machine Learning Researcher" -%}
+  {%- assign metadata_title = site.title -%}
 {%- else -%}
   {%- assign metadata_title = metadata_page_title | append: " | " | append: site.title -%}
 {%- endif -%}

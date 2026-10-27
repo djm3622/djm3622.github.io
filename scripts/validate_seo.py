@@ -146,7 +146,7 @@ def validate_major_pages(
 ) -> None:
     expected = {
         site_dir / "index.html": (
-            "David Millard | Machine Learning Researcher",
+            "David Millard",
             f"{SITE_URL}/",
             "ProfilePage",
         ),
