@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "5IvibMktz0TzHg6JyIXzSm",
-    "name": "illumi",
-    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
-    "description": "A 317-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
+    "id": "7p4fxMRZCuY6ZtNeu99vbK",
+    "name": "calm luh",
+    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
   },
   "track": {
-    "id": "65F1l7qd8OSIeN0qX3zsJb",
-    "name": "Machinery of Avoid",
+    "id": "4wBaBLQcSSzjdcEC93YxPG",
+    "name": "Uzi Work",
     "artists": [
-      "Noizenecio"
+      "Homixide Gang"
     ],
-    "artist_label": "Noizenecio",
-    "url": "https://open.spotify.com/track/65F1l7qd8OSIeN0qX3zsJb",
-    "embed_url": "https://open.spotify.com/embed/track/65F1l7qd8OSIeN0qX3zsJb?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273e5cb723e7de93948b26fd893",
+    "artist_label": "Homixide Gang",
+    "url": "https://open.spotify.com/track/4wBaBLQcSSzjdcEC93YxPG",
+    "embed_url": "https://open.spotify.com/embed/track/4wBaBLQcSSzjdcEC93YxPG?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273616033c26de5de987fc59434",
     "album": {
-      "id": "3lKZsbJ559ehcs7hrXVCor",
-      "name": "Hardcore Syndrome 12",
-      "url": "https://open.spotify.com/album/3lKZsbJ559ehcs7hrXVCor"
+      "id": "4PtaK9Se4jUaKwyeTMqnRN",
+      "name": "Snot or Not",
+      "url": "https://open.spotify.com/album/4PtaK9Se4jUaKwyeTMqnRN"
     }
   }
 }
