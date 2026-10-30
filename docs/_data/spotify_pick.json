@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7p4fxMRZCuY6ZtNeu99vbK",
-    "name": "calm luh",
-    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
-    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
+    "id": "6NDe4f42HlR8RJVhXn1ZCH",
+    "name": "he on something",
+    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
   },
   "track": {
-    "id": "4wBaBLQcSSzjdcEC93YxPG",
-    "name": "Uzi Work",
+    "id": "7GX5flRQZVHRAGd6B4TmDO",
+    "name": "XO Tour Llif3",
     "artists": [
-      "Homixide Gang"
+      "Lil Uzi Vert"
     ],
-    "artist_label": "Homixide Gang",
-    "url": "https://open.spotify.com/track/4wBaBLQcSSzjdcEC93YxPG",
-    "embed_url": "https://open.spotify.com/embed/track/4wBaBLQcSSzjdcEC93YxPG?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273616033c26de5de987fc59434",
+    "artist_label": "Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO",
+    "embed_url": "https://open.spotify.com/embed/track/7GX5flRQZVHRAGd6B4TmDO?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352",
     "album": {
-      "id": "4PtaK9Se4jUaKwyeTMqnRN",
-      "name": "Snot or Not",
-      "url": "https://open.spotify.com/album/4PtaK9Se4jUaKwyeTMqnRN"
+      "id": "733e1ZfktLSwj96X5rsMeE",
+      "name": "Luv Is Rage 2",
+      "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
     }
   }
 }
