@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "6NDe4f42HlR8RJVhXn1ZCH",
-    "name": "he on something",
-    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
-    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
+    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
+    "name": "lucio",
+    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
   },
   "track": {
-    "id": "7GX5flRQZVHRAGd6B4TmDO",
-    "name": "XO Tour Llif3",
+    "id": "3FP8A246XpuafFofRhDlWG",
+    "name": "I'm So Sick",
     "artists": [
-      "Lil Uzi Vert"
+      "Flyleaf"
     ],
-    "artist_label": "Lil Uzi Vert",
-    "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO",
-    "embed_url": "https://open.spotify.com/embed/track/7GX5flRQZVHRAGd6B4TmDO?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352",
+    "artist_label": "Flyleaf",
+    "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
+    "embed_url": "https://open.spotify.com/embed/track/3FP8A246XpuafFofRhDlWG?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
     "album": {
-      "id": "733e1ZfktLSwj96X5rsMeE",
-      "name": "Luv Is Rage 2",
-      "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      "id": "4Hv9JeNCe9bMyTrgt9NjXt",
+      "name": "Flyleaf",
+      "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
     }
   }
 }
