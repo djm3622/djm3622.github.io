@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-10-31",
+  "generated_on": "2026-11-01",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -11667,7 +11667,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273c3c27b513afbce3c6c860376",
       "playcount": null,
-      "recent_play_count": 1
+      "recent_play_count": 0
     },
     {
       "id": "3RM4jixrm3fC19lIcjEBb5",
@@ -16619,11 +16619,11 @@
     "history_days": 90,
     "captured_plays": 2500,
     "captured_hours": 116.2,
-    "distinct_tracks": 794,
+    "distinct_tracks": 793,
     "distinct_artists": 355,
     "history_start": "2026-08-30",
-    "history_end": "2026-10-30",
-    "last_played_at": "2026-10-30T13:21:24.119Z",
+    "history_end": "2026-11-01",
+    "last_played_at": "2026-11-01T02:11:25.479Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16719,13 +16719,13 @@
         "hour": 15,
         "label": "3 PM",
         "plays": 246,
-        "height_pct": 74
+        "height_pct": 75
       },
       {
         "hour": 16,
         "label": "4 PM",
         "plays": 203,
-        "height_pct": 61
+        "height_pct": 62
       },
       {
         "hour": 17,
@@ -16736,14 +16736,14 @@
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 331,
+        "plays": 330,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
         "plays": 283,
-        "height_pct": 85
+        "height_pct": 86
       },
       {
         "hour": 20,
@@ -16760,7 +16760,7 @@
       {
         "hour": 22,
         "label": "10 PM",
-        "plays": 55,
+        "plays": 56,
         "height_pct": 17
       },
       {
@@ -16798,12 +16798,12 @@
       },
       {
         "label": "Sat",
-        "plays": 339,
-        "width_pct": 73
+        "plays": 340,
+        "width_pct": 74
       },
       {
         "label": "Sun",
-        "plays": 209,
+        "plays": 208,
         "width_pct": 45
       }
     ],
@@ -16888,7 +16888,7 @@
       },
       {
         "name": "nate sib",
-        "plays": 115
+        "plays": 116
       },
       {
         "name": "Moors",
@@ -17015,14 +17015,6 @@
         },
         {
           "rank": 14,
-          "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
-          "name": "hold on",
-          "artist": "nate sib",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
-          "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
-        },
-        {
-          "rank": 15,
           "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
           "name": "poster boy",
           "artist": "2hollis",
@@ -17030,15 +17022,7 @@
           "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
         },
         {
-          "rank": 16,
-          "id": "19zMOwWhd7wQ2hhyUI1ey9",
-          "name": "ex",
-          "artist": "onlywoke",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
-          "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
-        },
-        {
-          "rank": 17,
+          "rank": 15,
           "id": "5XD08ZPXrYSnc5xRPQ0gu4",
           "name": "eldest child",
           "artist": "2hollis",
@@ -17046,7 +17030,7 @@
           "url": "https://open.spotify.com/track/5XD08ZPXrYSnc5xRPQ0gu4"
         },
         {
-          "rank": 18,
+          "rank": 16,
           "id": "6hxowqRsDm1fsm00y2eHJP",
           "name": "sidekick",
           "artist": "2hollis",
@@ -17054,7 +17038,15 @@
           "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
         },
         {
-          "rank": 19,
+          "rank": 17,
+          "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
+          "name": "hold on",
+          "artist": "nate sib",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
+          "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+        },
+        {
+          "rank": 18,
           "id": "7mPwWxWdjRpSGozaEcdK89",
           "name": "dream rain sports",
           "artist": "2hollis",
@@ -17062,12 +17054,20 @@
           "url": "https://open.spotify.com/track/7mPwWxWdjRpSGozaEcdK89"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "id": "57bgtoPSgt236HzfBOd8kj",
           "name": "Thunderstruck",
           "artist": "AC/DC",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2",
           "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+        },
+        {
+          "rank": 20,
+          "id": "4KxmNhZkzlLdLGYdMlgDgC",
+          "name": "burn",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/4KxmNhZkzlLdLGYdMlgDgC"
         }
       ],
       "six_months": [
@@ -17427,115 +17427,115 @@
         },
         {
           "rank": 5,
-          "id": "04gDigrS5kc9YWfZHwBETP",
-          "name": "Maroon 5",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "rank": 6,
           "id": "07XSN3sPlIlB2L2XNcTwJw",
           "name": "KISS",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebd8205a492a79bfe4b34c567a",
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         },
         {
-          "rank": 7,
-          "id": "78rUTD7y6Cy67W1RVzYs7t",
-          "name": "PinkPantheress",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "id": "4Ga1P7PMIsmqEZqhYZQgDo",
           "name": "Lil Tecca",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "rank": 9,
+          "rank": 7,
           "id": "4O15NlyKLIASxsJ0PrXPfz",
           "name": "Lil Uzi Vert",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
-          "rank": 10,
-          "id": "0TnOYISbd1XYRBk9myaseg",
-          "name": "Pitbull",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebe75db75543a89589514259b2",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "rank": 8,
+          "id": "78rUTD7y6Cy67W1RVzYs7t",
+          "name": "PinkPantheress",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "rank": 11,
+          "rank": 9,
           "id": "5G312D5mch8GZE501qpDIy",
           "name": "Johnny 2 Phones",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8201ac95de014c71ac5e182",
           "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
         },
         {
-          "rank": 12,
+          "rank": 10,
           "id": "3ROUUVgC0l5pYp3wLQQ05v",
           "name": "Westwood",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb497c28085859b27046613ce7",
           "url": "https://open.spotify.com/artist/3ROUUVgC0l5pYp3wLQQ05v"
         },
         {
-          "rank": 13,
+          "rank": 11,
           "id": "4MCBfE4596Uoi2O4DtmEMz",
           "name": "Juice WRLD",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
-          "rank": 14,
+          "rank": 12,
           "id": "5zctI4wO9XSKS8XwcnqEHk",
           "name": "Lil Mosey",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebdb253ca1b593bf197493a9fc",
           "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
         },
         {
-          "rank": 15,
+          "rank": 13,
           "id": "1yxSLGMDHlW21z4YXirZDS",
           "name": "Black Eyed Peas",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf2200ce505d25e1d7e1561be",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "rank": 16,
+          "rank": 14,
           "id": "5pKCCKE2ajJHZ9KAiaK11H",
           "name": "Rihanna",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "rank": 17,
-          "id": "2uYWxilOVlUdk4oV9DvwqK",
-          "name": "Mitski",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaf731fe1a006c29152075c89",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        },
-        {
-          "rank": 18,
+          "rank": 15,
           "id": "4omuqQ7ohlcuOto359qQsn",
           "name": "aidn.",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb9e0afe7593567dec6f632184",
           "url": "https://open.spotify.com/artist/4omuqQ7ohlcuOto359qQsn"
         },
         {
-          "rank": 19,
+          "rank": 16,
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "rank": 17,
           "id": "6jJ0s89eD6GaHleKKya26X",
           "name": "Katy Perry",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 20,
+          "rank": 18,
           "id": "1HY2Jd0NmPuamShAr6KMms",
           "name": "Lady Gaga",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "rank": 19,
+          "id": "7CajNmpbOovFoOoasH2HaY",
+          "name": "Calvin Harris",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "rank": 20,
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebe75db75543a89589514259b2",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
       "six_months": [
@@ -17824,6 +17824,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-01T02:11:25.479Z",
+        "id": "1zBdEt1NKs2Nc0VKxT21Zn",
+        "title": "1",
+        "artist": "nate sib",
+        "primary_artist": "nate sib",
+        "duration_ms": 152357,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735454d83c1797f90c33c36457",
+        "url": "https://open.spotify.com/track/1zBdEt1NKs2Nc0VKxT21Zn"
+      },
       {
         "played_at": "2026-10-30T13:21:24.119Z",
         "id": "58k32my5lKofeZRtIvBDg9",
@@ -42813,16 +42823,6 @@
         "duration_ms": 126265,
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736daecf85da319518461f3803",
         "url": "https://open.spotify.com/track/4UqqJKV58hgIlcQIuSSzC0"
-      },
-      {
-        "played_at": "2026-08-30T22:19:25.957Z",
-        "id": "0xMU756oj0eyXAtoIy3KUl",
-        "title": "Pain - Powfu Remix",
-        "artist": "PinkPantheress, Powfu",
-        "primary_artist": "PinkPantheress",
-        "duration_ms": 121991,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273c3c27b513afbce3c6c860376",
-        "url": "https://open.spotify.com/track/0xMU756oj0eyXAtoIy3KUl"
       }
     ]
   }

@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
-    "name": "lucio",
-    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
-    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
+    "id": "0kVBGAMtUIeJQat1V7a861",
+    "name": "cloud",
+    "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+    "description": "A 19-track mix spanning 9 artists, led by Mac Miller, Kanye West, and Joji."
   },
   "track": {
-    "id": "3FP8A246XpuafFofRhDlWG",
-    "name": "I'm So Sick",
+    "id": "1kwnxJNVl7cwcU98RvMBaR",
+    "name": "Surf",
     "artists": [
-      "Flyleaf"
+      "Mac Miller"
     ],
-    "artist_label": "Flyleaf",
-    "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
-    "embed_url": "https://open.spotify.com/embed/track/3FP8A246XpuafFofRhDlWG?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+    "artist_label": "Mac Miller",
+    "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR",
+    "embed_url": "https://open.spotify.com/embed/track/1kwnxJNVl7cwcU98RvMBaR?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d9d8f1a08476cd347fbea313",
     "album": {
-      "id": "4Hv9JeNCe9bMyTrgt9NjXt",
-      "name": "Flyleaf",
-      "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
+      "id": "5sY6UIQ32GqwMLAfSNEaXb",
+      "name": "Circles",
+      "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
     }
   }
 }
