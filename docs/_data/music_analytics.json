@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -15447,7 +15447,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117",
       "playcount": null,
-      "recent_play_count": 3
+      "recent_play_count": 2
     },
     {
       "id": "0oO9Xov8sB4JBwvsCA12LX",
@@ -16619,11 +16619,11 @@
     "history_days": 90,
     "captured_plays": 2500,
     "captured_hours": 116.4,
-    "distinct_tracks": 782,
+    "distinct_tracks": 783,
     "distinct_artists": 350,
     "history_start": "2026-08-31",
     "history_end": "2026-11-02",
-    "last_played_at": "2026-11-02T00:35:30.727Z",
+    "last_played_at": "2026-11-02T00:39:04.527Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16742,13 +16742,13 @@
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 282,
-        "height_pct": 87
+        "plays": 283,
+        "height_pct": 88
       },
       {
         "hour": 20,
         "label": "8 PM",
-        "plays": 134,
+        "plays": 133,
         "height_pct": 41
       },
       {
@@ -17632,24 +17632,24 @@
         },
         {
           "rank": 14,
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "rank": 15,
           "id": "6jJ0s89eD6GaHleKKya26X",
           "name": "Katy Perry",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "id": "7d3WFRME3vBY2cgoP38RDo",
           "name": "Lil Skies",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c91ee64878b36dcee243160",
           "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        },
-        {
-          "rank": 16,
-          "id": "1HY2Jd0NmPuamShAr6KMms",
-          "name": "Lady Gaga",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
           "rank": 17,
@@ -17824,6 +17824,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-02T00:39:04.527Z",
+        "id": "2fIv98BZ6NdkeYLZAvNzP7",
+        "title": "Tell Me (U Want It)",
+        "artist": "underscores",
+        "primary_artist": "underscores",
+        "duration_ms": 213250,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cab898cdda3ee7d1e9b25646",
+        "url": "https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7"
+      },
       {
         "played_at": "2026-11-02T00:35:30.727Z",
         "id": "1D84CoKziCbQw6NWVxorq4",
@@ -42813,16 +42823,6 @@
         "duration_ms": 154576,
         "image_url": "https://i.scdn.co/image/ab67616d0000b27339b824cf2c412cd63b18f7aa",
         "url": "https://open.spotify.com/track/5rAjfXt75uCkxGbCR1OeCP"
-      },
-      {
-        "played_at": "2026-08-31T00:39:03.252Z",
-        "id": "3jjsRKEsF42ccXf8kWR3nu",
-        "title": "Washing Machine Heart",
-        "artist": "Mitski",
-        "primary_artist": "Mitski",
-        "duration_ms": 128198,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117",
-        "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
       }
     ]
   }
