@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7p4fxMRZCuY6ZtNeu99vbK",
-    "name": "calm luh",
-    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
-    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
+    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
+    "name": "lucio",
+    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
   },
   "track": {
-    "id": "3OUfsApmvr7mwIm0rSbqbu",
-    "name": "leather jacket",
+    "id": "6Nm8h73ycDG2saCnZV8poF",
+    "name": "Dragula",
     "artists": [
-      "Ken Carson"
+      "Rob Zombie"
     ],
-    "artist_label": "Ken Carson",
-    "url": "https://open.spotify.com/track/3OUfsApmvr7mwIm0rSbqbu",
-    "embed_url": "https://open.spotify.com/embed/track/3OUfsApmvr7mwIm0rSbqbu?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2733b494c1b464d41ef641de442",
+    "artist_label": "Rob Zombie",
+    "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
+    "embed_url": "https://open.spotify.com/embed/track/6Nm8h73ycDG2saCnZV8poF?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27313d4adf9e4b938f88266f4e4",
     "album": {
-      "id": "58iEeJbYd6OBGRM0TiwltL",
-      "name": "A Great Chaos (Deluxe)",
-      "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      "id": "2B4lHoTCpWbxQPTZmCOjnH",
+      "name": "Hellbilly Deluxe",
+      "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
     }
   }
 }
