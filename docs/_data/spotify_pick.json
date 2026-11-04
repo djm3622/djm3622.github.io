@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
-    "name": "lucio",
-    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
-    "description": "A 35-track mix spanning 23 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
+    "id": "1LmRGDRZzF0xsVaRezQTBn",
+    "name": "this u?",
+    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+    "description": "A 66-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
   },
   "track": {
-    "id": "6Nm8h73ycDG2saCnZV8poF",
-    "name": "Dragula",
+    "id": "1oNcc2isuz7d3hc1fMoHqj",
+    "name": "Mileage (feat. Chief Keef)",
     "artists": [
-      "Rob Zombie"
+      "Playboi Carti",
+      "Chief Keef"
     ],
-    "artist_label": "Rob Zombie",
-    "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
-    "embed_url": "https://open.spotify.com/embed/track/6Nm8h73ycDG2saCnZV8poF?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27313d4adf9e4b938f88266f4e4",
+    "artist_label": "Playboi Carti, Chief Keef",
+    "url": "https://open.spotify.com/track/1oNcc2isuz7d3hc1fMoHqj",
+    "embed_url": "https://open.spotify.com/embed/track/1oNcc2isuz7d3hc1fMoHqj?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
     "album": {
-      "id": "2B4lHoTCpWbxQPTZmCOjnH",
-      "name": "Hellbilly Deluxe",
-      "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      "id": "7dAm8ShwJLFm9SaJ6Yc58O",
+      "name": "Die Lit",
+      "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
     }
   }
 }
