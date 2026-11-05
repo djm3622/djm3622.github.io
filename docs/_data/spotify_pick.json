@@ -1,30 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1LmRGDRZzF0xsVaRezQTBn",
-    "name": "this u?",
-    "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
-    "description": "A 66-track mix spanning 27 artists, led by Playboi Carti, Lil Uzi Vert, and Travis Scott."
+    "id": "6NDe4f42HlR8RJVhXn1ZCH",
+    "name": "he on something",
+    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
   },
   "track": {
-    "id": "1oNcc2isuz7d3hc1fMoHqj",
-    "name": "Mileage (feat. Chief Keef)",
+    "id": "2JrTuuMLh9c8vfiUmAgUQa",
+    "name": "XO Evil Llif3",
     "artists": [
-      "Playboi Carti",
-      "Chief Keef"
+      "stevie vicious"
     ],
-    "artist_label": "Playboi Carti, Chief Keef",
-    "url": "https://open.spotify.com/track/1oNcc2isuz7d3hc1fMoHqj",
-    "embed_url": "https://open.spotify.com/embed/track/1oNcc2isuz7d3hc1fMoHqj?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+    "artist_label": "stevie vicious",
+    "url": "https://open.spotify.com/track/2JrTuuMLh9c8vfiUmAgUQa",
+    "embed_url": "https://open.spotify.com/embed/track/2JrTuuMLh9c8vfiUmAgUQa?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273a91b3fae9ae2cdb84442413e",
     "album": {
-      "id": "7dAm8ShwJLFm9SaJ6Yc58O",
-      "name": "Die Lit",
-      "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      "id": "5Z76gfD33tAuILPn2UBIqI",
+      "name": "XO Evil Llif3",
+      "url": "https://open.spotify.com/album/5Z76gfD33tAuILPn2UBIqI"
     }
   }
 }
