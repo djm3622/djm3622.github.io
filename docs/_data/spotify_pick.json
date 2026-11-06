@@ -1,29 +1,32 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "6NDe4f42HlR8RJVhXn1ZCH",
-    "name": "he on something",
-    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
-    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
+    "id": "27edqSuOsVHom5TGPrtpy7",
+    "name": "flamed",
+    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
   },
   "track": {
-    "id": "2JrTuuMLh9c8vfiUmAgUQa",
-    "name": "XO Evil Llif3",
+    "id": "4XkOcWt0C2JX1s2RXybosk",
+    "name": "Minnesota",
     "artists": [
-      "stevie vicious"
+      "Lil Yachty",
+      "Quavo",
+      "Skippa Da Flippa",
+      "Young Thug"
     ],
-    "artist_label": "stevie vicious",
-    "url": "https://open.spotify.com/track/2JrTuuMLh9c8vfiUmAgUQa",
-    "embed_url": "https://open.spotify.com/embed/track/2JrTuuMLh9c8vfiUmAgUQa?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273a91b3fae9ae2cdb84442413e",
+    "artist_label": "Lil Yachty, Quavo, Skippa Da Flippa, Young Thug",
+    "url": "https://open.spotify.com/track/4XkOcWt0C2JX1s2RXybosk",
+    "embed_url": "https://open.spotify.com/embed/track/4XkOcWt0C2JX1s2RXybosk?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375",
     "album": {
-      "id": "5Z76gfD33tAuILPn2UBIqI",
-      "name": "XO Evil Llif3",
-      "url": "https://open.spotify.com/album/5Z76gfD33tAuILPn2UBIqI"
+      "id": "4bJqW1SBOvsfcEzZwsjdjx",
+      "name": "Lil Boat",
+      "url": "https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx"
     }
   }
 }
