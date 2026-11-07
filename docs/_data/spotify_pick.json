@@ -1,32 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "27edqSuOsVHom5TGPrtpy7",
-    "name": "flamed",
-    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
-    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
+    "id": "1BXO1VOQIBiYkHtGtopfwS",
+    "name": "yeatpilled",
+    "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+    "description": "A 86-track mix spanning 23 artists, led by Yeat, alyx, and prodbysky."
   },
   "track": {
-    "id": "4XkOcWt0C2JX1s2RXybosk",
-    "name": "Minnesota",
+    "id": "44PH8NLzVddk4qhAUvm4v3",
+    "name": "Purpose General",
     "artists": [
-      "Lil Yachty",
-      "Quavo",
-      "Skippa Da Flippa",
-      "Young Thug"
+      "Yeat"
     ],
-    "artist_label": "Lil Yachty, Quavo, Skippa Da Flippa, Young Thug",
-    "url": "https://open.spotify.com/track/4XkOcWt0C2JX1s2RXybosk",
-    "embed_url": "https://open.spotify.com/embed/track/4XkOcWt0C2JX1s2RXybosk?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375",
+    "artist_label": "Yeat",
+    "url": "https://open.spotify.com/track/44PH8NLzVddk4qhAUvm4v3",
+    "embed_url": "https://open.spotify.com/embed/track/44PH8NLzVddk4qhAUvm4v3?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27345e018eb7fc9ebc610ae4a64",
     "album": {
-      "id": "4bJqW1SBOvsfcEzZwsjdjx",
-      "name": "Lil Boat",
-      "url": "https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx"
+      "id": "6sKe2lWmQxRYhhUnN7dln3",
+      "name": "ADL",
+      "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
     }
   }
 }

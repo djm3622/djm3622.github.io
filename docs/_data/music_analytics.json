@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-11-06",
+  "generated_on": "2026-11-07",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 102,
       "sampled_tracks": 102,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -16967,19 +16967,19 @@
         },
         {
           "rank": 8,
-          "id": "6kooDsorCpWVMGc994XjWN",
-          "name": "Black Betty",
-          "artist": "Ram Jam",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2732dae35818253ccb1cd0cd87d",
-          "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
-        },
-        {
-          "rank": 9,
           "id": "3r62Q78rAMZHEuLbm1nKs2",
           "name": "Crying Alive",
           "artist": "Westwood",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2735b069cbe111574138718a2a3",
           "url": "https://open.spotify.com/track/3r62Q78rAMZHEuLbm1nKs2"
+        },
+        {
+          "rank": 9,
+          "id": "6kooDsorCpWVMGc994XjWN",
+          "name": "Black Betty",
+          "artist": "Ram Jam",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2732dae35818253ccb1cd0cd87d",
+          "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
         },
         {
           "rank": 10,
@@ -17063,11 +17063,11 @@
         },
         {
           "rank": 20,
-          "id": "73ck4TGQSxatW45NG0GpVs",
-          "name": "Get There",
-          "artist": "Westwood, pryme!",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
-          "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
+          "id": "19zMOwWhd7wQ2hhyUI1ey9",
+          "name": "ex",
+          "artist": "onlywoke",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+          "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
         }
       ],
       "six_months": [
@@ -17145,14 +17145,6 @@
         },
         {
           "rank": 10,
-          "id": "20I6sIOMTCkB6w7ryavxtO",
-          "name": "Call Me Maybe",
-          "artist": "Carly Rae Jepsen",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72",
-          "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
-        },
-        {
-          "rank": 11,
           "id": "1zBdEt1NKs2Nc0VKxT21Zn",
           "name": "1",
           "artist": "nate sib",
@@ -17160,7 +17152,7 @@
           "url": "https://open.spotify.com/track/1zBdEt1NKs2Nc0VKxT21Zn"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "73ck4TGQSxatW45NG0GpVs",
           "name": "Get There",
           "artist": "Westwood, pryme!",
@@ -17168,20 +17160,28 @@
           "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
         },
         {
-          "rank": 13,
-          "id": "5hhv2mBCNoiWfRZmBzutW8",
-          "name": "Every Night",
-          "artist": "Lil Mosey",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2737aa54f905ae6c1e7f67020ea",
-          "url": "https://open.spotify.com/track/5hhv2mBCNoiWfRZmBzutW8"
+          "rank": 12,
+          "id": "20I6sIOMTCkB6w7ryavxtO",
+          "name": "Call Me Maybe",
+          "artist": "Carly Rae Jepsen",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72",
+          "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "id": "04wy3jvJoWfllmd6HeFM0y",
           "name": "AGAIN",
           "artist": "Moors",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273575282232357fa5d887651d3",
           "url": "https://open.spotify.com/track/04wy3jvJoWfllmd6HeFM0y"
+        },
+        {
+          "rank": 14,
+          "id": "5hhv2mBCNoiWfRZmBzutW8",
+          "name": "Every Night",
+          "artist": "Lil Mosey",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2737aa54f905ae6c1e7f67020ea",
+          "url": "https://open.spotify.com/track/5hhv2mBCNoiWfRZmBzutW8"
         },
         {
           "rank": 15,
@@ -17225,11 +17225,11 @@
         },
         {
           "rank": 20,
-          "id": "6wm3t4VpTxSFfOUgTMlHZM",
-          "name": "The Peace",
-          "artist": "underscores",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273cab898cdda3ee7d1e9b25646",
-          "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
+          "id": "7oR2toSWU8J9Qu0C4KEdrT",
+          "name": "afraid of the dark!",
+          "artist": "aidn.",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b273d329eaa352b46b3056fbc108",
+          "url": "https://open.spotify.com/track/7oR2toSWU8J9Qu0C4KEdrT"
         }
       ],
       "one_year": [
@@ -17653,17 +17653,17 @@
         },
         {
           "rank": 17,
-          "id": "6LqNN22kT3074XbTVUrhzX",
-          "name": "Kesha",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "rank": 18,
           "id": "0jnsk9HBra6NMjO2oANoPY",
           "name": "Flo Rida",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb655ca8f3196953554b479452",
           "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "rank": 18,
+          "id": "6LqNN22kT3074XbTVUrhzX",
+          "name": "Kesha",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         },
         {
           "rank": 19,
