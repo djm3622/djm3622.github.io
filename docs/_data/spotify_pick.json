@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "27edqSuOsVHom5TGPrtpy7",
-    "name": "flamed",
-    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
-    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
+    "id": "6NDe4f42HlR8RJVhXn1ZCH",
+    "name": "he on something",
+    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
   },
   "track": {
-    "id": "6eKWSrZfzd25TYYxkscWgg",
-    "name": "BabyWipe",
+    "id": "2ZdCrBA52bb4pIG3tOOZiQ",
+    "name": "Dark Queen",
     "artists": [
-      "Ski Mask The Slump God"
+      "Lil Uzi Vert"
     ],
-    "artist_label": "Ski Mask The Slump God",
-    "url": "https://open.spotify.com/track/6eKWSrZfzd25TYYxkscWgg",
-    "embed_url": "https://open.spotify.com/embed/track/6eKWSrZfzd25TYYxkscWgg?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27313831fd1727486857a80f2be",
+    "artist_label": "Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/2ZdCrBA52bb4pIG3tOOZiQ",
+    "embed_url": "https://open.spotify.com/embed/track/2ZdCrBA52bb4pIG3tOOZiQ?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352",
     "album": {
-      "id": "2pTyjuQ1d1d79Chhknoa2h",
-      "name": "You Will Regret (Reloaded)",
-      "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
+      "id": "733e1ZfktLSwj96X5rsMeE",
+      "name": "Luv Is Rage 2",
+      "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
     }
   }
 }
