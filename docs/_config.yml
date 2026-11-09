@@ -48,7 +48,7 @@ header_pages:
   - about.markdown
   - publications.markdown
   - presentations.markdown
-  - music.markdown
+  # - music.markdown  # Music page hidden for now; uncomment to restore.
   - plugins.markdown
 
 defaults:

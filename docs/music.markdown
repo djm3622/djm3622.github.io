@@ -2,6 +2,7 @@
 layout: page
 title: Music
 permalink: /music/
+published: false  # Hidden for now; delete this line to restore the Music page.
 description: A playful tour through David Millard's playlists, recent favorites, and listening habits.
 ---
 
