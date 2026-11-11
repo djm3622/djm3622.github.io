@@ -1,29 +1,30 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "0kVBGAMtUIeJQat1V7a861",
-    "name": "cloud",
-    "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
-    "description": "A 19-track mix spanning 9 artists, led by Mac Miller, Kanye West, and Joji."
+    "id": "4gzEOrF8mCDu96BCLdwDya",
+    "name": "92.3",
+    "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+    "description": "A 105-track mix spanning 79 artists, led by Rihanna, Britney Spears, and Akon."
   },
   "track": {
-    "id": "5bJ1DrEM4hNCafcDd1oxHx",
-    "name": "Self Care",
+    "id": "6cmm1LMvZdB5zsCwX5BjqE",
+    "name": "Down",
     "artists": [
-      "Mac Miller"
+      "Jay Sean",
+      "Lil Wayne"
     ],
-    "artist_label": "Mac Miller",
-    "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
-    "embed_url": "https://open.spotify.com/embed/track/5bJ1DrEM4hNCafcDd1oxHx?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+    "artist_label": "Jay Sean, Lil Wayne",
+    "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE",
+    "embed_url": "https://open.spotify.com/embed/track/6cmm1LMvZdB5zsCwX5BjqE?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e207a14471e5356294146e9d",
     "album": {
-      "id": "5wtE5aLX5r7jOosmPhJhhk",
-      "name": "Swimming",
-      "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      "id": "2H66HrVR1UeMlAoSXpxUnk",
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
     }
   }
 }
