@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 86,
       "sampled_tracks": 86,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -7151,7 +7151,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b273ea34361c4a339d474c3be057",
       "playcount": null,
-      "recent_play_count": 2
+      "recent_play_count": 3
     },
     {
       "id": "5n2xMZmypRAUKW4PkTMy9A",
@@ -16681,11 +16681,11 @@
     "history_days": 90,
     "captured_plays": 2500,
     "captured_hours": 117.5,
-    "distinct_tracks": 759,
-    "distinct_artists": 354,
+    "distinct_tracks": 758,
+    "distinct_artists": 353,
     "history_start": "2026-09-08",
     "history_end": "2026-11-11",
-    "last_played_at": "2026-11-11T01:33:03.411Z",
+    "last_played_at": "2026-11-11T01:49:30.259Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16769,7 +16769,7 @@
         "hour": 13,
         "label": "1 PM",
         "plays": 230,
-        "height_pct": 72
+        "height_pct": 73
       },
       {
         "hour": 14,
@@ -16787,7 +16787,7 @@
         "hour": 16,
         "label": "4 PM",
         "plays": 208,
-        "height_pct": 65
+        "height_pct": 66
       },
       {
         "hour": 17,
@@ -16798,7 +16798,7 @@
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 318,
+        "plays": 317,
         "height_pct": 100
       },
       {
@@ -16810,8 +16810,8 @@
       {
         "hour": 20,
         "label": "8 PM",
-        "plays": 103,
-        "height_pct": 32
+        "plays": 104,
+        "height_pct": 33
       },
       {
         "hour": 21,
@@ -16823,7 +16823,7 @@
         "hour": 22,
         "label": "10 PM",
         "plays": 46,
-        "height_pct": 14
+        "height_pct": 15
       },
       {
         "hour": 23,
@@ -17886,6 +17886,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-11T01:49:30.259Z",
+        "id": "2oENJa1T33GJ0w8dC167G4",
+        "title": "Fire Burning",
+        "artist": "Sean Kingston",
+        "primary_artist": "Sean Kingston",
+        "duration_ms": 239986,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ea34361c4a339d474c3be057",
+        "url": "https://open.spotify.com/track/2oENJa1T33GJ0w8dC167G4"
+      },
       {
         "played_at": "2026-11-11T01:33:03.411Z",
         "id": "0laYHRpNTS6i8FXdupHkJ4",
@@ -42875,16 +42885,6 @@
         "duration_ms": 183333,
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732d1442d8781d9a04e718b5d0",
         "url": "https://open.spotify.com/track/4jqnMhuS8KIh8gbCsOMsc6"
-      },
-      {
-        "played_at": "2026-09-08T22:52:55.474Z",
-        "id": "6HJszgJO19tAKff7X40ggp",
-        "title": "Reality Surf",
-        "artist": "Bladee",
-        "primary_artist": "Bladee",
-        "duration_ms": 123586,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
-        "url": "https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp"
       }
     ]
   }
