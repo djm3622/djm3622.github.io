@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 86,
       "sampled_tracks": 86,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16723,11 +16723,11 @@
     "history_days": 90,
     "captured_plays": 2500,
     "captured_hours": 119.1,
-    "distinct_tracks": 763,
+    "distinct_tracks": 764,
     "distinct_artists": 349,
     "history_start": "2026-09-09",
     "history_end": "2026-11-12",
-    "last_played_at": "2026-11-12T00:50:27.069Z",
+    "last_played_at": "2026-11-12T10:29:01.802Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16762,8 +16762,8 @@
       {
         "hour": 5,
         "label": "5 AM",
-        "plays": 1,
-        "height_pct": 0
+        "plays": 2,
+        "height_pct": 1
       },
       {
         "hour": 6,
@@ -16828,8 +16828,8 @@
       {
         "hour": 16,
         "label": "4 PM",
-        "plays": 217,
-        "height_pct": 67
+        "plays": 216,
+        "height_pct": 66
       },
       {
         "hour": 17,
@@ -16887,12 +16887,12 @@
       },
       {
         "label": "Wed",
-        "plays": 441,
-        "width_pct": 97
+        "plays": 440,
+        "width_pct": 96
       },
       {
         "label": "Thu",
-        "plays": 456,
+        "plays": 457,
         "width_pct": 100
       },
       {
@@ -17505,7 +17505,7 @@
           "rank": 1,
           "id": "72NhFAGG5Pt91VbheJeEPG",
           "name": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebfa8e5370cae3d2cfba098c87",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb3d8a676e825dd486dce39210",
           "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
         },
         {
@@ -17647,7 +17647,7 @@
           "rank": 1,
           "id": "72NhFAGG5Pt91VbheJeEPG",
           "name": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebfa8e5370cae3d2cfba098c87",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb3d8a676e825dd486dce39210",
           "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
         },
         {
@@ -17810,7 +17810,7 @@
           "rank": 4,
           "id": "72NhFAGG5Pt91VbheJeEPG",
           "name": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebfa8e5370cae3d2cfba098c87",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb3d8a676e825dd486dce39210",
           "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
         },
         {
@@ -17928,6 +17928,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-12T10:29:01.802Z",
+        "id": "0hMoGEOU0ogjOAJCzMAczN",
+        "title": "Off Tha Lot",
+        "artist": "Yeat",
+        "primary_artist": "Yeat",
+        "duration_ms": 123506,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c3b6e029c7313c6d0f9ccc4b",
+        "url": "https://open.spotify.com/track/0hMoGEOU0ogjOAJCzMAczN"
+      },
       {
         "played_at": "2026-11-12T00:50:27.069Z",
         "id": "37nYSBS0MfRCm913QwCCYo",
@@ -42917,16 +42927,6 @@
         "duration_ms": 199700,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
         "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
-      },
-      {
-        "played_at": "2026-09-09T20:45:23.505Z",
-        "id": "5SXKBMBnVz3mTHNoWnwREI",
-        "title": "bad4me",
-        "artist": "taewon",
-        "primary_artist": "taewon",
-        "duration_ms": 161664,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273bd2e84f7a14ccb50ead6165b",
-        "url": "https://open.spotify.com/track/5SXKBMBnVz3mTHNoWnwREI"
       }
     ]
   }
