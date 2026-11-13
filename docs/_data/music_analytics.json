@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 317,
       "sampled_tracks": 317,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 35,
       "sampled_tracks": 35,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16747,11 +16747,11 @@
     "history_days": 90,
     "captured_plays": 2500,
     "captured_hours": 119.9,
-    "distinct_tracks": 746,
+    "distinct_tracks": 747,
     "distinct_artists": 339,
     "history_start": "2026-09-10",
     "history_end": "2026-11-13",
-    "last_played_at": "2026-11-13T01:33:58.955Z",
+    "last_played_at": "2026-11-13T16:23:58.482Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16816,14 +16816,14 @@
       {
         "hour": 10,
         "label": "10 AM",
-        "plays": 165,
+        "plays": 164,
         "height_pct": 51
       },
       {
         "hour": 11,
         "label": "11 AM",
-        "plays": 170,
-        "height_pct": 52
+        "plays": 171,
+        "height_pct": 53
       },
       {
         "hour": 12,
@@ -16912,16 +16912,16 @@
       {
         "label": "Wed",
         "plays": 397,
-        "width_pct": 79
+        "width_pct": 80
       },
       {
         "label": "Thu",
-        "plays": 500,
+        "plays": 499,
         "width_pct": 100
       },
       {
         "label": "Fri",
-        "plays": 394,
+        "plays": 395,
         "width_pct": 79
       },
       {
@@ -16942,7 +16942,7 @@
         "artist": "nate sib",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
         "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9",
-        "plays": 103
+        "plays": 102
       },
       {
         "id": "3Wjb9LujZhkRya23MOeTEw",
@@ -17012,7 +17012,7 @@
       },
       {
         "name": "nate sib",
-        "plays": 157
+        "plays": 156
       },
       {
         "name": "aidn.",
@@ -17515,11 +17515,11 @@
         },
         {
           "rank": 20,
-          "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
-          "name": "hold on",
-          "artist": "nate sib",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
-          "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
+          "id": "5u0eNAp8riUKygaLJTe5YB",
+          "name": "nerve",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB"
         }
       ]
     },
@@ -17888,24 +17888,24 @@
         },
         {
           "rank": 12,
-          "id": "7ITMCzIU9uII8gwRg8JAhc",
-          "name": "Odetari",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eba07d569bd8058b34142ded86",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "rank": 13,
           "id": "3Xt3RrJMFv5SZkCfUE8C1J",
           "name": "Kim Petras",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb15a73d2fd90eb732c846ce06",
           "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "id": "4Gso3d4CscCijv0lmajZWs",
           "name": "Don Toliver",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb95ef459a84c75fbdc20a070c",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "rank": 14,
+          "id": "7ITMCzIU9uII8gwRg8JAhc",
+          "name": "Odetari",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eba07d569bd8058b34142ded86",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         },
         {
           "rank": 15,
@@ -17952,6 +17952,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-13T16:23:58.482Z",
+        "id": "1j8z4TTjJ1YOdoFEDwJTQa",
+        "title": "Ain't It Fun",
+        "artist": "Paramore",
+        "primary_artist": "Paramore",
+        "duration_ms": 296520,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
+        "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+      },
       {
         "played_at": "2026-11-13T01:33:58.955Z",
         "id": "6cmm1LMvZdB5zsCwX5BjqE",
@@ -42934,16 +42944,6 @@
       },
       {
         "played_at": "2026-09-10T14:47:29.195Z",
-        "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
-        "title": "hold on",
-        "artist": "nate sib",
-        "primary_artist": "nate sib",
-        "duration_ms": 119830,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e62eb311d3efd22b2e1610bb",
-        "url": "https://open.spotify.com/track/2VuOOQ8aG0Kn7pO8kyoEb9"
-      },
-      {
-        "played_at": "2026-09-10T14:38:23.320Z",
         "id": "2VuOOQ8aG0Kn7pO8kyoEb9",
         "title": "hold on",
         "artist": "nate sib",
