@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "5IvibMktz0TzHg6JyIXzSm",
-    "name": "illumi",
-    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
-    "description": "A 317-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 110-track mix spanning 70 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "5ZYc494Yhj18o8nbG777LV",
-    "name": "I <3 LATINAS",
+    "id": "7uS0B4O1PDYQhZJQIuFjtR",
+    "name": "Coffee",
     "artists": [
-      "Odetari"
+      "Memphis LK"
     ],
-    "artist_label": "Odetari",
-    "url": "https://open.spotify.com/track/5ZYc494Yhj18o8nbG777LV",
-    "embed_url": "https://open.spotify.com/embed/track/5ZYc494Yhj18o8nbG777LV?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2738e73110ad7ce7f1c3a628614",
+    "artist_label": "Memphis LK",
+    "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR",
+    "embed_url": "https://open.spotify.com/embed/track/7uS0B4O1PDYQhZJQIuFjtR?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273b79684f1334e8899a2b21f42",
     "album": {
-      "id": "1MtzbdSdDZZBopNu7IcskV",
-      "name": "I <3 LATINAS",
-      "url": "https://open.spotify.com/album/1MtzbdSdDZZBopNu7IcskV"
+      "id": "5QvtSMjg0Qr2DFa7LRKA1u",
+      "name": "Coffee",
+      "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
     }
   }
 }
