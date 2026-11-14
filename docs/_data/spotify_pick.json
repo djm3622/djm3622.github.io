@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 110-track mix spanning 70 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "1ulWy0m2PhTsQvCQi3o4Fu",
+    "name": "lucio",
+    "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+    "description": "A 36-track mix spanning 24 artists, led by Limp Bizkit, Pierce The Veil, and Breaking Benjamin."
   },
   "track": {
-    "id": "7uS0B4O1PDYQhZJQIuFjtR",
-    "name": "Coffee",
+    "id": "2avKuMN2QXkaG9vvHa2JLt",
+    "name": "Take A Look Around",
     "artists": [
-      "Memphis LK"
+      "Limp Bizkit"
     ],
-    "artist_label": "Memphis LK",
-    "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR",
-    "embed_url": "https://open.spotify.com/embed/track/7uS0B4O1PDYQhZJQIuFjtR?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273b79684f1334e8899a2b21f42",
+    "artist_label": "Limp Bizkit",
+    "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt",
+    "embed_url": "https://open.spotify.com/embed/track/2avKuMN2QXkaG9vvHa2JLt?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe",
     "album": {
-      "id": "5QvtSMjg0Qr2DFa7LRKA1u",
-      "name": "Coffee",
-      "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
+      "id": "5mi7FKaWE5CtcOjdyxScA7",
+      "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
     }
   }
 }
