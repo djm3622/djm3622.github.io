@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 110,
       "sampled_tracks": 110,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -16770,12 +16770,12 @@
     "enabled": true,
     "history_days": 90,
     "captured_plays": 2500,
-    "captured_hours": 120.7,
-    "distinct_tracks": 755,
+    "captured_hours": 120.8,
+    "distinct_tracks": 754,
     "distinct_artists": 343,
     "history_start": "2026-09-10",
-    "history_end": "2026-11-14",
-    "last_played_at": "2026-11-14T22:55:06.062Z",
+    "history_end": "2026-11-15",
+    "last_played_at": "2026-11-15T02:53:31.136Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16858,8 +16858,8 @@
       {
         "hour": 13,
         "label": "1 PM",
-        "plays": 224,
-        "height_pct": 69
+        "plays": 223,
+        "height_pct": 68
       },
       {
         "hour": 14,
@@ -16906,7 +16906,7 @@
       {
         "hour": 21,
         "label": "9 PM",
-        "plays": 26,
+        "plays": 27,
         "height_pct": 8
       },
       {
@@ -16926,7 +16926,7 @@
       {
         "label": "Mon",
         "plays": 416,
-        "width_pct": 95
+        "width_pct": 96
       },
       {
         "label": "Tue",
@@ -16940,7 +16940,7 @@
       },
       {
         "label": "Thu",
-        "plays": 436,
+        "plays": 435,
         "width_pct": 100
       },
       {
@@ -16950,8 +16950,8 @@
       },
       {
         "label": "Sat",
-        "plays": 306,
-        "width_pct": 70
+        "plays": 307,
+        "width_pct": 71
       },
       {
         "label": "Sun",
@@ -17028,7 +17028,7 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 365
+        "plays": 366
       },
       {
         "name": "Westwood",
@@ -17345,19 +17345,19 @@
         },
         {
           "rank": 16,
-          "id": "2GhvoJajHIXxWK4vtPWkqN",
-          "name": "destroy me",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
-        },
-        {
-          "rank": 17,
           "id": "3wkKkFAtYSTRwqOydW6T0I",
           "name": "Please Don't Go",
           "artist": "Mike Posner",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273f25e817928edb73d38a27630",
           "url": "https://open.spotify.com/track/3wkKkFAtYSTRwqOydW6T0I"
+        },
+        {
+          "rank": 17,
+          "id": "2GhvoJajHIXxWK4vtPWkqN",
+          "name": "destroy me",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
         },
         {
           "rank": 18,
@@ -17976,6 +17976,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-15T02:53:31.136Z",
+        "id": "2GhvoJajHIXxWK4vtPWkqN",
+        "title": "destroy me",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 163655,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+        "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
+      },
       {
         "played_at": "2026-11-14T22:55:06.062Z",
         "id": "2lNh0tlv8ZgzhiWyWzpwsK",
@@ -42965,16 +42975,6 @@
         "duration_ms": 120754,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273081f5f27778d223986f9cfc0",
         "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
-      },
-      {
-        "played_at": "2026-09-10T17:28:31.123Z",
-        "id": "4J2z3w9cmAtRjppx1Z9Qbi",
-        "title": "strangers",
-        "artist": "ericdoa",
-        "primary_artist": "ericdoa",
-        "duration_ms": 141463,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273a1e7abdcf37b09814a6b21db",
-        "url": "https://open.spotify.com/track/4J2z3w9cmAtRjppx1Z9Qbi"
       }
     ]
   }
