@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1BXO1VOQIBiYkHtGtopfwS",
-    "name": "yeatpilled",
-    "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
-    "description": "A 86-track mix spanning 23 artists, led by Yeat, alyx, and prodbysky."
+    "id": "6NDe4f42HlR8RJVhXn1ZCH",
+    "name": "he on something",
+    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
   },
   "track": {
-    "id": "7HNNxPQDzRWy1gAFV8AyDW",
-    "name": "7 nightz",
+    "id": "0uxSUdBrJy9Un0EYoBowng",
+    "name": "20 Min",
     "artists": [
-      "Yeat"
+      "Lil Uzi Vert"
     ],
-    "artist_label": "Yeat",
-    "url": "https://open.spotify.com/track/7HNNxPQDzRWy1gAFV8AyDW",
-    "embed_url": "https://open.spotify.com/embed/track/7HNNxPQDzRWy1gAFV8AyDW?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273acafc1658bdd56d083d262ab",
+    "artist_label": "Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng",
+    "embed_url": "https://open.spotify.com/embed/track/0uxSUdBrJy9Un0EYoBowng?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d7e1c68ed8e464b03095afda",
     "album": {
-      "id": "25Uddgldy3slnChqKqHsIM",
-      "name": "Aft\u00ebrLyfe",
-      "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      "id": "0zicd2mBV8HTzSubByj4vP",
+      "name": "Luv Is Rage 2 (Deluxe)",
+      "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
     }
   }
 }
