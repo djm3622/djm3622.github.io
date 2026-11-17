@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 110,
       "sampled_tracks": 110,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 109,
       "sampled_tracks": 109,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -11605,7 +11605,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
       "playcount": null,
-      "recent_play_count": 2
+      "recent_play_count": 3
     },
     {
       "id": "6ZmZYirBGRw0iNBp1w0ZTi",
@@ -11619,7 +11619,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b27324f7e27b268c2777fc367e36",
       "playcount": null,
-      "recent_play_count": 1
+      "recent_play_count": 0
     },
     {
       "id": "6naxalmIoLFWR0siv8dnQQ",
@@ -16795,11 +16795,11 @@
     "history_days": 90,
     "captured_plays": 2500,
     "captured_hours": 121.4,
-    "distinct_tracks": 762,
+    "distinct_tracks": 761,
     "distinct_artists": 349,
     "history_start": "2026-09-11",
     "history_end": "2026-11-17",
-    "last_played_at": "2026-11-17T01:03:06.896Z",
+    "last_played_at": "2026-11-17T01:26:36.846Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16906,7 +16906,7 @@
       {
         "hour": 17,
         "label": "5 PM",
-        "plays": 136,
+        "plays": 135,
         "height_pct": 42
       },
       {
@@ -16924,8 +16924,8 @@
       {
         "hour": 20,
         "label": "8 PM",
-        "plays": 88,
-        "height_pct": 27
+        "plays": 89,
+        "height_pct": 28
       },
       {
         "hour": 21,
@@ -16949,7 +16949,7 @@
     "weekday_bins": [
       {
         "label": "Mon",
-        "plays": 466,
+        "plays": 467,
         "width_pct": 100
       },
       {
@@ -16969,7 +16969,7 @@
       },
       {
         "label": "Fri",
-        "plays": 397,
+        "plays": 396,
         "width_pct": 85
       },
       {
@@ -17547,6 +17547,14 @@
         },
         {
           "rank": 18,
+          "id": "5u0eNAp8riUKygaLJTe5YB",
+          "name": "nerve",
+          "artist": "2hollis",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
+          "url": "https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB"
+        },
+        {
+          "rank": 19,
           "id": "3GDxQBr7aghzWH0kA0N8yk",
           "name": "Batman",
           "artist": "mikeeysmind, dadanny",
@@ -17554,20 +17562,12 @@
           "url": "https://open.spotify.com/track/3GDxQBr7aghzWH0kA0N8yk"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "id": "79IgD1wf3xltQdDK3l5Why",
           "name": "In My Room",
           "artist": "Julia Wolf",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739c314ae07968354119a803da",
           "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
-        },
-        {
-          "rank": 20,
-          "id": "5u0eNAp8riUKygaLJTe5YB",
-          "name": "nerve",
-          "artist": "2hollis",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
-          "url": "https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB"
         }
       ]
     },
@@ -17603,17 +17603,17 @@
         },
         {
           "rank": 5,
-          "id": "6jJ0s89eD6GaHleKKya26X",
-          "name": "Katy Perry",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "rank": 6,
           "id": "5pKCCKE2ajJHZ9KAiaK11H",
           "name": "Rihanna",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebcb565a8e684e3be458d329ac",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "rank": 6,
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
           "rank": 7,
@@ -18000,6 +18000,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-17T01:26:36.846Z",
+        "id": "2ENexcMEMsYk0rVJigVD3i",
+        "title": "Only Girl (In The World)",
+        "artist": "Rihanna",
+        "primary_artist": "Rihanna",
+        "duration_ms": 235493,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+        "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+      },
       {
         "played_at": "2026-11-17T01:03:06.896Z",
         "id": "7HacCTm33hZYYN8DXpCYuG",
@@ -42989,16 +42999,6 @@
         "duration_ms": 138268,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fcc1ef4b803dd2a5acecf42d",
         "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
-      },
-      {
-        "played_at": "2026-09-11T21:38:30.858Z",
-        "id": "6ZmZYirBGRw0iNBp1w0ZTi",
-        "title": "Only In My Mind",
-        "artist": "Kenya Grace",
-        "primary_artist": "Kenya Grace",
-        "duration_ms": 161137,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27324f7e27b268c2777fc367e36",
-        "url": "https://open.spotify.com/track/6ZmZYirBGRw0iNBp1w0ZTi"
       }
     ]
   }
