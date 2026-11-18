@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7p4fxMRZCuY6ZtNeu99vbK",
-    "name": "calm luh",
-    "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
-    "description": "A 37-track mix spanning 8 artists, led by Ken Carson, Destroy Lonely, and HXG."
+    "id": "5IvibMktz0TzHg6JyIXzSm",
+    "name": "illumi",
+    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+    "description": "A 317-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
   },
   "track": {
-    "id": "7IzutleLK1419FM8rUpYmq",
-    "name": "Blakk Rokkstar",
+    "id": "55lhT34ZCsTCydq29VbchJ",
+    "name": "Leave The City",
     "artists": [
-      "Ken Carson"
+      "Nakani"
     ],
-    "artist_label": "Ken Carson",
-    "url": "https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq",
-    "embed_url": "https://open.spotify.com/embed/track/7IzutleLK1419FM8rUpYmq?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273f671667c2782b5d8bdd9a6f1",
+    "artist_label": "Nakani",
+    "url": "https://open.spotify.com/track/55lhT34ZCsTCydq29VbchJ",
+    "embed_url": "https://open.spotify.com/embed/track/55lhT34ZCsTCydq29VbchJ?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273aaac871cbcbe145ef6e7a4c7",
     "album": {
-      "id": "3tIS7SDlvbyJ0oFQzNqjco",
-      "name": "More Chaos",
-      "url": "https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco"
+      "id": "3tkHGt2uQIYPCPKvPhHrdz",
+      "name": "Leave The City",
+      "url": "https://open.spotify.com/album/3tkHGt2uQIYPCPKvPhHrdz"
     }
   }
 }
