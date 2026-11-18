@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -16798,13 +16798,13 @@
     "distinct_tracks": 740,
     "distinct_artists": 348,
     "history_start": "2026-09-12",
-    "history_end": "2026-11-17",
-    "last_played_at": "2026-11-17T23:23:20.691Z",
+    "history_end": "2026-11-18",
+    "last_played_at": "2026-11-18T11:51:41.911Z",
     "hour_bins": [
       {
         "hour": 0,
         "label": "12 AM",
-        "plays": 18,
+        "plays": 19,
         "height_pct": 6
       },
       {
@@ -16840,7 +16840,7 @@
       {
         "hour": 6,
         "label": "6 AM",
-        "plays": 0,
+        "plays": 1,
         "height_pct": 0
       },
       {
@@ -16918,8 +16918,8 @@
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 251,
-        "height_pct": 83
+        "plays": 249,
+        "height_pct": 82
       },
       {
         "hour": 20,
@@ -16959,7 +16959,7 @@
       },
       {
         "label": "Wed",
-        "plays": 397,
+        "plays": 399,
         "width_pct": 85
       },
       {
@@ -16974,8 +16974,8 @@
       },
       {
         "label": "Sat",
-        "plays": 265,
-        "width_pct": 57
+        "plays": 263,
+        "width_pct": 56
       },
       {
         "label": "Sun",
@@ -18000,6 +18000,26 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-18T11:51:41.911Z",
+        "id": "4sAS28DYPVjRMGHWGRxjKT",
+        "title": "KIDS",
+        "artist": "echstacy",
+        "primary_artist": "echstacy",
+        "duration_ms": 156965,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732a464d004daa18b6c912e51f",
+        "url": "https://open.spotify.com/track/4sAS28DYPVjRMGHWGRxjKT"
+      },
+      {
+        "played_at": "2026-11-18T05:50:38.927Z",
+        "id": "4sAS28DYPVjRMGHWGRxjKT",
+        "title": "KIDS",
+        "artist": "echstacy",
+        "primary_artist": "echstacy",
+        "duration_ms": 156965,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732a464d004daa18b6c912e51f",
+        "url": "https://open.spotify.com/track/4sAS28DYPVjRMGHWGRxjKT"
+      },
       {
         "played_at": "2026-11-17T23:23:20.691Z",
         "id": "2QKTRLGSqZdFKVqm48ojzl",
@@ -42979,26 +42999,6 @@
         "duration_ms": 137158,
         "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
         "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn"
-      },
-      {
-        "played_at": "2026-09-12T23:08:42.844Z",
-        "id": "3MOiRopkW7q1yE2QC2BHi0",
-        "title": "SAME OLD ME",
-        "artist": "Rich Amiri",
-        "primary_artist": "Rich Amiri",
-        "duration_ms": 158800,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273becc78a3e1cdccde51debcf3",
-        "url": "https://open.spotify.com/track/3MOiRopkW7q1yE2QC2BHi0"
-      },
-      {
-        "played_at": "2026-09-12T23:06:03.484Z",
-        "id": "6rUmUJ2drFemHTH73bFAKQ",
-        "title": "That Go! (feat. T-Shyne)",
-        "artist": "Young Stoner Life, Young Thug, Meek Mill, T-Shyne",
-        "primary_artist": "Young Stoner Life",
-        "duration_ms": 226000,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
-        "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
       }
     ]
   }
