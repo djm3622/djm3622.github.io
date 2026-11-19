@@ -1,29 +1,31 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "5IvibMktz0TzHg6JyIXzSm",
-    "name": "illumi",
-    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
-    "description": "A 317-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 110-track mix spanning 70 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "55lhT34ZCsTCydq29VbchJ",
-    "name": "Leave The City",
+    "id": "5XY1nWnaGz5pqk8ZrhgQpw",
+    "name": "bluetooth",
     "artists": [
-      "Nakani"
+      "piri & tommy",
+      "piri",
+      "Tommy Villiers"
     ],
-    "artist_label": "Nakani",
-    "url": "https://open.spotify.com/track/55lhT34ZCsTCydq29VbchJ",
-    "embed_url": "https://open.spotify.com/embed/track/55lhT34ZCsTCydq29VbchJ?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273aaac871cbcbe145ef6e7a4c7",
+    "artist_label": "piri & tommy, piri, Tommy Villiers",
+    "url": "https://open.spotify.com/track/5XY1nWnaGz5pqk8ZrhgQpw",
+    "embed_url": "https://open.spotify.com/embed/track/5XY1nWnaGz5pqk8ZrhgQpw?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27391b517ea4cf8042feadb9d89",
     "album": {
-      "id": "3tkHGt2uQIYPCPKvPhHrdz",
-      "name": "Leave The City",
-      "url": "https://open.spotify.com/album/3tkHGt2uQIYPCPKvPhHrdz"
+      "id": "3xVATlIyBxFu2g97TJ1oui",
+      "name": "bluetooth",
+      "url": "https://open.spotify.com/album/3xVATlIyBxFu2g97TJ1oui"
     }
   }
 }
