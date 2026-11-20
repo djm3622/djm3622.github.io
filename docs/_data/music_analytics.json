@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 317,
       "sampled_tracks": 317,
       "sample_coverage_pct": 100.0,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 110,
       "sampled_tracks": 110,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 86,
       "sampled_tracks": 86,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -189,7 +189,7 @@
       "name": "bobby ray",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
       "total_tracks": 10,
       "sampled_tracks": 10,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -16799,7 +16799,7 @@
     "distinct_artists": 362,
     "history_start": "2026-09-16",
     "history_end": "2026-11-20",
-    "last_played_at": "2026-11-20T01:03:56.604Z",
+    "last_played_at": "2026-11-20T11:42:31.701Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16840,8 +16840,8 @@
       {
         "hour": 6,
         "label": "6 AM",
-        "plays": 1,
-        "height_pct": 0
+        "plays": 2,
+        "height_pct": 1
       },
       {
         "hour": 7,
@@ -16900,7 +16900,7 @@
       {
         "hour": 16,
         "label": "4 PM",
-        "plays": 218,
+        "plays": 217,
         "height_pct": 69
       },
       {
@@ -16950,16 +16950,16 @@
       {
         "label": "Mon",
         "plays": 435,
-        "width_pct": 91
+        "width_pct": 92
       },
       {
         "label": "Tue",
         "plays": 335,
-        "width_pct": 70
+        "width_pct": 71
       },
       {
         "label": "Wed",
-        "plays": 476,
+        "plays": 475,
         "width_pct": 100
       },
       {
@@ -16969,7 +16969,7 @@
       },
       {
         "label": "Fri",
-        "plays": 393,
+        "plays": 394,
         "width_pct": 83
       },
       {
@@ -17001,20 +17001,20 @@
         "plays": 59
       },
       {
-        "id": "3Wjb9LujZhkRya23MOeTEw",
-        "name": "maybe",
-        "artist": "aidn., doug suh",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
-        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw",
-        "plays": 52
-      },
-      {
         "id": "1zBdEt1NKs2Nc0VKxT21Zn",
         "name": "1",
         "artist": "nate sib",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2735454d83c1797f90c33c36457",
         "url": "https://open.spotify.com/track/1zBdEt1NKs2Nc0VKxT21Zn",
         "plays": 52
+      },
+      {
+        "id": "3Wjb9LujZhkRya23MOeTEw",
+        "name": "maybe",
+        "artist": "aidn., doug suh",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
+        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw",
+        "plays": 51
       },
       {
         "id": "5u0eNAp8riUKygaLJTe5YB",
@@ -17064,7 +17064,7 @@
       },
       {
         "name": "aidn.",
-        "plays": 100
+        "plays": 99
       },
       {
         "name": "underscores",
@@ -18000,6 +18000,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-20T11:42:31.701Z",
+        "id": "5hhv2mBCNoiWfRZmBzutW8",
+        "title": "Every Night",
+        "artist": "Lil Mosey",
+        "primary_artist": "Lil Mosey",
+        "duration_ms": 149991,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737aa54f905ae6c1e7f67020ea",
+        "url": "https://open.spotify.com/track/5hhv2mBCNoiWfRZmBzutW8"
+      },
       {
         "played_at": "2026-11-20T01:03:56.604Z",
         "id": "4WKUmjoUeYkzyoEvTbiVdW",
@@ -42982,16 +42992,6 @@
       },
       {
         "played_at": "2026-09-16T22:07:21.303Z",
-        "id": "3Wjb9LujZhkRya23MOeTEw",
-        "title": "maybe",
-        "artist": "aidn., doug suh",
-        "primary_artist": "aidn.",
-        "duration_ms": 143111,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
-        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
-      },
-      {
-        "played_at": "2026-09-16T20:45:49.393Z",
         "id": "3Wjb9LujZhkRya23MOeTEw",
         "title": "maybe",
         "artist": "aidn., doug suh",
