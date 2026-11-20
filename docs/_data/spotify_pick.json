@@ -1,31 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 110-track mix spanning 70 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "0kVBGAMtUIeJQat1V7a861",
+    "name": "cloud",
+    "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+    "description": "A 19-track mix spanning 9 artists, led by Mac Miller, Kanye West, and Joji."
   },
   "track": {
-    "id": "5XY1nWnaGz5pqk8ZrhgQpw",
-    "name": "bluetooth",
+    "id": "393MDhe62s8hbH8ETrlxe5",
+    "name": "Mr. Rager",
     "artists": [
-      "piri & tommy",
-      "piri",
-      "Tommy Villiers"
+      "Kid Cudi"
     ],
-    "artist_label": "piri & tommy, piri, Tommy Villiers",
-    "url": "https://open.spotify.com/track/5XY1nWnaGz5pqk8ZrhgQpw",
-    "embed_url": "https://open.spotify.com/embed/track/5XY1nWnaGz5pqk8ZrhgQpw?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27391b517ea4cf8042feadb9d89",
+    "artist_label": "Kid Cudi",
+    "url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5",
+    "embed_url": "https://open.spotify.com/embed/track/393MDhe62s8hbH8ETrlxe5?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815",
     "album": {
-      "id": "3xVATlIyBxFu2g97TJ1oui",
-      "name": "bluetooth",
-      "url": "https://open.spotify.com/album/3xVATlIyBxFu2g97TJ1oui"
+      "id": "08eM9GRdr5BCCHNqS3Wwud",
+      "name": "Man On The Moon II: The Legend Of Mr. Rager",
+      "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
     }
   }
 }
