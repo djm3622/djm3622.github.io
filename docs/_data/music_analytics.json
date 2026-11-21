@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 317,
       "sampled_tracks": 317,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -16798,8 +16798,8 @@
     "distinct_tracks": 769,
     "distinct_artists": 368,
     "history_start": "2026-09-17",
-    "history_end": "2026-11-20",
-    "last_played_at": "2026-11-20T22:09:35.872Z",
+    "history_end": "2026-11-21",
+    "last_played_at": "2026-11-21T08:19:53.688Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16822,8 +16822,8 @@
       {
         "hour": 3,
         "label": "3 AM",
-        "plays": 1,
-        "height_pct": 0
+        "plays": 2,
+        "height_pct": 1
       },
       {
         "hour": 4,
@@ -16912,7 +16912,7 @@
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 294,
+        "plays": 293,
         "height_pct": 100
       },
       {
@@ -16964,7 +16964,7 @@
       },
       {
         "label": "Thu",
-        "plays": 441,
+        "plays": 440,
         "width_pct": 95
       },
       {
@@ -16974,7 +16974,7 @@
       },
       {
         "label": "Sat",
-        "plays": 232,
+        "plays": 233,
         "width_pct": 50
       },
       {
@@ -17046,7 +17046,7 @@
         "artist": "aidn., doug suh",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
         "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw",
-        "plays": 44
+        "plays": 43
       }
     ],
     "recent_top_artists": [
@@ -17064,7 +17064,7 @@
       },
       {
         "name": "aidn.",
-        "plays": 93
+        "plays": 92
       },
       {
         "name": "underscores",
@@ -17223,6 +17223,14 @@
         },
         {
           "rank": 18,
+          "id": "11ozIUBoXAgRTVWelDn4pL",
+          "name": "Lights",
+          "artist": "Ellie Goulding",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27391538eb04634de568637b8be",
+          "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
+        },
+        {
+          "rank": 19,
           "id": "55rXApL8KBessVIpJpH4Fw",
           "name": "ego",
           "artist": "2hollis",
@@ -17230,20 +17238,12 @@
           "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "id": "6FE2iI43OZnszFLuLtvvmg",
           "name": "Classic",
           "artist": "MKTO",
           "image_url": "https://i.scdn.co/image/ab67616d0000b2739474419f15773875a495eed3",
           "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-        },
-        {
-          "rank": 20,
-          "id": "11ozIUBoXAgRTVWelDn4pL",
-          "name": "Lights",
-          "artist": "Ellie Goulding",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27391538eb04634de568637b8be",
-          "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
         }
       ],
       "six_months": [
@@ -17659,17 +17659,17 @@
         },
         {
           "rank": 13,
-          "id": "4MCBfE4596Uoi2O4DtmEMz",
-          "name": "Juice WRLD",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "rank": 14,
           "id": "711MCceyCBcFnzjGY4Q7Un",
           "name": "AC/DC",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37",
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        },
+        {
+          "rank": 14,
+          "id": "4MCBfE4596Uoi2O4DtmEMz",
+          "name": "Juice WRLD",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
           "rank": 15,
@@ -17836,24 +17836,24 @@
         },
         {
           "rank": 18,
+          "id": "711MCceyCBcFnzjGY4Q7Un",
+          "name": "AC/DC",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        },
+        {
+          "rank": 19,
           "id": "4cJKDGSv4Dz9QycXYmo565",
           "name": "glaive",
           "image_url": "https://i.scdn.co/image/ab6761610000e5ebf400be855a03bee882dc9dc3",
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "id": "26dSoYclwsYLMAKD3tpOr4",
           "name": "Britney Spears",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eba82576e3d9f02b310e15a262",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "rank": 20,
-          "id": "1HY2Jd0NmPuamShAr6KMms",
-          "name": "Lady Gaga",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
       "one_year": [
@@ -17950,17 +17950,17 @@
         },
         {
           "rank": 14,
-          "id": "7ITMCzIU9uII8gwRg8JAhc",
-          "name": "Odetari",
-          "image_url": "https://i.scdn.co/image/ab6761610000e5eba07d569bd8058b34142ded86",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "rank": 15,
           "id": "4MCBfE4596Uoi2O4DtmEMz",
           "name": "Juice WRLD",
           "image_url": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "rank": 15,
+          "id": "7ITMCzIU9uII8gwRg8JAhc",
+          "name": "Odetari",
+          "image_url": "https://i.scdn.co/image/ab6761610000e5eba07d569bd8058b34142ded86",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         },
         {
           "rank": 16,
@@ -18000,6 +18000,16 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-21T08:19:53.688Z",
+        "id": "08mG3Y1vljYA6bvDt4Wqkj",
+        "title": "Back In Black",
+        "artist": "AC/DC",
+        "primary_artist": "AC/DC",
+        "duration_ms": 256000,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
+        "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+      },
       {
         "played_at": "2026-11-20T22:09:35.872Z",
         "id": "07q0QVgO56EorrSGHC48y3",
@@ -42989,16 +42999,6 @@
         "duration_ms": 64000,
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee",
         "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
-      },
-      {
-        "played_at": "2026-09-17T22:59:24.141Z",
-        "id": "3Wjb9LujZhkRya23MOeTEw",
-        "title": "maybe",
-        "artist": "aidn., doug suh",
-        "primary_artist": "aidn.",
-        "duration_ms": 143111,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb502e70e3bdef83cadbee3",
-        "url": "https://open.spotify.com/track/3Wjb9LujZhkRya23MOeTEw"
       }
     ]
   }
