@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "0kVBGAMtUIeJQat1V7a861",
-    "name": "cloud",
-    "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
-    "description": "A 19-track mix spanning 9 artists, led by Mac Miller, Kanye West, and Joji."
+    "id": "1K3uznQ2lcsxnDk0MMQDZB",
+    "name": "zeke",
+    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+    "description": "A 110-track mix spanning 70 artists, led by PinkPantheress, piri, and Tommy Villiers."
   },
   "track": {
-    "id": "393MDhe62s8hbH8ETrlxe5",
-    "name": "Mr. Rager",
+    "id": "0fmhFLKEqyjxob7g7R0TUK",
+    "name": "ur face",
     "artists": [
-      "Kid Cudi"
+      "Ella Rosa"
     ],
-    "artist_label": "Kid Cudi",
-    "url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5",
-    "embed_url": "https://open.spotify.com/embed/track/393MDhe62s8hbH8ETrlxe5?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815",
+    "artist_label": "Ella Rosa",
+    "url": "https://open.spotify.com/track/0fmhFLKEqyjxob7g7R0TUK",
+    "embed_url": "https://open.spotify.com/embed/track/0fmhFLKEqyjxob7g7R0TUK?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2731603d907a3f91385905b1d78",
     "album": {
-      "id": "08eM9GRdr5BCCHNqS3Wwud",
-      "name": "Man On The Moon II: The Legend Of Mr. Rager",
-      "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+      "id": "04rtGQSAAtMzKsa0AZfGT3",
+      "name": "anxious attachment style",
+      "url": "https://open.spotify.com/album/04rtGQSAAtMzKsa0AZfGT3"
     }
   }
 }
