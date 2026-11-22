@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "1K3uznQ2lcsxnDk0MMQDZB",
-    "name": "zeke",
-    "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
-    "description": "A 110-track mix spanning 70 artists, led by PinkPantheress, piri, and Tommy Villiers."
+    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
+    "name": "johto",
+    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
   },
   "track": {
-    "id": "0fmhFLKEqyjxob7g7R0TUK",
-    "name": "ur face",
+    "id": "79ADanDPMKL9FdjJmdtNj5",
+    "name": "II. Worldstar",
     "artists": [
-      "Ella Rosa"
+      "Childish Gambino"
     ],
-    "artist_label": "Ella Rosa",
-    "url": "https://open.spotify.com/track/0fmhFLKEqyjxob7g7R0TUK",
-    "embed_url": "https://open.spotify.com/embed/track/0fmhFLKEqyjxob7g7R0TUK?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2731603d907a3f91385905b1d78",
+    "artist_label": "Childish Gambino",
+    "url": "https://open.spotify.com/track/79ADanDPMKL9FdjJmdtNj5",
+    "embed_url": "https://open.spotify.com/embed/track/79ADanDPMKL9FdjJmdtNj5?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c",
     "album": {
-      "id": "04rtGQSAAtMzKsa0AZfGT3",
-      "name": "anxious attachment style",
-      "url": "https://open.spotify.com/album/04rtGQSAAtMzKsa0AZfGT3"
+      "id": "4GNIhgEGXzWGAefgN5qjdU",
+      "name": "Because the Internet",
+      "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
     }
   }
 }
