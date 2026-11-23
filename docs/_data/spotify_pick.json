@@ -1,29 +1,29 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "44j4M8lvi3YrO6Q1xzWZ6W",
-    "name": "johto",
-    "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
-    "description": "A 12-track mix spanning 6 artists, led by Childish Gambino, Azealia Banks, and Jhen\u00e9 Aiko."
+    "id": "6NDe4f42HlR8RJVhXn1ZCH",
+    "name": "he on something",
+    "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+    "description": "A 25-track mix spanning 10 artists, led by Lil Uzi Vert, Pharrell Williams, and Oh Wonder."
   },
   "track": {
-    "id": "79ADanDPMKL9FdjJmdtNj5",
-    "name": "II. Worldstar",
+    "id": "55Q46o5adtSobImSKrrlqW",
+    "name": "Top",
     "artists": [
-      "Childish Gambino"
+      "Lil Uzi Vert"
     ],
-    "artist_label": "Childish Gambino",
-    "url": "https://open.spotify.com/track/79ADanDPMKL9FdjJmdtNj5",
-    "embed_url": "https://open.spotify.com/embed/track/79ADanDPMKL9FdjJmdtNj5?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c",
+    "artist_label": "Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/55Q46o5adtSobImSKrrlqW",
+    "embed_url": "https://open.spotify.com/embed/track/55Q46o5adtSobImSKrrlqW?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736b9e2cd3c76bc7e3c1c52f95",
     "album": {
-      "id": "4GNIhgEGXzWGAefgN5qjdU",
-      "name": "Because the Internet",
-      "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
+      "id": "5WrbKW1nRN4vSsu70uizxX",
+      "name": "Luv Is Rage",
+      "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX"
     }
   }
 }
