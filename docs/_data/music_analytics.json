@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-11-23",
+  "generated_on": "2026-11-24",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -27,7 +27,7 @@
       "name": "illumi",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
       "total_tracks": 317,
       "sampled_tracks": 317,
       "sample_coverage_pct": 100.0,
@@ -63,7 +63,7 @@
       "name": "92.3",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/4gzEOrF8mCDu96BCLdwDya",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8426d4c3a77fc6303cbe7c31ad",
       "total_tracks": 110,
       "sampled_tracks": 110,
       "sample_coverage_pct": 100.0,
@@ -81,7 +81,7 @@
       "name": "void",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/38PmYBLrKbhBUlywggIVkP",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845aecdf088fdbb79ab6fe31a0",
       "total_tracks": 27,
       "sampled_tracks": 27,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -135,7 +135,7 @@
       "name": "yeatpilled",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1BXO1VOQIBiYkHtGtopfwS",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8455f1ef1b079c0c2563a99345",
       "total_tracks": 86,
       "sampled_tracks": 86,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -207,7 +207,7 @@
       "name": "johto",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/44j4M8lvi3YrO6Q1xzWZ6W",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847d099521ed3d0f33b8d1c1a2",
       "total_tracks": 12,
       "sampled_tracks": 12,
       "sample_coverage_pct": 100.0,
@@ -243,7 +243,7 @@
       "name": "flamed",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
       "total_tracks": 50,
       "sampled_tracks": 50,
       "sample_coverage_pct": 100.0,
@@ -17475,14 +17475,6 @@
         },
         {
           "rank": 6,
-          "id": "1Es7AUAhQvapIcoh3qMKDL",
-          "name": "Timeless (feat. Playboi Carti)",
-          "artist": "The Weeknd, Playboi Carti",
-          "image_url": "https://i.scdn.co/image/ab67616d0000b27358cd6595ed970f6862906ab8",
-          "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-        },
-        {
-          "rank": 7,
           "id": "1KRZrgvPhUt0HbIdDQZJ0S",
           "name": "Irish Goodbye",
           "artist": "Lil Tecca",
@@ -17490,7 +17482,7 @@
           "url": "https://open.spotify.com/track/1KRZrgvPhUt0HbIdDQZJ0S"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "id": "26QJuQfM8PVAWkIm1JRyqq",
           "name": "ss",
           "artist": "Ken Carson",
@@ -17498,7 +17490,7 @@
           "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "id": "0GbDC9T17mriUsfaSyt3DZ",
           "name": "WHAT U NEED",
           "artist": "void, BABY BOI",
@@ -17506,7 +17498,7 @@
           "url": "https://open.spotify.com/track/0GbDC9T17mriUsfaSyt3DZ"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "id": "6hxowqRsDm1fsm00y2eHJP",
           "name": "sidekick",
           "artist": "2hollis",
@@ -17514,7 +17506,7 @@
           "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "id": "2h7vLf7jv2KsRb7fV77w5H",
           "name": "crush",
           "artist": "2hollis",
@@ -17522,7 +17514,7 @@
           "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "1a4RUUKHH1xkDq0hbuWKhw",
           "name": "zehnvonzehn",
           "artist": "franz1",
@@ -17530,7 +17522,7 @@
           "url": "https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "id": "0YVolQ5yrWetHWaaf78Y5f",
           "name": "Soulja",
           "artist": "Lil Mosey",
@@ -17538,7 +17530,7 @@
           "url": "https://open.spotify.com/track/0YVolQ5yrWetHWaaf78Y5f"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "id": "55rXApL8KBessVIpJpH4Fw",
           "name": "ego",
           "artist": "2hollis",
@@ -17546,7 +17538,7 @@
           "url": "https://open.spotify.com/track/55rXApL8KBessVIpJpH4Fw"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "id": "3IM6Cc6bK88qFYXrF8wh8t",
           "name": "TASTE",
           "artist": "Lil Tecca",
@@ -17554,7 +17546,7 @@
           "url": "https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "id": "3UsJUXvHb7qz4GiQtEc4a4",
           "name": "keep steady",
           "artist": "sosocamo",
@@ -17562,7 +17554,7 @@
           "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "id": "5u0eNAp8riUKygaLJTe5YB",
           "name": "nerve",
           "artist": "2hollis",
@@ -17570,7 +17562,7 @@
           "url": "https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "id": "6rjuKpPydT2SxN15TZpV7r",
           "name": "500lbs",
           "artist": "Lil Tecca",
@@ -17578,7 +17570,7 @@
           "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "id": "79IgD1wf3xltQdDK3l5Why",
           "name": "In My Room",
           "artist": "Julia Wolf",
@@ -17586,12 +17578,20 @@
           "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "id": "3GDxQBr7aghzWH0kA0N8yk",
           "name": "Batman",
           "artist": "mikeeysmind, dadanny",
           "image_url": "https://i.scdn.co/image/ab67616d0000b273fc56c1a5c921ab0cb6f30987",
           "url": "https://open.spotify.com/track/3GDxQBr7aghzWH0kA0N8yk"
+        },
+        {
+          "rank": 20,
+          "id": "1Es7AUAhQvapIcoh3qMKDL",
+          "name": "Timeless (feat. Playboi Carti)",
+          "artist": "The Weeknd, Playboi Carti",
+          "image_url": "https://i.scdn.co/image/ab67616d0000b27358cd6595ed970f6862906ab8",
+          "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
         }
       ]
     },
