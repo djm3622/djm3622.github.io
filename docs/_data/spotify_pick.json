@@ -1,29 +1,31 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "27edqSuOsVHom5TGPrtpy7",
-    "name": "flamed",
-    "url": "https://open.spotify.com/playlist/27edqSuOsVHom5TGPrtpy7",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ca514d011af887e166208c56",
-    "description": "A 50-track mix spanning 56 artists, led by Chief Keef, Kodak Black, and Lil Yachty."
+    "id": "7MW7sGh5LeEQPjDreDZPw2",
+    "name": "bobby ray",
+    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
+    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
   },
   "track": {
-    "id": "40yJGQyEaBbIkXpwMFkXip",
-    "name": "One Night",
+    "id": "5uqphUYsR45kPYplrYSAQh",
+    "name": "Throw Sum Mo",
     "artists": [
-      "Lil Yachty"
+      "Rae Sremmurd",
+      "Nicki Minaj",
+      "Young Thug"
     ],
-    "artist_label": "Lil Yachty",
-    "url": "https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip",
-    "embed_url": "https://open.spotify.com/embed/track/40yJGQyEaBbIkXpwMFkXip?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375",
+    "artist_label": "Rae Sremmurd, Nicki Minaj, Young Thug",
+    "url": "https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh",
+    "embed_url": "https://open.spotify.com/embed/track/5uqphUYsR45kPYplrYSAQh?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460",
     "album": {
-      "id": "4bJqW1SBOvsfcEzZwsjdjx",
-      "name": "Lil Boat",
-      "url": "https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx"
+      "id": "6eDx949ONWDCN0O22wFZf7",
+      "name": "SremmLife",
+      "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
     }
   }
 }
