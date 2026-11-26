@@ -1,31 +1,31 @@
 {
   "schema_version": 3,
   "enabled": true,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "playlist_pool_hash": "2df553059d2de305",
   "playlist": {
-    "id": "7MW7sGh5LeEQPjDreDZPw2",
-    "name": "bobby ray",
-    "url": "https://open.spotify.com/playlist/7MW7sGh5LeEQPjDreDZPw2",
-    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f9b54fa8bd58c17cb4ddc63",
-    "description": "A 10-track mix spanning 7 artists, led by Rae Sremmurd, Gucci Mane, and Swae Lee."
+    "id": "5IvibMktz0TzHg6JyIXzSm",
+    "name": "illumi",
+    "url": "https://open.spotify.com/playlist/5IvibMktz0TzHg6JyIXzSm",
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84afb44b01a3d32c32793567d3",
+    "description": "A 317-track mix spanning 234 artists, led by Yameii Online, siouxxie sixxsta, and DVRST."
   },
   "track": {
-    "id": "5uqphUYsR45kPYplrYSAQh",
-    "name": "Throw Sum Mo",
+    "id": "1kZ0HVCcWP14ksZDzk2G0q",
+    "name": "SO TIRED 2",
     "artists": [
-      "Rae Sremmurd",
-      "Nicki Minaj",
-      "Young Thug"
+      "NUEKI",
+      "TOLCHONOV",
+      "DJ Paul"
     ],
-    "artist_label": "Rae Sremmurd, Nicki Minaj, Young Thug",
-    "url": "https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh",
-    "embed_url": "https://open.spotify.com/embed/track/5uqphUYsR45kPYplrYSAQh?utm_source=generator",
-    "image_url": "https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460",
+    "artist_label": "NUEKI, TOLCHONOV, DJ Paul",
+    "url": "https://open.spotify.com/track/1kZ0HVCcWP14ksZDzk2G0q",
+    "embed_url": "https://open.spotify.com/embed/track/1kZ0HVCcWP14ksZDzk2G0q?utm_source=generator",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2733bdf55b38c10efdabd0757ce",
     "album": {
-      "id": "6eDx949ONWDCN0O22wFZf7",
-      "name": "SremmLife",
-      "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
+      "id": "2NCPiJWNMjw6ca2TK5V13V",
+      "name": "SO TIRED 2",
+      "url": "https://open.spotify.com/album/2NCPiJWNMjw6ca2TK5V13V"
     }
   }
 }
