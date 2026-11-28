@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-11-27",
+  "generated_on": "2026-11-28",
   "methodology": {
     "source": "authenticated_spotify_api",
     "playlist_count": 13,
@@ -45,7 +45,7 @@
       "name": "zeke",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1K3uznQ2lcsxnDk0MMQDZB",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d6170f553e7eaddb0ebc5c6d",
       "total_tracks": 111,
       "sampled_tracks": 111,
       "sample_coverage_pct": 100.0,
@@ -99,7 +99,7 @@
       "name": "he on something",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/6NDe4f42HlR8RJVhXn1ZCH",
-      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
+      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da840052d3a0a92ae63e026b40c9",
       "total_tracks": 25,
       "sampled_tracks": 25,
       "sample_coverage_pct": 100.0,
@@ -117,7 +117,7 @@
       "name": "lucio",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1ulWy0m2PhTsQvCQi3o4Fu",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84946e639be474af24f7f8c614",
       "total_tracks": 36,
       "sampled_tracks": 36,
       "sample_coverage_pct": 100.0,
@@ -153,7 +153,7 @@
       "name": "calm luh",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/7p4fxMRZCuY6ZtNeu99vbK",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434125c1fd00ce0a0db9f2620",
       "total_tracks": 37,
       "sampled_tracks": 37,
       "sample_coverage_pct": 100.0,
@@ -171,7 +171,7 @@
       "name": "this u?",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/1LmRGDRZzF0xsVaRezQTBn",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845140cc702a01b71375c44834",
       "total_tracks": 66,
       "sampled_tracks": 66,
       "sample_coverage_pct": 100.0,
@@ -225,7 +225,7 @@
       "name": "cloud",
       "owner": "ppdunder",
       "url": "https://open.spotify.com/playlist/0kVBGAMtUIeJQat1V7a861",
-      "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460bdfc921c91c2a507d73c50",
       "total_tracks": 19,
       "sampled_tracks": 19,
       "sample_coverage_pct": 100.0,
@@ -9895,7 +9895,7 @@
       "explicit": false,
       "image_url": "https://i.scdn.co/image/ab67616d0000b2731c8193de8d62b2ffa49a09db",
       "playcount": null,
-      "recent_play_count": 3
+      "recent_play_count": 4
     },
     {
       "id": "5i9EWyLbU0OsReTlKt7qEI",
@@ -16905,11 +16905,11 @@
     "history_days": 90,
     "captured_plays": 2500,
     "captured_hours": 122.5,
-    "distinct_tracks": 771,
-    "distinct_artists": 367,
+    "distinct_tracks": 769,
+    "distinct_artists": 365,
     "history_start": "2026-09-20",
-    "history_end": "2026-11-26",
-    "last_played_at": "2026-11-26T23:20:34.457Z",
+    "history_end": "2026-11-28",
+    "last_played_at": "2026-11-28T00:21:57.668Z",
     "hour_bins": [
       {
         "hour": 0,
@@ -16992,8 +16992,8 @@
       {
         "hour": 13,
         "label": "1 PM",
-        "plays": 229,
-        "height_pct": 77
+        "plays": 223,
+        "height_pct": 75
       },
       {
         "hour": 14,
@@ -17022,14 +17022,14 @@
       {
         "hour": 18,
         "label": "6 PM",
-        "plays": 297,
+        "plays": 298,
         "height_pct": 100
       },
       {
         "hour": 19,
         "label": "7 PM",
-        "plays": 224,
-        "height_pct": 75
+        "plays": 228,
+        "height_pct": 77
       },
       {
         "hour": 20,
@@ -17052,7 +17052,7 @@
       {
         "hour": 23,
         "label": "11 PM",
-        "plays": 41,
+        "plays": 42,
         "height_pct": 14
       }
     ],
@@ -17074,13 +17074,13 @@
       },
       {
         "label": "Thu",
-        "plays": 442,
+        "plays": 443,
         "width_pct": 94
       },
       {
         "label": "Fri",
-        "plays": 376,
-        "width_pct": 80
+        "plays": 381,
+        "width_pct": 81
       },
       {
         "label": "Sat",
@@ -17089,8 +17089,8 @@
       },
       {
         "label": "Sun",
-        "plays": 172,
-        "width_pct": 37
+        "plays": 166,
+        "width_pct": 35
       }
     ],
     "recent_top_tracks": [
@@ -17103,19 +17103,19 @@
         "plays": 56
       },
       {
-        "id": "19zMOwWhd7wQ2hhyUI1ey9",
-        "name": "ex",
-        "artist": "onlywoke",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
-        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9",
-        "plays": 55
-      },
-      {
         "id": "5q8zJJrGLOYlYY2Sfuncjg",
         "name": "TURNING LOVE",
         "artist": "TWXNY, INNXCENCE",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27361bd629b503beae7ca55a72e",
         "url": "https://open.spotify.com/track/5q8zJJrGLOYlYY2Sfuncjg",
+        "plays": 53
+      },
+      {
+        "id": "19zMOwWhd7wQ2hhyUI1ey9",
+        "name": "ex",
+        "artist": "onlywoke",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
+        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9",
         "plays": 53
       },
       {
@@ -17162,11 +17162,11 @@
     "recent_top_artists": [
       {
         "name": "2hollis",
-        "plays": 413
+        "plays": 418
       },
       {
         "name": "Westwood",
-        "plays": 145
+        "plays": 144
       },
       {
         "name": "nate sib",
@@ -17190,7 +17190,7 @@
       },
       {
         "name": "onlywoke",
-        "plays": 55
+        "plays": 53
       }
     ],
     "top_tracks": {
@@ -18110,6 +18110,66 @@
       ]
     },
     "recent_plays": [
+      {
+        "played_at": "2026-11-28T00:21:57.668Z",
+        "id": "0laYHRpNTS6i8FXdupHkJ4",
+        "title": "Love You Like A Love Song",
+        "artist": "Selena Gomez & The Scene",
+        "primary_artist": "Selena Gomez & The Scene",
+        "duration_ms": 188453,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731c8193de8d62b2ffa49a09db",
+        "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
+      },
+      {
+        "played_at": "2026-11-28T00:09:09.977Z",
+        "id": "0Gz4Q1Bmyef5yA0G6LIIQZ",
+        "title": "poster boy",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 121089,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c",
+        "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+      },
+      {
+        "played_at": "2026-11-28T00:05:47.529Z",
+        "id": "2h7vLf7jv2KsRb7fV77w5H",
+        "title": "crush",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 146225,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H"
+      },
+      {
+        "played_at": "2026-11-28T00:03:21.304Z",
+        "id": "7iBRnYx1CRQ1H6drgplfjR",
+        "title": "sister",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 215813,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/7iBRnYx1CRQ1H6drgplfjR"
+      },
+      {
+        "played_at": "2026-11-27T23:59:45.479Z",
+        "id": "2kWOfoDtiLM6ONlmOecg2O",
+        "title": "two bad",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 214761,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/2kWOfoDtiLM6ONlmOecg2O"
+      },
+      {
+        "played_at": "2026-11-27T04:15:06.970Z",
+        "id": "2h7vLf7jv2KsRb7fV77w5H",
+        "title": "crush",
+        "artist": "2hollis",
+        "primary_artist": "2hollis",
+        "duration_ms": 146225,
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+        "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H"
+      },
       {
         "played_at": "2026-11-26T23:20:34.457Z",
         "id": "7iBRnYx1CRQ1H6drgplfjR",
@@ -43049,66 +43109,6 @@
         "duration_ms": 115062,
         "image_url": "https://i.scdn.co/image/ab67616d0000b27365145b046dd4dec34b39c531",
         "url": "https://open.spotify.com/track/0By2Hv39eiKHWjxWElxEg8"
-      },
-      {
-        "played_at": "2026-09-20T17:52:04.604Z",
-        "id": "5iUXWWOif8AwnbzbWdLVbF",
-        "title": "faith",
-        "artist": "jayya, Shadx2",
-        "primary_artist": "jayya",
-        "duration_ms": 185890,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273a9c8966acd6b72263377e1f5",
-        "url": "https://open.spotify.com/track/5iUXWWOif8AwnbzbWdLVbF"
-      },
-      {
-        "played_at": "2026-09-20T17:48:58.128Z",
-        "id": "54zg6WTw71oS5tBIsgIdpN",
-        "title": "Deevious",
-        "artist": "Deevs",
-        "primary_artist": "Deevs",
-        "duration_ms": 110769,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273039a8d8754712813bc1b65ea",
-        "url": "https://open.spotify.com/track/54zg6WTw71oS5tBIsgIdpN"
-      },
-      {
-        "played_at": "2026-09-20T17:43:25.216Z",
-        "id": "19zMOwWhd7wQ2hhyUI1ey9",
-        "title": "ex",
-        "artist": "onlywoke",
-        "primary_artist": "onlywoke",
-        "duration_ms": 135407,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
-        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
-      },
-      {
-        "played_at": "2026-09-20T17:38:19.652Z",
-        "id": "6kls8cSlUyHW2BUOkDJIZE",
-        "title": "Hate Me (with Juice WRLD)",
-        "artist": "Ellie Goulding, Juice WRLD",
-        "primary_artist": "Ellie Goulding",
-        "duration_ms": 186223,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273dc854e032e8588d5e75eebc6",
-        "url": "https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE"
-      },
-      {
-        "played_at": "2026-09-20T17:33:09.925Z",
-        "id": "19zMOwWhd7wQ2hhyUI1ey9",
-        "title": "ex",
-        "artist": "onlywoke",
-        "primary_artist": "onlywoke",
-        "duration_ms": 135407,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7021594506c00f82bfded3",
-        "url": "https://open.spotify.com/track/19zMOwWhd7wQ2hhyUI1ey9"
-      },
-      {
-        "played_at": "2026-09-20T17:30:39.970Z",
-        "id": "73ck4TGQSxatW45NG0GpVs",
-        "title": "Get There",
-        "artist": "Westwood, pryme!",
-        "primary_artist": "Westwood",
-        "duration_ms": 199700,
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273850c78db7d1f81644bf457be",
-        "url": "https://open.spotify.com/track/73ck4TGQSxatW45NG0GpVs"
       }
     ]
   }
